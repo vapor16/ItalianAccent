@@ -56,7 +56,7 @@ def test_no_duplicates_within_files(v):
         for f, key in [("lexicon.json", "term"), ("proverbs.json", "original"), ("profanity.json", "original")]:
             seen = set()
             for e in _entries(d, f):
-                k = v.normalize(e[key])
+                k = v.normalize(e[key]) + "|" + v.normalize(e.get("part_of_speech", ""))
                 assert k not in seen, f"{d.name}/{f}: duplicate {e[key]}"
                 seen.add(k)
 

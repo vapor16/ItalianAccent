@@ -198,7 +198,8 @@ def validate_profile(pid: str, rep: Report, catalog_entry: dict | None = None, s
                 rep.err(f"{pid}/{fname}: duplicate id {eid}")
             ids.add(eid)
             text = entry.get("term") or entry.get("original") or ""
-            k = normalize(text)
+            # homographs are allowed when the part of speech differs
+            k = normalize(text) + "|" + normalize(entry.get("part_of_speech", ""))
             if k in keys:
                 rep.err(f"{pid}/{fname}: duplicate entry '{text}' ({keys[k]} / {eid})")
             keys[k] = eid
@@ -215,7 +216,7 @@ def validate_profile(pid: str, rep: Report, catalog_entry: dict | None = None, s
         txt = (pdir / "profile.md").read_text(encoding="utf-8")
         if len(txt.splitlines()) < 60:
             rep.warn(f"{pid}/profile.md is very short ({len(txt.splitlines())} lines)")
-        if re.search(r"\b\w\*{2,}\w?", txt):
+        if re.search(r"[A-Za-zÀ-ÿ]\*+[A-Za-zÀ-ÿ]", txt):
             rep.err(f"{pid}/profile.md contains asterisk-censored words")
 
 
@@ -333,15 +334,77 @@ def build_zip() -> Path:
     return out
 
 
+def integrate(pid: str) -> list[str]:
+    """Merge research/raw/<pid>-sources.json into the registry, write sources.md, sync catalog from metadata."""
+    notes = []
+    pdir = DIALECTS / pid
+    reg = load_json(SOURCES_FILE)
+    by_id = {s["id"]: s for s in reg["sources"]}
+    raw = ROOT / "research" / "raw" / f"{pid}-sources.json"
+    if raw.exists():
+        for s in load_json(raw).get("sources", []):
+            s = dict(s)
+            if s["id"] in by_id:
+                used = set(by_id[s["id"]].get("used_by", [])) | {pid}
+                by_id[s["id"]]["used_by"] = sorted(used)
+                continue
+            s["used_by"] = sorted(set(s.get("used_by", [])) | {pid})
+            by_id[s["id"]] = s
+            notes.append(f"added source {s['id']}")
+    reg["sources"] = sorted(by_id.values(), key=lambda s: s["id"])
+    SOURCES_FILE.write_text(json.dumps(reg, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    meta = load_json(pdir / "metadata.json")
+    used = set(meta.get("sources", []))
+    for fname in COLLECTIONS:
+        if (pdir / fname).exists():
+            for e in load_json(pdir / fname)["entries"]:
+                used |= set(e.get("sources", []))
+    lines = [f"# Sources — {meta['display_name']} ({meta.get('geographical_area') or meta['region']})", "",
+             "Generated from `research/sources.json` by `scripts/validate.py --integrate`. "
+             "Meanings and annotations in this profile are original; sources are cited, not copied.", "",
+             "| ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |",
+             "|---|---|---|---|---|---|---|"]
+    for sid in sorted(used):
+        s = by_id.get(sid)
+        if not s:
+            notes.append(f"WARNING unknown source {sid}")
+            continue
+        who = " / ".join(x for x in [s.get("author", ""), s.get("publisher", "")] if x)
+        lines.append(f"| `{sid}` | {s['title']} | {who} | {s['source_type']} | {s['reliability']} | "
+                     f"{s['license']} ({s['redistribution']}) | <{s['url']}> |")
+    lines += ["", f"Access date of all sources: see `research/sources.json` (`access_date`).", ""]
+    (pdir / "sources.md").write_text("\n".join(lines), encoding="utf-8")
+    meta["sources"] = sorted(used & set(by_id))
+    (pdir / "metadata.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    cat_path = REFS / "catalog.json"
+    cat = load_json(cat_path)
+    for m in cat["modes"]:
+        if m["id"] == pid:
+            m["maturity"], m["available"] = meta["maturity"], meta["available"]
+            m["display_name"] = meta["display_name"]
+            m["path"] = f"references/dialects/{pid}/"
+    cat_path.write_text(json.dumps(cat, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return notes
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--profile")
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--zip", action="store_true")
+    ap.add_argument("--integrate", metavar="ID")
     a = ap.parse_args()
     if a.stats:
         print(stats())
         return 0
+    if a.integrate:
+        for n in integrate(a.integrate):
+            print(n)
+        rep = Report()
+        validate_profile(a.integrate, rep)
+        for e in rep.errors:
+            print(f"ERROR {e}")
+        return 1 if rep.errors else 0
     if a.zip:
         print(build_zip())
         return 0
