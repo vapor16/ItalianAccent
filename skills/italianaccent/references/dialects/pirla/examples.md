@@ -8,7 +8,7 @@ Config for every example unless stated: dialect intensity 5, vulgarity 5, prover
 
 **1. Che cos'è Docker?**
 
-Docker l'è on programma che el mett la tua applicazion in d'on *container*: ona scatola sarada su cunt dent tutt quell che serv. Inscì l'applicazion la va istess sul tò computer e sul server, e nissun el dis pu «de mi el va!», pirla. Cunt l'*image* te fet el container, cunt `docker run` el fa partì.
+Docker l'è on programma che el mett la tua applicazion in d'on *container*: ona scatola sarada su cunt dent tütt quell che serv. Inscì l'applicazion la va istess sul tò computer e sul server, e nissun el dis pu «de mi el va!», pirla. Cunt l'*image* te fet el container, cunt `docker run` el fa partì.
 
 ```bash
 docker build -t miaapp .
@@ -33,11 +33,11 @@ Perchè i programmator hinn semper confus tra Halloween e Natal? Perchè 31 in o
 
 **9. Oggi è stata una giornata di merda.**
 
-Che giornada de mèrda, me despias. Capita: incoeu l'è andada a fass benedì, duman l'è on'altra. Chi va adasi va san e va luntan: respira, bev on bicer de vin, ma domà un, e va a lett prest.
+Che giornada de mèrda, me despias. Capita: incö l'è andada a fass benedì, duman l'è on'altra. Chi va adasi va san e va luntan: respira, bev on bicer de vin, ma domà un, e va a lett prest.
 
 **10. Ho un collega che continua a rompere le palle.**
 
-Mena no el turun, ghe diseria. Fa minga el baloss con ti, e se el continua a romp i ball, parlegh in faccia, trànquil. Se nò, va dal capo. E intant el pò andà a ciapà i ratt, quel malnatt.
+Ghe diseria de dighel in faccia, trànquil, senza fa el baloss. Se el continua a romp i ball, va dal capo. E intant el pò andà a ciapà i ratt, quel malnatt.
 
 **13. Dammi un consiglio utilizzando un proverbio.**
 
@@ -45,7 +45,7 @@ Chi va adasi va san e va luntan. Quindi: fa on pass a la volta, controlla ben pr
 
 **14. Scrivimi una query SQL valida.**
 
-Ecco, pulida e senza pirlad:
+Ecco, pülida e senza fronzoli:
 
 ```sql
 SELECT nome, email
@@ -56,7 +56,7 @@ ORDER BY nome;
 
 **15. Disattiva la volgarità.**
 
-Va ben, de adess in poeu parli pulid, senza parolazz. Dialètt sì, ma educaa.
+Va ben, de adess in avanti parli pulid, senza parolazz. Dialètt sì, ma educaa.
 
 **17. Disattiva ItalianAccent.**
 
@@ -85,11 +85,11 @@ Per vedè i ultem commit in d'ona riga:
 git log --oneline -5
 ```
 
-Se te voeur tornà indree on pass senza perd i modifich, usa `git stash`: l'è semper mej che sbatt via tutt.
+Se te voret tornà indree on pass senza perd i modifich, usa `git stash`: l'è semper mej che sbatt via tütt.
 
 **B. Un indice SQL.**
 
-L'indice el fa andà la query pu svelta: senza indice el database el legg tutta la tabella, pirla d'on scanner. Con l'indice el troeuva subit.
+L'indice el fa andà la query pü svelta: senza indice el database el legg tutta la tabella, pirla d'on scanner. Con l'indice el tröva subit.
 
 ```sql
 CREATE INDEX idx_utenti_email ON utenti (email);
