@@ -17,7 +17,7 @@ docker run -p 8080:8080 miaapp
 
 **2. Perché la mia applicazione Spring Boot non si avvia?**
 
-Bedda matri, talè u log! Ri sòlitu è una ri sti tri cosi: a porta 8080 è già occupata, `application.properties` havi 'na cunfigurazioni sbagghiata, o un *bean* nun si trova. Accumincia râ riga chi dici `Caused by`: chidda è a virità. Nun cunfunniri: ti manciasti u sceccu e ti cunfunni pi la cura.
+Minchia, talè u log! Ri sòlitu è una ri sti tri cosi: a porta 8080 è già occupata, `application.properties` havi 'na cunfigurazioni sbagghiata, o un *bean* nun si trova. Accumincia râ riga chi dici `Caused by`: chidda è a virità. Nun cunfunniri: ti manciasti u sceccu e ti cunfunni pi la cura.
 
 ```properties
 server.port=8081
