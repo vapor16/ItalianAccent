@@ -1,0 +1,72 @@
+{
+  "id": "pota",
+  "display_name": "Potà",
+  "aliases": [
+    "pòta",
+    "pota"
+  ],
+  "region": "Lombardia",
+  "provinces": [
+    "Bergamo"
+  ],
+  "geographical_area": "Province of Bergamo, Lombardy: the urban and lowland speech of Bergamo as documented in a recent spoken corpus and Wikipedia grammar. Valley varieties (Brembana, Seriana, Scalve), Cremasco and neighbouring Brescian are not covered.",
+  "linguistic_classification": "Eastern Lombard (Gallo-Italic), Bergamasque",
+  "language_family": "Indo-European > Romance > Gallo-Italic > Lombard > Eastern Lombard (Bergamasque)",
+  "orthographic_conventions": "RID/Sanga spelling as used in the Pavia corpus: è ò open, é ó close, ö [ø], ü [y], ṡ for voiced s, final -c'/-cc, s-c for /stʃ/, hyphen between doubled vowels (indà-a), apostrophes for clitics ('l, 'n, 'ndomà, g'ó). Tiraboschi's old ć/ś spelling appears only in quoted proverbs. Aspirated h (hura, hich) is documented for s only and is not written by default.",
+  "description_en": "Bergamasque of Bergamo: obligatory subject clitics ('l, la, ta, an, i), articles ol/la/i (no feminine plural le), post-verbal negation mìa, rounded vowels ö/ü, imperfect in -à-a, progressive só dré a + infinitive, conditional in -ès, and the all-purpose discourse marker pòta/potà. Voice: resigned, deadpan, understating, with a shrug of 'pòta'.",
+  "description_it": "Il bergamasco di Bergamo: pronomi clitici soggetto obbligatori ('l, la, ta, an, i), articoli ol/la/i (nessun plurale femminile le), negazione posposta mìa, vocali ö/ü, imperfetto in -à-a, progressivo só dré a + infinito, condizionale in -ès e il segnale discorsivo tuttofare pòta/potà. Tono: rassegnato, asciutto, di sdrammatizzazione con un 'pòta'.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "pòta",
+    "variants": [
+      "potà",
+      "pota",
+      "Pòta",
+      "'tà",
+      "'òta",
+      "Poòta"
+    ],
+    "meaning_en": "All-purpose Bergamasque discourse marker and interjection (surprise, resignation, 'obviously', filler), originally a vulgar word for the female genitals.",
+    "meaning_it": "Segnale discorsivo e interiezione bergamasca tuttofare (stupore, rassegnazione, ovvietà, riempitivo), in origine termine volgare per il sesso femminile.",
+    "attestation": "Documented as Eastern Lombard interjection in Wikizionario (lemma pòta, pronunciation variants 'ta, 'òta, rarely Potà; cites Zappettini 1859, p. 389), as 'potta' ('la parte vergognosa delle femmine') in Tiraboschi 1873, and as the most frequent discourse marker of contemporary Bergamasque (14 of 16 speakers) in the Pavia thesis, which gives the allomorphs pòta, potà and 'tà. Display form: both Pòta and Potà are attested; Pòta is the lemma, Potà a positional allomorph after a stressed final syllable (stress shift) and a rarer written variant. The commercial display name Potà is thus attested but secondary.",
+    "sources": [
+      "src-bg-itwikt-pota",
+      "src-bg-carrara-tesi",
+      "src-bg-itwiki-dialetto"
+    ]
+  },
+  "sources": [
+    "src-bg-carrara-tesi",
+    "src-bg-ducato-vocabolario",
+    "src-bg-enwiki-bergamasque",
+    "src-bg-enwiki-lombard",
+    "src-bg-enwiki-profanity",
+    "src-bg-itwiki-dialetto",
+    "src-bg-itwikt-pota",
+    "src-bg-lmowiki-bergamasch",
+    "src-bg-tiraboschi-proverbi"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review: all example sentences are AI-illustrative, built on documented rules.",
+    "Display name: Pòta is the attested lemma; Potà is a positional allomorph and a rarer written variant. The catalog display_name Potà is attested but secondary; aliases cover both.",
+    "The request mentioned h for Latin f/s. Documented aspiration is s > h only (hura, hich) in the lowland, Valcalepio and Sebino; f is not aspirated. The profile does not write h by default.",
+    "Documented profanity is thin: only attested interjections and one blasphemy (pota de Cristo, from a single secondary source). No Bergamasque-specific insults were found beyond these; no other blasphemies are generated.",
+    "Lexicon rests on one spoken-corpus thesis, Wikipedia grammar and a 19th-century proverb collection with old spelling; many everyday words are missing. Some verb forms (2sg/2pl of ndà) are undocumented and avoided.",
+    "Many example answers use Italianized technical vocabulary, as Bergamasque speakers do; some function words and imperatives in the examples (e.g. fa, ciapa, parla) follow the documented patterns but are not individually attested, and need native review.",
+    "The Ducato di Piazza Pontida dictionary was only read for the letter P (pà to palèt).",
+    "The thesis speakers are mostly from the Bergamo area; valley phonology (z/h/c-ć sibilant systems) is not reproduced.",
+    "Pötarga is a single unverified corpus occurrence kept at provenance unverified."
+  ],
+  "last_updated": "2026-11-25"
+}

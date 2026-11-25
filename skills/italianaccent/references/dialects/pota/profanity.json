@@ -1,0 +1,751 @@
+{
+  "dialect": "pota",
+  "entries": [
+    {
+      "id": "pota-int",
+      "original": "pòta",
+      "variants": [
+        "potà",
+        "'tà",
+        "'òta",
+        "Poòta"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "(vedi pota anatomico)",
+      "figurative_meaning": "interiezione tuttofare, di rassegnazione, ovvietà, stupore o riempitivo",
+      "meaning_it": "Interiezione tuttofare di origine volgare: stupore, rassegnazione davanti all'inevitabile, ovvietà, riempitivo di frase.",
+      "meaning_en": "All-purpose interjection of vulgar origin: surprise, resignation, 'obviously', sentence filler.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "resignation",
+          "surprise",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "tra amici",
+        "per commentare un bug inevitabile",
+        "come riempitivo di discorso"
+      ],
+      "inappropriate_contexts": [
+        "situazioni formali",
+        "con persone anziane che non gradiscono"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pòta, 'l è issé.",
+          "translation_it": "Eh, è così.",
+          "translation_en": "Well, that's how it is.",
+          "provenance": "ai-illustrative"
+        },
+        {
+          "text": "Pòta, 'l g'à mìa partìt amò.",
+          "translation_it": "Pota, non è ancora partito.",
+          "translation_en": "Well, it hasn't started yet.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treated as desemanticized in speech (the most frequent discourse marker in the Pavia corpus), but still a vulgar word in origin: do not use it in formal settings. Variant potà appears after a stressed final syllable (stress shift)."
+    },
+    {
+      "id": "pota-anat",
+      "original": "pòta (parte anatomica)",
+      "category": "anatomical",
+      "literal_meaning": "parte intima femminile",
+      "figurative_meaning": "uso letterale, origine della interiezione",
+      "meaning_it": "Termine volgare per il sesso femminile (Tiraboschi: 'potta'); da cui l'interiezione.",
+      "meaning_en": "Vulgar word for the female genitals (Tiraboschi renders it 'potta'); the source of the interjection.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "solo come spiegazione etimologica o in battuta esplicita"
+      ],
+      "inappropriate_contexts": [
+        "con estranei",
+        "di donne in generale",
+        "in contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "'L tira de pü 'n pel de pòta che cent ca(v)ai che i tròta.",
+          "translation_it": "Tira di più un pelo di pota che cento cavalli che trottano.",
+          "translation_en": "One hair of pota pulls harder than a hundred trotting horses.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The sentence is the traditional saying recorded in Wikizionario, not an AI invention (provenance of this example reflects the saying, kept as illustrative usage)."
+    },
+    {
+      "id": "pota-de-cristo",
+      "original": "pota de Cristo",
+      "category": "blasphemy",
+      "literal_meaning": "la pota di Cristo",
+      "figurative_meaning": "bestemmia, esclamazione di rabbia",
+      "meaning_it": "Bestemmia bergamasca che unisce pota al nome di Cristo: esclamazione di rabbia estrema.",
+      "meaning_en": "Bergamasque blasphemy joining pota with the name of Christ: an outburst of extreme anger.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "extreme anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "solo se l'utente chiede esplicitamente bestemmie"
+      ],
+      "inappropriate_contexts": [
+        "luoghi di culto",
+        "con persone credenti",
+        "formale"
+      ],
+      "blasphemy": true,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source (Wikipedia) cites only the phrase as an example of oaths on the body of the Lord. Do not extend to other divine names: no other Bergamasque blasphemy is documented."
+    },
+    {
+      "id": "porco-diaol",
+      "original": "pòrco diàol",
+      "category": "exclamation",
+      "literal_meaning": "porco diavolo",
+      "figurative_meaning": "imprecazione contro il diavolo",
+      "meaning_it": "Imprecazione: 'porco diavolo', rabbia o fastidio.",
+      "meaning_en": "Imprecation: 'damn' (lit. pig devil); anger or annoyance.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "bug che non si risolve",
+        "fastidio improvviso"
+      ],
+      "inappropriate_contexts": [
+        "formale",
+        "con bambini"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pòrco diàol, 'l g'à mìa partìt!",
+          "translation_it": "Porco diavolo, non è partito!",
+          "translation_en": "Damn, it didn't start!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Listed in the thesis as an interjection reported from Zanetti 2001."
+    },
+    {
+      "id": "madona",
+      "original": "Madóna",
+      "variants": [
+        "madóna mé",
+        "modón"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "la Madonna",
+      "figurative_meaning": "esclamazione di stupore o paura",
+      "meaning_it": "Esclamazione di stupore, paura o sorpresa.",
+      "meaning_en": "Exclamation of amazement, fear or surprise.",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "fear"
+        ]
+      },
+      "appropriate_contexts": [
+        "spavento",
+        "sorpresa"
+      ],
+      "inappropriate_contexts": [
+        "luoghi di culto"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Madóna, che bèl laùr!",
+          "translation_it": "Madonna, che bella cosa!",
+          "translation_en": "Wow, what a thing!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the corpus ('e madóna che pura alura'). Not a blasphemy in this use."
+    },
+    {
+      "id": "ostia",
+      "original": "òstia",
+      "variants": [
+        "òsti"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "ostia, particola",
+      "figurative_meaning": "esclamazione di sorpresa o fastidio",
+      "meaning_it": "Esclamazione di sorpresa o fastidio, di origine religiosa attenuata.",
+      "meaning_en": "Exclamation of surprise or annoyance, of weakened religious origin.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "surprise",
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "racconto con sorpresa",
+        "fastidio"
+      ],
+      "inappropriate_contexts": [
+        "luoghi di culto",
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Òstia, 'l è tròp tard!",
+          "translation_it": "Ostia, è troppo tardi!",
+          "translation_en": "Damn, it's too late!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Used as a filler in the corpus ('i agn òsti'). Kept at intensity 3 without blasphemy flag because no Bergamasque blasphemous compound is documented."
+    },
+    {
+      "id": "ostrega",
+      "original": "òstrega",
+      "category": "exclamation",
+      "literal_meaning": "(eufemismo di ostia)",
+      "figurative_meaning": "accidenti",
+      "meaning_it": "Accidenti, caspita: forma attenuata.",
+      "meaning_en": "Gosh, heck: softened form.",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "hesitation"
+        ]
+      },
+      "appropriate_contexts": [
+        "quasi ovunque"
+      ],
+      "inappropriate_contexts": [
+        "nessuno in particolare"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Òstrega, savrès mìa!",
+          "translation_it": "Accidenti, non saprei!",
+          "translation_en": "Gosh, I wouldn't know!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Corpus: 'savrès mìa òstrega'."
+    },
+    {
+      "id": "casso",
+      "original": "casso",
+      "category": "exclamation",
+      "literal_meaning": "cazzo",
+      "figurative_meaning": "intercalare rafforzativo",
+      "meaning_it": "Cazzo (forma bergamasca): rafforzativo o esclamazione.",
+      "meaning_en": "Cazzo (Bergamasque form): intensifier or exclamation.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "emphasis"
+        ]
+      },
+      "appropriate_contexts": [
+        "tra amici"
+      ],
+      "inappropriate_contexts": [
+        "formale",
+        "con sconosciuti"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Faccio che casso ne só.",
+          "translation_it": "Faccio che cazzo ne so.",
+          "translation_en": "What the hell would I know.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested once in the corpus: 'faccio che casso ne só a ghe sarà sö setanta'."
+    },
+    {
+      "id": "figa",
+      "original": "figa",
+      "category": "exclamation",
+      "literal_meaning": "figa",
+      "figurative_meaning": "interiezione rafforzativa",
+      "meaning_it": "Figa: interiezione rafforzativa ('accidenti') o riempitivo di stato psicologico.",
+      "meaning_en": "Figa: intensifying interjection ('damn') or filler of the speaker's state of mind.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "surprise",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "tra amici"
+      ],
+      "inappropriate_contexts": [
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Figa, i è mìa piö chèi de öna ölta.",
+          "translation_it": "Figa, non sono più quelli di una volta.",
+          "translation_en": "Damn, they are not what they used to be.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi",
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Corpus: 'potà mé figa i éra lé'. Wikizionario proverb contrasts pòta (burn) with figa (pinch)."
+    },
+    {
+      "id": "putana",
+      "original": "pötana",
+      "variants": [
+        "putana",
+        "tàna"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "puttana",
+      "figurative_meaning": "interiezione di rafforzo",
+      "meaning_it": "Puttana (forma bergamasca): rafforzativo o esclamazione, non necessariamente rivolta a una persona.",
+      "meaning_en": "Puttana: intensifier or exclamation, not necessarily aimed at a person.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "come esclamazione isolata"
+      ],
+      "inappropriate_contexts": [
+        "rivolto a donne reali",
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pötana, che laùr!",
+          "translation_it": "Puttana, che cosa!",
+          "translation_en": "Damn, what a thing!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Corpus: 'pötana che ma regórde'. Use as exclamation only; hostile use toward a person is not generated."
+    },
+    {
+      "id": "a-pesade-cul",
+      "original": "ciapà a pesade 'n del cül",
+      "category": "vulgar-idiom",
+      "literal_meaning": "prendere a calci nel culo",
+      "figurative_meaning": "prendere a calci, punire",
+      "meaning_it": "Prendere a calci nel culo: meritare una lezione.",
+      "meaning_en": "To kick up the backside: deserve a telling-off.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "scherzo tra amici"
+      ],
+      "inappropriate_contexts": [
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mè erès ciapài a pesade 'n del cül.",
+          "translation_it": "Bisognerebbe prenderli a calci nel culo.",
+          "translation_en": "They ought to be kicked up the backside.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested sentence from the corpus (speaker on people who look down on dialect)."
+    },
+    {
+      "id": "bale",
+      "original": "chèle bale lé",
+      "category": "vulgar-idiom",
+      "literal_meaning": "quelle palle lì",
+      "figurative_meaning": "roba, cosiddetti, aggeggi",
+      "meaning_it": "Quelle palle lì: spregiativo per cose e aggeggi.",
+      "meaning_en": "Those balls: disparaging for stuff and gadgets.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "contempt",
+          "humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "tecnologia moderna",
+        "aggeggi"
+      ],
+      "inappropriate_contexts": [
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Telefonì, videogiòchi e chèle bale lé.",
+          "translation_it": "Telefonini, videogiochi e quelle palle lì.",
+          "translation_en": "Phones, video games and all that rubbish.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the corpus as a general extender (telefonì videogiòchi e chèle bale lé)."
+    },
+    {
+      "id": "ostiade",
+      "original": "ostiade",
+      "category": "dismissal",
+      "literal_meaning": "ostiate",
+      "figurative_meaning": "sciocchezze, aggeggi inutili",
+      "meaning_it": "Sciocchezze, robaccia (da ostia).",
+      "meaning_en": "Rubbish, silly things (from ostia).",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "sminuire una cosa"
+      ],
+      "inappropriate_contexts": [
+        "formale",
+        "luoghi di culto"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Sti ostiade lé!",
+          "translation_it": "Queste ostiate!",
+          "translation_en": "Those silly things!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested: 'sti compiuter e sti ostiade lé'."
+    },
+    {
+      "id": "potarga",
+      "original": "pötarga",
+      "category": "exclamation",
+      "literal_meaning": "(da pota + ga, non verificato)",
+      "figurative_meaning": "esclamazione di stato d'animo",
+      "meaning_it": "Esclamazione di frustrazione o stupore; la derivazione da pota non è documentata.",
+      "meaning_en": "Exclamation of frustration or amazement; derivation from pota is not documented.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "frustration",
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "racconto"
+      ],
+      "inappropriate_contexts": [
+        "formale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pötarga, 'l è mìa piö chèl de prima!",
+          "translation_it": "Pötarga, non è più quello di prima!",
+          "translation_en": "Pötarga, it's not what it was!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Single corpus occurrence ('Pötarga e 'n sè pasàc' sö cola funivia'). Meaning inferred from the glossed function only."
+    },
+    {
+      "id": "odio",
+      "original": "odìo / óh Gesù",
+      "category": "exclamation",
+      "literal_meaning": "oddio",
+      "figurative_meaning": "esclamazione religiosa lieve",
+      "meaning_it": "Oddio: esclamazione lieve di preoccupazione o correzione.",
+      "meaning_en": "Oh God: mild exclamation of worry or self-correction.",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "worry",
+          "correction"
+        ]
+      },
+      "appropriate_contexts": [
+        "quasi ovunque"
+      ],
+      "inappropriate_contexts": [
+        "luoghi di culto, se sentita come irriverente"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Odìo, 'l è tard!",
+          "translation_it": "Oddio, è tardi!",
+          "translation_en": "Oh God, it's late!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the corpus ('odìo la mé s-cèta mìa tàt'). The example is illustrative."
+    },
+    {
+      "id": "bambo",
+      "original": "bambo",
+      "category": "affectionate",
+      "literal_meaning": "sciocco",
+      "figurative_meaning": "richiamo affettuoso o sfottò leggero",
+      "meaning_it": "Sciocco, babbeo: richiamo affettuoso o sfottò.",
+      "meaning_en": "Fool, silly: affectionate address or light teasing.",
+      "intensity": 1,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "tra amici",
+        "scherzo"
+      ],
+      "inappropriate_contexts": [
+        "offesa seria"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ada tè, óh bambo!",
+          "translation_it": "Guarda tu, sciocco!",
+          "translation_en": "Just look, you silly!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested: 'ada tè óh bambo'."
+    },
+    {
+      "id": "balucos",
+      "original": "balücos",
+      "category": "insult",
+      "literal_meaning": "minchione",
+      "figurative_meaning": "insulto lieve, sciocco",
+      "meaning_it": "Minchione, sciocco (dalla rendita italiana del proverbio).",
+      "meaning_en": "Fool, dolt (as rendered in the proverb's Italian).",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "citazione del proverbio"
+      ],
+      "inappropriate_contexts": [
+        "rivolto a persone reali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Seguitur fortüna balücos.",
+          "translation_it": "La fortuna corre dietro ai minchioni.",
+          "translation_en": "Fortune runs after fools.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Only attested as the target word of a Tiraboschi proverb; the example is the proverb itself."
+    }
+  ]
+}

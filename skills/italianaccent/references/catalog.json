@@ -162,8 +162,8 @@
       "region": "Lombardia",
       "classification": "Eastern Lombard (Gallo-Italic), Bergamasque",
       "identifier_meaning_en": "Bergamasque all-purpose interjection (originally vulgar 'female genitals')",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/pota/"
     },
     {

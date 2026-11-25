@@ -40,6 +40,7 @@ commands and technical facts stay exactly correct.
 | **Daje** (`daje`) | Romanesco | Lazio | Roman 'come on! let's go!' | experimental |
 | **Belin** (`belin`) | Genovese | Liguria | Genoese vulgar 'dick', all-purpose exclamation | experimental |
 | **Pirla** (`pirla`) | Milanese | Lombardia | Milanese 'idiot, jerk' | experimental |
+| **Potà** (`pota`) | Bergamasco | Lombardia | Bergamasque all-purpose interjection (originally vulgar 'female genitals') | experimental |
 | **Mena** (`mena`) | Salentino | Puglia | Salentine 'come on / go on!' (from menare) | experimental |
 | **Trimone** (`trimone`) | Barese | Puglia | Barese insult: 'idiot, dumbass' | experimental |
 | **Mbare** (`mbare`) | Catanese | Sicilia | Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion) | experimental |
@@ -47,7 +48,7 @@ commands and technical facts stay exactly correct.
 | **Bischero** (`bischero`) | Fiorentino | Toscana | Florentine 'fool, sucker' | experimental |
 | **Boia dé** (`boiade`) | Livornese | Toscana | Livornese exclamation 'damn!, wow!' (boia = executioner, used as an intensifier, + the interjection dé) | experimental |
 
-**10 available modes covering 7 of 20 regions** (Campania, Lazio, Liguria, Lombardia, Puglia, Sicilia, Toscana). 68 further varieties are listed as `planned` in [catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet.
+**11 available modes covering 7 of 20 regions** (Campania, Lazio, Liguria, Lombardia, Puglia, Sicilia, Toscana). 67 further varieties are listed as `planned` in [catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet.
 <!-- CATALOG:END -->
 
 Every mode name is an authentic local word chosen to be memorable; the *Meaning* column explains it for non-Italian
