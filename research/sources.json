@@ -2361,6 +2361,25 @@
       ]
     },
     {
+      "id": "src-rom-treccani-dachille",
+      "title": "Italiano e dialetto a Roma",
+      "author": "Paolo D'Achille",
+      "publisher": "Treccani, Enciclopedia dell'Italiano",
+      "url": "https://www.treccani.it/enciclopedia/italiano-e-dialetto-a-roma_(Enciclopedia-dell'Italiano)/",
+      "publication_date": "2010",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romanesco (Rome)",
+      "source_type": "encyclopedia",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Cited by the external audit for mb>mm being rare and ld>ll residual in contemporary Romanesco. The page could not be retrieved from this environment (HTTP redirect/block), so the claim was applied conservatively and not re-read.",
+      "relevant_sections": "phonetic traits of contemporary Romanesco",
+      "used_by": [
+        "daje"
+      ]
+    },
+    {
       "id": "src-rom-vrc-d",
       "title": "La lettera «D» del «Vocabolario del romanesco contemporaneo» (Studi di lessicografia italiana XXXVIII, 2021, pp. 347-395), post-print",
       "author": "Paolo D'Achille, Claudio Giovanardi, Vincenzo Faraoni, Michele Loporcaro",
