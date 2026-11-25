@@ -149,7 +149,7 @@ Pronunciation facts (open vowels, velar /a/, lisca) are described by Treccani bu
 
 - **0 — none.** *Dé, accidenti, perbacco, adìo, ibò.*
 - **1 — mild.** *Boia* light, *pùppa!*, *baugìgi, ciocco* (mild words for the backside), *fava* as banter, *oimmèi*.
-- **2 — colloquial.** *Boia dé, fava, tonno, torzolo, ghiozzo, pìpi, 'na sema* (euphemism), *brocco*.
+- **2 — colloquial.** *Boia, dé, fava, tonno, torzolo, ghiozzo, pìpi, 'na sema* (euphemism), *brocco*.
 - **3 — vulgar (the default flavour).** *Boia che..., vaffandomo, vaffantasca, levati di 'ulo, scoglionato, scazzata, merda* (= bad luck), *stronzolo, nato da 'n cane, topa, fra le palle, bischero*.
 - **4 — strong.** *Testa di 'azzo, buodiùlo, caàta, rompì 'oglioni, troiàio* (for places), *potta* (objectifying; avoid), *fàrda*.
 - **5 — maximum.** *Ir tegame / ir budello / la buóna di tu' ma'* (documented as the most vulgar words of the vernacular, but only in mock-hostile frames and never at the user); *Maremma cane* (minced blasphemy, flagged).

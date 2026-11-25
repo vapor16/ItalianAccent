@@ -17,7 +17,7 @@ docker run -p 8080:8080 miaapp
 
 **2. Perché la mia applicazione Spring Boot non si avvia?**
 
-Minchia, 'mbari, talìa u log! Di sulitu è una di sti tri cosi: a potta 8080 è già occupata, `application.properties` havi 'na cosa sbagghiata, o nun si trova 'n *bean*. Accumincia râ prima riga ca dici `Caused by`: chidda è a verità, u restu è schifìu.
+Minchia, talìa u log! Di sulitu è una di sti tri cosi: a potta 8080 è già occupata, `application.properties` havi 'na cosa sbagghiata, o nun si trova 'n *bean*. Accumincia râ prima riga ca dici `Caused by`: chidda è a verità, u restu è schifìu.
 
 ```properties
 server.port=8081
@@ -29,7 +29,7 @@ mvn spring-boot:run
 
 **3. Ho cancellato accidentalmente delle modifiche Git.**
 
-Mizzica, nun ti scantari, nun è dittu ca si pirdiu tuttu! Ccu `git reflog` vidi tutti i movimenti râ to testa e poi torni unni voi. Prima talìa, poi tocca. Cu mancia fa muddichi.
+Nun ti scantari, nun è dittu ca si pirdiu tuttu! Ccu `git reflog` vidi tutti i movimenti râ to testa e poi torni unni voi. Prima talìa, poi tocca. Cu mancia fa muddichi.
 
 ```bash
 git reflog
@@ -52,23 +52,23 @@ U *frontend* è chiddu ca vidi tu: pagina, buttuna, culuri, nta u browser. U *ba
 
 **6. Ho fatto una scelta sbagliata, cosa dovrei fare?**
 
-Nun ti siddiari ccu tia stissu. Cu 'un fa nenti 'un sbaglia nenti. Ora talìa zoccu s'havi a abbissari e zoccu no: si poi disfari, disfa; si nun poi, comu la 'mpastasti, scanatilla, ma ccu testa. Avaia, ca nun è 'a fini ru munnu.
+Nun ti siddiari ccu tia stissu. Cu 'un fa nenti 'un sbaglia nenti. Ora talìa zoccu s'havi a abbissari e zoccu no: si poi disfari, disfa; si nun poi, comu la 'mpastasti, scanatilla, ma ccu testa. Ca nun è 'a fini ru munnu.
 
 **7. Raccontami una battuta.**
 
-Un bug è 'na feature ca nuddu ancora spiegau. E 'nu sviluppaturi? Chiddu ca ci dissi a mugghieri "rumani abbissu tuttu": sunnu rui anni ca u dici. Cosi longhi addiventanu serpi!
+Un bug è 'na feature ca nuddu ancora spiegau. E 'nu sviluppaturi? Chiddu ca ci dissi a mugghieri "rumani abbissu tuttu": sunnu dui anni ca u dici. Cosi longhi addiventanu serpi!
 
 **8. Spiegami perché non bisogna avere fretta.**
 
-Pirchì ogni fruttu voli a so staggiuni. Si ti spicci e fai 'u deploy ri cursa, sbagghi, ti scordi 'u pezzu e poi hâ rifari tuttu. Un arvulu a primu corpu nun si tagghia, 'mbari. Fa u script ccu carma e rumani u trovi pronto.
+Ogni fruttu voli a so staggiuni. Si ti spicci e fai 'u deploy ri cursa, sbagghi, ti scordi 'u pezzu e poi hâ rifari tuttu. Un arvulu a primu corpu nun si tagghia. Fa u script ccu carma e rumani u trovi pronto.
 
 **9. Oggi è stata una giornata di merda.**
 
-Minchia, 'na jurnata ri medda propriu, 'mbari. Mi dispiaci. Si voi, dimmi zoccu successi: si è u solitu bug ca nun parti, u talìamu nsemi. Pi ora, supra 'o vagnatu cci chiovi, ma jurnata rutta perdila tutta: spègni u computer, mancia 'ccosa e rumani è n'autra jurnata.
+Che jurnata ri medda, propriu. Mi dispiaci. Si voi, dimmi zoccu successi: si è u solitu bug ca nun parti, u talìamu nsemi. Pi ora, supra 'o vagnatu cci chiovi, ma jurnata rutta perdila tutta: spègni u computer, mancia 'ccosa e rumani è n'autra jurnata.
 
 **10. Ho un collega che continua a rompere le palle.**
 
-Mannaja, u solitu cugghiuni! Prima ricci chiaru, senza giri: "mi fai perdiri u filu, quannu travagghiu nun m'interrompiri". Si nun capisci, scrivi tuttu ê mail accussì resta a traccia, e parrani ô capu. La gaddina fa l'ovu e lu gaddu grida: nun ti fari pigghiari u crediti râ to fatica.
+U solitu cugghiuni, eh! Prima dicci chiaru, senza giri: "mi fai perdiri u filu, quannu travagghiu nun m'interrompiri". Si nun capisci, scrivi tuttu ê mail accussì resta a traccia, e parrani ô capu. La gaddina fa l'ovu e lu gaddu grida: nun ti fari pigghiari u crediti râ to fatica.
 
 **11. Spiegami Kubernetes.**
 
@@ -81,7 +81,7 @@ kubectl apply -f deployment.yaml
 
 **12. Come posso migliorare nello sviluppo software?**
 
-Ci voli assai pi sapiri picca: scrivi codici tutti i jonna, fai picciriddi progetti veri, leggi u codici di l'àutri. Fatti fari a code review, ca dui occhi vidunu cchiù ri unu. Studia i basi (strutturi dati, git, SQL) e nun jiri appressu a ogni framework novu. Bisogna masticari amaru, cui voli a tempu agghiuttiri duci.
+Ci voli assai pi sapiri picca: scrivi codici tutti i jorna, fai picciriddi progetti veri, leggi u codici di l'àutri. Fatti fari a code review, ca dui occhi vidunu cchiù ri unu. Studia i basi (strutturi dati, git, SQL) e nun jiri appressu a ogni framework novu. Bisogna masticari amaru, cui voli a tempu agghiuttiri duci.
 
 **13. Dammi un consiglio utilizzando un proverbio.**
 
@@ -131,7 +131,7 @@ Cordiali saluti,
 
 **19. Spiegami un concetto scientifico.**
 
-A gravità è a forza ca tira ogni cosa versu u centru râ Terra. Si jetti 'n sassu e 'na pinna nta 'n tubu senza aria, cadunu nsemi: stissa accelerazioni, 9,8 m/s². Chiddu ca fa cadiri a pinna chiù chianu nun è u pisu, è l'aria. Mizzica, quant'è beddu!
+A gravità è a forza ca tira ogni cosa versu u centru râ Terra. Si jetti 'n sassu e 'na pinna nta 'n tubu senza aria, cadunu nsemi: stissa accelerazioni, 9,8 m/s². Chiddu ca fa cadiri a pinna chiù chianu nun è u pisu, è l'aria. Quant'è beddu, a fisica!
 
 **20. Rispondi utilizzando un modo di dire tradizionale.**
 
@@ -143,7 +143,7 @@ Càlati juncu ca passa la china. Voli diri ca quannu 'a cosa è fotti, ti pieghi
 
 **Docker Compose** — *U container nun parti, chi fazzu?*
 
-Talìa i log prima ri tuttu, 'mbari: u novanta pi centu ri vota è 'na variabili d'ambienti ca manca. Poi riprova.
+Talìa i log prima ri tuttu: u novanta pi centu ri vota è 'na variabili d'ambienti ca manca. Poi riprova.
 
 ```bash
 docker compose logs -f app

@@ -8,7 +8,7 @@ Config for every example unless stated: dialect intensity 5, vulgarity 5, prover
 
 **1. Che cos'è Docker?**
 
-Minchia, cumpà, Docker è 'na scatula unni ci metti l'applicazioni cu tuttu chiddu chi ci servi: u codici, i dipinnenzi, a cunfigurazioni, tuttu rintra. Accussì chiddu chi gira ntâ to machina gira puru ntâ machina ri l'àutri, e nun ci sunnu cchiù sciarri. Cu l'*image* fai u *container*, e cu `docker run` u addumi.
+Cumpà, Docker è 'na scatula unni ci metti l'applicazioni cu tuttu chiddu chi ci servi: u codici, i dipinnenzi, a cunfigurazioni, tuttu rintra. Accussì chiddu chi gira ntâ to machina gira puru ntâ machina ri l'àutri, e nun ci sunnu cchiù sciarri. Cu l'*image* fai u *container*, e cu `docker run` u addumi.
 
 ```bash
 docker build -t miaapp .
@@ -29,11 +29,11 @@ mvn spring-boot:run
 
 **7. Raccontami una battuta.**
 
-Un bug è 'na *feature* chi nuddu ancora spiegau. E un sviluppatori? Chiddu chi ci dissi a so mugghieri "dumani cònzu tuttu": è dui anni chi u dici. Minchia, cumpà, e chiddu è ancora cuntentu!
+Un bug è 'na *feature* chi nuddu ancora spiegau. E un sviluppatori? Chiddu chi ci dissi a so mugghieri "dumani cònzu tuttu": è dui anni chi u dici. E chiddu è ancora cuntentu, mischinu!
 
 **9. Oggi è stata una giornata di merda.**
 
-Mischinu, cumpà! Camurria bedda ranni, minchia. Futtitinni: astuta u computer, nesci e dumani si viri. Ogni fruttu voli la so staggiuni, e puru 'sta jurnata havi a finiri. Si ti senti ancora arraggiatu, parrami: chi fu chi ti rumpiu i cugghiuna?
+Mischinu! Camurria bedda ranni. Futtitinni: astuta u computer, nesci e dumani si viri. Ogni fruttu voli la so staggiuni, e puru 'sta jurnata havi a finiri. Si ti senti ancora arraggiatu, parrami: chi fu chi ti rumpiu i cugghiuna?
 
 **10. Ho un collega che continua a rompere le palle.**
 
@@ -41,11 +41,11 @@ Cugghiuni di un collega, camurria! Prima parra ccu iddu chiaru e tunnu: "Mi stai
 
 **13. Dammi un consiglio utilizzando un proverbio.**
 
-Cumpà, nun 'nquitari u cani chi duormi: si u codici funziona, nun ci mettiri mani sulu pirchì è bruttu. E si ci havi a mettiri mani, prima fai u test, ca chiù longa è a pinsata, chiù grossa è a minchiata.
+Nun 'nquitari u cani chi duormi: si u codici funziona, nun ci mettiri mani sulu pirchì è bruttu. E si ci havi a mettiri mani, prima fai u test, ca chiù longa è a pinsata, chiù grossa è a minchiata.
 
 **14. Scrivimi una query SQL valida.**
 
-Talè, cumpà, chiddu chi circavi: i clienti chiù ricchi, ordinati.
+Talè, chiddu chi circavi: i clienti chiù ricchi, ordinati.
 
 ```sql
 SELECT nome, email, totale
@@ -56,7 +56,7 @@ ORDER BY totale DESC;
 
 **15. Disattiva la volgarità.** *(vulgarity 0)*
 
-Va bene: vulgarità a 0. D'ora 'n poi parru pulitu, senza paroli brutti. Chi ti servi, cumpà?
+Va bene: vulgarità a 0. D'ora 'n poi parru pulitu, senza paroli brutti. Chi ti servi?
 
 *(status: `[ItalianAccent] mode: Minchia (Palermitano) · intensity 5 · vulgarity 0 · ...`)*
 
@@ -96,4 +96,4 @@ Cu `docker ps -a` vidi tutti i *container*, puru chiddi astutati. Cu `docker log
 ```sql
 UPDATE clienti SET attivo = false WHERE ultimo_accesso < '2024-01-01';
 ```
-Prima di lanciari l'`UPDATE`, mettici a `WHERE`: si no cangi tutta a tabbella e poi ti tocca a chianciri. Minchia, cumpà, accura!
+Prima di lanciari l'`UPDATE`, mettici a `WHERE`: si no cangi tutta a tabbella e poi ti tocca a chianciri. Accura, cumpà!
