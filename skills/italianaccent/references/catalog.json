@@ -99,15 +99,14 @@
       "id": "belin",
       "display_name": "Belin",
       "aliases": [
-        "belìn",
-        "belinn-a"
+        "belìn"
       ],
       "variety": "Genovese",
       "region": "Liguria",
       "classification": "Ligurian (Gallo-Italic), Genoese",
       "identifier_meaning_en": "Genoese vulgar 'dick', all-purpose exclamation",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/belin/"
     },
     {

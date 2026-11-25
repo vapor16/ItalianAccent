@@ -569,6 +569,247 @@
       "publisher": "Wikimedia Foundation"
     },
     {
+      "id": "src-lij-autelli-gephras",
+      "title": "Genoese-Italian 'vulgar' phraseology in GEPHRAS and GEPHRAS2",
+      "url": "https://bop.unibe.ch/linguistik-online/article/download/9046/12017/40407",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "academic",
+      "license": "Open access (Linguistik online 118, 6/22)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Peer-reviewed article with register labels [coll.]/[volg.] for Genoese vulgar phrasemes (belin, bagascia, cû, mossa) following Acquarone (2015) spelling; also notes online variants (belìn/belin, cù/cû).",
+      "used_by": [
+        "belin"
+      ],
+      "author": "Erica Autelli",
+      "publisher": "Linguistik online"
+    },
+    {
+      "id": "src-lij-babbel-genoese",
+      "title": "The Most Famous Genoese Words And Phrases",
+      "url": "https://www.babbel.com/en/magazine/genoese-words-and-phrases",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article; useful for colloquial items (manimàn, cianin cianin, bratta, sciachelo) but spellings are anglicized/italianized.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Babbel Magazine"
+    },
+    {
+      "id": "src-lij-enwiki-genoese",
+      "title": "Genoese dialect (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Genoese_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Orthography (ç, x, æ, eu, circumflex, velar n), articles, pronouns, prepositions (inte, a-o), partitive, voscià/voî, sample sentences.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-lij-enwiki-ligurian",
+      "title": "Ligurian language (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ligurian_language",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Two orthographies (grafia unitäia, grafia ofiçiâ); 25-letter alphabet; vocabulary péi, mei, çetrón, fîgo, éuggio, tésta, bràsso, gànba, cheu.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-lij-guidagenova-belin",
+      "title": "Genoese dialect: from belin to bernarda",
+      "url": "https://www.guidadigenova.it/en/?p=70",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Tourist guide piece on 'a few obscene words' (belinon, cuggiun, cuggionà, galuscio); descriptive only.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Guida di Genova"
+    },
+    {
+      "id": "src-lij-italysegreta-parlare",
+      "title": "Come parlare ligure",
+      "url": "https://italysegreta.com/come-parlare-ligure/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Travel blog; some items (mugugno, paciugo, quattr'êugg, invexendo, belandi) and two sayings. Low reliability for orthography.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Italy Segreta"
+    },
+    {
+      "id": "src-lij-itwiki-belin",
+      "title": "Belin (Wikipedia italiana)",
+      "url": "https://it.wikipedia.org/wiki/Bel%C3%ACn",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Meanings and positional uses of belin, derivatives (abelinòu, belinone, me n'imbelino, portâ via o belin), etymology debate (Toso). The article itself notes insufficient citations.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-lij-itwiki-dialetto",
+      "title": "Dialetto genovese (Wikipedia italiana)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_genovese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Articles, subject clitics, present of parlâ/dovéi/vende/sentî, ëse/avei/savei/poei, possessives, plurals. The verb table is partly garbled in the extraction; forms used only where cross-checked.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-lij-itwikt-belin",
+      "title": "belin (Wikizionario)",
+      "url": "https://it.wiktionary.org/wiki/belin",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Entry marked regional ligure; sense 'male genital organ'; etymology from belo (budello) given as per Devoto-Oli.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikizionario"
+    },
+    {
+      "id": "src-lij-ljwiki-belin",
+      "title": "Belin (Wikipedia in ligure)",
+      "url": "https://lij.wikipedia.org/wiki/Belin",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Describes belin as the best-known Ligurian word, often a curse but not only; lists abelinòu, belinâta, inbelinâse, pe in bello belìn.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia (lij)"
+    },
+    {
+      "id": "src-lij-ljwiki-zena",
+      "title": "Zena (Wikipedia in ligure)",
+      "url": "https://lij.wikipedia.org/wiki/Zena",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Running Genoese prose in the Academy-style orthography (é, ê, -inn-a, -ioìn, ç, x). Used as a model for spelling and article/verb usage.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikipedia (lij)"
+    },
+    {
+      "id": "src-lij-mentelocale-modi",
+      "title": "10 tipici modi di dire e proverbi genovesi",
+      "url": "https://www.mentelocale.it/genova/2556-10-tipici-modi-dire-proverbi-genovesi-superba-dialetto.htm",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Local news site; popular selection of sayings, not a linguistic work. Spellings are not Academy.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Mentelocale"
+    },
+    {
+      "id": "src-lij-wikiquote-proverbi",
+      "title": "Proverbi liguri (Wikiquote italiano)",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_liguri",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Proverbs with Italian translations. Spelling is not uniform (mixed Academy and other conventions); used verbatim and normalized only where the rule is documented.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wikiquote"
+    },
+    {
+      "id": "src-lij-wikt-lij-categories",
+      "title": "Category: Ligurian lemmas / verbs / interjections / nouns (English Wiktionary)",
+      "url": "https://en.wiktionary.org/wiki/Category:Ligurian_verbs",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Attests lemma spellings (andâ, avéi, dovéi, êse, çenâ, giastemâ, poéi, savéi, voéi, alura, bàsta, daghe, merçì, bon giurnu, benvegnûo, belìn, ciùmma...). Inconsistent orthography across entries.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-lij-zeneize-grafia",
+      "title": "Grafia ofiçiâ (zeneize.net, Académia Ligùstica do Brénno)",
+      "url": "https://www.zeneize.net/grafia/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "institutional",
+      "license": "Not stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Only the introduction was readable: one symbol per sound, 'graphia ofiçiâ' as agreed norm. Subpages (Arfabeto, Acenti) not read; letter values taken from the English Wikipedia articles instead.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Académia Ligùstica do Brénno"
+    },
+    {
       "id": "src-nap-andreoli-1887",
       "title": "Vocabolario napoletano-italiano",
       "author": "Raffaele Andreoli",

@@ -1,0 +1,557 @@
+{
+  "$schema": "../../../../../schemas/proverbs.schema.json",
+  "dialect": "belin",
+  "entries": [
+    {
+      "id": "a-bellessa",
+      "type": "proverb",
+      "original": "A bellessa a nö fa boggî a pûgnatta.",
+      "literal_it": "La bellezza non fa bollire la pentola.",
+      "meaning_it": "La bellezza non basta a mettere il pranzo in tavola.",
+      "meaning_en": "Beauty does not make the pot boil.",
+      "usage_context": "vanity vs practicality",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "a-pignatta",
+      "type": "proverb",
+      "original": "A pignatta agguitâ a no bogge mai.",
+      "literal_it": "La pentola guardata non bolle mai.",
+      "meaning_it": "Guardare con ansia non accelera le cose.",
+      "meaning_en": "A watched pot never boils.",
+      "usage_context": "impatience, waiting for a build or deploy",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "a-fin-ratto",
+      "type": "proverb",
+      "original": "A fin do ratto a l'è d'èse mangiôu da-o gatto.",
+      "literal_it": "La fine del topo è di essere mangiato dal gatto.",
+      "meaning_it": "Chi si espone al pericolo finisce male.",
+      "meaning_en": "The mouse ends up eaten by the cat.",
+      "usage_context": "reckless choices",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "a-faenna-diao",
+      "type": "proverb",
+      "original": "A fænna do diao a va tutta in brenno.",
+      "literal_it": "La farina del diavolo va tutta in crusca.",
+      "meaning_it": "I guadagni disonesti non durano.",
+      "meaning_en": "The devil's flour all turns to bran.",
+      "usage_context": "ill-gotten gains",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "a-tavola-vegi",
+      "type": "proverb",
+      "original": "A tôa no se ven vëgi.",
+      "literal_it": "A tavola non si invecchia.",
+      "meaning_it": "A tavola si sta bene, il tempo non pesa.",
+      "meaning_en": "One doesn't grow old at table.",
+      "usage_context": "meals, lingering over food",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "amo-vegio",
+      "type": "proverb",
+      "original": "Amö vëgio o no fâ rûzze",
+      "literal_it": "Amore vecchio non fa ruggine.",
+      "meaning_it": "Un vecchio affetto resiste al tempo.",
+      "meaning_en": "Old love does not rust.",
+      "usage_context": "old friendships",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "caro-costa-aggio",
+      "type": "proverb",
+      "original": "Cäo costa l'aggio",
+      "literal_it": "Caro costa l'aglio.",
+      "meaning_it": "Si dice quando qualcosa costa molto cara.",
+      "meaning_en": "Garlic comes dear.",
+      "usage_context": "expensive things",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography. Meaning paraphrased from the source gloss."
+    },
+    {
+      "id": "chi-arroba",
+      "type": "proverb",
+      "original": "Chi arröba a un ladron, ha çent'anni de perdon.",
+      "literal_it": "Chi ruba a un ladrone ha cento anni di perdono.",
+      "meaning_it": "Rubare a un ladro non è colpa.",
+      "meaning_en": "He who robs a thief earns a hundred years of pardon.",
+      "usage_context": "poetic justice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "chi-veu-vive",
+      "type": "proverb",
+      "original": "Chi vêu vive e stâ san da-i parenti stagghe lontan.",
+      "literal_it": "Chi vuole vivere sano stia lontano dai parenti.",
+      "meaning_it": "Meglio tenere le distanze dai parenti.",
+      "meaning_en": "Whoever wants to live well should keep away from relatives.",
+      "usage_context": "family frictions (humorous)",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "pe-conosce-boxardo",
+      "type": "proverb",
+      "original": "Pe conosce un bôxardo bezêugna fâlo parlà trae votte.",
+      "literal_it": "Per conoscere un bugiardo bisogna farlo parlare tre volte.",
+      "meaning_it": "Il bugiardo si tradisce a forza di parlare.",
+      "meaning_en": "To spot a liar, make him talk three times.",
+      "usage_context": "spotting lies",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "natale-barco",
+      "type": "proverb",
+      "original": "Natale a-o barco, Pasqua a-o tisson.",
+      "literal_it": "Natale al balcone, Pasqua al tizzone.",
+      "meaning_it": "Se Natale è mite, Pasqua sarà fredda.",
+      "meaning_en": "Mild Christmas, cold Easter.",
+      "usage_context": "weather",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "bocca-mosche",
+      "type": "proverb",
+      "original": "In bocca sarà n'intran de mosche, chi no se fa avanti nisciun o conosce.",
+      "literal_it": "In bocca chiusa non entrano mosche; chi non si fa avanti nessuno lo conosce.",
+      "meaning_it": "Chi sta zitto passa inosservato.",
+      "meaning_en": "Nobody knows you if you do not come forward.",
+      "usage_context": "networking, speaking up",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography. Source wording is garbled; kept verbatim."
+    },
+    {
+      "id": "megio-braghe",
+      "type": "proverb",
+      "original": "L'è megio avei e braghe sgoarœ 'nto cû, che o cû sgoaròu inte brâghe.",
+      "literal_it": "Meglio le braghe rotte al sedere che il sedere rotto nelle braghe.",
+      "meaning_it": "Meglio rimetterci il vestito che la pelle.",
+      "meaning_en": "Better torn trousers than a torn backside.",
+      "usage_context": "avoiding a worse loss",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "zena-cianua",
+      "type": "proverb",
+      "original": "Se Zena a l'avesse a cianûa, de Milan ne faievan unn-a seportûa.",
+      "literal_it": "Se Genova avesse una pianura, di Milano farebbero una sepoltura.",
+      "meaning_it": "Boutade campanilistica sulla potenza ipotetica di Genova.",
+      "meaning_en": "If Genoa had a plain, they'd bury Milan.",
+      "usage_context": "local pride, rivalry",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling reproduced from the source, which does not follow one orthography."
+    },
+    {
+      "id": "chi-no-cianze",
+      "type": "proverb",
+      "original": "Chi no cianze, no tetta.",
+      "literal_it": "Chi non piange non succhia.",
+      "meaning_it": "Chi non si lamenta non ottiene niente.",
+      "meaning_en": "The baby who doesn't cry doesn't get fed.",
+      "usage_context": "asking for what you need",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-mentelocale-modi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source; spelling not verified."
+    },
+    {
+      "id": "sciuscia-sciorbi",
+      "type": "proverb",
+      "original": "Sciûsciâ e sciorbî no se pêu.",
+      "literal_it": "Soffiare e sorbire non si può.",
+      "meaning_it": "Non si possono fare due cose opposte insieme.",
+      "meaning_en": "You can't blow and sip at once.",
+      "usage_context": "multitasking, doing two things badly",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-italysegreta-parlare",
+        "src-lij-mentelocale-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Same saying in two popular sources; wording from italysegreta, mentelocale writes Sciusciâ e sciorbî no se peu."
+    },
+    {
+      "id": "bon-tempo",
+      "type": "proverb",
+      "original": "Con o bon tempo semmo tûtti mainæ.",
+      "literal_it": "Col bel tempo siamo tutti marinai.",
+      "meaning_it": "È facile fare gli esperti quando tutto va liscio.",
+      "meaning_en": "In good weather we're all sailors.",
+      "usage_context": "answering unwanted advice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source."
+    },
+    {
+      "id": "pesta-aegua",
+      "type": "idiom",
+      "original": "Pestà l'aegua in to mortä",
+      "literal_it": "Pestare l'acqua nel mortaio.",
+      "meaning_it": "Fatica inutile.",
+      "meaning_en": "Pounding water in a mortar.",
+      "usage_context": "pointless effort, endless meetings",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source."
+    },
+    {
+      "id": "repu-vale",
+      "type": "proverb",
+      "original": "'Na bonn-a repûtassion a vä ciû de ûn milion.",
+      "literal_it": "Una buona reputazione vale più di un milione.",
+      "meaning_it": "L'onestà vale più dei soldi.",
+      "meaning_en": "A good name is worth more than a million.",
+      "usage_context": "integrity",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source."
+    },
+    {
+      "id": "a-l-a-belessa",
+      "type": "saying",
+      "original": "A l'à a belessa de l'ase",
+      "literal_it": "Ha la bellezza dell'asino.",
+      "meaning_it": "Si dice di chi ha solo la giovinezza come pregio.",
+      "meaning_en": "He has the beauty of the donkey (youth only).",
+      "usage_context": "backhanded compliment",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-mentelocale-modi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source."
+    },
+    {
+      "id": "grande-grosso-abelinou",
+      "type": "saying",
+      "original": "Grande, grosso e abelinôu",
+      "literal_it": "Grande, grosso e abelinato.",
+      "meaning_it": "Grosso e poco sveglio.",
+      "meaning_en": "Big, burly and a bit dim.",
+      "usage_context": "mocking a clueless person",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-mentelocale-modi",
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "chi-no-belin",
+      "type": "idiom",
+      "original": "pe in bello belìn",
+      "literal_it": "per un bel belino.",
+      "meaning_it": "Per niente, senza motivo.",
+      "meaning_en": "For nothing at all.",
+      "usage_context": "denying an accusation",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciu-porta-via",
+      "type": "idiom",
+      "original": "Porta vîa o belin!",
+      "literal_it": "Porta via il belino.",
+      "meaning_it": "Vattene.",
+      "meaning_en": "Go away.",
+      "usage_context": "dismissing a nuisance",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras",
+        "src-lij-itwiki-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pin-de-musse",
+      "type": "idiom",
+      "original": "pin de musse",
+      "literal_it": "pieno di mosse.",
+      "meaning_it": "Pieno di balle.",
+      "meaning_en": "Full of nonsense.",
+      "usage_context": "calling out a lie",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gratta-cu-cigaa",
+      "type": "idiom",
+      "original": "grattâ o cû a-a çigaa",
+      "literal_it": "grattare il culo alla cicala.",
+      "meaning_it": "Stuzzicare il can che dorme.",
+      "meaning_en": "To stir up trouble (lit. scratch the cicada's ass).",
+      "usage_context": "avoid provoking problems",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-ciatto",
+      "type": "idiom",
+      "original": "ëse un cû ciatto",
+      "literal_it": "essere un culo piatto.",
+      "meaning_it": "Essere uno scansafatiche.",
+      "meaning_en": "To be a lazy person.",
+      "usage_context": "calling out laziness",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-anima",
+      "type": "idiom",
+      "original": "avei ciù cû che anima",
+      "literal_it": "avere più culo che anima.",
+      "meaning_it": "Avere una fortuna sfacciata.",
+      "meaning_en": "To have more luck than sense.",
+      "usage_context": "someone lucky",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cervello-agni",
+      "type": "idiom",
+      "original": "avei o çervello into cû comme i ägni",
+      "literal_it": "avere il cervello nel culo come i ragni.",
+      "meaning_it": "Essere un coglione totale.",
+      "meaning_en": "To be a complete idiot.",
+      "usage_context": "insulting a blunder",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cacciase-lengua",
+      "type": "idiom",
+      "original": "cacciâse a lengua into cû",
+      "literal_it": "ficcarsi la lingua nel culo.",
+      "meaning_it": "Stare zitto.",
+      "meaning_en": "To shut up.",
+      "usage_context": "telling someone to be quiet",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tegni-naso",
+      "type": "idiom",
+      "original": "tegnî o naso into cû à qcn.",
+      "literal_it": "tenere il naso nel culo a qualcuno.",
+      "meaning_it": "Adulare, leccare il culo.",
+      "meaning_en": "To grovel, toady.",
+      "usage_context": "mocking flattery",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-faccia-cu",
+      "type": "idiom",
+      "original": "avei a facia comme o cû",
+      "literal_it": "avere la faccia come il culo.",
+      "meaning_it": "Essere sfacciato.",
+      "meaning_en": "To have a cheeky face.",
+      "usage_context": "brazen behaviour",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa / Liguria",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

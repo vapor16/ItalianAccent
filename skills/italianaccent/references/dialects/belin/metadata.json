@@ -1,0 +1,75 @@
+{
+  "$schema": "../../../../../schemas/metadata.schema.json",
+  "id": "belin",
+  "display_name": "Belin",
+  "aliases": [
+    "belìn"
+  ],
+  "region": "Liguria",
+  "provinces": [
+    "Genova"
+  ],
+  "geographical_area": "Genoa and its immediate surroundings (urban Genoese, Liguria)",
+  "linguistic_classification": "Ligurian (Gallo-Italic), Genoese",
+  "language_family": "Romance > Italo-Western > Gallo-Italic > Ligurian > Genoese",
+  "orthographic_conventions": "Académia Ligùstica do Brénno 'grafia ofiçiâ': ç = [s], x = [ʒ], æ, eu, ò, ö, circumflex for long vowels, hyphenated contractions (a-o, da-a), -nn-a for velar n. Variants from other sources (cû/cù, belìn/belin/bellin) are listed in the lexicon.",
+  "description_en": "Urban Genoese of Genoa, a Ligurian (Gallo-Italic) language rather than a Tuscan-type dialect. The mode is named after the famous Genoese word belin, a vulgar noun used constantly as an all-purpose exclamation and filler. First version, built from encyclopedic sources and one academic article on vulgar phraseology.",
+  "description_it": "Genovese urbano di Genova, lingua ligure (gallo-italica) e non dialetto di tipo toscano. La modalità prende il nome dalla celeberrima parola belin, un termine volgare usato come intercalare e esclamazione universale. Prima versione costruita su fonti enciclopediche e un articolo accademico sulla fraseologia volgare.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "belin",
+    "variants": [
+      "belìn",
+      "bellin",
+      "belino",
+      "belinn-a (not attested; catalog alias)"
+    ],
+    "meaning_en": "Literally 'dick'; in use an all-purpose exclamation and filler (surprise, annoyance, emphasis, admiration), whose value depends on its position in the sentence and on tone.",
+    "meaning_it": "Letteralmente 'pene'; nell'uso intercalare ed esclamazione universale (stupore, disappunto, enfasi, ammirazione), con valore che dipende da posizione e tono.",
+    "attestation": "Described as the best-known word of Genoese by the Ligurian Wikipedia and by Autelli (GEPHRAS, Acquarone 2015 spelling); Italian Wikipedia cites Toso for its origin and notes first Genoese written attestation in 1894 and wide Ligurian/Oltregiogo/Tabarchino spread. Etymology debated (Wikizionario: from belo 'budello'; Autelli/Toso: from bello). Not exclusive to Genoa.",
+    "sources": [
+      "src-lij-itwiki-belin",
+      "src-lij-itwikt-belin",
+      "src-lij-autelli-gephras",
+      "src-lij-ljwiki-belin"
+    ]
+  },
+  "sources": [
+    "src-lij-autelli-gephras",
+    "src-lij-babbel-genoese",
+    "src-lij-enwiki-genoese",
+    "src-lij-enwiki-ligurian",
+    "src-lij-guidagenova-belin",
+    "src-lij-italysegreta-parlare",
+    "src-lij-itwiki-belin",
+    "src-lij-itwiki-dialetto",
+    "src-lij-itwikt-belin",
+    "src-lij-ljwiki-belin",
+    "src-lij-ljwiki-zena",
+    "src-lij-mentelocale-modi",
+    "src-lij-wikiquote-proverbi",
+    "src-lij-wikt-lij-categories",
+    "src-lij-zeneize-grafia"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review. Example sentences in examples.md are AI-composed from short documented forms and may contain errors.",
+    "Verb paradigms are limited to the present, perfect and a few imperfect forms; future, conditional, imperative and progressive are not documented here and must be avoided or kept to fragments.",
+    "The source verb table (src-lij-itwiki-dialetto) is partly garbled; irregular present forms need native checking.",
+    "No documented Genoese blasphemy formula was found; blasphemy is intentionally absent (no entry flagged blasphemy, no Italian formulas imported).",
+    "Sources use different spellings; the Academy subpages (alphabet, accents) could not be read, so letter values come from Wikipedia.",
+    "Many colloquial items (mugugno, paciugo, manimàn, cianin cianin, caruggio) come only from popular web sources and are marked unverified.",
+    "The catalog alias 'belinn-a' is not attested as a Genoese form of belin (feminine belina is Spezzino); consider removing it. The catalog mode word and the Genoa association are correct."
+  ],
+  "last_updated": "2026-11-25"
+}

@@ -1,0 +1,760 @@
+{
+  "$schema": "../../../../../schemas/profanity.schema.json",
+  "dialect": "belin",
+  "entries": [
+    {
+      "id": "belin",
+      "original": "belin",
+      "category": "exclamation",
+      "meaning_it": "Intercalare: stupore, sconforto, enfasi.",
+      "meaning_en": "Filler/exclamation: surprise, dismay, emphasis.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "annoyance",
+          "admiration"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-itwikt-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "pene",
+      "variants": [
+        "belìn",
+        "bellin"
+      ],
+      "notes": "Mildest and most frequent; position and tone change the meaning (src-lij-itwiki-belin).",
+      "appropriate_contexts": [
+        "with friends",
+        "venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal settings",
+        "elders one doesn't know"
+      ],
+      "examples": [
+        {
+          "text": "Belin, che giornâ!",
+          "translation_it": "Accidenti, che giornata!",
+          "translation_en": "Damn, what a day!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "ma-belin",
+      "original": "Ma belin!",
+      "category": "exclamation",
+      "meaning_it": "Ma insomma! (disappunto)",
+      "meaning_en": "Oh come on!",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "disappointment",
+          "frustration"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "appropriate_contexts": [
+        "frustration at a failing build"
+      ],
+      "inappropriate_contexts": [
+        "formal settings",
+        "elders one doesn't know"
+      ],
+      "examples": [
+        {
+          "text": "Ma belin, no va!",
+          "translation_it": "Ma insomma, non funziona!",
+          "translation_en": "Oh come on, it doesn't work!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "abelinou",
+      "original": "abelinôu",
+      "category": "insult",
+      "meaning_it": "Stupido, poco sveglio.",
+      "meaning_en": "Dim, silly.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "reso belino",
+      "variants": [
+        "abelinòu",
+        "abbelinou"
+      ],
+      "examples": [
+        {
+          "text": "Ti t'ê un abelinôu.",
+          "translation_it": "Sei uno stupido.",
+          "translation_en": "You are a dimwit.",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "belinon",
+      "original": "belinon",
+      "category": "affectionate",
+      "meaning_it": "Sempliciotto, ingenuo; spesso affettuoso tra amici.",
+      "meaning_en": "Simpleton; often affectionate among friends.",
+      "intensity": 2,
+      "register": "affectionate",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "affection",
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "grosso belino",
+      "variants": [
+        "belinone"
+      ],
+      "examples": [
+        {
+          "text": "Ti t'ê o belinon de sempre.",
+          "translation_it": "Sei il solito sempliciotto.",
+          "translation_en": "You're the same old simpleton.",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "manco-belin",
+      "original": "Manco pe-o belin!",
+      "category": "dismissal",
+      "meaning_it": "Manco per sogno! Col cavolo!",
+      "meaning_en": "No way!",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "refusal"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "examples": [
+        {
+          "text": "Manco pe-o belin che vegno!",
+          "translation_it": "Manco per sogno che vengo!",
+          "translation_en": "No bloody way I'm coming!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "porta-via-belin",
+      "original": "portâ via o belin",
+      "category": "dismissal",
+      "meaning_it": "Vattene, togliti dai piedi.",
+      "meaning_en": "Get lost.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras",
+        "src-lij-itwiki-belin",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "portare via il belino",
+      "variants": [
+        "porta vîa o belin"
+      ],
+      "examples": [
+        {
+          "text": "Porta vîa o belin, che son impegnôu!",
+          "translation_it": "Togliti dai piedi, sono occupato!",
+          "translation_en": "Get lost, I'm busy!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "alleita-belin",
+      "original": "alleitâ o belin",
+      "category": "vulgar-idiom",
+      "meaning_it": "Rompere ripetutamente le scatole a qualcuno.",
+      "meaning_en": "To pester someone relentlessly.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "mungere il belino",
+      "examples": [
+        {
+          "text": "Ti me alleiti o belin da stamattin!",
+          "translation_it": "Mi rompi le palle da stamattina!",
+          "translation_en": "You've been busting my balls since morning!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "belin-amao",
+      "original": "avei o belin amao",
+      "category": "vulgar-idiom",
+      "meaning_it": "Essere di pessimo umore.",
+      "meaning_en": "To be in a foul mood.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "bad mood"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "avere il belino amaro",
+      "examples": [
+        {
+          "text": "Anchêu ò o belin amao.",
+          "translation_it": "Oggi ho le palle girate.",
+          "translation_en": "I'm in a foul mood today.",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "a-belin-de-can",
+      "original": "a belin de can",
+      "category": "vulgar-idiom",
+      "meaning_it": "Fatto male, a cazzo di cane.",
+      "meaning_en": "Done badly.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "come il belino di un cane",
+      "examples": [
+        {
+          "text": "L'ha fæto tutto a belin de can.",
+          "translation_it": "L'ha fatto tutto a cazzo di cane.",
+          "translation_en": "He did it all half-assed.",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "cu-che",
+      "original": "che cû!",
+      "category": "exclamation",
+      "meaning_it": "Che fortuna!",
+      "meaning_en": "What luck!",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "admiration",
+          "envy"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "che culo",
+      "examples": [
+        {
+          "text": "Che cû, o l'à vinciuo!",
+          "translation_it": "Che culo, ha vinto!",
+          "translation_en": "What luck, he won!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "cu-ciu-bagasce",
+      "original": "avei ciù cû che træ bagasce",
+      "category": "vulgar-metaphor",
+      "meaning_it": "Avere una fortuna sfacciata.",
+      "meaning_en": "To be outrageously lucky.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "envy"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "avere più culo di tre puttane"
+    },
+    {
+      "id": "va-tutto-bagasce",
+      "original": "Va tutto à bagasce!",
+      "category": "exclamation",
+      "meaning_it": "Va tutto in malora!",
+      "meaning_en": "Everything's going to hell!",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "frustration",
+          "despair"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "va tutto a puttane",
+      "examples": [
+        {
+          "text": "A produçion a va tutto à bagasce!",
+          "translation_it": "La produzione va tutta a puttane!",
+          "translation_en": "Production is going to hell!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "porca-bagascia",
+      "original": "Pòrca de unna bagascia!",
+      "category": "exclamation",
+      "meaning_it": "Porca puttana! (rabbia, sorpresa)",
+      "meaning_en": "Holy fuck!",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "surprise"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "porca di una puttana"
+    },
+    {
+      "id": "figgio-bagascia",
+      "original": "Figgio de bagascia!",
+      "category": "insult",
+      "meaning_it": "Figlio di puttana.",
+      "meaning_en": "Son of a bitch.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "figlio di puttana",
+      "variants": [
+        "Figgio de unna bagascia!"
+      ],
+      "inappropriate_contexts": [
+        "family settings",
+        "people you respect"
+      ]
+    },
+    {
+      "id": "manda-bagasce",
+      "original": "mandâ à bagasce",
+      "category": "dismissal",
+      "meaning_it": "Mandare a quel paese.",
+      "meaning_en": "To tell someone to go to hell.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "mandare alle puttane"
+    },
+    {
+      "id": "belin-strangoe",
+      "original": "Un belin ch'o te strangoe!",
+      "category": "imprecation",
+      "meaning_it": "Ma va' a cagare! (Che ti prenda un colpo)",
+      "meaning_en": "Go fuck yourself.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "un belino che ti strangoli",
+      "variants": [
+        "Un belin ch'o te neghe!"
+      ]
+    },
+    {
+      "id": "battisene-cu",
+      "original": "battisene o cû",
+      "category": "vulgar-idiom",
+      "meaning_it": "Fregarsene.",
+      "meaning_en": "Not to give a damn.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "battersi il culo",
+      "variants": [
+        "battisene a mossa"
+      ],
+      "examples": [
+        {
+          "text": "Me ne batto o cû de quello che dixan.",
+          "translation_it": "Me ne frego di quello che dicono.",
+          "translation_en": "I don't give a damn what they say.",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "cu-ciatto",
+      "original": "ëse un cû ciatto",
+      "category": "insult",
+      "meaning_it": "Essere uno scansafatiche.",
+      "meaning_en": "To be a lazy bum.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "essere un culo piatto"
+    },
+    {
+      "id": "cervello-cu",
+      "original": "avei o çervello into cû comme i ägni",
+      "category": "insult",
+      "meaning_it": "Essere un coglione totale.",
+      "meaning_en": "To be a complete idiot.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "cervello nel culo come i ragni"
+    },
+    {
+      "id": "cacciase-lengua",
+      "original": "cacciâse a lengua into cû",
+      "category": "dismissal",
+      "meaning_it": "Stare zitto.",
+      "meaning_en": "Shut up.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "ficcarsi la lingua nel culo"
+    },
+    {
+      "id": "pin-musse",
+      "original": "ëse pin de musse",
+      "category": "vulgar-idiom",
+      "meaning_it": "Dire stupidaggini.",
+      "meaning_en": "To talk rubbish.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "disbelief"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "essere pieno di mosse"
+    },
+    {
+      "id": "cuggiun",
+      "original": "cuggiun",
+      "category": "anatomical",
+      "meaning_it": "Testicolo; cuggionâ = prendere in giro.",
+      "meaning_en": "Testicle; cuggionâ = mockery.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "literal_meaning": "testicolo"
+    },
+    {
+      "id": "galuscio",
+      "original": "galuscio",
+      "category": "insult",
+      "meaning_it": "Escremento; insulto datato.",
+      "meaning_en": "Excrement; dated insult.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "literal_meaning": "escremento",
+      "notes": "The guide calls it outdated and vulgar."
+    },
+    {
+      "id": "tegni-naso-cu",
+      "original": "tegnî o naso into cû",
+      "category": "vulgar-idiom",
+      "meaning_it": "Adulare servilmente.",
+      "meaning_en": "To toady.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "literal_meaning": "tenere il naso nel culo"
+    }
+  ]
+}

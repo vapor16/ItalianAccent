@@ -1,0 +1,2425 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "belin",
+  "entries": [
+    {
+      "id": "o",
+      "term": "o",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile singolare (il)",
+      "meaning_en": "masculine singular definite article",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "article",
+      "variants": [
+        "l'"
+      ],
+      "notes": "L' before a vowel. Also the subject clitic of 3sg masculine before the verb.",
+      "examples": [
+        {
+          "text": "o can",
+          "translation_it": "il cane",
+          "translation_en": "the dog",
+          "provenance": "documented-rule"
+        }
+      ]
+    },
+    {
+      "id": "a",
+      "term": "a",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo femminile singolare (la)",
+      "meaning_en": "feminine singular definite article",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "article",
+      "variants": [
+        "l'"
+      ],
+      "notes": "Also the 3sg feminine subject clitic."
+    },
+    {
+      "id": "i",
+      "term": "i",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile plurale (i, gli)",
+      "meaning_en": "masculine plural definite article",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "article",
+      "examples": [
+        {
+          "text": "i meghi",
+          "translation_it": "i medici",
+          "translation_en": "the doctors",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "term": "e",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo femminile plurale (le)",
+      "meaning_en": "feminine plural definite article",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "article",
+      "examples": [
+        {
+          "text": "e careghe",
+          "translation_it": "le sedie",
+          "translation_en": "the chairs",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "un",
+      "term": "un",
+      "category": "function-word",
+      "meaning_it": "articolo indeterminativo maschile (un); femminile unna",
+      "meaning_en": "indefinite article, masculine (feminine unna)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "article",
+      "variants": [
+        "unna"
+      ],
+      "notes": "No plural; partitive de/di or doî/doe used instead."
+    },
+    {
+      "id": "mi",
+      "term": "mi",
+      "category": "function-word",
+      "meaning_it": "io (pronome soggetto)",
+      "meaning_en": "I (subject pronoun)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "notes": "Genoese is pro-drop; stressed pronoun used for emphasis."
+    },
+    {
+      "id": "ti",
+      "term": "ti",
+      "category": "function-word",
+      "meaning_it": "tu; anche clitico soggetto obbligatorio di 2sg davanti al verbo",
+      "meaning_en": "you (sg); also the obligatory 2sg subject clitic before the verb",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "ti ô veu o vin?",
+          "translation_it": "lo vuoi il vino?",
+          "translation_en": "do you want the wine?",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "le",
+      "term": "lê",
+      "category": "function-word",
+      "meaning_it": "lui/lei (pronome soggetto)",
+      "meaning_en": "he/she (subject pronoun)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "niatri",
+      "term": "niatri",
+      "category": "function-word",
+      "meaning_it": "noi",
+      "meaning_en": "we",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "noiatri"
+      ]
+    },
+    {
+      "id": "viatri",
+      "term": "viatri",
+      "category": "function-word",
+      "meaning_it": "voi",
+      "meaning_en": "you (pl)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "voiatri"
+      ]
+    },
+    {
+      "id": "liatri",
+      "term": "liatri",
+      "category": "function-word",
+      "meaning_it": "loro",
+      "meaning_en": "they",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "loiatri",
+        "lô"
+      ]
+    },
+    {
+      "id": "vosciae",
+      "term": "voscià",
+      "category": "function-word",
+      "meaning_it": "forma di cortesia (Lei) molto deferente",
+      "meaning_en": "very deferential polite 'you'",
+      "register": "formal",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "scià"
+      ],
+      "notes": "Voî is the less deferential address and can sound distant or offensive today.",
+      "examples": [
+        {
+          "text": "scià l'intre voscià pe-o primmo, sciô Reboa!",
+          "translation_it": "entri Lei per primo, signor Reboa!",
+          "translation_en": "please, you go in first, Mr Rebora!",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "ghe",
+      "term": "ghe",
+      "category": "function-word",
+      "meaning_it": "ci, vi, gli (clitico locativo/dativo); gh'é = c'è",
+      "meaning_en": "there / to him-her (clitic); gh'é = there is",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-ljwiki-zena"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "clitic",
+      "variants": [
+        "gh'"
+      ],
+      "examples": [
+        {
+          "text": "gh'é stæto un ch'o m'à saluou pe-a stradda",
+          "translation_it": "c'è stato uno che mi ha salutato per strada",
+          "translation_en": "someone greeted me in the street",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "ne",
+      "term": "ne",
+      "category": "function-word",
+      "meaning_it": "ne (partitivo); anche noi (clitico oggetto)",
+      "meaning_en": "of-it/of-them (partitive clitic); us",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "clitic",
+      "examples": [
+        {
+          "text": "ò cattou de çexe, ti ne veu?",
+          "translation_it": "ho comprato delle ciliegie, ne vuoi?",
+          "translation_en": "I bought some cherries, do you want some?",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "no",
+      "term": "no",
+      "category": "function-word",
+      "meaning_it": "negazione, davanti al verbo",
+      "meaning_en": "negation, placed before the verb",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "adverb",
+      "notes": "Attested in 'no stâ à parlâ', 'no se pêu'.",
+      "examples": [
+        {
+          "text": "no se pêu",
+          "translation_it": "non si può",
+          "translation_en": "one cannot",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "inte",
+      "term": "inte",
+      "category": "function-word",
+      "meaning_it": "in + articolo (nel, nella...)",
+      "meaning_en": "in + article (in the)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "preposition",
+      "variants": [
+        "inta",
+        "into"
+      ],
+      "examples": [
+        {
+          "text": "son cheito inte l'ægua",
+          "translation_it": "sono caduto nell'acqua",
+          "translation_en": "I fell into the water",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "pe",
+      "term": "pe",
+      "category": "function-word",
+      "meaning_it": "per",
+      "meaning_en": "for, through",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "preposition",
+      "variants": [
+        "pe-a",
+        "pe-o"
+      ]
+    },
+    {
+      "id": "con",
+      "term": "con",
+      "category": "function-word",
+      "meaning_it": "con",
+      "meaning_en": "with",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "preposition"
+    },
+    {
+      "id": "chi",
+      "term": "chì",
+      "category": "function-word",
+      "meaning_it": "qui (lì = lì, là = laggiù)",
+      "meaning_en": "here (lì there, là over there)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "sto",
+      "term": "sto",
+      "category": "function-word",
+      "meaning_it": "questo (sta, sti, ste)",
+      "meaning_en": "this (sta, sti, ste)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "demonstrative"
+    },
+    {
+      "id": "mae",
+      "term": "mæ",
+      "category": "function-word",
+      "meaning_it": "mio",
+      "meaning_en": "my",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "possessive",
+      "notes": "Possessives do not vary by gender/number of the possessed; teu/tò your, seu/sò his-her-their."
+    },
+    {
+      "id": "cose",
+      "term": "cöse",
+      "category": "function-word",
+      "meaning_it": "che cosa",
+      "meaning_en": "what?",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interrogative",
+      "variants": [
+        "cösa"
+      ],
+      "examples": [
+        {
+          "text": "cöse?",
+          "translation_it": "che cosa?",
+          "translation_en": "what?",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "comme",
+      "term": "comme",
+      "category": "function-word",
+      "meaning_it": "come",
+      "meaning_en": "how?",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-ljwiki-zena"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interrogative"
+    },
+    {
+      "id": "quarche",
+      "term": "quarche",
+      "category": "function-word",
+      "meaning_it": "qualche",
+      "meaning_en": "some, any",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "indefinite"
+    },
+    {
+      "id": "nisciun",
+      "term": "nisciun",
+      "category": "function-word",
+      "meaning_it": "nessuno (f. nisciuña)",
+      "meaning_en": "nobody, no (f. nisciuña)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "indefinite",
+      "variants": [
+        "nisciuña"
+      ]
+    },
+    {
+      "id": "casa",
+      "term": "casa",
+      "category": "word",
+      "meaning_it": "casa",
+      "meaning_en": "house",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "cà"
+      ]
+    },
+    {
+      "id": "can",
+      "term": "can",
+      "category": "word",
+      "meaning_it": "cane (pl. chen, con metafonia)",
+      "meaning_en": "dog (pl. chen, by metaphony)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "o can / i chen",
+          "translation_it": "il cane / i cani",
+          "translation_en": "the dog / the dogs",
+          "provenance": "documented-rule"
+        }
+      ]
+    },
+    {
+      "id": "figgeu",
+      "term": "figgeu",
+      "category": "word",
+      "meaning_it": "ragazzo, bambino; come appellativo informale",
+      "meaning_en": "kid, boy; also an informal address",
+      "register": "familiar",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "notes": "In a popular source also an exclamation of surprise close to belin (low reliability)."
+    },
+    {
+      "id": "barba",
+      "term": "barba",
+      "category": "word",
+      "meaning_it": "zio; anche barba (del viso)",
+      "meaning_en": "uncle; also beard",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "o scignoro che t'æ saluou o l'é seu barba",
+          "translation_it": "il signore che hai salutato è suo zio",
+          "translation_en": "the gentleman you greeted is his uncle",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "testa",
+      "term": "tésta",
+      "category": "word",
+      "meaning_it": "testa",
+      "meaning_en": "head",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian",
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "bocca",
+      "term": "bócca",
+      "category": "word",
+      "meaning_it": "bocca",
+      "meaning_en": "mouth",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian",
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "braccio",
+      "term": "bràsso",
+      "category": "word",
+      "meaning_it": "braccio",
+      "meaning_en": "arm",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian",
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "ganba",
+      "term": "gànba",
+      "category": "word",
+      "meaning_it": "gamba",
+      "meaning_en": "leg",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "cheu",
+      "term": "cheu",
+      "category": "word",
+      "meaning_it": "cuore",
+      "meaning_en": "heart",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian",
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "euggio",
+      "term": "éuggio",
+      "category": "word",
+      "meaning_it": "occhio (pl. êuggi)",
+      "meaning_en": "eye (pl. êuggi)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian",
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "notes": "Plural attested in quattr'êugg."
+    },
+    {
+      "id": "aegua",
+      "term": "ægua",
+      "category": "word",
+      "meaning_it": "acqua",
+      "meaning_en": "water",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "æigua"
+      ]
+    },
+    {
+      "id": "fugassa",
+      "term": "fugassa",
+      "category": "word",
+      "meaning_it": "focaccia",
+      "meaning_en": "focaccia flatbread",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "bibin",
+      "term": "bibìn",
+      "category": "word",
+      "meaning_it": "tacchino",
+      "meaning_en": "turkey",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese",
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "mego",
+      "term": "mego",
+      "category": "word",
+      "meaning_it": "medico (pl. meghi)",
+      "meaning_en": "doctor (pl. meghi)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "o mego / i meghi",
+          "translation_it": "il medico / i medici",
+          "translation_en": "the doctor / the doctors",
+          "provenance": "documented-rule"
+        }
+      ]
+    },
+    {
+      "id": "carega",
+      "term": "carega",
+      "category": "word",
+      "meaning_it": "sedia (pl. careghe)",
+      "meaning_en": "chair (pl. careghe)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "carêga"
+      ]
+    },
+    {
+      "id": "canson",
+      "term": "canson",
+      "category": "word",
+      "meaning_it": "canzone (pl. cansoin)",
+      "meaning_en": "song (pl. cansoin)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "maina",
+      "term": "mainâ",
+      "category": "word",
+      "meaning_it": "marinaio (pl. mainæ)",
+      "meaning_en": "sailor (pl. mainæ)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto",
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "ciave",
+      "term": "ciave",
+      "category": "word",
+      "meaning_it": "chiave (invariabile)",
+      "meaning_en": "key (invariable plural)",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "luxe",
+      "term": "luxe",
+      "category": "word",
+      "meaning_it": "luce (invariabile)",
+      "meaning_en": "light",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "figo",
+      "term": "fîgo",
+      "category": "word",
+      "meaning_it": "fico",
+      "meaning_en": "fig",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-ligurian"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "diao",
+      "term": "diao",
+      "category": "word",
+      "meaning_it": "diavolo",
+      "meaning_en": "devil",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "dona",
+      "term": "dona",
+      "category": "word",
+      "meaning_it": "donna",
+      "meaning_en": "woman",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "dònna"
+      ]
+    },
+    {
+      "id": "deman",
+      "term": "deman",
+      "category": "word",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "demàn"
+      ]
+    },
+    {
+      "id": "aieri",
+      "term": "aieri",
+      "category": "word",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "anchieu",
+      "term": "anchêu",
+      "category": "word",
+      "meaning_it": "oggi",
+      "meaning_en": "today",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "cita",
+      "term": "cità",
+      "category": "word",
+      "meaning_it": "città",
+      "meaning_en": "city",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "çitæ"
+      ]
+    },
+    {
+      "id": "ciassa",
+      "term": "ciassa",
+      "category": "word",
+      "meaning_it": "piazza",
+      "meaning_en": "square",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "caruggio",
+      "term": "caruggio",
+      "category": "word",
+      "meaning_it": "stretto vicolo dei centri storici liguri (pl. caruggi)",
+      "meaning_en": "narrow alley of Ligurian old towns",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun",
+      "notes": "Spelling from a travel blog."
+    },
+    {
+      "id": "bratta",
+      "term": "bratta",
+      "category": "word",
+      "meaning_it": "fango, mota",
+      "meaning_en": "mud",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "mugugno",
+      "term": "mugugno",
+      "category": "word",
+      "meaning_it": "lamentela borbottata, brontolio abituale",
+      "meaning_en": "habitual grumbling",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "paciugo",
+      "term": "paciugo",
+      "category": "word",
+      "meaning_it": "pasticcio, miscuglio disordinato",
+      "meaning_en": "jumble, mess",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "invexendo",
+      "term": "invexendo",
+      "category": "word",
+      "meaning_it": "confusione, trambusto",
+      "meaning_en": "confusion, hubbub",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare",
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun",
+      "notes": "Compare the verb invexendâ in Wiktionary."
+    },
+    {
+      "id": "refrescumme",
+      "term": "refrescumme",
+      "category": "word",
+      "meaning_it": "odore di umido o di piatti non asciutti",
+      "meaning_en": "smell of damp or unwashed dishes",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-mentelocale-modi",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "belin",
+      "term": "belin",
+      "category": "word",
+      "meaning_it": "pene (volg.); come intercalare: stupore, enfasi, disappunto",
+      "meaning_en": "dick (vulgar); as filler: surprise, emphasis, annoyance",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-itwikt-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "belìn",
+        "bellin",
+        "belino"
+      ],
+      "notes": "Identifier word. Meaning depends on position and intonation; often not hostile. Generate at vulgarity >=3 only."
+    },
+    {
+      "id": "belinon",
+      "term": "belinon",
+      "category": "word",
+      "meaning_it": "persona ingenua, sempliciotto (spesso affettuoso)",
+      "meaning_en": "naive person, simpleton (often affectionate)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "belinone"
+      ],
+      "notes": "Feminine belina is mainly Spezia area; do not use for Genoa."
+    },
+    {
+      "id": "abelinou",
+      "term": "abelinôu",
+      "category": "word",
+      "meaning_it": "stupido, poco sveglio",
+      "meaning_en": "dim, silly",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-babbel-genoese",
+        "src-lij-ljwiki-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "adjective",
+      "variants": [
+        "abelinòu",
+        "abbelinou",
+        "abelinàto"
+      ]
+    },
+    {
+      "id": "belinata",
+      "term": "belinâta",
+      "category": "word",
+      "meaning_it": "sciocchezza, azione stupida",
+      "meaning_en": "a silly act, nonsense",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-ljwiki-belin",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "belinate"
+      ]
+    },
+    {
+      "id": "imbelinase",
+      "term": "imbelinâse",
+      "category": "word",
+      "meaning_it": "impasticciarsi; cadere",
+      "meaning_en": "to get muddled; to fall down",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-ljwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "variants": [
+        "inbelinâse",
+        "imbelinarsi"
+      ]
+    },
+    {
+      "id": "cu",
+      "term": "cû",
+      "category": "word",
+      "meaning_it": "culo, sedere",
+      "meaning_en": "backside, ass",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "cù"
+      ],
+      "notes": "Variant cù seen online."
+    },
+    {
+      "id": "bagascia",
+      "term": "bagascia",
+      "category": "word",
+      "meaning_it": "puttana; anche (scherz.) pancia",
+      "meaning_en": "whore; also jocularly 'belly'",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "mossa",
+      "term": "mossa",
+      "category": "word",
+      "meaning_it": "fica; per estensione palle, bugie",
+      "meaning_en": "pussy; by extension bollocks, lies",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "noun",
+      "variants": [
+        "musse (pl.)"
+      ]
+    },
+    {
+      "id": "cuggiun",
+      "term": "cuggiun",
+      "category": "word",
+      "meaning_it": "testicolo; cuggionâ = presa in giro",
+      "meaning_en": "testicle; cuggionâ = mockery",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-guidagenova-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "v-ese",
+      "term": "êse",
+      "category": "word",
+      "meaning_it": "essere",
+      "meaning_en": "to be",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-avei",
+      "term": "avéi",
+      "category": "word",
+      "meaning_it": "avere",
+      "meaning_en": "to have",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-anda",
+      "term": "andâ",
+      "category": "word",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-fa",
+      "term": "fâ",
+      "category": "word",
+      "meaning_it": "fare",
+      "meaning_en": "to do, make",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-di",
+      "term": "dî",
+      "category": "word",
+      "meaning_it": "dire",
+      "meaning_en": "to say",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-sta",
+      "term": "stâ",
+      "category": "word",
+      "meaning_it": "stare, restare",
+      "meaning_en": "to stay, be",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-vedde",
+      "term": "védde",
+      "category": "word",
+      "meaning_it": "vedere",
+      "meaning_en": "to see",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-mangia",
+      "term": "mangiâ",
+      "category": "word",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-cena",
+      "term": "çenâ",
+      "category": "word",
+      "meaning_it": "cenare",
+      "meaning_en": "to have dinner",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-disna",
+      "term": "disnâ",
+      "category": "word",
+      "meaning_it": "pranzare",
+      "meaning_en": "to have lunch",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-parla",
+      "term": "parlâ",
+      "category": "word",
+      "meaning_it": "parlare",
+      "meaning_en": "to speak",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-canta",
+      "term": "cantâ",
+      "category": "word",
+      "meaning_it": "cantare",
+      "meaning_en": "to sing",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-ciama",
+      "term": "ciamâ",
+      "category": "word",
+      "meaning_it": "chiamare",
+      "meaning_en": "to call",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-travagia",
+      "term": "travagiâ",
+      "category": "word",
+      "meaning_it": "lavorare",
+      "meaning_en": "to work",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-ariva",
+      "term": "arivâ",
+      "category": "word",
+      "meaning_it": "arrivare",
+      "meaning_en": "to arrive",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-comensa",
+      "term": "comensâ",
+      "category": "word",
+      "meaning_it": "cominciare",
+      "meaning_en": "to begin",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-cangia",
+      "term": "cangiâ",
+      "category": "word",
+      "meaning_it": "cambiare",
+      "meaning_en": "to change",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-giastema",
+      "term": "giastemâ",
+      "category": "word",
+      "meaning_it": "bestemmiare",
+      "meaning_en": "to blaspheme, swear",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-scrive",
+      "term": "scrîve",
+      "category": "word",
+      "meaning_it": "scrivere",
+      "meaning_en": "to write",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-leze",
+      "term": "lêze",
+      "category": "word",
+      "meaning_it": "leggere",
+      "meaning_en": "to read",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-zuga",
+      "term": "zugâ",
+      "category": "word",
+      "meaning_it": "giocare",
+      "meaning_en": "to play",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-parti",
+      "term": "partî",
+      "category": "word",
+      "meaning_it": "partire",
+      "meaning_en": "to leave",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-vive",
+      "term": "vîve",
+      "category": "word",
+      "meaning_it": "vivere",
+      "meaning_en": "to live",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-savei",
+      "term": "savéi",
+      "category": "word",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-poei",
+      "term": "poéi",
+      "category": "word",
+      "meaning_it": "potere",
+      "meaning_en": "can, to be able",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-voei",
+      "term": "voéi",
+      "category": "word",
+      "meaning_it": "volere",
+      "meaning_en": "to want",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-dovei",
+      "term": "dovéi",
+      "category": "word",
+      "meaning_it": "dovere",
+      "meaning_en": "must, to owe",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-beive",
+      "term": "béive",
+      "category": "word",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-cheuve",
+      "term": "cêuve",
+      "category": "word",
+      "meaning_it": "piovere",
+      "meaning_en": "to rain",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories",
+        "src-lij-enwiki-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "v-neva",
+      "term": "nevâ",
+      "category": "word",
+      "meaning_it": "nevicare",
+      "meaning_en": "to snow",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "verb",
+      "notes": "Infinitive form as lemmatized in Wiktionary; spelling varies between entries."
+    },
+    {
+      "id": "i-belin",
+      "term": "belin!",
+      "category": "interjection",
+      "meaning_it": "esclamazione di stupore, disappunto o rafforzativo",
+      "meaning_en": "exclamation of surprise, annoyance or emphasis",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-autelli-gephras",
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection",
+      "notes": "Position matters: sentence-initial it introduces a question or surprise; mid-sentence it is a pause; final it conveys pride or complaint (src-lij-itwiki-belin).",
+      "examples": [
+        {
+          "text": "Belin, che fugassa!",
+          "translation_it": "Accidenti, che focaccia!",
+          "translation_en": "Damn, what a focaccia!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "i-ma-belin",
+      "term": "ma belin!",
+      "category": "interjection",
+      "meaning_it": "ma insomma! (disappunto, incredulità)",
+      "meaning_en": "come on! (disappointment)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "Ma belin!",
+          "translation_it": "Ma insomma!",
+          "translation_en": "Oh for crying out loud!",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "i-dai-belin",
+      "term": "dai belìn!",
+      "category": "interjection",
+      "meaning_it": "dai, su! (spesso con frustrazione)",
+      "meaning_en": "come on! (often frustrated)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection",
+      "notes": "Reported from a blog (Fabre 2017) via Autelli."
+    },
+    {
+      "id": "i-eh-belin",
+      "term": "eh, belìn!",
+      "category": "interjection",
+      "meaning_it": "eh, addirittura! (incredulità)",
+      "meaning_en": "oh come on, really! (disbelief)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-belin-belino",
+      "term": "belin belino",
+      "category": "interjection",
+      "meaning_it": "puoi dirlo forte, lo credo bene",
+      "meaning_en": "you can say that again",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-belandi",
+      "term": "belandi",
+      "category": "interjection",
+      "meaning_it": "esclamazione di meraviglia (eufemismo di belin)",
+      "meaning_en": "exclamation of wonder (belin euphemism)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-alura",
+      "term": "alura",
+      "category": "interjection",
+      "meaning_it": "dunque, allora",
+      "meaning_en": "so, then",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-basta",
+      "term": "bàsta",
+      "category": "interjection",
+      "meaning_it": "basta!",
+      "meaning_en": "enough!",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-daghe",
+      "term": "daghe",
+      "category": "interjection",
+      "meaning_it": "dai, forza (lett. 'dagli')",
+      "meaning_en": "come on, go for it",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection",
+      "notes": "Listed as interjection in Wiktionary; register not stated."
+    },
+    {
+      "id": "i-merci",
+      "term": "merçì",
+      "category": "interjection",
+      "meaning_it": "grazie",
+      "meaning_en": "thanks",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection",
+      "variants": [
+        "merçi"
+      ]
+    },
+    {
+      "id": "i-pepiaxei",
+      "term": "pe piâxéi",
+      "category": "interjection",
+      "meaning_it": "per piacere",
+      "meaning_en": "please",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "i-manimam",
+      "term": "manimàn",
+      "category": "interjection",
+      "meaning_it": "non si sa mai",
+      "meaning_en": "you never know",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection",
+      "variants": [
+        "manaman"
+      ]
+    },
+    {
+      "id": "i-cianin",
+      "term": "cianin cianin",
+      "category": "interjection",
+      "meaning_it": "piano piano",
+      "meaning_en": "slowly, slowly",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "interjection",
+      "notes": "Sincere advice or sarcasm."
+    },
+    {
+      "id": "i-bungiurnu",
+      "term": "bon giurnu",
+      "category": "interjection",
+      "meaning_it": "buongiorno",
+      "meaning_en": "good day",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "greeting",
+      "variants": [
+        "bungiurnu"
+      ]
+    },
+    {
+      "id": "i-benvegnuo",
+      "term": "benvegnûo",
+      "category": "interjection",
+      "meaning_it": "benvenuto",
+      "meaning_en": "welcome",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-wikt-lij-categories"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "greeting"
+    },
+    {
+      "id": "i-alua-anemo",
+      "term": "Alua come anemo?",
+      "category": "interjection",
+      "meaning_it": "allora, come va?",
+      "meaning_en": "so, how's it going?",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "greeting"
+    },
+    {
+      "id": "i-che-cu",
+      "term": "che cû!",
+      "category": "interjection",
+      "meaning_it": "che fortuna! (volg.)",
+      "meaning_en": "what luck! (vulgar)",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "interjection"
+    },
+    {
+      "id": "c-porta-via",
+      "term": "portâ via o belin",
+      "category": "colloquial-expression",
+      "meaning_it": "vattene, togliti dai piedi",
+      "meaning_en": "buzz off, go away",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras",
+        "src-lij-itwiki-belin",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase",
+      "variants": [
+        "porta vîa o belin"
+      ],
+      "examples": [
+        {
+          "text": "Porta vîa o belin!",
+          "translation_it": "Vattene!",
+          "translation_en": "Get lost!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "c-me-nimbelino",
+      "term": "me n'imbelino",
+      "category": "colloquial-expression",
+      "meaning_it": "risposta enfatica affermativa; accidenti",
+      "meaning_en": "emphatic yes; damn",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-itwiki-belin",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-battisene",
+      "term": "battisene o cû",
+      "category": "colloquial-expression",
+      "meaning_it": "fregarsene",
+      "meaning_en": "not to give a damn",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase",
+      "variants": [
+        "battisene a mossa",
+        "me ne batto o belin"
+      ]
+    },
+    {
+      "id": "c-pe-bello",
+      "term": "pe in bello belìn",
+      "category": "colloquial-expression",
+      "meaning_it": "per niente, senza motivo",
+      "meaning_en": "for nothing, for no reason",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-ljwiki-belin",
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-manco-belin",
+      "term": "Manco pe-o belin!",
+      "category": "colloquial-expression",
+      "meaning_it": "manco per sogno, col cavolo",
+      "meaning_en": "no way, not on your life",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-belin-can",
+      "term": "a belin de can",
+      "category": "colloquial-expression",
+      "meaning_it": "fatto male, alla carlona",
+      "meaning_en": "done badly, slapdash",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase",
+      "variants": [
+        "fâ qcs. a-o bellin de can"
+      ]
+    },
+    {
+      "id": "c-alleita",
+      "term": "alleitâ o belin",
+      "category": "colloquial-expression",
+      "meaning_it": "rompere le scatole, insistere fastidiosamente",
+      "meaning_en": "to pester someone endlessly",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-belin-amao",
+      "term": "avei o belin amao",
+      "category": "colloquial-expression",
+      "meaning_it": "avere le palle girate, essere di cattivo umore",
+      "meaning_en": "to be in a foul mood",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-fa-rie",
+      "term": "fâ rie o belin",
+      "category": "colloquial-expression",
+      "meaning_it": "far ridere a crepapelle (per discorsi assurdi)",
+      "meaning_en": "to be hilariously absurd",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-musse",
+      "term": "ëse pin de musse",
+      "category": "colloquial-expression",
+      "meaning_it": "dire stupidaggini",
+      "meaning_en": "to be full of nonsense",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-conta-mosse",
+      "term": "contâ de mosse",
+      "category": "colloquial-expression",
+      "meaning_it": "raccontare balle",
+      "meaning_en": "to tell fibs",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-nella-bratta",
+      "term": "êse inta bratta",
+      "category": "colloquial-expression",
+      "meaning_it": "essere nei guai",
+      "meaning_en": "to be in trouble",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-mentelocale-modi",
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "phrase",
+      "variants": [
+        "essere nella bratta"
+      ],
+      "notes": "Sources give the Italianized 'essere nella bratta'; êse inta bratta is the profile's Academy-style rendering (ai-illustrative)."
+    },
+    {
+      "id": "c-no-basta-maraggian",
+      "term": "no basta manco Maraggian",
+      "category": "colloquial-expression",
+      "meaning_it": "situazione disperata: nemmeno un luminare basterebbe",
+      "meaning_en": "hopeless: not even the great Maragliano would suffice",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-quattreuggi",
+      "term": "quattr'êugg",
+      "category": "colloquial-expression",
+      "meaning_it": "occhialuto (scherz.)",
+      "meaning_en": "four-eyes",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-italysegreta-parlare"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-impise",
+      "term": "impîse a bagascia",
+      "category": "colloquial-expression",
+      "meaning_it": "abbuffarsi, riempirsi la pancia",
+      "meaning_en": "to stuff oneself",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    },
+    {
+      "id": "c-torna-oa",
+      "term": "tornâ à l'oa de bagasce",
+      "category": "colloquial-expression",
+      "meaning_it": "tornare a casa tardissimo",
+      "meaning_en": "to come home very late",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-gephras"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "part_of_speech": "phrase"
+    }
+  ]
+}
