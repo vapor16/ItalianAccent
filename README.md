@@ -164,6 +164,15 @@ Same prompt, different modes — see [examples/](examples/) and each profile's `
 <!-- EXAMPLES:START -->
 <!-- EXAMPLES:END -->
 
+## Tests and evaluations
+
+- Deterministic checks (`python scripts/validate.py && python -m pytest`): structure, schemas, catalog, sources,
+  duplicates, security, and regression tests for the linguistic problems confirmed by the external audit
+  ([`research/ITALIANACCENT_RESEARCH.md`](research/ITALIANACCENT_RESEARCH.md)).
+- AI-assisted evaluation of the **installed** skill (`tests/behavioral/run_installed_eval.py`), comparing answers with
+  and without ItalianAccent on the same model: transcripts in [`tests/behavioral/results/v1.0.0/`](tests/behavioral/results/v1.0.0/).
+- **No native-speaker evaluation has been carried out yet.**
+
 ## Platform compatibility
 
 <!-- COMPAT:START -->
