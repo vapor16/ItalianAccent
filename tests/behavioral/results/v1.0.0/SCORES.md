@@ -180,3 +180,17 @@ Reading note: judgments of tameness are made against the default vulgarity 5; ju
 6. **pota and belin profiles §Proverbs/§Orthography:** keep a single orthography per answer (belin: `cattou/cattòu` and `ti peu` vs `ti veu`; pota: `mìa` not `miga`; pirla: always `ö/ü`), and delete or flag as 'AI-illustrative, do not quote' any proverb in `proverbs.json` with `unverified` status that reads as a calque of an Italian one (e.g. belin `a pignatta agguitâ`). Add a one-line validity rule: never create a proverb; use the profile list or an idiom with a literal meaning.
 7. **boiade profile §Syntax:** add 3-4 full, coherent Livornese sentences with `ir/'r`, `caa`, `ni` and warn against stacking them into non-sentences (`Ir tu' sugo è robba da torta`).
 8. **Docs/tests:** add a deterministic check that `eval` results include a non-empty `trimone` folder, and update eval-cases with a 'no repeated proverb within a session' expectation and a 'roast must contain at vulgarity 5 at least two profanity items' expectation so future runs can measure fixes 1 and 3.
+
+## Retest after fixes (lead review, AI-assisted, not native-validated)
+
+After the fixes listed above (SKILL.md: vulgarity 4–5 must bite, no repeated proverbs, lists in dialect, short
+activation; profile bite kits, proverb rotation, one spelling per answer) the weakest cases were re-run on the
+installed skill: `tests/behavioral/results/v1.0.0-retest/` (belin, bischero, boiade prompt 4; mena prompt 3).
+
+- Activation is now one status line plus one short sentence in all four runs.
+- Boia dé roast: several different documented insults (testa di 'azzo, spaccascurrégge, bischero), hyperbole and a
+  fitting proverb (*Minestra riscardata 'n fu ma' bona*); the earlier tameness is gone. The odd phrase
+  "robba da torta" still appears (documented in the lexicon, but used loosely).
+- Mena car warranty: step list kept in Leccese (only *garanzia*, *contratto* in Italian), new proverb
+  (*bbatti lu fierru quannu è ccautu*), no repeated proverb, profanity contextual.
+- These are spot checks by the lead, not a re-scored full evaluation.
