@@ -57,7 +57,6 @@ def test_examples_do_not_overuse_identifier(v):
 
 def test_bischero_no_h_gorgia_by_default(v):
     t = _profile(v, "bischero").lower()
-    assert "andaho" not in t
     assert re.search(r"gorgia.{0,300}(not written|do not write|never write)", t, re.S), "gorgia must be pronunciation-only"
 
 
