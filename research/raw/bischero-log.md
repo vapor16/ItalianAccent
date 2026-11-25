@@ -1,0 +1,7 @@
+# bischero log (Fiorentino)
+
+Read (WebFetch, 2026-11-25): it.wikipedia Dialetto fiorentino; Dialetti toscani; en.wikipedia Tuscan dialect; it.wikipedia Gorgia toscana; Treccani bischero; it.wiktionary bischero, grullo; Binazzi on Pieraccioni's films (Maraschio Festschrift PDF, via pdftotext); The Local "13 dialect words"; La Nazione parole toscane; Wikiquote Proverbi toscani (to ~200k chars) and Modi di dire toscani; en.wikipedia Italian profanity; it.wikipedia Bestemmia.
+Failed: it.wikipedia Toscano_(dialetto) 404; core.ac.uk PDFs (403); revistas.uam.es (access denied); Crusca "Parole di Firenze" and RID 41 PDFs unreadable by fetcher; bop.unibe.ch PDF unreadable; it.wiktionary icché 404.
+Decisions: standard Italian base; Florentine marked by i', un, e'/la, te tu, noi si, icché, codesto, apocope, fo/vo, -ea imperfect; gorgia h written only rarely. Gorgia not spelled for t/p (src advises). Future -erò/-arò not generated (unsourced).
+Doubts: subject clitic distribution (Raso/Ferrari, Renzi) seen only as search abstracts; profanity Florentine-specific items are few; Treccani citrullo and "Dio bono" base forms from search summaries; 'porco zio' and 'porca miseria' low confidence. Maremma maiala shared Tuscan oath: avoid Livornese confusion. 'Corpi disabitati' (La Nazione) skipped as unclear.
+Catalog: bischero/Fiorentino/Toscana fine; identifier_meaning_en OK. Next: Vocabolario del fiorentino contemporaneo, Raso/Ferrari clitic study.

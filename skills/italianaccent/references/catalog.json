@@ -120,8 +120,8 @@
       "region": "Toscana",
       "classification": "Tuscan, Florentine vernacular",
       "identifier_meaning_en": "Florentine 'fool, sucker'",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/bischero/"
     },
     {

@@ -569,6 +569,244 @@
       "publisher": "Wikimedia Foundation"
     },
     {
+      "id": "src-fi-binazzi-pieraccioni",
+      "title": "Note linguistiche sul cinema di Leonardo Pieraccioni (in Scritti per Nicoletta Maraschio, Accademia della Crusca, 2018)",
+      "url": "https://flore.unifi.it/retrieve/e398c37e-0d18-179a-e053-3705fe0a4cff/Binazzi_miscellanea_Maraschio.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "academic",
+      "license": "Open access repository (all rights reserved)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read via pdftotext. Documents on transcribed film speech: i' before nouns (i' triangolo, i' ciclone, i' gatto, i' culo), subject clitic e' / l'è, negation 'un' (un volea morire, un gli facea paura), impersonal first person plural (Si va?), icche as 'bandiera fiorentina' introducing rhetorical questions, c'ha, sicche, bono bono, imperfect in -ea (volea, facea), gorgia written h (andaho), voiceless intervocalic s, interjection oh. Only short forms cited. Author as in the volume (Neri Binazzi; attribution not verified on the PDF text I read).",
+      "relevant_sections": "Sections on fiorentinita (film 'I laureati', 'Il ciclone')",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Accademia della Crusca / Univ. Firenze (FLORE)"
+    },
+    {
+      "id": "src-fi-enwiki-profanity",
+      "title": "Italian profanity (Wikipedia en)",
+      "url": "https://en.wikipedia.org/wiki/Italian_profanity",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Maremma maiala (widely used in Tuscany), Dio bono/Dio bonino (typical of Tuscany), fava (common in Tuscany), maiala; general cazzo, stronzo, coglione, vaffanculo, culo, accidenti, porca Madonna; blasphemy common in Tuscany and Veneto.",
+      "relevant_sections": "Tuscany items; general lexicon",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-enwiki-tuscan",
+      "title": "Tuscan dialect (Wikipedia en)",
+      "url": "https://en.wikipedia.org/wiki/Tuscan_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Read first 100k characters: gorgia, c/g weakening, no diphthongization (foco, bono, novo, domo), noi si + 3sg, accusative te for tu, fo/vo, infinitive apocope, Tuscan lexicon list (babbo, garbare, codesto, cencio, diaccio, punto...). Does not cover subject clitics.",
+      "relevant_sections": "Phonology; Morphology; Lexicon",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-itwiki-bestemmia",
+      "title": "Bestemmia (Wikipedia it)",
+      "url": "https://it.wikipedia.org/wiki/Bestemmia",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Pattern porco + divine name, mannaggia, puttana + Madonna, euphemisms (bono, especially in Tuscany; Madosca; ostrega). Used for patterns only.",
+      "relevant_sections": "Struttura; eufemismi",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-itwiki-fiorentino",
+      "title": "Dialetto fiorentino (Wikipedia it)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_fiorentino",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Read in full: phonology (gorgia, vowels) and the article system (i' with gemination, lo, l'), citing Vitali 2020 and Canepari. Covers little morphology.",
+      "relevant_sections": "Fonologia; Articoli",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-itwiki-gorgia",
+      "title": "Gorgia toscana (Wikipedia it)",
+      "url": "https://it.wikipedia.org/wiki/Gorgia_toscana",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "How gorgia works (k, t, p between vowels, blocked by raddoppiamento) and why spelling it is unreliable (Benedetto Dei used h).",
+      "relevant_sections": "Scrittura; Area",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-itwiki-toscani",
+      "title": "Dialetti toscani (Wikipedia it)",
+      "url": "https://it.wikipedia.org/wiki/Dialetti_toscani",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Read the first 100k characters: gorgia, article i', noi si va, te/tu doubling ('te tu devi fare', 'tu fa' pena'), negation 'un/'un', infinitive apocope, mi'/tu'/su', vo/fo, ENNO forms, 'icche tu fai'. Wikipedia: facts only.",
+      "relevant_sections": "Fonetica; Morfologia; Esempi",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-itwikt-bischero",
+      "title": "bischero (Wikizionario)",
+      "url": "https://it.wiktionary.org/wiki/bischero",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "community-dictionary",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Meanings (peg, cask stopper, Tuscan 'silly person', vulgar for penis), feminine bischera, idioms 'bravo bischero!', 'ha il bischero', 'non fare il bischero', synonyms, derived bischerata. Entry flagged as incomplete.",
+      "relevant_sections": "bischero",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikimedia"
+    },
+    {
+      "id": "src-fi-itwikt-grullo",
+      "title": "grullo (Wikizionario)",
+      "url": "https://it.wiktionary.org/wiki/grullo",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "community-dictionary",
+      "license": "CC BY-SA 4.0 (facts only, rephrased)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Tuscan familiar adjective/noun 'silly person'; etymology unclear.",
+      "relevant_sections": "grullo",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikimedia"
+    },
+    {
+      "id": "src-fi-lanazione-parole",
+      "title": "Parole toscane (La Nazione, Firenze)",
+      "url": "https://www.lanazione.it/firenze/cronaca/parole-toscane-b9ff605c",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "popular-web",
+      "license": "Journalism, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Words: sciocco (unsalted), cannella (tap), cencio, cascare, smarimettere. 'corpi disabitati' was in the article but not used here.",
+      "relevant_sections": "all",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "La Nazione"
+    },
+    {
+      "id": "src-fi-thelocal-13",
+      "title": "Thirteen dialect words you need to know in Florence (The Local Italy)",
+      "url": "https://www.thelocal.it/20190513/thirteen-dialect-words-you-need-to-know-in-florence",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "popular-web",
+      "license": "Journalism, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article: fo/vo, topini, ganzo, grullo, boncitto, chetarsi, piaccicone, ruzzare, desinare, garbare, berciare, abbozzare, ciabattone. Single words and meanings only.",
+      "relevant_sections": "all",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "The Local Italy"
+    },
+    {
+      "id": "src-fi-treccani-bischero",
+      "title": "bischero (Vocabolario Treccani)",
+      "url": "https://www.treccani.it/vocabolario/bischero/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "institutional",
+      "license": "Treccani, consultation only",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Dictionary entry: tuning peg; Tuscan colloquial 'fool'; vulgar for male genitals; etymology uncertain; derivatives bischerello, bischeretto, bischeruccio, bischeraccio. Only facts cited.",
+      "relevant_sections": "bischero",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Istituto della Enciclopedia Italiana"
+    },
+    {
+      "id": "src-fi-wikiquote-modi",
+      "title": "Modi di dire toscani (Wikiquote it)",
+      "url": "https://it.wikiquote.org/wiki/Modi_di_dire_toscani",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "public-domain",
+      "license": "CC BY-SA 4.0; traditional sayings",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Short list of 13 Tuscan sayings (andar col canzar del piombo, caricarsi di legna verde, ha la gotta alle mani, Maremma maiala!, casca come una pera cotta, sordo come una campana, pelato come il culo delle scimmie...).",
+      "relevant_sections": "whole page",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikimedia"
+    },
+    {
+      "id": "src-fi-wikiquote-proverbi",
+      "title": "Proverbi toscani (Wikiquote it)",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_toscani",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Florence / Tuscany",
+      "source_type": "public-domain",
+      "license": "CC BY-SA 4.0; the proverbs are traditional/public-domain",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Collection of traditional Tuscan proverbs (mostly from 19th-century collections, in literary Tuscan spelling), including Florence-related sayings. Read about 200k of 225k characters.",
+      "relevant_sections": "I, A-F and following sections",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Wikimedia"
+    },
+    {
       "id": "src-lij-autelli-gephras",
       "title": "Genoese-Italian 'vulgar' phraseology in GEPHRAS and GEPHRAS2",
       "url": "https://bop.unibe.ch/linguistik-online/article/download/9046/12017/40407",
