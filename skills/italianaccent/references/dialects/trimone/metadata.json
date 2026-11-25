@@ -1,0 +1,86 @@
+{
+  "id": "trimone",
+  "display_name": "Trimone",
+  "aliases": [
+    "trmone",
+    "tremone",
+    "trimò"
+  ],
+  "region": "Puglia",
+  "provinces": [
+    "Bari"
+  ],
+  "geographical_area": "City of Bari (urban Barese). The profile follows the city norm; Murgia, the province and the Salento (a different southern Apulian group, not covered and never mixed in) differ.",
+  "linguistic_classification": "Apulian (Neapolitan-type upper-southern Italo-Romance group), Barese variety; traditionally called a dialect.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Southern Italian (Apulian-Barese)",
+  "orthographic_conventions": "No official Barese orthography exists. The profile uses an accented popular spelling: unstressed final vowels written with their etymological letter although pronounced as schwa; accents mark vowel quality and tell homographs apart (ué/uè, nù/nu, pésce/pèsce); apostrophe for aphaeresis and elision ('ngàse, 'mmàghene); consonant doubling after function words (che ttè, pe nnù); phonetic schwa spellings of Wiktionary converted to this convention.",
+  "description_en": "Urban Barese of Bari: schwa-reduced vowels, metaphony marking gender and number (bbuéne/bbóne, jìdde/jédde), articles u/la/le, tené for possession, avé a + infinitive for obligation, enclitic kinship possessives (màmete, fràtete), stà a + verb progressives and ca as complementizer. Voice: teasing banter, mock praise and hyperbole around the local insult tremóne.",
+  "description_it": "Il barese urbano di Bari: vocali ridotte a schwa, metafonia che distingue genere e numero (bbuéne/bbóne, jìdde/jédde), articoli u/la/le, tené per il possesso, avé a + infinito per il dovere, possessivi enclitici con i nomi di parentela (màmete, fràtete), perifrasi progressiva con stà e ca come complementatore. Tono: sfottò, lode ironica e iperbole attorno all'insulto locale tremóne.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "tremóne",
+    "variants": [
+      "trimone",
+      "trmòn",
+      "trmone",
+      "ttremóne",
+      "tremone",
+      "trimona (f.)"
+    ],
+    "meaning_en": "Barese insult: idiot, dumbass, wanker; literally 'wank'. Between friends it is banter, to strangers a real insult.",
+    "meaning_it": "Insulto barese: coglione, idiota, imbranato; letteralmente 'masturbazione'.",
+    "attestation": "Wiktionary has the entry trimone (chiefly Bari) with the senses 'wank' and 'idiot' and local pronunciations (Bari, Molfetta); Patrimoni Linguistici and Barinedita discuss meaning and usage and give etymological hypotheses, which this profile does not assert; en.wikipedia (Barese dialect) quotes the exclamation 'Ce ttremóne!'. The spelling 'trimone' is the Italianised, commercial form used as the mode id; the dialect text writes tremóne.",
+    "sources": [
+      "src-bar-wikt-trimone",
+      "src-bar-patrimoni-trimone",
+      "src-bar-barinedita-termini",
+      "src-bar-barinedita-giudizi",
+      "src-bar-enwiki-barese"
+    ]
+  },
+  "sources": [
+    "src-bar-andriani-2017",
+    "src-bar-barinedita-dimenticato",
+    "src-bar-barinedita-emoticon",
+    "src-bar-barinedita-francese",
+    "src-bar-barinedita-gergo",
+    "src-bar-barinedita-gesti",
+    "src-bar-barinedita-giudizi",
+    "src-bar-barinedita-idiomi",
+    "src-bar-barinedita-latino",
+    "src-bar-barinedita-proverbi",
+    "src-bar-barinedita-termini",
+    "src-bar-doppiozero-lemmi",
+    "src-bar-enwiki-barese",
+    "src-bar-gdp-canonico",
+    "src-bar-gdp-ortografia",
+    "src-bar-gdp-sada-scorcia",
+    "src-bar-itwiki-puglia-centrale",
+    "src-bar-patrimoni-trimone",
+    "src-bar-visititaly",
+    "src-bar-wikt-swadesh",
+    "src-bar-wikt-trimone"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules and attested items.",
+    "Barese has no official orthography; spellings in the sources vary (iì/ji, ié/jè, schwa written or omitted) and this profile picks one form and lists variants.",
+    "Most sources are Wikipedia, Wiktionary and local popular web (reliability medium); only Andriani (2017) is a high-reliability academic source, so the grammar core rests on it and on the Italian Wikipedia grammar.",
+    "The avé paradigm of en.wikipedia (agghiá/adda/java/amma/avita/avonne) conflicts with other sources and was not adopted; the profile uses the forms of the lexicon (àgghie, è, à, àmme, avìte, ànne/ònne).",
+    "Only forms attested in the lexicon or documented in the sources are used; paradigm cells without a documented form are avoided rather than guessed, so some tenses are under-described.",
+    "The etymology of trimone is unsettled; the profile makes no etymological claim.",
+    "Copyrighted dictionaries and grammars of Barese were not consulted.",
+    "Catalog check: region (Puglia) and variety (Barese, city of Bari) are correct; catalog maturity/available still read planned/false and must be synced to this metadata."
+  ],
+  "last_updated": "2026-11-25"
+}
