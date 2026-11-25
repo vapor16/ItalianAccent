@@ -65,7 +65,8 @@
     "Modern slang and many colloquial items rest on low-reliability popular sources (src-rom-intrepidguide, src-rom-elon) and on single dictionary entries; the VRC covers only the letter D.",
     "Proverbs come mostly from Zanazzo (1886) and Belli (19th c.); their spelling uses written doubling, so the profile gives plain modern variants.",
     "No Roman-specific blasphemies are documented from verified sources, so the profile generates none beyond one flagged idiom.",
-    "Lex Porena forms ('o, 'a, 'i, aa) are low register and attested sparsely; they are kept rare to avoid caricature."
+    "Lex Porena forms ('o, 'a, 'i, aa) are low register and attested sparsely; they are kept rare to avoid caricature.",
+    "mb>mm (piommo) is rare and ld>ll (callo) residual/lexicalised in contemporary Romanesco (D'Achille, Treccani 'Italiano e dialetto a Roma', as reported by the project audit; page not retrievable when checked, applied conservatively). Belli/historical forms are reference only; default is contemporary Romanesco with light code-switching."
   ],
   "last_updated": "2026-11-25"
 }

@@ -15,7 +15,9 @@
       "reliability": "high",
       "reliability_notes": "Scholarly dictionary of contemporary Romanesco (Roma Tre / Zurich). Entries for daje, de, der/dar, Lex Porena forms, many idioms and proverbs.",
       "relevant_sections": "§§1-2 criteria; lemmario: dàje1/dàje2, dàcce, dàlla, dassela, de, dea/dee/dii/doo, diavolo, debbito, dritto, domani, duro, devasto, deçino, delirio",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-loporcaro-2020",
@@ -31,7 +33,9 @@
       "redistribution": "facts-only-citation",
       "reliability": "high",
       "reliability_notes": "Etymology and semantic history of Roman words that entered Italian (racchia, mignotta, inguattare, bacarozzo, pupo, ciumaca, cacchio...). Notes the vulgar skew of the surviving distinctive lexicon.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-devecchis-friccico",
@@ -46,7 +50,9 @@
       "redistribution": "facts-only-citation",
       "reliability": "high",
       "reliability_notes": "Study of frìccico / friccicà(re) / friccicore.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-zanazzo-proverbi",
@@ -63,7 +69,9 @@
       "reliability": "high",
       "reliability_notes": "First systematic collection of Roman proverbs, transcribed from oral use; Belli-style spelling with written syntactic doubling (ppiù, bbene). Read via the archive.org OCR text; OCR errors corrected by comparison with context. A few items are marked by Zanazzo as from Albano Laziale.",
       "relevant_sections": "Consiglio; Errore; Esperienza; Ozio-Lavoro; Pazienza; Parlare-Tacere; Prudenza; Riflessione-Tempo; Risolutezza; Sapere; Schiettezza; Scherzi",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-belli-wikisource",
@@ -79,7 +87,9 @@
       "redistribution": "public-domain",
       "reliability": "high",
       "reliability_notes": "Primary literary source for historical Romanesco. Also read: Er caffettiere fisolofo (Pagina:Sonetti romaneschi II.djvu/395), Er giorno der giudizzio (Pagina:Sonetti romaneschi I.djvu/533).",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-itwiki-dialetto",
@@ -93,7 +103,9 @@
       "redistribution": "open-license-attribution",
       "reliability": "medium",
       "reliability_notes": "Phonology (rhotacism, -nd->-nn-, Lex Porena), articles, sections on vulgar terminology, religion-related expressions, proverbs and money slang. Facts rephrased.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-itwiki-grammatica",
@@ -107,7 +119,9 @@
       "redistribution": "open-license-attribution",
       "reliability": "medium",
       "reliability_notes": "Paradigms of articles, pronouns, possessives, demonstratives and irregular verbs. The page itself flags that it relies on one source and lacks some citations; cross-checked against Belli, Zanazzo, VRC and Wiktionary where possible.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-enwiki",
@@ -121,7 +135,9 @@
       "redistribution": "open-license-attribution",
       "reliability": "medium",
       "reliability_notes": "History (Tuscanization, Belli, Trilussa), modern pronunciation features, classical vs modern comparison table (dovamo, ce l'avamo, inguattà, nja faccio).",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-wiktionary",
@@ -135,7 +151,9 @@
       "redistribution": "open-license-attribution",
       "reliability": "medium",
       "reliability_notes": "Category of ~600 terms (many medieval/archaic) plus entries read individually as raw wikitext. Only entries actually read are cited; meanings rephrased.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-itwiktionary",
@@ -149,7 +167,9 @@
       "redistribution": "open-license-attribution",
       "reliability": "medium",
       "reliability_notes": "Used to corroborate regional/Roman labels of colloquial and vulgar items.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-intrepidguide",
@@ -165,7 +185,9 @@
       "redistribution": "facts-only-citation",
       "reliability": "low",
       "reliability_notes": "Popular travel blog; used only for contemporary colloquialisms, corroborated where possible.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
     },
     {
       "id": "src-rom-elon",
@@ -179,7 +201,28 @@
       "redistribution": "facts-only-citation",
       "reliability": "low",
       "reliability_notes": "Learner page; corroborates 1pl forms (stamo, annamo, famo, avemo), regà, 'na cifra, c'ho.",
-      "used_by": ["daje"]
+      "used_by": [
+        "daje"
+      ]
+    },
+    {
+      "id": "src-rom-treccani-dachille",
+      "title": "Italiano e dialetto a Roma",
+      "author": "Paolo D'Achille",
+      "publisher": "Treccani, Enciclopedia dell'Italiano",
+      "url": "https://www.treccani.it/enciclopedia/italiano-e-dialetto-a-roma_(Enciclopedia-dell'Italiano)/",
+      "publication_date": "2010",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romanesco (Rome)",
+      "source_type": "encyclopedia",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Cited by the external audit for mb>mm being rare and ld>ll residual in contemporary Romanesco. The page could not be retrieved from this environment (HTTP redirect/block), so the claim was applied conservatively and not re-read.",
+      "relevant_sections": "phonetic traits of contemporary Romanesco",
+      "used_by": [
+        "daje"
+      ]
     }
   ]
 }
