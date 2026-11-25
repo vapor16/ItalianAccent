@@ -1,6 +1,6 @@
 [project]
 name = "italianaccent-dev"
-version = "0.1.0"
+version = "1.0.0"
 description = "Development and validation tooling for the ItalianAccent Agent Skill (not required at runtime)."
 license = { text = "MIT" }
 requires-python = ">=3.10"

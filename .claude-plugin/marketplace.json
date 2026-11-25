@@ -1,15 +1,24 @@
 {
   "name": "italianaccent",
-  "owner": { "name": "ItalianAccent contributors" },
-  "metadata": { "description": "ItalianAccent Agent Skill marketplace" },
+  "owner": {
+    "name": "ItalianAccent contributors"
+  },
+  "metadata": {
+    "description": "ItalianAccent Agent Skill marketplace"
+  },
   "plugins": [
     {
       "name": "italianaccent",
       "description": "Authentic Italian dialects, uncensored stylistic profanity, traditional proverbs and local humor for your AI assistant.",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "source": "./",
       "category": "productivity",
-      "tags": ["italian", "dialects", "linguistics", "fun"]
+      "tags": [
+        "italian",
+        "dialects",
+        "linguistics",
+        "fun"
+      ]
     }
   ]
 }

@@ -12,7 +12,7 @@ description: >-
 license: MIT
 compatibility: Works with any Agent Skills host that can read files from the skill directory. No network, scripts or external services required.
 metadata:
-  version: "0.1.0"
+  version: "1.0.0"
   author: "ItalianAccent contributors"
   homepage: "https://github.com/vapor16/ItalianAccent"
 ---
