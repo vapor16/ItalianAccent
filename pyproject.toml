@@ -1,0 +1,17 @@
+[project]
+name = "italianaccent-dev"
+version = "0.1.0"
+description = "Development and validation tooling for the ItalianAccent Agent Skill (not required at runtime)."
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "jsonschema>=4.18", "pyyaml>=6"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools]
+packages = []
