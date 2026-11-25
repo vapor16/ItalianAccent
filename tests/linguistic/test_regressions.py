@@ -49,7 +49,7 @@ def test_examples_do_not_overuse_identifier(v):
     for d in sorted(p for p in v.DIALECTS.iterdir() if p.is_dir()):
         meta = json.loads((d / "metadata.json").read_text())
         word = v.normalize(meta["identifier_word"]["form"])
-        blocks = re.split(r"\n#{2,4} ", (d / "examples.md").read_text(encoding="utf-8"))
+        blocks = re.split(r"\n(?:#{2,4} |\*\*\d+\.)", (d / "examples.md").read_text(encoding="utf-8"))
         for b in blocks:
             n = sum(1 for tok in re.findall(r"[\w'’]+", b) if v.normalize(tok) == word)
             assert n <= 3, f"{d.name}: identifier '{word}' used {n} times in one example block"
