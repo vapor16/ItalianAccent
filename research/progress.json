@@ -2,14 +2,74 @@
   "project": "ItalianAccent",
   "version_target": "0.1.0",
   "updated": "2026-11-25",
-  "current_phase": "M4 pilots in progress; M3 SKILL.md done",
-  "completed": ["M0 bootstrap + first push", "M1 spec verification", "M2 schemas/catalog/defaults/validator", "M3 SKILL.md + references (commands, behavior, dialect-loading)", "plugin manifests (claude plugin validate passed)"],
-  "pending": ["M4 pilots: trimone mbare wallera daje mena", "M4b early behavioral test", "M5 batches A-D", "M6 enrichment", "M7 tests", "M8 eval", "M9 CI", "M10 docs", "M11-M14"],
+  "current_phase": "M4 pilots: wallera, mena, trimone integrated; daje+mbare completing; M5 breadth started (minchia, belin)",
+  "completed": [
+    "M0 bootstrap + first push",
+    "M1 spec verification",
+    "M2 schemas/catalog/defaults/validator",
+    "M3 SKILL.md + references (commands, behavior, dialect-loading)",
+    "plugin manifests (claude plugin validate passed)"
+  ],
+  "pending": [
+    "M4 pilots: trimone mbare wallera daje mena",
+    "M4b early behavioral test",
+    "M5 batches A-D",
+    "M6 enrichment",
+    "M7 tests",
+    "M8 eval",
+    "M9 CI",
+    "M10 docs",
+    "M11-M14"
+  ],
   "blocked": [
-    {"task": "Set GitHub topics and repository description edits", "reason": "Session proxy returns HTTP 403: repository settings writes not permitted. Description already set by owner (slightly different wording). Topics empty.", "next_action": "Repository owner runs: gh repo edit vapor16/ItalianAccent --add-topic agent-skills,claude-code,italian,italian-dialects,dialects,linguistics,artificial-intelligence,open-source,codex,skills-sh,regional-languages,ai-personality,prompt-engineering"}
+    {
+      "task": "Set GitHub topics and repository description edits",
+      "reason": "Session proxy returns HTTP 403: repository settings writes not permitted. Description already set by owner (slightly different wording). Topics empty.",
+      "next_action": "Repository owner runs: gh repo edit vapor16/ItalianAccent --add-topic agent-skills,claude-code,italian,italian-dialects,dialects,linguistics,artificial-intelligence,open-source,codex,skills-sh,regional-languages,ai-personality,prompt-engineering"
+    },
+    {
+      "task": "Activate GitHub Actions workflows",
+      "reason": "Session token lacks 'workflow' scope; GitHub rejects pushes touching .github/workflows/",
+      "next_action": "Owner runs: git mv ci/workflows .github/workflows && git commit -m 'ci: activate GitHub Actions workflows' && git push"
+    }
   ],
   "partial": [],
-  "dialects": {"implemented": [], "in_research": ["trimone","mbare","wallera","daje","mena"], "planned": "see catalog.json"},
+  "dialects": {
+    "implemented_experimental": [
+      "wallera",
+      "mena",
+      "trimone"
+    ],
+    "completing": [
+      "daje",
+      "mbare"
+    ],
+    "in_research": [
+      "minchia",
+      "belin"
+    ],
+    "queue": [
+      "bischero",
+      "boiade",
+      "pirla",
+      "pota",
+      "socmel",
+      "pataca",
+      "ostrega",
+      "neh",
+      "mandi",
+      "mona",
+      "ajo",
+      "frechete",
+      "ntamato",
+      "freghi",
+      "cio",
+      "basilicata-tbd",
+      "molise-tbd",
+      "marche-tbd",
+      "valle-daosta-tbd"
+    ]
+  },
   "sources_consulted": "see research/sources.json and research/raw/*-log.md",
   "tests_executed": [],
   "test_failures": [],
@@ -18,8 +78,11 @@
     "Activation guard implemented in description + body instead of disable-model-invocation.",
     "Profile files consolidated: profile.md (grammar/syntax/pronunciation/personality/humor), lexicon.json (vocabulary+interjections+colloquial), proverbs.json (proverbs+idioms), profanity.json, examples.md (incl. technical), sources.md.",
     "Plugin: .claude-plugin/plugin.json + marketplace.json (source ./), skill found via default skills/ scan; invoked as /italianaccent:italianaccent when installed as plugin.",
-    "LICENSE copyright: ItalianAccent contributors."
+    "LICENSE copyright: ItalianAccent contributors.",
+    "Usage policy (user directive): subagents run on Sonnet, max 3 concurrent; deterministic tasks (integration, sources.md, stats, validation) via scripts/validate.py.",
+    "Interrupted pilot agents were completed by fresh Sonnet agents using research/completion-brief.md (no research repeated).",
+    "Validator: lexicon homographs allowed when part_of_speech differs; censorship check targets letter*letter only."
   ],
   "open_issues": [],
-  "next_action": "Wait for pilot agents; meanwhile write tests, CI, docs."
+  "next_action": "Integrate daje/mbare/minchia/belin as they finish; launch next breadth modes (bischero, boiade, pirla...)."
 }

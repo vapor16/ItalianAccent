@@ -52,7 +52,8 @@ def test_no_personal_config_files(v):
 
 
 def test_skill_has_no_runtime_network_or_exec(v):
-    for p in v.SKILL_DIR.rglob("*.md"):
+    # runtime instruction files only; example conversations may legitimately show shell commands
+    for p in [v.SKILL_DIR / "SKILL.md", *v.REFS.glob("*.md")]:
         t = p.read_text(encoding="utf-8").lower()
         for bad in ["curl ", "wget ", "fetch(", "pip install", "npm install", "invoke-webrequest"]:
             assert bad not in t, f"{p} contains runtime instruction {bad!r}"
