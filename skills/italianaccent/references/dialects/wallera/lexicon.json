@@ -1,0 +1,4050 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "wallera",
+  "entries": [
+    {
+      "id": "o",
+      "term": "'o",
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo maschile singolare; anche neutro (con raddoppiamento della consonante seguente)",
+      "meaning_en": "definite article, masculine singular; also neuter (triggers doubling of the next consonant)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'o sole / 'o ppane",
+          "translation_it": "il sole / il pane",
+          "translation_en": "the sun / the bread",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a",
+      "term": "'a",
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo femminile singolare",
+      "meaning_en": "definite article, feminine singular",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'a casa mia",
+          "translation_it": "la mia casa",
+          "translation_en": "my house",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e",
+      "term": "'e",
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo plurale (al femminile raddoppia la consonante seguente)",
+      "meaning_en": "definite article, plural (feminine plural triggers doubling)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'e guagliune / 'e ffemmene",
+          "translation_it": "i ragazzi / le donne",
+          "translation_en": "the boys / the women",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu",
+      "term": "nu",
+      "variants": [
+        "'nu"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo indeterminativo maschile e neutro; anche negazione ridotta davanti a consonante",
+      "meaning_en": "indefinite article masculine/neuter; also reduced negation before consonants",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "na",
+      "term": "na",
+      "variants": [
+        "'na"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo indeterminativo femminile",
+      "meaning_en": "indefinite article, feminine",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun",
+      "term": "nun",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "non (negazione)",
+      "meaning_en": "not (negation)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Nun saccio niente.",
+          "translation_it": "Non so niente.",
+          "translation_en": "I don't know anything.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chisto",
+      "term": "chisto",
+      "variants": [
+        "chesta",
+        "chesto",
+        "'stu",
+        "'sta"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "questo (f. chesta, neutro chesto, forme brevi 'stu/'sta)",
+      "meaning_en": "this (f. chesta, neuter chesto, short 'stu/'sta)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chillo",
+      "term": "chillo",
+      "variants": [
+        "chella",
+        "chello"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "quello (f. chella, neutro chello = quella cosa)",
+      "meaning_en": "that (f. chella, neuter chello = that thing)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "isso",
+      "term": "isso",
+      "variants": [
+        "essa"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "egli, lui (f. essa)",
+      "meaning_en": "he, him (f. essa)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-fortunato-2017",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nuje",
+      "term": "nuje",
+      "variants": [
+        "nuie"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "noi",
+      "meaning_en": "we, us",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vuje",
+      "term": "vuje",
+      "variants": [
+        "vuie"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "voi; anche forma di cortesia",
+      "meaning_en": "you (plural); also polite address",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lloro",
+      "term": "lloro",
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "loro",
+      "meaning_en": "they, them",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo",
+      "term": "mo",
+      "variants": [
+        "mo'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ora, adesso; subito",
+      "meaning_en": "now; right away",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Mo vengo.",
+          "translation_it": "Arrivo subito.",
+          "translation_en": "I'm coming right now.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cca",
+      "term": "ccà",
+      "variants": [
+        "cca"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "qui, qua",
+      "meaning_en": "here",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lla",
+      "term": "llà",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "là, lì",
+      "meaning_en": "there",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lloco",
+      "term": "lloco",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "lì (vicino a chi ascolta)",
+      "meaning_en": "there (near the listener)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "addo",
+      "term": "addò",
+      "variants": [
+        "addo'",
+        "addó"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "dove",
+      "meaning_en": "where",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Addò staje?",
+          "translation_it": "Dove sei?",
+          "translation_en": "Where are you?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quanno",
+      "term": "quanno",
+      "category": "function-word",
+      "part_of_speech": "conjunction",
+      "meaning_it": "quando",
+      "meaning_en": "when",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-andreoli-1887",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "comme",
+      "term": "comme",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "come",
+      "meaning_en": "how, like",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pecche",
+      "term": "pecché",
+      "variants": [
+        "pecchè"
+      ],
+      "category": "function-word",
+      "part_of_speech": "conjunction",
+      "meaning_it": "perché",
+      "meaning_en": "why; because",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accussi",
+      "term": "accussì",
+      "variants": [
+        "accossì"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "così",
+      "meaning_en": "so, like this",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wiktionary",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cchiu",
+      "term": "cchiù",
+      "variants": [
+        "chiù"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "più",
+      "meaning_en": "more",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "pl- > chi-; written with cc to show doubling."
+    },
+    {
+      "id": "assaje",
+      "term": "assaje",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "molto, assai",
+      "meaning_en": "a lot, very",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Me piace assaje.",
+          "translation_it": "Mi piace molto.",
+          "translation_en": "I like it a lot.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "manco",
+      "term": "manco",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "neanche, nemmeno",
+      "meaning_en": "not even",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maje",
+      "term": "maje",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "mai",
+      "meaning_en": "never",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sempe",
+      "term": "sempe",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "niente",
+      "term": "niente",
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "niente, nulla",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nisciuno",
+      "term": "nisciuno",
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "nessuno",
+      "meaning_en": "nobody, no one",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pure",
+      "term": "pure",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "anche, pure",
+      "meaning_en": "also, too",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ajere",
+      "term": "ajere",
+      "variants": [
+        "aiere"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language",
+        "src-nap-wiktionary",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dimane",
+      "term": "dimane",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wiktionary",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stasera",
+      "term": "stasera",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "stasera",
+      "meaning_en": "tonight",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ncoppa",
+      "term": "'ncoppa",
+      "variants": [
+        "ncoppa",
+        "'ngoppa"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "sopra, su",
+      "meaning_en": "on, on top of, upstairs",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'ncopp'ô tavulino",
+          "translation_it": "sul tavolino",
+          "translation_en": "on the little table",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dinto",
+      "term": "dinto",
+      "variants": [
+        "'int'",
+        "adinto"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "dentro, in",
+      "meaning_en": "inside, in",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "dint'â casa",
+          "translation_it": "dentro la casa",
+          "translation_en": "in the house",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mmiezo",
+      "term": "'mmiezo",
+      "variants": [
+        "mmiezo"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "in mezzo, tra",
+      "meaning_en": "in the middle of, among",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbascio",
+      "term": "abbascio",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "giù, di sotto",
+      "meaning_en": "down, downstairs",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arreto",
+      "term": "arreto",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "dietro, indietro",
+      "meaning_en": "behind, back",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "annanze",
+      "term": "annanze",
+      "variants": [
+        "nnanze"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "avanti, davanti",
+      "meaning_en": "in front, ahead",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ncuollo",
+      "term": "'ncuollo",
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "addosso",
+      "meaning_en": "on (one's body), upon",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "addu",
+      "term": "addu",
+      "variants": [
+        "addo'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "da, presso (casa di qualcuno)",
+      "meaning_en": "at/to someone's place",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu",
+      "term": "cu",
+      "variants": [
+        "cu'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "con (provoca raddoppiamento)",
+      "meaning_en": "with (triggers doubling)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pe",
+      "term": "pe'",
+      "variants": [
+        "pe"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "per (provoca raddoppiamento)",
+      "meaning_en": "for (triggers doubling)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ca",
+      "term": "ca",
+      "category": "function-word",
+      "part_of_speech": "conjunction",
+      "meaning_it": "che (complementatore e relativo)",
+      "meaning_en": "that (complementizer and relative)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Aggio ditto ca nun vengo.",
+          "translation_it": "Ho detto che non vengo.",
+          "translation_en": "I said I'm not coming.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language",
+        "src-nap-fortunato-2017",
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ampressa",
+      "term": "ampressa",
+      "variants": [
+        "ambressa"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "in fretta, presto",
+      "meaning_en": "quickly, in a hurry",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiano",
+      "term": "chiano",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "piano, lentamente",
+      "meaning_en": "slowly, gently",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-volpe-1869",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tene",
+      "term": "tené",
+      "variants": [
+        "tènere"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "avere (possesso, stati), tenere",
+      "meaning_en": "to have (possession, states), to hold",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Tengo famme.",
+          "translation_it": "Ho fame.",
+          "translation_en": "I'm hungry.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-fortunato-2017",
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave",
+      "term": "avé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "avere, solo come ausiliare e in avé 'a (dovere)",
+      "meaning_en": "to have, only as auxiliary and in avé 'a (must)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-a",
+      "term": "avé 'a",
+      "variants": [
+        "aggi' 'a",
+        "hê 'a",
+        "adda",
+        "amm' 'a"
+      ],
+      "category": "word",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "dovere (avé 'a + infinito)",
+      "meaning_en": "must, have to",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Aggi' 'a faticà.",
+          "translation_it": "Devo lavorare.",
+          "translation_en": "I have to work.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sta",
+      "term": "stà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "stare, essere (luogo, stato temporaneo)",
+      "meaning_en": "to be (location, temporary state), to stay",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Sto' parlanno.",
+          "translation_it": "Sto parlando.",
+          "translation_en": "I'm talking.",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ji",
+      "term": "jì",
+      "variants": [
+        "ghi'",
+        "ì"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Addò vaje?",
+          "translation_it": "Dove vai?",
+          "translation_en": "Where are you going?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa",
+      "term": "fà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "fare",
+      "meaning_en": "to do, to make",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi",
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dicere",
+      "term": "dicere",
+      "variants": [
+        "dì"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "dire",
+      "meaning_en": "to say, to tell",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vede",
+      "term": "vedé",
+      "variants": [
+        "veré"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vedere",
+      "meaning_en": "to see",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sape",
+      "term": "sapé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica",
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pute",
+      "term": "puté",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "potere",
+      "meaning_en": "can, to be able",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vule",
+      "term": "vulé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "volere",
+      "meaning_en": "to want",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magna",
+      "term": "magnà",
+      "variants": [
+        "magnare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vevere",
+      "term": "vevere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiagnere",
+      "term": "chiagnere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "piangere",
+      "meaning_en": "to cry",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rirere",
+      "term": "rirere",
+      "variants": [
+        "ridere"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "ridere",
+      "meaning_en": "to laugh",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fatica",
+      "term": "faticà",
+      "variants": [
+        "faticare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lavorare",
+      "meaning_en": "to work",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pazzia",
+      "term": "pazzià",
+      "variants": [
+        "pazziare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scherzare, giocare",
+      "meaning_en": "to joke, to play",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sceta",
+      "term": "scetà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "svegliare (scetarse = svegliarsi)",
+      "meaning_en": "to wake (someone) up",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "asci",
+      "term": "ascì",
+      "variants": [
+        "ascire"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "uscire",
+      "meaning_en": "to go out, to come out",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "trasi",
+      "term": "trasì",
+      "variants": [
+        "trasire"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "entrare",
+      "meaning_en": "to enter, to go in",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sagli",
+      "term": "saglì",
+      "variants": [
+        "sàglière"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "salire",
+      "meaning_en": "to go up, to climb",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scennere",
+      "term": "scennere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scendere",
+      "meaning_en": "to go down",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mena",
+      "term": "menà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lanciare, gettare; picchiare",
+      "meaning_en": "to throw; to hit",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbusca",
+      "term": "abbuscà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "guadagnare, rimediare; prenderle (abbuscà mazzate)",
+      "meaning_en": "to earn, to get; to get beaten",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vasa",
+      "term": "vasà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "baciare",
+      "meaning_en": "to kiss",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accatta",
+      "term": "accattà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "comprare",
+      "meaning_en": "to buy",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vennere",
+      "term": "vennere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vendere",
+      "meaning_en": "to sell",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piglia",
+      "term": "piglià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "prendere",
+      "meaning_en": "to take, to catch",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lassa",
+      "term": "lassà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lasciare",
+      "meaning_en": "to leave, to let",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mettere",
+      "term": "mettere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mettere (1a sg. metto)",
+      "meaning_en": "to put",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cagna",
+      "term": "cagnà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "cambiare",
+      "meaning_en": "to change",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pava",
+      "term": "pavà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "pagare",
+      "meaning_en": "to pay",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "allucca",
+      "term": "alluccà",
+      "variants": [
+        "alluccare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "gridare, urlare",
+      "meaning_en": "to yell, to shout",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "appiccia",
+      "term": "appiccià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "accendere",
+      "meaning_en": "to light, to switch on",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stuta",
+      "term": "stutà",
+      "variants": [
+        "stutare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "spegnere",
+      "meaning_en": "to switch off, to put out",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arapi",
+      "term": "arapì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "aprire",
+      "meaning_en": "to open",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nzerra",
+      "term": "'nzerrà",
+      "variants": [
+        "nzerrare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "chiudere",
+      "meaning_en": "to close, to shut",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scassa",
+      "term": "scassà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "rompere, scassinare; cancellare",
+      "meaning_en": "to break, to force; to wreck",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arrunza",
+      "term": "arrunzà",
+      "variants": [
+        "arronzà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "fare un lavoro in fretta e male",
+      "meaning_en": "to do a sloppy rushed job",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Only a popular glossary read; low reliability."
+    },
+    {
+      "id": "nguaia",
+      "term": "'nguaià",
+      "variants": [
+        "nguajare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mettere nei guai ('nguaiarse = mettersi nei guai; scherz. sposarsi)",
+      "meaning_en": "to get someone into trouble",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sfruculia",
+      "term": "sfruculià",
+      "variants": [
+        "sfruculiare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "stuzzicare, infastidire",
+      "meaning_en": "to tease, to pester",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "appiccecarse",
+      "term": "appiccecarse",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "litigare",
+      "meaning_en": "to quarrel, to fight",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'E ciucce s'appiccecano e 'e varrile se scassano.",
+          "translation_it": "Gli asini litigano e i barili si rompono.",
+          "translation_en": "The donkeys fight and the barrels break.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammuccarse",
+      "term": "ammuccarse",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "credere a una frottola, abboccare",
+      "meaning_en": "to swallow a lie, to fall for it",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "vattere",
+      "term": "vattere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "battere, picchiare",
+      "meaning_en": "to beat, to hit",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "smiccia",
+      "term": "smiccià",
+      "variants": [
+        "smicciare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sbirciare, guardare di nascosto",
+      "meaning_en": "to peek",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sparagna",
+      "term": "sparagnà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "risparmiare",
+      "meaning_en": "to save (money, effort)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tuppetia",
+      "term": "tuppetià",
+      "variants": [
+        "tuppetiare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "bussare",
+      "meaning_en": "to knock",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbuffa",
+      "term": "abbuffà",
+      "variants": [
+        "abboffare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "gonfiare; riempire (abbuffà 'a uallera = scocciare)",
+      "meaning_en": "to swell, to stuff (abbuffà 'a uallera = to annoy)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammacca",
+      "term": "ammaccà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "raccontare frottole (che m'ammacche?)",
+      "meaning_en": "to tell tall tales",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accucchia",
+      "term": "accucchià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mettere insieme, accoppiare (anche ragionamenti sconclusionati)",
+      "meaning_en": "to piece together",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "strunzia",
+      "term": "strunzià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "prendere in giro, ingannare",
+      "meaning_en": "to mock, to fool",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "guaglione",
+      "term": "guaglione",
+      "variants": [
+        "uaglione",
+        "guagliona",
+        "guagliune"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazzo (f. guagliona; pl. guagliune / 'e gguaglione)",
+      "meaning_en": "boy (f. guagliona; pl. guagliune / 'e gguaglione)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-enwiki-language",
+        "src-nap-wiktionary",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "criatura",
+      "term": "criatura",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bambino, bambina",
+      "meaning_en": "child, baby",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piccerillo",
+      "term": "piccerillo",
+      "variants": [
+        "peccerillo",
+        "piccerella"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "piccolo; (sost.) bambino",
+      "meaning_en": "small; (noun) little child",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "femmena",
+      "term": "femmena",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "donna (pl. 'e ffemmene)",
+      "meaning_en": "woman",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ommo",
+      "term": "ommo",
+      "variants": [
+        "uommene"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "uomo (pl. uommene)",
+      "meaning_en": "man",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cristiano",
+      "term": "cristiano",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona, essere umano",
+      "meaning_en": "person, human being",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mamma",
+      "term": "mamma",
+      "variants": [
+        "mammà",
+        "mammeta",
+        "màmmema"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "madre (màmmema = mia madre, mammeta = tua madre)",
+      "meaning_en": "mother (màmmema my mother, mammeta your mother)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica",
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pate",
+      "term": "pate",
+      "variants": [
+        "pàtemo",
+        "pàteto",
+        "papà"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "padre (pàtemo, pàteto)",
+      "meaning_en": "father (pàtemo my father, pàteto yours)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "frate",
+      "term": "frate",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fratello (fràtemo, fràteto)",
+      "meaning_en": "brother (fràtemo, fràteto)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sora",
+      "term": "sora",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sorella (sòrema, sòreta)",
+      "meaning_en": "sister (sòrema, sòreta)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mugliera",
+      "term": "muglièra",
+      "variants": [
+        "mugliera",
+        "mogliera"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "moglie (muglièrema = mia moglie)",
+      "meaning_en": "wife",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "capa",
+      "term": "capa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "testa",
+      "meaning_en": "head",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uocchio",
+      "term": "uocchio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "occhio (pl. uocchie)",
+      "meaning_en": "eye",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "recchia",
+      "term": "recchia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "orecchio",
+      "meaning_en": "ear",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vocca",
+      "term": "vocca",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bocca",
+      "meaning_en": "mouth",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "core",
+      "term": "core",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cuore",
+      "meaning_en": "heart",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "panza",
+      "term": "panza",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pancia",
+      "meaning_en": "belly",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pere",
+      "term": "pere",
+      "variants": [
+        "pede"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "piede",
+      "meaning_en": "foot",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mano",
+      "term": "mano",
+      "variants": [
+        "mana"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mano",
+      "meaning_en": "hand",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "casa",
+      "term": "casa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "casa",
+      "meaning_en": "house, home",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vico",
+      "term": "vico",
+      "variants": [
+        "vicariello"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "vicolo",
+      "meaning_en": "alley, narrow street",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fenesta",
+      "term": "fenesta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "finestra",
+      "meaning_en": "window",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lietto",
+      "term": "lietto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "letto",
+      "meaning_en": "bed",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fatica-2",
+      "term": "fatica",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "lavoro",
+      "meaning_en": "work, job",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sorde",
+      "term": "sorde",
+      "variants": [
+        "denare",
+        "renare"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "soldi",
+      "meaning_en": "money",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "juorno",
+      "term": "juorno",
+      "variants": [
+        "jurnata"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "giorno (jurnata = giornata)",
+      "meaning_en": "day",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "matina",
+      "term": "matina",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mattina",
+      "meaning_en": "morning",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tiempo",
+      "term": "tiempo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "tempo",
+      "meaning_en": "time; weather",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "semmana",
+      "term": "semmana",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "settimana",
+      "meaning_en": "week",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "munnezza",
+      "term": "munnezza",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "spazzatura, immondizia",
+      "meaning_en": "garbage, trash",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "guaio",
+      "term": "guaio",
+      "variants": [
+        "guajo",
+        "guaje"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "guaio, disgrazia, problema",
+      "meaning_en": "trouble, mess",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciorta",
+      "term": "sciorta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sorte, fortuna",
+      "meaning_en": "luck, fate",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pressa",
+      "term": "pressa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fretta (ghi' 'e pressa = andare di fretta)",
+      "meaning_en": "hurry",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scuorno",
+      "term": "scuorno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "vergogna, imbarazzo",
+      "meaning_en": "shame, embarrassment",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "paura",
+      "term": "paura",
+      "variants": [
+        "appaura"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "paura (anche appaura)",
+      "meaning_en": "fear",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mazzate",
+      "term": "mazzate",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "botte, percosse",
+      "meaning_en": "beating, blows",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "paccaro",
+      "term": "paccaro",
+      "variants": [
+        "pacchero",
+        "paccari"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "schiaffo a mano aperta",
+      "meaning_en": "slap",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammuina",
+      "term": "ammuina",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "confusione, chiasso (facite ammuina)",
+      "meaning_en": "confusion, commotion, fuss",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nciucio",
+      "term": "'nciucio",
+      "variants": [
+        "nciucio",
+        "'ngiucio"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pettegolezzo, intrigo ('nciucià = spettegolare)",
+      "meaning_en": "gossip, behind-the-scenes deal",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mbruoglio",
+      "term": "mbruoglio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "imbroglio, pasticcio",
+      "meaning_en": "mess, swindle",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pazziella",
+      "term": "pazziella",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "giocattolo; cosa da poco",
+      "meaning_en": "toy; trifle",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sfizio",
+      "term": "sfizio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sfizio, capriccio, voglia",
+      "meaning_en": "whim, treat, fancy",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cuoppo",
+      "term": "cuoppo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cartoccio (di frittura)",
+      "meaning_en": "paper cone (of fried food)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pummarola",
+      "term": "pummarola",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pomodoro, salsa di pomodoro",
+      "meaning_en": "tomato, tomato sauce",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciuccio",
+      "term": "ciuccio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "asino; persona ignorante",
+      "meaning_en": "donkey; dunce",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scarrafone",
+      "term": "scarrafone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "scarafaggio",
+      "meaning_en": "cockroach",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sorece",
+      "term": "sorece",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "topo",
+      "meaning_en": "mouse",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "jatta",
+      "term": "jatta",
+      "variants": [
+        "gatta"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "gatta",
+      "meaning_en": "cat",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uallera",
+      "term": "uallera",
+      "variants": [
+        "guallera",
+        "guallara"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ernia (inguino-scrotale), scroto; fig. noia, fastidio",
+      "meaning_en": "hernia, scrotum; fig. boredom, annoyance",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Me staje abbuffanno 'a uallera.",
+          "translation_it": "Mi stai scocciando a morte.",
+          "translation_en": "You're boring me to death.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire",
+        "src-nap-scattidigusto-uallera"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Identifier word of the mode (commercial spelling 'wallera'). Derivative guallaruso = ernioso (Andreoli)."
+    },
+    {
+      "id": "cazzimma",
+      "term": "cazzimma",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "furbizia cinica e opportunista, cattiveria gratuita",
+      "meaning_en": "cynical opportunism, gratuitous malice",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wiktionary",
+        "src-nap-visitnaples-glossary",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From cazzo + collective suffix -imma; borrowed into Italian."
+    },
+    {
+      "id": "guappo",
+      "term": "guappo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "guappo, bullo, smargiasso; (agg.) spavaldo",
+      "meaning_en": "local tough guy, braggart",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-misc"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scugnizzo",
+      "term": "scugnizzo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "monello di strada napoletano",
+      "meaning_en": "Neapolitan street kid, urchin",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cafone",
+      "term": "cafone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "zotico, maleducato (orig. contadino)",
+      "meaning_en": "boor, uncouth person",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mariuolo",
+      "term": "mariuolo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ladro, mariuolo",
+      "meaning_en": "thief, rascal",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pezzente",
+      "term": "pezzente",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pezzente, povero; spilorcio",
+      "meaning_en": "beggar; stingy person",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiattillo",
+      "term": "chiattillo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "snob, figlio di papà; secchione",
+      "meaning_en": "snob, show-off; swot",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "nzallanuto",
+      "term": "'nzallanuto",
+      "variants": [
+        "nzallanuto"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "rimbambito, stordito",
+      "meaning_en": "dazed, doddering",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-dambra-1873",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arteteca",
+      "term": "arteteca",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "irrequietezza, non stare mai fermo",
+      "meaning_en": "restlessness, fidgeting",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "nziria",
+      "term": "'nziria",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "capriccio, piagnisteo",
+      "meaning_en": "tantrum, whining",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "fesso",
+      "term": "fesso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "sciocco, ingenuo",
+      "meaning_en": "fool, sucker",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scemo",
+      "term": "scemo",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "scemo, stupido",
+      "meaning_en": "stupid, idiot",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tuosto",
+      "term": "tuosto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "duro (f. tosta); ostinato, coraggioso",
+      "meaning_en": "hard; stubborn, tough",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "buono",
+      "term": "buono",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "buono (f. bona); bell'e bbuono = all'improvviso",
+      "meaning_en": "good (f. bona)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "malamente",
+      "term": "malamente",
+      "category": "word",
+      "part_of_speech": "adverb",
+      "meaning_it": "male, in malo modo",
+      "meaning_en": "badly",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sicco",
+      "term": "sicco",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "secco, magro (f. secca)",
+      "meaning_en": "dry, thin",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiatto",
+      "term": "chiatto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "grasso (f. chiatta)",
+      "meaning_en": "fat, chubby",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gruosso",
+      "term": "gruosso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "grosso, grande (f. grossa)",
+      "meaning_en": "big (f. grossa)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "viecchio",
+      "term": "viecchio",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "vecchio (f. vecchia)",
+      "meaning_en": "old (f. vecchia)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "niro",
+      "term": "niro",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "nero (f. nera)",
+      "meaning_en": "black (f. nera)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "janco",
+      "term": "janco",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "bianco",
+      "meaning_en": "white",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-volpe-1869",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caudo",
+      "term": "caudo",
+      "variants": [
+        "càvero"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "caldo (anche càvero)",
+      "meaning_en": "hot, warm",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873",
+        "src-nap-volpe-1869"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fetente",
+      "term": "fetente",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "puzzolente; mascalzone",
+      "meaning_en": "stinking; rotten person",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "guaglio",
+      "term": "guagliò",
+      "variants": [
+        "uagliò"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "ragazzo! (vocativo troncato di guaglione)",
+      "meaning_en": "hey kid! (truncated vocative)",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-enwiki-language"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nenna",
+      "term": "nenna",
+      "variants": [
+        "nennè"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazza, bambina; tesoro",
+      "meaning_en": "girl, little girl; darling",
+      "register": "affectionate",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ninno",
+      "term": "ninno",
+      "variants": [
+        "nennillo"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "bambino; tesoro",
+      "meaning_en": "little boy; darling",
+      "register": "affectionate",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zi",
+      "term": "zi'",
+      "variants": [
+        "zio",
+        "zia"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "zio/zia (davanti al nome: zi' Crescenzo)",
+      "meaning_en": "uncle/aunt (before a name)",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "don",
+      "term": "don",
+      "variants": [
+        "donna"
+      ],
+      "category": "address-term",
+      "part_of_speech": "title",
+      "meaning_it": "don (titolo di rispetto: Don Rafè)",
+      "meaning_en": "respectful title (Don Rafè)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cumpa",
+      "term": "cumpà",
+      "variants": [
+        "cumpare"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "compare! (amico, padrino)",
+      "meaning_en": "buddy! (godfather, friend)",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Base cumpare in proverbs; truncated vocative by rule."
+    },
+    {
+      "id": "ojni",
+      "term": "ojnì",
+      "variants": [
+        "oi ni'",
+        "ojni'"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "ragazzo mio (vocativo affettuoso)",
+      "meaning_en": "my boy (affectionate call)",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "statte-buono",
+      "term": "statte buono",
+      "variants": [
+        "statte bbuono"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "arrivederci, stammi bene",
+      "meaning_en": "bye, take care",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "crisce-santo",
+      "term": "crisce santo",
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "salute! (a chi starnutisce)",
+      "meaning_en": "bless you!",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-saluta-vosta",
+      "term": "'a saluta vosta!",
+      "variants": [
+        "salute"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "alla vostra salute!",
+      "meaning_en": "to your health!",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ue",
+      "term": "uè",
+      "variants": [
+        "uhè",
+        "ué"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ehi! (richiamo, saluto, sorpresa, protesta)",
+      "meaning_en": "hey! (call, greeting, surprise, protest)",
+      "register": "familiar",
+      "examples": [
+        {
+          "text": "Uè, guagliò, comme staje?",
+          "translation_it": "Ehi, ragazzo, come stai?",
+          "translation_en": "Hey kid, how are you?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "neh",
+      "term": "neh",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "eh?, vero? (interiezione interrogativa)",
+      "meaning_en": "eh?, right? (question tag)",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uh",
+      "term": "uh",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "uh! (sorpresa, spavento)",
+      "meaning_en": "oh! (surprise, dismay)",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maro",
+      "term": "Marò!",
+      "variants": [
+        "Maronna mia!",
+        "Uh Maronna!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Madonna! (esclamazione di sorpresa o esasperazione)",
+      "meaning_en": "oh my God! (surprise, exasperation)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Andreoli: plebeian Maronna for Madonna. Mild, not a blasphemy."
+    },
+    {
+      "id": "uh-mamma-d-a-saletta",
+      "term": "Uh Mamma d''a Saletta!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Madonna mia! (invocazione esasperata)",
+      "meaning_en": "good heavens!",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "azz",
+      "term": "azz!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "caspita! accidenti!",
+      "meaning_en": "wow! damn!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "jamme",
+      "term": "jamme!",
+      "variants": [
+        "jammo",
+        "jamme bell', ja!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "andiamo! su! (anche: ma va'!)",
+      "meaning_en": "come on! let's go!",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-andreoli-1887",
+        "src-nap-fortunato-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mannaggia",
+      "term": "mannaggia!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti! maledizione!",
+      "meaning_en": "damn! blast!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mannaggia-bubba",
+      "term": "mannaggia bubbà!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti! (scherzoso)",
+      "meaning_en": "darn it! (jocular)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mmalora",
+      "term": "mmalora!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "malora! accidenti!",
+      "meaning_en": "damnation!",
+      "register": "archaic",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vattenne",
+      "term": "vattenne!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "vattene!; ma va'! (per negare)",
+      "meaning_en": "go away!; come off it!",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scio",
+      "term": "sciò!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "sciò! (per scacciare)",
+      "meaning_en": "shoo!",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "overo",
+      "term": "overo?",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "davvero?",
+      "meaning_en": "really?",
+      "register": "neutral",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiste-so-nummere",
+      "term": "Chiste so' nummere!",
+      "variants": [
+        "Ggesù, chiste so' nummere!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "exclamation",
+      "meaning_it": "roba da pazzi, cose incredibili (da giocare al lotto)",
+      "meaning_en": "this is unbelievable!",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-bravo-o-fesso",
+      "term": "E bravo 'o fesso!",
+      "category": "interjection",
+      "part_of_speech": "exclamation",
+      "meaning_it": "complimenti! (ironico, a chi si vanta di ovvietà)",
+      "meaning_en": "well done, genius! (sarcastic)",
+      "register": "ironic",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vabbuo",
+      "term": "vabbuò",
+      "variants": [
+        "va buò",
+        "e vabbuò"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "va bene, d'accordo",
+      "meaning_en": "OK, fine",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Very common in speech; not found in the sources read."
+    },
+    {
+      "id": "facite-ammuina",
+      "term": "facite ammuina",
+      "variants": [
+        "facimm'ammuina"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "fate confusione (per sembrare occupati o pescare nel torbido)",
+      "meaning_en": "make a commotion (to look busy or fish in troubled waters)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cca-nisciuno-e-fesso",
+      "term": "cca nisciuno è fesso",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "qui nessuno è ingenuo, non ci freghi",
+      "meaning_en": "nobody here is a fool",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "buono-si-ma-fesso-no",
+      "term": "buono sì, ma fesso no",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "buono sì, ma non sprovveduto",
+      "meaning_en": "kind, yes, but not a sucker",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-o-pacco",
+      "term": "fà 'o pacco",
+      "variants": [
+        "fà 'o paccotto"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "imbrogliare, truffare",
+      "meaning_en": "to swindle, to scam",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tene-a-capa-fresca",
+      "term": "tené 'a capa fresca",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "essere spensierato, senza preoccupazioni",
+      "meaning_en": "to be carefree",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-o-scemo-pe-nun-ghi-a-guerra",
+      "term": "fà 'o scemo pe' nun ghi' 'a guerra",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "fingersi tonto per evitare un compito",
+      "meaning_en": "to play dumb to dodge a task",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-fetecchia",
+      "term": "fà fetecchia",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "fare cilecca, fallire",
+      "meaning_en": "to misfire, to fail",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-na-varca-scassata",
+      "term": "è na varca scassata",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "è un progetto disastroso che fa acqua da tutte le parti",
+      "meaning_en": "it's a wrecked boat (a disaster of a project)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-tengo-manco-l-uocchie-pe-chiagnere",
+      "term": "nun tengo manco l'uocchie pe' chiagnere",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sono in miseria totale",
+      "meaning_en": "I don't even have eyes left to cry with (I'm broke)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vota-ca-s-arde",
+      "term": "vota ca s'arde",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non cambiare discorso",
+      "meaning_en": "don't change the subject",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-me-ntrico-e-nun-me-mpaccio",
+      "term": "nun me 'ntrico e nun me 'mpaccio",
+      "variants": [
+        "non me ntrico e non me mpaccio"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non mi immischio",
+      "meaning_en": "I stay out of it",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-sfruculia-a-mazzarella-e-san-giusepp",
+      "term": "nun sfruculià 'a mazzarella 'e San Giuseppe",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non provocare chi sta tranquillo",
+      "meaning_en": "don't poke a sleeping bear",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "parla-comme-t-ha-fatto-mammeta",
+      "term": "parla comme t'ha fatto mammeta",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "parla semplice, in modo schietto",
+      "meaning_en": "speak plainly",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ma-che-m-ammacche",
+      "term": "ma che m'ammacche?",
+      "variants": [
+        "ma che staje ammaccanno?"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma che frottole mi racconti?",
+      "meaning_en": "what fairy tale are you telling me?",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tu-ch-accucchie",
+      "term": "tu ch'accucchie?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma che ragionamenti sconclusionati fai?",
+      "meaning_en": "what are you piecing together? (nonsense)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "azzeccarse-comm-a-na-sanguetta",
+      "term": "azzeccarse comm'a na sanguetta",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "attaccarsi come una sanguisuga, assillare",
+      "meaning_en": "to cling like a leech",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mbriaca-e-percoche",
+      "term": "mbriacà 'e percoche",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "riempire di chiacchiere vuote",
+      "meaning_en": "to fill someone's head with empty talk",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vummeca-centrelle",
+      "term": "vummecà centrelle",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ammazzarsi di fatica",
+      "meaning_en": "to work oneself to death",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-piezzo-e-pane",
+      "term": "nu piezzo 'e pane",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "una persona buonissima",
+      "meaning_en": "a really good-hearted person",
+      "register": "affectionate",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ghi-e-pressa",
+      "term": "ghi' 'e pressa",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "andare di fretta",
+      "meaning_en": "to be in a hurry",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "he-truvato-l-america",
+      "term": "hê truvato l'America",
+      "variants": [
+        "hê truvato 'America"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "hai trovato la pacchia",
+      "meaning_en": "you've struck gold",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-fesso-o-stommaco",
+      "term": "fà fesso 'o stommaco",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mangiare qualcosa per ingannare la fame",
+      "meaning_en": "to take the edge off hunger",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bell-e-bbuono",
+      "term": "bell'e bbuono",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "all'improvviso, di punto in bianco",
+      "meaning_en": "all of a sudden",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-vienetenne",
+      "term": "a vieneténne",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "in modo raffazzonato, alla meno peggio",
+      "meaning_en": "sloppily, any old how",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-spaccastrommola",
+      "term": "a spaccastrommola",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "a casaccio",
+      "meaning_en": "at random, haphazardly",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tene-o-mariuolo-ncuorpo",
+      "term": "tené 'o mariuolo 'ncuorpo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "nascondere un segreto inconfessabile",
+      "meaning_en": "to have a guilty secret",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-asciuto-pazzo-o-patrone",
+      "term": "è asciuto pazzo 'o patrone",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "di chi, avaro, diventa all'improvviso generoso",
+      "meaning_en": "the boss has gone mad (sudden generosity)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-palazzo-e-auto-e-a-signora-e-sorda",
+      "term": "'o palazzo è auto e 'a signora è sorda",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "di chi non sente o fa finta di non sentire",
+      "meaning_en": "the building is tall and the lady is deaf (pretending not to hear)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caccia-fuoco-pe-ll-uocchie",
+      "term": "caccià fuoco pe' ll'uocchie",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "essere furioso",
+      "meaning_en": "to be livid, eyes blazing",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "appila-a-vocca",
+      "term": "appilà 'a vocca",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "chiudere la bocca a qualcuno, togliergli ogni motivo di lamentela",
+      "meaning_en": "to shut someone up (by satisfying them)",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "parla-mazzecato",
+      "term": "parlà mazzecato",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "parlare in modo reticente",
+      "meaning_en": "to speak evasively",
+      "register": "colloquial",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-staje-abbuffanno-a-uallera",
+      "term": "me staje abbuffanno 'a uallera",
+      "variants": [
+        "me staje abbuffanno 'a guallera"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi stai scocciando a morte",
+      "meaning_en": "you're boring/annoying me to death",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-na-chiaveca",
+      "term": "fà na chiaveca",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "rovinare qualcosa; strapazzare qualcuno",
+      "meaning_en": "to make a mess of something; to tear someone apart",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sta-sempe-c-a-capa-a-pazzia",
+      "term": "sta sempe c''a capa â pazzia",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "è sempre in vena di scherzi",
+      "meaning_en": "he's always joking around",
+      "register": "familiar",
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "che-arma-e-mammeta",
+      "term": "che arma 'e mammeta...?",
+      "variants": [
+        "ch'arm' 'e mammeta"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "che diavolo...? (rafforzativo nelle domande)",
+      "meaning_en": "what the hell...?",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

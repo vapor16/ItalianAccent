@@ -1,0 +1,1522 @@
+{
+ "dialect": "mena",
+ "entries": [
+  {
+   "id": "cazzu",
+   "original": "cazzu",
+   "category": "exclamation",
+   "literal_meaning": "pene",
+   "figurative_meaning": "intensificatore negativo: stu cazzu te X = questo maledetto X",
+   "meaning_it": "cazzo (pene; intercalare di rabbia o stupore; \"stu cazzu te…\" = questo maledetto…)",
+   "meaning_en": "dick; all-purpose expletive (\"this damn …\")",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "rabbia",
+     "frustrazione",
+     "stupore"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "stu cazzu te angale me sta' face sprasemare",
+     "translation_it": "questo maledetto molare mi fa spasimare",
+     "provenance": "attested"
+    },
+    {
+     "text": "stu cazzu te server nu sse ddiscita",
+     "translation_it": "questo cazzo di server non si sveglia",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-rohlfs-vds3"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi notes the triviality and the euphemisms cagnu, càcchiu, cazza, capu te capetune."
+  },
+  {
+   "id": "caputecazzu",
+   "original": "caputecazzu",
+   "variants": [
+    "capu te cazzu",
+    "càpure te cazzi (pl.)"
+   ],
+   "category": "exclamation",
+   "meaning_it": "testa di cazzo (insulto); perdio!, accidenti! (esclamazione di ira o gioia)",
+   "meaning_en": "dickhead; also \"holy crap!\" (anger or delight)",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "rabbia",
+     "gioia",
+     "sorpresa"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "caputecazzu, cce be' ssapurita!",
+     "translation_it": "perbacco, com'è saporita!",
+     "provenance": "attested"
+    },
+    {
+     "text": "se crite ca ete nna caputecazzu",
+     "translation_it": "si crede chissà chi",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: used \"by young and old, appropriately and not\", in anger or joy. Plural càpure te cazzi = \"a load of nothing\"."
+  },
+  {
+   "id": "ci-spettu-a-ttie-cazzi-mangiu",
+   "original": "ci spettu a ttie, cazzi màngiu",
+   "category": "vulgar-idiom",
+   "meaning_it": "se aspetto te, sto fresco (mangio cazzi)",
+   "meaning_en": "if I wait for you, I'm screwed (I'll be eating dicks)",
+   "intensity": 4,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "sarcasmo",
+     "frustrazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "minchia",
+   "original": "mìnchia",
+   "category": "exclamation",
+   "meaning_it": "pene; (inter.) accidenti!, perbacco!; (insulto) minchione, stupido",
+   "meaning_en": "dick; (interj.) wow/damn!; (insult) idiot",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "stupore",
+     "irritazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "mìnchia cce ffriddu!",
+     "translation_it": "accidenti che freddo!",
+     "provenance": "attested"
+    },
+    {
+     "text": "ddhu mìnchia te fràita",
+     "translation_it": "quel minchione di tuo fratello",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-rohlfs-vds3"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "As an epithet it can be offensive or good-natured (Garrisi). Euphemism: mìnneca!, minna."
+  },
+  {
+   "id": "minna",
+   "original": "minna",
+   "category": "insult",
+   "meaning_it": "minchione (forma attenuata di mìnchia)",
+   "meaning_en": "dimwit (softened form of mìnchia)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "sinti pròpriu nna minna",
+     "translation_it": "sei proprio un minchione",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Do not confuse with minna = breast (mammella), also recorded by Garrisi."
+  },
+  {
+   "id": "fessa",
+   "original": "fessa",
+   "category": "insult",
+   "literal_meaning": "vulva",
+   "figurative_meaning": "sciocco, babbeo (epiteto di compatimento)",
+   "meaning_it": "fesso, sciocco, ingenuo; (anat.) vulva",
+   "meaning_en": "fool, sucker; (anat.) vulva",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "compatimento",
+     "irritazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "cce ssinti fessa, fìgghiu miu!",
+     "translation_it": "quanto sei sciocco, figlio mio!",
+     "provenance": "attested"
+    },
+    {
+     "text": "nu bu facìti pigghiare pe ffessa",
+     "translation_it": "non fatevi prendere per fessi",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Invariable adjective/noun. The anatomical sense is more vulgar (intensity 4)."
+  },
+  {
+   "id": "megghiu-curnutu-cca-ffessa",
+   "original": "mègghiu curnutu cca ffessa",
+   "category": "vulgar-idiom",
+   "meaning_it": "meglio cornuto che fesso",
+   "meaning_en": "better a cuckold than a fool",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi explains it: a cuckold is known only in his own town, a fool everywhere."
+  },
+  {
+   "id": "curnutu",
+   "original": "curnutu",
+   "category": "insult",
+   "meaning_it": "cornuto (tradito; insulto generico)",
+   "meaning_en": "cuckold; generic insult",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "rabbia",
+     "scherno"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "curnutu, vattutu e ccacciatu te casa",
+     "translation_it": "cornuto, bastonato e cacciato di casa",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-wikipedia-it-dialetti-salentini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "culu",
+   "original": "culu",
+   "category": "anatomical",
+   "meaning_it": "culo, sedere; fondo di un recipiente",
+   "meaning_en": "arse, bottom",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "tene culu",
+     "translation_it": "ha costanza nel lavoro (detto di chi non si alza mai)",
+     "provenance": "attested"
+    },
+    {
+     "text": "sèntere usciare lu culu",
+     "translation_it": "essere molto in ansia",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Also fortune in modern Italian slang, but Garrisi records \"tene culu\" as \"is a steady worker\"."
+  },
+  {
+   "id": "puttana",
+   "original": "puttana",
+   "category": "insult",
+   "meaning_it": "puttana, prostituta (insulto)",
+   "meaning_en": "whore",
+   "intensity": 4,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "sfogo tra amici su cose (non persone)"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti",
+    "riferito a donne reali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "puttana pe nna fava, puttana pe nn'òngulu",
+     "translation_it": "puttana per una fava, puttana per un baccello",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-wikipedia-it-dialetti-salentini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Sexist slur against women: never aim it at a real person in generation. Usable only in fixed sayings or as an expletive about things."
+  },
+  {
+   "id": "puttanazza",
+   "original": "puttanazza",
+   "category": "insult",
+   "meaning_it": "donnaccia lurida (peggiorativo di puttana)",
+   "meaning_en": "filthy whore (pejorative)",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti",
+    "riferito a persone reali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Strongly misogynistic: documented only, not generated."
+  },
+  {
+   "id": "puttanieri",
+   "original": "puttanieri",
+   "category": "insult",
+   "meaning_it": "puttaniere, donnaiolo da strapazzo",
+   "meaning_en": "womaniser, whoremonger",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "futtire",
+   "original": "futtìre",
+   "variants": [
+    "fùttere",
+    "futtutu"
+   ],
+   "category": "vulgar-metaphor",
+   "meaning_it": "fottere; fregare, imbrogliare; buttar via",
+   "meaning_en": "to fuck; to screw over, cheat; to chuck away",
+   "intensity": 4,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "La fìmmena futte lu diàulu",
+     "translation_it": "la donna frega il diavolo (proverbio)",
+     "provenance": "attested"
+    },
+    {
+     "text": "lu futtisti intra a lla scettalora",
+     "translation_it": "lo buttasti nella fossa delle acque sporche",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "rrumanire-futtutu",
+   "original": "rrumanire futtutu",
+   "category": "vulgar-idiom",
+   "meaning_it": "restare fregato",
+   "meaning_en": "to end up screwed",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Mègghiu l'eu osce cca ll'addhina crai, senò nc'ete lu riscu cu rrumani futtutu osce e ccrai",
+     "translation_it": "meglio l'uovo oggi..., altrimenti rischi di restare fregato oggi e domani",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cugghiune",
+   "original": "cugghiune",
+   "variants": [
+    "cugghiuni (pl.)"
+   ],
+   "category": "insult",
+   "meaning_it": "coglione (testicolo; uomo stupido)",
+   "meaning_en": "bollock; (fig.) idiot",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "nu mme rumpire li cugghiuni",
+     "translation_it": "non rompermi i coglioni",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "The example is AI-illustrative: it combines rùmpere and cugghiune, both attested."
+  },
+  {
+   "id": "pampasciune",
+   "original": "pampasciune",
+   "category": "insult",
+   "meaning_it": "coglione, babbeo (lett. lampascione; anche testicoli)",
+   "meaning_en": "dumb bulb: idiot (lit. tassel-hyacinth bulb; also testicles)",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "tie si' nnu pampasciune!",
+     "translation_it": "tu sei un coglione!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Very typical Salentine insult (Garrisi: used for testicles and as an abusive epithet)."
+  },
+  {
+   "id": "strunzu",
+   "original": "strunzu",
+   "category": "insult",
+   "meaning_it": "stronzo",
+   "meaning_en": "turd; asshole",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "rabbia",
+     "disprezzo"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Puru li strunzi ènenu a ggalla",
+     "translation_it": "anche gli stronzi vengono a galla",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-wikipedia-it-dialetti-salentini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mmerda",
+   "original": "mmerda",
+   "variants": [
+    "mberda",
+    "moscia (sterco molliccio)"
+   ],
+   "category": "exclamation",
+   "meaning_it": "merda",
+   "meaning_en": "shit",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "osce ete stata nna sciurnata te mmerda",
+     "translation_it": "oggi è stata una giornata di merda",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ncazzatu",
+   "original": "ncazzatu",
+   "category": "exclamation",
+   "meaning_it": "incazzato",
+   "meaning_en": "pissed off",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "la mmassara stae ncazzata cu ll'antara",
+     "translation_it": "la massaia è infuriata con la caposquadra",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scemu",
+   "original": "scemu",
+   "category": "insult",
+   "meaning_it": "scemo, cretino (anche affettuoso: sciocchino)",
+   "meaning_en": "stupid, idiot (also affectionate)",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "scherzo"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "sinti scemu e ffessa",
+     "translation_it": "sei scemo e balordo",
+     "provenance": "attested"
+    },
+    {
+     "text": "nu bu mpaurati, scemi mei",
+     "translation_it": "non vi spaventate, sciocchini miei",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "babbu",
+   "original": "babbu",
+   "category": "insult",
+   "meaning_it": "babbeo, buono a nulla (anche affettuoso)",
+   "meaning_en": "dope, good-for-nothing (also tender)",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "scherzo"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "nu tte spacenziare, babbu miu!",
+     "translation_it": "non spazientirti, sciocchino mio!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-rohlfs-vds3"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "capiteciucciu",
+   "original": "capiteciùcciu",
+   "variants": [
+    "ciùcciu"
+   ],
+   "category": "insult",
+   "meaning_it": "testa d'asino, zuccone",
+   "meaning_en": "donkey-head, blockhead",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "capiteozza",
+   "original": "capiteozza",
+   "category": "insult",
+   "meaning_it": "testa vuota",
+   "meaning_en": "empty-head",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "spaccime",
+   "original": "spaccime",
+   "category": "insult",
+   "meaning_it": "tipaccio, pezzo di… (spregiativo)",
+   "meaning_en": "nasty piece of work",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "litigio",
+    "sfogo"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "fatte nnanti, bruttu spaccime!",
+     "translation_it": "fatti avanti, brutto tipaccio!",
+     "provenance": "attested"
+    },
+    {
+     "text": "ddhi spaccimi nzùrtanu puru li santi",
+     "translation_it": "quei tipacci insultano persino i santi",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fetente",
+   "original": "fetente",
+   "variants": [
+    "fetienti (pl.)"
+   ],
+   "category": "insult",
+   "meaning_it": "fetente; spregevole",
+   "meaning_en": "stinker, scumbag",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "uastasu",
+   "original": "uastasu",
+   "variants": [
+    "uastasi",
+    "uastasignu"
+   ],
+   "category": "insult",
+   "meaning_it": "mascalzone, maleducato",
+   "meaning_en": "lout, hooligan",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "làssali stare ca suntu nna banda de uastasi",
+     "translation_it": "lasciali perdere che sono una banda di mascalzoni",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tamarru",
+   "original": "tamarru",
+   "category": "insult",
+   "meaning_it": "zoticone, rozzo",
+   "meaning_en": "boor, yokel",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cacarone",
+   "original": "cacarone",
+   "category": "insult",
+   "meaning_it": "scoreggione; fifone",
+   "meaning_en": "fart-bag; coward",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "latru",
+   "original": "latru",
+   "category": "insult",
+   "meaning_it": "ladro",
+   "meaning_en": "thief",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mbriacu-fracetu",
+   "original": "mbriacu fràcetu",
+   "category": "insult",
+   "meaning_it": "ubriaco fradicio, alcolizzato",
+   "meaning_en": "dead drunk, sot",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "l-anima-toa",
+   "original": "l'ànima toa!",
+   "variants": [
+    "l'ànema toa",
+    "l'ànima soa",
+    "l'ànima òscia",
+    "l'ànima de sorda"
+   ],
+   "category": "imprecation",
+   "meaning_it": "accidenti a te! (all'inferno l'anima tua)",
+   "meaning_en": "damn you! (to hell with your soul)",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "stizza"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "l'ànima te sorda la rande!",
+     "translation_it": "accidenti a tua sorella maggiore!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "l-anima-tt-essa",
+   "original": "l'ànima tt'essa!",
+   "category": "threat-joking",
+   "meaning_it": "che ti esca l'anima! (possa tu morire)",
+   "meaning_en": "may your soul leave you! (drop dead!)",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "rabbia"
+    ]
+   },
+   "appropriate_contexts": [
+    "minaccia scherzosa tra intimi"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "e, ci t'essa l'ànima!",
+     "translation_it": "eh, che ti esca l'anima!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mannaggia",
+   "original": "mannàggia",
+   "variants": [
+    "mannàggia a ttie",
+    "mannàggia lu tiàulu",
+    "mannàggia lu demòniu"
+   ],
+   "category": "imprecation",
+   "meaning_it": "mannaggia, maledizione",
+   "meaning_en": "damn (it)!, curse …!",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "stizza"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "quasi ovunque in registro informale"
+   ],
+   "inappropriate_contexts": [
+    "email formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "mannàggia a ttie!",
+     "translation_it": "mannaggia a te!",
+     "provenance": "attested"
+    },
+    {
+     "text": "mannàggia lu tiàulu!",
+     "translation_it": "accidenti al diavolo!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: it heads invectives and blasphemies. With a holy name it becomes a blasphemy (see the next entry)."
+  },
+  {
+   "id": "mannaggia-nome-sacro-es-mannaggia-cristu",
+   "original": "mannàggia + nome sacro (es. mannàggia Cristu)",
+   "category": "blasphemy",
+   "meaning_it": "bestemmia costruita con mannàggia + nome sacro",
+   "meaning_en": "blasphemy: \"damn + holy name\"",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "solo a volgarità 5, sfogo estremo"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti",
+    "qualsiasi contesto pubblico"
+   ],
+   "blasphemy": true,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-rohlfs-vds3"
+   ],
+   "provenance": "documented-rule",
+   "verification_status": "source-checked",
+   "notes": "The pattern is documented (Garrisi on mannàggia; Rohlfs III lists astima, castimata, bastime for \"bestemmia\"). The exact holy name used varies by speaker; generate only at vulgarity 5 and never directed at believers."
+  },
+  {
+   "id": "porcu-ddinci",
+   "original": "porcu ddinci",
+   "variants": [
+    "pe ppalèu",
+    "mannàggia papalèu"
+   ],
+   "category": "blasphemy",
+   "meaning_it": "perdinci (attenuazione di un'invettiva contro Dio)",
+   "meaning_en": "minced oath standing in for a curse against God",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "volgarità alta tra amici"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": true,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: it softens an invective against God. Marked as blasphemy because it is a recognisable minced form. The milder papalèu is not blasphemous."
+  },
+  {
+   "id": "sangu-te-giuta",
+   "original": "sangu te Giuta!",
+   "variants": [
+    "sangu te Berzebbù!"
+   ],
+   "category": "imprecation",
+   "meaning_it": "sangue di Giuda! (imprecazione)",
+   "meaning_en": "Judas's blood! (curse)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: sangu te + name forms imprecations. With these two names it is not blasphemous in the strict sense."
+  },
+  {
+   "id": "ni-egna-nna-saietta",
+   "original": "ni egna nna saietta",
+   "variants": [
+    "saièmmara",
+    "saietta!"
+   ],
+   "category": "imprecation",
+   "meaning_it": "gli venga un colpo (accidente)",
+   "meaning_en": "may lightning strike him",
+   "intensity": 3,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "ni egna nna saietta a cci nzurta fìgghiuma",
+     "translation_it": "venga un colpo a chi prende in giro mio figlio",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "requesciatta",
+   "original": "requesciatta!",
+   "variants": [
+    "requesçatta!"
+   ],
+   "category": "imprecation",
+   "meaning_it": "crepi! (scherzoso dal latino requiescat)",
+   "meaning_en": "drop dead! (mock-Latin \"requiescat\")",
+   "intensity": 3,
+   "register": "ironic",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ane",
+   "original": "ane!",
+   "variants": [
+    "ane, a!",
+    "a' ba'"
+   ],
+   "category": "dismissal",
+   "meaning_it": "vai!, vai a quel paese!",
+   "meaning_en": "get lost!, go to hell!",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "ane, va' ffatìa ca è mmègghiu!",
+     "translation_it": "vai a lavorare che è meglio!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ricchione",
+   "original": "ricchione",
+   "category": "insult",
+   "meaning_it": "(spreg.) omosessuale; impotente",
+   "meaning_en": "(slur) faggot; impotent man",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "inappropriate_contexts": [
+    "sempre"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Homophobic slur, recorded by Garrisi (also with the older sense \"impotent\"). Documented only; NEVER generated."
+  }
+ ]
+}

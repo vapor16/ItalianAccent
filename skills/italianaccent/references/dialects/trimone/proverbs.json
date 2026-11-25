@@ -1,0 +1,846 @@
+{
+  "$schema": "../../../../../schemas/proverbs.schema.json",
+  "dialect": "trimone",
+  "entries": [
+    {
+      "id": "addo-arrive-chiande-u-zippe",
+      "type": "proverb",
+      "original": "Addò àrrive, chiànde u zìppe.",
+      "variants": [
+        "addò arrive chiànde u zìppe"
+      ],
+      "literal_it": "Dove arrivi, pianta il ramoscello.",
+      "literal_en": "Wherever you get to, plant your stick.",
+      "meaning_it": "Vai avanti finché puoi, poi accontentati di ciò che hai fatto.",
+      "meaning_en": "Push on as far as you can, then be content with what you achieved.",
+      "usage_context": "advice on effort and limits; finishing a task; end of a long day",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-ammene-prime-ammene-do-volde",
+      "type": "proverb",
+      "original": "Ci-ammène prime, ammène do volde.",
+      "literal_it": "Chi colpisce per primo colpisce due volte.",
+      "literal_en": "Who strikes first strikes twice.",
+      "meaning_it": "Giocare d'anticipo dà un vantaggio.",
+      "meaning_en": "Acting first gives you the edge.",
+      "usage_context": "competition, conflicts, acting proactively",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-sparte-iave-la-megghia-parte",
+      "type": "proverb",
+      "original": "Ci sparte iàve la mègghia parte.",
+      "literal_it": "Chi divide ha la parte migliore.",
+      "literal_en": "Who does the sharing gets the best share.",
+      "meaning_it": "Chi gestisce la spartizione ne approfitta.",
+      "meaning_en": "Whoever divides the spoils looks after himself.",
+      "usage_context": "fairness, resource allocation, team politics",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-sembati-ie-pareende-a-la-gocce",
+      "type": "proverb",
+      "original": "La sembatì iè parèende a la gocce.",
+      "literal_it": "La simpatia è parente dell'accidente.",
+      "literal_en": "Liking someone is kin to a stroke.",
+      "meaning_it": "La simpatia (e l'antipatia) arrivano all'improvviso, senza motivo.",
+      "meaning_en": "Liking (or disliking) someone strikes without warning.",
+      "usage_context": "first impressions, colleagues",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-rasce-come-la-ue-la-fasce",
+      "type": "proverb",
+      "original": "La ràsce, come la uè la fasce.",
+      "variants": [
+        "La rasce, come uè la fasce",
+        "La rasc accom uè la fasc'"
+      ],
+      "literal_it": "La razza (il pesce), come la vuoi la fai.",
+      "literal_en": "The skate: you cook it however you like.",
+      "meaning_it": "Si adatta a tutto; anche: persona facilmente manipolabile.",
+      "meaning_en": "It works any way you want; also: an easily manipulated person.",
+      "usage_context": "flexibility; malleable people or tools; also used about Barese spelling",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi",
+        "src-bar-barinedita-idiomi",
+        "src-bar-gdp-ortografia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "non-pegghianne-iasse-pe-fegure",
+      "type": "proverb",
+      "original": "Non pegghiànne iàsse pe fègure.",
+      "variants": [
+        "Non pegghiànne iàss pe fègure"
+      ],
+      "literal_it": "Non prendere un asso per una figura.",
+      "literal_en": "Don't take an ace for a face card.",
+      "meaning_it": "Non confondere le cose importanti con quelle che sembrano tali.",
+      "meaning_en": "Don't mistake what looks important for what really is.",
+      "usage_context": "evaluating options, debugging wrong assumptions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "non-de-fermanne-ma-a-la-prima-taverne",
+      "type": "proverb",
+      "original": "Non de fermànne mà a la prima tavèrne.",
+      "literal_it": "Non ti fermare mai alla prima taverna.",
+      "literal_en": "Never stop at the first tavern.",
+      "meaning_it": "Non accontentarti della prima soluzione: cerca, confronta.",
+      "meaning_en": "Don't settle for the first option: look around and compare.",
+      "usage_context": "learning, choosing tools, career advice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "passate-u-sande-passate-la-feste",
+      "type": "proverb",
+      "original": "Passàte u sande, passàte la fèste.",
+      "literal_it": "Passato il santo, passata la festa.",
+      "literal_en": "Saint's day over, party over.",
+      "meaning_it": "Finita l'occasione, finiti i vantaggi.",
+      "meaning_en": "Once the occasion has passed, so have the perks.",
+      "usage_context": "missed deadlines, opportunities",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sande-necole-ie-amande-de-le-frastiire",
+      "type": "saying",
+      "original": "Sande Necòle iè amande de le frastìire.",
+      "literal_it": "San Nicola ama i forestieri.",
+      "literal_en": "Saint Nicholas loves foreigners.",
+      "meaning_it": "A Bari lo straniero è il benvenuto.",
+      "meaning_en": "Outsiders are welcome in Bari.",
+      "usage_context": "hospitality, newcomers to a team",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sote-o-u-uaste-vene-u-aggiiuste",
+      "type": "proverb",
+      "original": "Sote o u-uàste vène u-aggiiùste.",
+      "literal_it": "Dopo il guasto viene l'aggiusto.",
+      "literal_en": "After the damage comes the fix.",
+      "meaning_it": "Dopo un danno arriva sempre la riparazione: non disperare.",
+      "meaning_en": "Every breakage is followed by a repair: don't despair.",
+      "usage_context": "after a mistake, a broken build, data loss",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-pulpe-se-cosce-che-l-acqua-soa-stesse",
+      "type": "proverb",
+      "original": "U pulpe se cosce che l'àcqua soa stèsse.",
+      "variants": [
+        "U pulp s cosc jind all'acqua sò"
+      ],
+      "literal_it": "Il polpo si cuoce nella sua stessa acqua.",
+      "literal_en": "The octopus cooks in its own water.",
+      "meaning_it": "Certe cose (e persone) hanno bisogno del loro tempo: lasciale cuocere senza forzare.",
+      "meaning_en": "Some things and people need their own time: let them stew, don't force it.",
+      "usage_context": "patience, haste, convincing someone, long builds",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi",
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "si-probbie-du-iune",
+      "type": "idiom",
+      "original": "Si probbie du iùne.",
+      "variants": [
+        "Si propr' du iun'",
+        "si probbie du iune"
+      ],
+      "literal_it": "Sei proprio del (millenovecento)uno.",
+      "literal_en": "You're really a class-of-'01.",
+      "meaning_it": "Sei proprio un fesso sfortunato, un buono a nulla.",
+      "meaning_en": "You're a hopeless sucker.",
+      "usage_context": "mocking someone hapless",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi",
+        "src-bar-barinedita-dimenticato",
+        "src-bar-barinedita-giudizi",
+        "src-bar-doppiozero-lemmi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-mise-u-quadre-mmenze-a-la-chiazze",
+      "type": "idiom",
+      "original": "A mìse u quadre mmènze a la chiàzze.",
+      "variants": [
+        "A mis u quadre mmenze a la chiazz"
+      ],
+      "literal_it": "Ha messo il quadro in mezzo alla piazza.",
+      "literal_en": "He put the painting in the middle of the square.",
+      "meaning_it": "Ha reso pubblico ciò che doveva restare privato.",
+      "meaning_en": "He made a private matter public.",
+      "usage_context": "leaks, oversharing, committing secrets to a public repo",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Refers to the San Nicola icon carried through the streets in May."
+    },
+    {
+      "id": "l-acque-che-non-ha-fatte-ngile-stae",
+      "type": "saying",
+      "original": "L'àcque che non ha fatte 'ngìle stàe.",
+      "variants": [
+        "L'acque che non ha fatt in gil stae"
+      ],
+      "literal_it": "L'acqua che non ha fatto è ancora in cielo.",
+      "literal_en": "The rain it hasn't poured is still up in the sky.",
+      "meaning_it": "Chi ha fatto del male prima o poi pagherà.",
+      "meaning_en": "Wrongdoers will get what's coming to them.",
+      "usage_context": "justice, karma for a bad colleague",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "amminete-ca-l-acque-je-vasce",
+      "type": "idiom",
+      "original": "Ammìnete, ca l'àcque jè vàsce.",
+      "variants": [
+        "Ammìin't che l'acque ie vasce"
+      ],
+      "literal_it": "Buttati, che l'acqua è bassa.",
+      "literal_en": "Jump in, the water's shallow.",
+      "meaning_it": "Lanciati, il momento è buono e il rischio basso.",
+      "meaning_en": "Go for it: good timing, low risk.",
+      "usage_context": "encouragement to start",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "le-terrise-fascene-apri-l-ecchie-pure-a-le-gattu",
+      "type": "proverb",
+      "original": "Le terrìse fàscene aprì l'ècchie pure a le gattùdde.",
+      "variants": [
+        "Le terrise fascen aprì l'ecchie pezzingh-a le gattudde"
+      ],
+      "literal_it": "I soldi fanno aprire gli occhi persino ai gattini.",
+      "literal_en": "Money opens even kittens' eyes.",
+      "meaning_it": "Il denaro può quasi tutto.",
+      "meaning_en": "Money can do almost anything.",
+      "usage_context": "money, motivation, budgets",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbusse-a-ddenare-e-responne-a-bbastone",
+      "type": "idiom",
+      "original": "Bbusse a ddenàre e respònne a bbastóne.",
+      "variants": [
+        "Buss a dnar e rsponn a baston"
+      ],
+      "literal_it": "Bussa a denari e risponde a bastoni.",
+      "literal_en": "He knocks with coins and answers with clubs.",
+      "meaning_it": "Risponde fuori tema, parla d'altro.",
+      "meaning_en": "He answers a different question from the one asked.",
+      "usage_context": "evasive answers, off-topic replies",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From the card game tressette."
+    },
+    {
+      "id": "je-nu-sckaffe-a-criste",
+      "type": "idiom",
+      "original": "Jè nu sckàffe a Criste.",
+      "variants": [
+        "Iè nu shkàff a Crist"
+      ],
+      "literal_it": "È uno schiaffo a Cristo.",
+      "literal_en": "It's a slap in Christ's face.",
+      "meaning_it": "È un'occasione sprecata, uno spreco imperdonabile.",
+      "meaning_en": "It's an unforgivable waste of a chance.",
+      "usage_context": "waste, missed opportunities",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Religious imagery but not a blasphemy."
+    },
+    {
+      "id": "a-criste-disce-fa-chiove",
+      "type": "ironic-saying",
+      "original": "A Criste disce: fà chiòve?",
+      "variants": [
+        "A Crist disce fa chjove?"
+      ],
+      "literal_it": "Dice a Cristo: fai piovere?",
+      "literal_en": "He asks Christ: will you make it rain?",
+      "meaning_it": "Di chi agisce solo se sollecitato.",
+      "meaning_en": "Said of someone who only acts when prompted.",
+      "usage_context": "passive colleagues, waiting for orders",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acquanne-passe-criste-da-nanze-a-ccaste-liivete",
+      "type": "proverb",
+      "original": "Acquanne passe Criste da nanze a ccàste, lìivete u cappìidde.",
+      "variants": [
+        "Acquanne passe Criste da nanze a ccaste, lìivete u cappìidde"
+      ],
+      "literal_it": "Quando passa Cristo davanti a casa tua, togliti il cappello.",
+      "literal_en": "When Christ passes your house, take your hat off.",
+      "meaning_it": "Riconosci l'autorità di chi merita rispetto.",
+      "meaning_en": "Show respect where it is due.",
+      "usage_context": "respect, hierarchy",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vosce-de-pobbue-vosce-de-ddi",
+      "type": "proverb",
+      "original": "Vosce de pobbue, vosce de Ddì.",
+      "literal_it": "Voce di popolo, voce di Dio.",
+      "literal_en": "Voice of the people, voice of God.",
+      "meaning_it": "Se lo dicono tutti, c'è del vero.",
+      "meaning_en": "If everyone says it, there's some truth in it.",
+      "usage_context": "consensus, user feedback",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-l-amisce-non-ze-fasce-ma-a-credenze",
+      "type": "proverb",
+      "original": "A l'amìsce non ze fasce mà a credènze.",
+      "variants": [
+        "A l'amisce non ze fasce mà a credènze"
+      ],
+      "literal_it": "All'amico non si fa mai credito.",
+      "literal_en": "Never give credit to a friend.",
+      "meaning_it": "Non prestare soldi agli amici, se vuoi tenerteli.",
+      "meaning_en": "Don't lend money to friends if you want to keep them.",
+      "usage_context": "money and friendship",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "non-aprenne-l-ecchie-a-le-gattudde",
+      "type": "proverb",
+      "original": "Non aprènne l'ècchie a le gattùdde.",
+      "variants": [
+        "Non aprénne l'écchie a le gattudde"
+      ],
+      "literal_it": "Non aprire gli occhi ai gattini.",
+      "literal_en": "Don't open the kittens' eyes.",
+      "meaning_it": "Non rivelare certe cose a chi non deve saperle.",
+      "meaning_en": "Don't reveal things to those who shouldn't know them.",
+      "usage_context": "confidentiality, secrets, security",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-core-de-la-mamme-je-come-a-la-capanne",
+      "type": "proverb",
+      "original": "U core de la màmme jè come a la capànne.",
+      "variants": [
+        "U core de la mamme ié come a la capanne"
+      ],
+      "literal_it": "Il cuore della mamma è come una capanna.",
+      "literal_en": "A mother's heart is like a hut.",
+      "meaning_it": "Il cuore di una madre è un rifugio sempre aperto.",
+      "meaning_en": "A mother's heart is a shelter that's always open.",
+      "usage_context": "family, comfort",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accome-spiinne-mange",
+      "type": "proverb",
+      "original": "Accóme spìinne mange.",
+      "variants": [
+        "Accome spìinne mange"
+      ],
+      "literal_it": "Come spendi mangi.",
+      "literal_en": "As you spend, so you eat.",
+      "meaning_it": "La qualità dipende da quanto spendi.",
+      "meaning_en": "You get what you pay for.",
+      "usage_context": "budget vs quality, cheap hosting",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-tiimbe-je-galandome",
+      "type": "proverb",
+      "original": "U tìimbe jè galandòme.",
+      "variants": [
+        "U tìimbe ié galandome"
+      ],
+      "literal_it": "Il tempo è galantuomo.",
+      "literal_en": "Time is a gentleman.",
+      "meaning_it": "Il tempo sistema le cose e rende giustizia.",
+      "meaning_en": "Time sorts things out and sets the record straight.",
+      "usage_context": "patience after a wrong choice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-uegghie-vole-sci-sembe-a-ggalle",
+      "type": "proverb",
+      "original": "U uègghie vole scì sèmbe a ggàlle.",
+      "variants": [
+        "U uégghie vole scì sèmbe a ggalle"
+      ],
+      "literal_it": "L'olio vuole stare sempre a galla.",
+      "literal_en": "Oil always wants to float on top.",
+      "meaning_it": "Certa gente vuole sempre stare al centro dell'attenzione.",
+      "meaning_en": "Some people always need to be on top.",
+      "usage_context": "show-offs, arrogant colleagues",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-malerve-non-more-ma",
+      "type": "proverb",
+      "original": "La malèrve non more mà.",
+      "literal_it": "L'erba cattiva non muore mai.",
+      "literal_en": "Weeds never die.",
+      "meaning_it": "Le persone insopportabili non te le togli mai di torno.",
+      "meaning_en": "Unbearable people are impossible to get rid of.",
+      "usage_context": "annoying colleagues, legacy code",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-gestizzie-de-la-terre-tande-je-bbone-ca-fasce",
+      "type": "proverb",
+      "original": "La gestìzzie de la tèrre tande jè bbóne ca fasce la uèrre.",
+      "variants": [
+        "La gestizzie de la tèrra tande iè bbone ca fasce la uèrre"
+      ],
+      "literal_it": "La giustizia della terra è tanto buona che fa la guerra.",
+      "literal_en": "Earthly justice is so good it makes war.",
+      "meaning_it": "La giustizia umana spesso produce ingiustizia.",
+      "meaning_en": "Human justice often breeds injustice.",
+      "usage_context": "cynicism about rules",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fasce-fa-le-scherzedde-nganne",
+      "type": "idiom",
+      "original": "Fasce fà le scherzèdde 'nganne.",
+      "variants": [
+        "FASCE FA LE SCHERZÈDDE NGANNE"
+      ],
+      "literal_it": "Fa venire le crosticine in gola.",
+      "literal_en": "He makes your throat scab over.",
+      "meaning_it": "È così testardo che a ripetergli le cose perdi la voce.",
+      "meaning_en": "He's so stubborn you lose your voice repeating things.",
+      "usage_context": "stubborn people, repeating instructions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-sada-scorcia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-bregessione-se-vede-acquanne-se-retire",
+      "type": "proverb",
+      "original": "La bregessiòne se vède acquanne se retìre.",
+      "variants": [
+        "LA BREGESSIÒNE SE VÈT-ACQUANNE SE RETÌRE"
+      ],
+      "literal_it": "La processione si vede quando rientra.",
+      "literal_en": "You judge a procession when it comes back in.",
+      "meaning_it": "Un lavoro si giudica quando è finito.",
+      "meaning_en": "Judge the work when it's done.",
+      "usage_context": "premature judgments, release reviews",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-sada-scorcia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "le-scenucchie-u-avonne-arrecherda",
+      "type": "saying",
+      "original": "Le scenùcchie u-avònne arrecherdà.",
+      "variants": [
+        "LE SCENÙCCHJE U-AVÒNNE ARRECHERDÀ"
+      ],
+      "literal_it": "Le ginocchia lo dovranno ricordare.",
+      "literal_en": "The knees will have to remember him.",
+      "meaning_it": "I discendenti lo ricorderanno per la sua signorilità e l'eredità lasciata.",
+      "meaning_en": "His descendants will remember his class and his legacy.",
+      "usage_context": "legacy, good work that lasts",
+      "register": "archaic",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-sada-scorcia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pare-la-pupe-sop-o-ttammerriedde",
+      "type": "ironic-saying",
+      "original": "Pare la pupe sop-o ttammerrìedde.",
+      "variants": [
+        "PARE LA PUPE SOP-O TTAMMERRÌEDDE"
+      ],
+      "literal_it": "Sembra la bambola sul tamburello.",
+      "literal_en": "She looks like the doll on the tambourine.",
+      "meaning_it": "Prende in giro chi si agghinda in modo eccessivo per la sua età.",
+      "meaning_en": "Teases someone overdressed for their age.",
+      "usage_context": "mockery of overdone looks (or over-styled UI)",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-sada-scorcia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "senza-sciammerghe",
+      "type": "idiom",
+      "original": "Sènza sciammèrghe.",
+      "variants": [
+        "SÈNZA SCIAMMÉRGHE"
+      ],
+      "literal_it": "Senza giamberga (marsina).",
+      "literal_en": "Without a frock coat.",
+      "meaning_it": "Di un ignorante che pretende di sapere tutto.",
+      "meaning_en": "Said of an ignoramus who claims to know everything.",
+      "usage_context": "know-it-alls",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-sada-scorcia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-fesse-ca-gratte-na-spille-v-a-mmore-ngalere",
+      "type": "proverb",
+      "original": "U fèsse ca gràtte na spìlle v'a mmòre ngalére.",
+      "literal_it": "Lo scemo che ruba uno spillo va a morire in galera.",
+      "literal_en": "The fool who steals a pin ends up dying in jail.",
+      "meaning_it": "Chi è sprovveduto paga anche per le piccole colpe (mentre i furbi la fanno franca).",
+      "meaning_en": "The naive pay even for petty faults.",
+      "usage_context": "small mistakes with big consequences",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted by Andriani (2017) from De Fano (1962)."
+    },
+    {
+      "id": "si-remanute-com-a-la-zite-de-cegghie",
+      "type": "idiom",
+      "original": "Sì remanùte com'a la zite de Cègghie.",
+      "variants": [
+        "Si remanùte com'a la zite de Cègghie"
+      ],
+      "literal_it": "Sei rimasto come la sposa di Ceglie.",
+      "literal_en": "You've been left like the bride of Ceglie.",
+      "meaning_it": "Sei rimasto solo e fregato.",
+      "meaning_en": "You've been left high and dry.",
+      "usage_context": "being let down, a dependency that disappeared",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Legend of a bride abandoned at the altar."
+    },
+    {
+      "id": "cape-de-zzi-venginze",
+      "type": "idiom",
+      "original": "Cape de zzì Vengìnze.",
+      "literal_it": "Testa di zio Vincenzo.",
+      "literal_en": "Uncle Vincenzo's head.",
+      "meaning_it": "Nullatenente, uno senza un soldo.",
+      "meaning_en": "A penniless nobody.",
+      "usage_context": "poverty, budget jokes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikipedia compares it (as a sound-alike, not a proven etymology) with Latin caput sine censu."
+    },
+    {
+      "id": "papale-papale",
+      "type": "idiom",
+      "original": "Papàle papàle.",
+      "literal_it": "Papale papale.",
+      "literal_en": "Step by step (slowly).",
+      "meaning_it": "Camminata lenta, passo passo.",
+      "meaning_en": "A slow, step-by-step walk.",
+      "usage_context": "slowness",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikipedia marks the proposed Greek etymology as doubtful."
+    },
+    {
+      "id": "je-na-carta-bbone",
+      "type": "idiom",
+      "original": "Jè na carta bbóne.",
+      "variants": [
+        "Iè na carta bbone!"
+      ],
+      "literal_it": "È una carta buona.",
+      "literal_en": "He's a good card.",
+      "meaning_it": "È una persona di valore, uno che conta.",
+      "meaning_en": "He's someone of standing, someone who counts.",
+      "usage_context": "praising a capable person",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gesture: thumb drawn down the cheek (scar of old-time local bosses)."
+    },
+    {
+      "id": "come-a-nna-saiette",
+      "type": "idiom",
+      "original": "Come a nna saiétte.",
+      "variants": [
+        "come à nna saiétte"
+      ],
+      "literal_it": "Come una saetta.",
+      "literal_en": "Like a thunderbolt.",
+      "meaning_it": "Velocissimo.",
+      "meaning_en": "Lightning fast.",
+      "usage_context": "speed, fast queries",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ha-da-sckatta",
+      "type": "idiom",
+      "original": "Ha da sckattà.",
+      "literal_it": "Devi scoppiare.",
+      "literal_en": "You'll have to burst.",
+      "meaning_it": "Dovrai faticare duramente.",
+      "meaning_en": "You'll have to sweat blood.",
+      "usage_context": "hard work ahead, learning curve",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gesture imitates the stick used to polish buttons."
+    }
+  ]
+}

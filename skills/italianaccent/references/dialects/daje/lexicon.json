@@ -1,0 +1,4102 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "daje",
+  "entries": [
+    {
+      "id": "er",
+      "term": "er",
+      "variants": [
+        "'r"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo maschile singolare (il) davanti a consonante",
+      "meaning_en": "masculine singular definite article (the), before consonants",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Er cane de mi' cugino",
+          "translation_it": "Il cane di mio cugino",
+          "translation_en": "My cousin's dog",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Rhotacized from 'el/il'. After a vowel often reduced to 'r ('ndo sta 'r capo?)."
+    },
+    {
+      "id": "li",
+      "term": "li",
+      "variants": [
+        "'i",
+        "i"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo maschile plurale (i, gli); forma tradizionale",
+      "meaning_en": "masculine plural definite article (the); traditional form",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Li mortacci tua!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Modern speech often 'i (Lex Porena); li is the Belli-era and written-dialect form."
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "variants": [
+        "'a"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo femminile singolare",
+      "meaning_en": "feminine singular definite article",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In fast low-register speech reduced to 'a by l-deletion (Lex Porena)."
+    },
+    {
+      "id": "n",
+      "term": "'n",
+      "variants": [
+        "'m"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo indeterminativo maschile (un)",
+      "meaning_en": "masculine indefinite article (a/an)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "C'ho 'n problema",
+          "translation_it": "Ho un problema",
+          "translation_en": "I've got a problem",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Aphaeresis of the u; 'm before b/p. Feminine 'na, before vowel 'n'."
+    },
+    {
+      "id": "na",
+      "term": "'na",
+      "variants": [
+        "'n'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo indeterminativo femminile (una)",
+      "meaning_en": "feminine indefinite article (a/an)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "È 'na parola!",
+          "translation_it": "È una parola!",
+          "translation_en": "Easier said than done!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ar",
+      "term": "ar",
+      "category": "function-word",
+      "part_of_speech": "preposition+article",
+      "meaning_it": "preposizione articolata 'al'",
+      "meaning_en": "contracted preposition 'to the/at the' (masc.)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Annamo ar mare",
+          "translation_it": "Andiamo al mare",
+          "translation_en": "Let's go to the seaside",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-elon",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Series: der (del), dar (dal), ner (nel), sur (sul), cor (col). Before z also replaces dallo/dello: dar zio, der zio."
+    },
+    {
+      "id": "der",
+      "term": "der",
+      "variants": [
+        "dar"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition+article",
+      "meaning_it": "preposizione articolata 'del'",
+      "meaning_en": "contracted preposition 'of the' (masc.)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "er cappello de mi' nonno",
+          "translation_it": "il cappello di mio nonno",
+          "translation_en": "my grandpa's hat",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: der corresponds to Italian del, also dello before z (der zio)."
+    },
+    {
+      "id": "de",
+      "term": "de",
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "preposizione 'di'",
+      "meaning_en": "preposition 'of'",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "romani de Roma",
+          "translation_it": "romani di Roma (autentici)",
+          "translation_en": "Romans born and bred",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: same values as Italian di; also in de brutto, de che?"
+    },
+    {
+      "id": "pe",
+      "term": "pe'",
+      "variants": [
+        "pe"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "per",
+      "meaning_en": "for, through",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Pe' davero?",
+          "translation_it": "Per davvero?",
+          "translation_en": "For real?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "co",
+      "term": "co'",
+      "variants": [
+        "co"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "con",
+      "meaning_en": "with",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Co' lo sbajà s'impara",
+          "translation_it": "Sbagliando s'impara",
+          "translation_en": "You learn by making mistakes",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun",
+      "term": "nun",
+      "variants": [
+        "nu'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "non",
+      "meaning_en": "not",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Nun me frega gnente",
+          "translation_it": "Non mi interessa niente",
+          "translation_en": "I couldn't care less",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-enwiki",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Before consonant clusters sometimes nu'."
+    },
+    {
+      "id": "gnente",
+      "term": "gnente",
+      "variants": [
+        "'gnente"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "niente",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Nun è successo gnente",
+          "translation_it": "Non è successo niente",
+          "translation_en": "Nothing happened",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki",
+        "src-rom-zanazzo-proverbi",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gnisuno",
+      "term": "gnisuno",
+      "variants": [
+        "gnissuno"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "nessuno",
+      "meaning_en": "nobody",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Gnisuno semo nati imparati",
+          "translation_it": "Nessuno nasce istruito",
+          "translation_en": "No one is born knowing",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo",
+      "term": "mo'",
+      "variants": [
+        "mo"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ora, adesso; tra poco; poco fa",
+      "meaning_en": "now; in a moment; just now",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Aspetta! Mo arivo!",
+          "translation_it": "Aspetta! Arrivo subito!",
+          "translation_en": "Wait! I'm coming!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary marks the closed pronunciation /mó/ as Romanesco."
+    },
+    {
+      "id": "ndo",
+      "term": "'ndo",
+      "variants": [
+        "indove",
+        "andove"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "dove (interrogativo)",
+      "meaning_en": "where (interrogative)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Ndo vai?",
+          "translation_it": "Dove vai?",
+          "translation_en": "Where are you going?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "indove is the full regional form (Zanazzo: 'indove er dente dole')."
+    },
+    {
+      "id": "accusi",
+      "term": "accusì",
+      "variants": [
+        "cusì"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "così",
+      "meaning_en": "like this, so",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Si ddura accusì...",
+          "translation_it": "Se dura così...",
+          "translation_en": "If it goes on like this...",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "puro",
+      "term": "puro",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "pure, anche",
+      "meaning_en": "also, too, even",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Chi lavora puro ce va",
+          "translation_it": "Anche chi lavora ci va",
+          "translation_en": "Even the one who works goes there",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "manco",
+      "term": "manco",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "neanche, nemmeno",
+      "meaning_en": "not even",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "manco pe' sogno",
+          "translation_it": "neanche per sogno",
+          "translation_en": "not even in a dream",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "'A morte n' 'a perdonò nemmanco a Cristo' (itwiki) shows the variant nemmanco."
+    },
+    {
+      "id": "je",
+      "term": "je",
+      "category": "function-word",
+      "part_of_speech": "pronoun (clitic)",
+      "meaning_it": "gli, le (dativo di 3a persona sing. e plur.)",
+      "meaning_en": "to him/her/them (3rd-person dative clitic)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Je l'ho detto mille vorte",
+          "translation_it": "Gliel'ho detto mille volte",
+          "translation_en": "I've told him a thousand times",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-wiktionary",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "One form for masc., fem. and plural."
+    },
+    {
+      "id": "ce",
+      "term": "ce",
+      "category": "function-word",
+      "part_of_speech": "pronoun (clitic)",
+      "meaning_it": "ci (anche 'noi' oggetto e dativo)",
+      "meaning_en": "us / to us; there",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Ce vedemo domani",
+          "translation_it": "Ci vediamo domani",
+          "translation_en": "See you tomorrow",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "With 1pl verbs the reflexive is se: se volemo bene (IG)."
+    },
+    {
+      "id": "te",
+      "term": "te",
+      "variants": [
+        "té"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "tu (soggetto); ti (clitico)",
+      "meaning_en": "you (subject, 2sg) and 2sg clitic",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Te che dici?",
+          "translation_it": "Tu che dici?",
+          "translation_en": "What do you say?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "te is also the subject pronoun; stressed object té."
+    },
+    {
+      "id": "sto",
+      "term": "sto",
+      "variants": [
+        "'sto",
+        "sta",
+        "sti",
+        "ste"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "questo (aggettivo)",
+      "meaning_en": "this (adjective)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "'Sto progetto è 'na sòla",
+          "translation_it": "Questo progetto è un imbroglio",
+          "translation_en": "This project is a rip-off",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quer",
+      "term": "quer",
+      "variants": [
+        "quela",
+        "queli",
+        "quele"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "quel, quello (aggettivo)",
+      "meaning_en": "that (adjective)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Pija quer coso",
+          "translation_it": "Prendi quella cosa",
+          "translation_en": "Grab that thing",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Rhotacism of quel."
+    },
+    {
+      "id": "du",
+      "term": "du'",
+      "variants": [
+        "dua"
+      ],
+      "category": "function-word",
+      "part_of_speech": "numeral",
+      "meaning_it": "due",
+      "meaning_en": "two",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Ce la fai a studià er libbro in du' ore? See domani!",
+          "translation_it": "Ce la fai a studiare il libro in due ore? Figurati!",
+          "translation_en": "Can you study the book in two hours? Yeah, right!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gna",
+      "term": "'gna",
+      "category": "function-word",
+      "part_of_speech": "verb (impersonal)",
+      "meaning_it": "bisogna (davanti a infinito)",
+      "meaning_en": "one must, it's necessary (before infinitives)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Gna vedé",
+          "translation_it": "Bisogna vedere",
+          "translation_en": "We'll have to see",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ce-sta",
+      "term": "ce sta",
+      "variants": [
+        "ce stanno"
+      ],
+      "category": "function-word",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "c'è (starci per esserci)",
+      "meaning_en": "there is",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "A feragosto ar mare ce sta er delirio",
+          "translation_it": "A Ferragosto al mare c'è una confusione pazzesca",
+          "translation_en": "On the August bank holiday the beach is chaos",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC notes starci used for esserci."
+    },
+    {
+      "id": "tua",
+      "term": "tua",
+      "variants": [
+        "mia",
+        "sua"
+      ],
+      "category": "function-word",
+      "part_of_speech": "possessive",
+      "meaning_it": "tuo/tua/tuoi (posposto, invariabile in molte formule)",
+      "meaning_en": "your (postposed, often invariable)",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Mo so' cazzi tua",
+          "translation_it": "Ora sono affari tuoi",
+          "translation_en": "Now it's your problem",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Postposed invariable possessive: li mortacci tua, cazzi tua."
+    },
+    {
+      "id": "mi",
+      "term": "mi'",
+      "variants": [
+        "tu'",
+        "su'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "possessive",
+      "meaning_it": "mio/mia (con nomi di parentela)",
+      "meaning_en": "my (with kinship nouns)",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "mi' fratello, tu' zio",
+          "translation_it": "mio fratello, tuo zio",
+          "translation_en": "my brother, your uncle",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anna",
+      "term": "annà",
+      "variants": [
+        "annare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Annamo!",
+          "translation_it": "Andiamo!",
+          "translation_en": "Let's go!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-grammatica",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Present: vado, vai, va, annamo, annate, vanno. Participle also ito."
+    },
+    {
+      "id": "magna",
+      "term": "magnà",
+      "variants": [
+        "magnare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Piove o nun piove, er Papa magna",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pija",
+      "term": "pijà",
+      "variants": [
+        "pija"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "prendere, pigliare",
+      "meaning_en": "to take, to grab",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Pija quer coso",
+          "translation_it": "Prendi quella cosa",
+          "translation_en": "Grab that thing",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa",
+      "term": "fà",
+      "variants": [
+        "fa'"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "fare",
+      "meaning_en": "to do, to make",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Che stai a fà?",
+          "translation_it": "Che stai facendo?",
+          "translation_en": "What are you doing?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-wiktionary",
+        "src-rom-belli-wikisource"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1pl famo; 1sg also fo (Belli: 'Io fo ddritto lo storto')."
+    },
+    {
+      "id": "di",
+      "term": "dì",
+      "variants": [
+        "di'"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "dire",
+      "meaning_en": "to say",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1pl dimo (Wiktionary category)."
+    },
+    {
+      "id": "vede",
+      "term": "vedé",
+      "variants": [
+        "vede'"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vedere",
+      "meaning_en": "to see",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Mo te faccio vedé",
+          "translation_it": "Adesso ti faccio vedere",
+          "translation_en": "I'll show you",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sape",
+      "term": "sapé",
+      "variants": [
+        "sape'"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-elon"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "sta",
+      "term": "stà",
+      "variants": [
+        "sta'"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "stare",
+      "meaning_en": "to stay, to be (located); stà a + infinito = progressivo",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Che stai a dì?",
+          "translation_it": "Che stai dicendo?",
+          "translation_en": "What are you saying?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-itwiki-dialetto",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1pl stamo (elon)."
+    },
+    {
+      "id": "vole",
+      "term": "vole'",
+      "variants": [
+        "volé"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "volere",
+      "meaning_en": "to want",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "vojo, vòi, vò, volemo, volete, vònno."
+    },
+    {
+      "id": "lassa",
+      "term": "lassà",
+      "variants": [
+        "lassare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lasciare",
+      "meaning_en": "to leave, to let",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Lassa stà!",
+          "translation_it": "Lascia stare!",
+          "translation_en": "Leave it!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary marks lassare as archaic or Roman (dated)."
+    },
+    {
+      "id": "inguatta",
+      "term": "inguattà",
+      "variants": [
+        "inguattasse"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "nascondere",
+      "meaning_en": "to hide",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Ndo l'hai inguattato?",
+          "translation_it": "Dove l'hai nascosto?",
+          "translation_en": "Where did you hide it?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki",
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Modern replacement of classical annisconne (en.wiki table)."
+    },
+    {
+      "id": "rosica",
+      "term": "rosicà",
+      "variants": [
+        "rosicare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "invidiare, rodersi dall'invidia",
+      "meaning_en": "to be jealous/envious, to be sore",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Stai a rosicà?",
+          "translation_it": "Sei invidioso?",
+          "translation_en": "Are you jealous?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgama",
+      "term": "sgamà",
+      "variants": [
+        "sgamare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scoprire, beccare qualcuno sul fatto",
+      "meaning_en": "to catch out, to rumble",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "La prof m'ha sgamato",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiktionary",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Slang, now widespread; VRC example 'te sgamo' under dritto."
+    },
+    {
+      "id": "sbrocca",
+      "term": "sbroccà",
+      "variants": [
+        "sbroccare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "perdere il controllo, dare di matto",
+      "meaning_en": "to lose it, to snap",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ha sbroccato de brutto",
+          "translation_it": "Ha perso completamente il controllo",
+          "translation_en": "He totally lost it",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "it.wiktionary labels the sense romanesco."
+    },
+    {
+      "id": "accanna",
+      "term": "accannà",
+      "variants": [
+        "accannare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lasciar perdere, smettere, mollare (qualcuno o qualcosa)",
+      "meaning_en": "to quit, to drop (someone/something)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Accanna, nun ce la famo",
+          "translation_it": "Lascia perdere, non ce la facciamo",
+          "translation_en": "Drop it, we won't make it",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbozza",
+      "term": "abbozzà",
+      "variants": [
+        "abbozzare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sopportare in silenzio, far buon viso",
+      "meaning_en": "to grin and bear it",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Abbozza e statte zitto",
+          "translation_it": "Sopporta e stai zitto",
+          "translation_en": "Grin and bear it and keep quiet",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary: colloquial, mostly Rome."
+    },
+    {
+      "id": "smucina",
+      "term": "smucinà",
+      "variants": [
+        "smucinare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "armeggiare, frugare, pasticciare (con un apparecchio)",
+      "meaning_en": "to tinker, to mess around with, to fiddle",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Chi t'ha detto de smucinà ner server?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo: 'La mmerda ppiù se smùcina e ppiù ppuzza'."
+    },
+    {
+      "id": "imbrutti",
+      "term": "imbruttì",
+      "variants": [
+        "imbruttire"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "guardare storto, con aria minacciosa",
+      "meaning_en": "to glare at someone",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Nun me imbruttì!",
+          "translation_it": "Non guardarmi male!",
+          "translation_en": "Don't glare at me!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piotta",
+      "term": "piottà",
+      "variants": [
+        "piottare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "andare velocissimo",
+      "meaning_en": "to go very fast",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From piotta (100 km/h)."
+    },
+    {
+      "id": "cojona",
+      "term": "cojonà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "prendere in giro (più leggero di pijà p'er culo)",
+      "meaning_en": "to tease, to kid",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Vulgar root but mild in use."
+    },
+    {
+      "id": "friccica",
+      "term": "friccicà",
+      "variants": [
+        "friccicare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "pizzicare, frizzare; dare un leggero formicolio",
+      "meaning_en": "to tingle, to fizz",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-devecchis-friccico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Noun frìccico (a tingle, a thrill), friccicore."
+    },
+    {
+      "id": "friccico",
+      "term": "frìccico",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fremito, formicolio, leggero stato d'animo",
+      "meaning_en": "a tingle, a little thrill",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "me sento 'n friccico ner core",
+          "translation_it": "mi sento un fremito nel cuore",
+          "translation_en": "I feel a flutter in my heart",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-devecchis-friccico",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Petrolini's 'Tanto pe' cantà' (quoted in Wiktionary 'core')."
+    },
+    {
+      "id": "fijo",
+      "term": "fijo",
+      "variants": [
+        "fio"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "figlio",
+      "meaning_en": "son",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "gli > j."
+    },
+    {
+      "id": "moje",
+      "term": "moje",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "moglie",
+      "meaning_en": "wife",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Nun se pò avé la botte piena e la moje imbriaga",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "omo",
+      "term": "omo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "uomo",
+      "meaning_en": "man",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Omo avvisato mezzo sarvato",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "core",
+      "term": "core",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cuore",
+      "meaning_en": "heart",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Occhio nun vede, core nun dole",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "monno",
+      "term": "monno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mondo",
+      "meaning_en": "world",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Er monno è fatto tonno",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-belli-wikisource",
+        "src-rom-zanazzo-proverbi",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "-nd- > -nn-."
+    },
+    {
+      "id": "callo",
+      "term": "callo",
+      "variants": [
+        "callara (pentolone)"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "caldo",
+      "meaning_en": "hot",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Batte er ferro quann'è callo",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "-ld- > -ll-."
+    },
+    {
+      "id": "quanno",
+      "term": "quanno",
+      "category": "word",
+      "part_of_speech": "conjunction",
+      "meaning_it": "quando",
+      "meaning_en": "when",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "-nd- > -nn-."
+    },
+    {
+      "id": "granne",
+      "term": "granne",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "grande",
+      "meaning_en": "big",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-elon",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sordi",
+      "term": "sòrdi",
+      "variants": [
+        "sordi"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "soldi",
+      "meaning_en": "money",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "l > r before consonant."
+    },
+    {
+      "id": "dindi",
+      "term": "dindi",
+      "variants": [
+        "dindini"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "soldi (spec. al plurale)",
+      "meaning_en": "money, cash",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Caccia i dindini",
+          "translation_it": "Tira fuori i soldi",
+          "translation_en": "Cough up the cash",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quatrini",
+      "term": "quatrini",
+      "variants": [
+        "quattrini"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "denaro, soldi",
+      "meaning_en": "money",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piotta-2",
+      "term": "piotta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "100 euro (in origine 100 lire, poi 100.000 lire); 100 km/h",
+      "meaning_en": "100 euros; 100 km/h",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sacco",
+      "term": "sacco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mille euro (prima mille lire)",
+      "meaning_en": "a thousand euros",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scudo",
+      "term": "scudo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cinque euro (prima 5.000 lire)",
+      "meaning_en": "five euros",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "decino",
+      "term": "deçino",
+      "variants": [
+        "decino"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "banconota da 10 euro",
+      "meaning_en": "a 10-euro note",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: youth word. ç = the Roman lenited [ʃ]; write decino in plain text."
+    },
+    {
+      "id": "capoccia",
+      "term": "capoccia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "testa",
+      "meaning_en": "head",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Esse duro de capoccia",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "coccia",
+      "term": "coccia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "testa (scherzoso); buccia, guscio",
+      "meaning_en": "head (jocular); peel, shell",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pischello",
+      "term": "pischello",
+      "variants": [
+        "pischella"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazzino, giovane inesperto",
+      "meaning_en": "kid, young lad; greenhorn",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Sto pischello nun sa gnente",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "regazzo",
+      "term": "regazzo",
+      "variants": [
+        "regazza",
+        "regà (vocativo)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazzo",
+      "meaning_en": "boy",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pupo",
+      "term": "pupo",
+      "variants": [
+        "pupa"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bambino piccolo",
+      "meaning_en": "small child",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mannaggia santa Pupa: Santa Pupa protects children (itwiki)."
+    },
+    {
+      "id": "ciumaca",
+      "term": "ciumaca",
+      "variants": [
+        "ciumachella"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "lumaca; (est.) ragazza",
+      "meaning_en": "slug; (by ext.) girl",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "ciumachella = pretty girl."
+    },
+    {
+      "id": "burino",
+      "term": "burino",
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "cafone, rozzo; in origine contadino",
+      "meaning_en": "boor, yokel, hick",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mildly derogatory; not an ethnic label, a manners label."
+    },
+    {
+      "id": "coatto",
+      "term": "coatto",
+      "variants": [
+        "coatta"
+      ],
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "persona dai modi rozzi e vistosi, tamarro (romano)",
+      "meaning_en": "coarse, flashy, loud person",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary: Rome sense; today not necessarily poor, rather showy."
+    },
+    {
+      "id": "borgataro",
+      "term": "borgataro",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "abitante delle borgate periferiche",
+      "meaning_en": "person from Rome's outer housing estates (borgate)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Can be derogatory; avoid as insult."
+    },
+    {
+      "id": "pariolino",
+      "term": "pariolino",
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "giovane borghese e alla moda (dei Parioli)",
+      "meaning_en": "posh Roman kid (from the Parioli district)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caciara",
+      "term": "caciara",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "baccano, confusione chiassosa",
+      "meaning_en": "racket, din, free-for-all",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Che è 'sta caciara?",
+          "translation_it": "Cos'è questo baccano?",
+          "translation_en": "What's all this racket?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caciarone",
+      "term": "caciarone",
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "persona chiassosa",
+      "meaning_en": "loud, rowdy person",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "delirio",
+      "term": "delirio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "grandissima confusione",
+      "meaning_en": "total chaos",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "A feragosto ar mare ce sta er delirio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "devasto",
+      "term": "devasto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "stanchezza totale; (anche) successo travolgente",
+      "meaning_en": "utter exhaustion; (also) smash hit",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: youth word."
+    },
+    {
+      "id": "abbiocco",
+      "term": "abbiocco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sonnolenza, specie dopo un pasto",
+      "meaning_en": "drowsiness, food coma",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Dopo la gricia m'è preso l'abbiocco",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "prescia",
+      "term": "prescia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fretta",
+      "meaning_en": "hurry, rush",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Quanno hai prescia er diavolo ce se mette",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sola",
+      "term": "sòla",
+      "variants": [
+        "sola"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "imbroglio, fregatura; (est.) imbroglione",
+      "meaning_en": "rip-off, scam; con artist",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Sto framework è 'na sòla",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "it.wiktionary: regional, figurative 'imbroglio', by extension 'imbroglione'."
+    },
+    {
+      "id": "monnezza",
+      "term": "monnezza",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "spazzatura, immondizia",
+      "meaning_en": "garbage, trash",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary: Naples and Rome, now common."
+    },
+    {
+      "id": "zozzo",
+      "term": "zozzo",
+      "variants": [
+        "zozzone (persona)"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "sporco, sozzo",
+      "meaning_en": "filthy, dirty",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fracico",
+      "term": "fracico",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "fradicio",
+      "meaning_en": "soaking wet; rotten",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgrullone",
+      "term": "sgrullone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "acquazzone improvviso",
+      "meaning_en": "sudden downpour",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sorcio",
+      "term": "sorcio",
+      "variants": [
+        "sòreca"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "topo; (fig.) chi conosce ogni vicolo della città",
+      "meaning_en": "mouse/rat; (fig.) someone who knows every alley",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bacarozzo",
+      "term": "bacarozzo",
+      "variants": [
+        "bacherozzo",
+        "bagarozzo"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "scarafaggio; (fig., spregiativo) prete, persona spregevole",
+      "meaning_en": "cockroach; (pejorative) priest, despicable person",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cecio",
+      "term": "cecio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cece",
+      "meaning_en": "chickpea",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cerasa",
+      "term": "cerasa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ciliegia",
+      "meaning_en": "cherry",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Le parole so' come le cerase",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fusaja",
+      "term": "fusaja",
+      "variants": [
+        "fusaglia"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "lupino",
+      "meaning_en": "lupin bean",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Usually plural."
+    },
+    {
+      "id": "sgommarello",
+      "term": "sgommarello",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mestolo",
+      "meaning_en": "ladle",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "grattachecca",
+      "term": "grattachecca",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ghiaccio grattato con sciroppo",
+      "meaning_en": "hand-shaved ice with syrup (Roman summer treat)",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gricia",
+      "term": "gricia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pasta col guanciale e pecorino (amatriciana senza pomodoro)",
+      "meaning_en": "pasta with guanciale and pecorino (amatriciana without tomato)",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maritozzo",
+      "term": "maritozzo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "brioche ripiena di panna",
+      "meaning_en": "cream-filled sweet bun",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pajata",
+      "term": "pajata",
+      "variants": [
+        "pagliata"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "intestino di vitello da latte (piatto romano)",
+      "meaning_en": "milk-fed calf's intestine (Roman dish)",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cupolone",
+      "term": "cupolone",
+      "variants": [
+        "Cupolone"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "la cupola di San Pietro",
+      "meaning_en": "the dome of St Peter's",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "palazzaccio",
+      "term": "Palazzaccio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "il Palazzo di Giustizia di Roma (Cassazione)",
+      "meaning_en": "Rome's Palace of Justice (Supreme Court)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dritta",
+      "term": "dritta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "suggerimento utile",
+      "meaning_en": "tip, inside tip",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "M'ha dato 'na dritta pe' l'esame",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Roman-origin Italianism per VRC."
+    },
+    {
+      "id": "dritto",
+      "term": "dritto",
+      "variants": [
+        "drittone"
+      ],
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "furbo, scaltro",
+      "meaning_en": "sly, streetwise person",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Nun fà er dritto co' me che te sgamo",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dafa",
+      "term": "dafà",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "impegno, lavoro intenso",
+      "meaning_en": "workload, busy-ness",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Er dafà nun manca",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "damagna",
+      "term": "damagnà",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cibo, il mangiare",
+      "meaning_en": "food, grub",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "disgraziato",
+      "term": "disgraziato",
+      "variants": [
+        "disgraito"
+      ],
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "persona al verde; persona che si comporta male",
+      "meaning_en": "broke person; rascal",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "disgraito is the eufemistic/vocative form (a disgraito!)."
+    },
+    {
+      "id": "fregno",
+      "term": "fregno",
+      "variants": [
+        "fregno buffo"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "coso, aggeggio; (anche) bel ragazzo",
+      "meaning_en": "thingamajig, gadget; (also) good-looking guy",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "fregno buffo = a weird object (itwiki)."
+    },
+    {
+      "id": "coso",
+      "term": "coso",
+      "variants": [
+        "cosa"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cosa indefinita, aggeggio",
+      "meaning_en": "thing, whatchamacallit",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Pija quer coso",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bono",
+      "term": "bono",
+      "variants": [
+        "bbono"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective/noun",
+      "meaning_it": "buono; (riferito a persona) attraente",
+      "meaning_en": "good; (of a person) hot, attractive",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pippa",
+      "term": "pippa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona incapace, schiappa",
+      "meaning_en": "dud, useless person (at a task)",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "A calcetto è 'na pippa",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also vulgar 'wank'; the 'incompetent' sense is informal."
+    },
+    {
+      "id": "loffio",
+      "term": "loffio",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "floscio; (romano) sospetto, poco convincente",
+      "meaning_en": "limp; (Rome) dodgy, sus",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciroccato",
+      "term": "sciroccato",
+      "category": "word",
+      "part_of_speech": "adjective/noun",
+      "meaning_it": "strambo, svitato",
+      "meaning_en": "weird; weirdo",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sor",
+      "term": "sor",
+      "variants": [
+        "sora (f.)"
+      ],
+      "category": "address-term",
+      "part_of_speech": "title",
+      "meaning_it": "signor (davanti a nomi o mestieri)",
+      "meaning_en": "Mr. (before names or trades)",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "La sora Lella",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rega",
+      "term": "regà",
+      "variants": [
+        "rega'"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "ragazzi! (vocativo)",
+      "meaning_en": "guys! (vocative)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Daje, rega', damose da fà!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-elon",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC example under daje."
+    },
+    {
+      "id": "a-bello",
+      "term": "a' bello",
+      "variants": [
+        "a bello",
+        "a' bella"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "ehi, bello! (apostrofe confidenziale, anche ironica)",
+      "meaning_en": "hey, pal! (familiar address, can be ironic)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-elon"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "a-disgraito",
+      "term": "a' disgraito",
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "brutto disgraziato! (apostrofe eufemistica)",
+      "meaning_en": "you rascal! (euphemistic address)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "daje",
+      "term": "daje",
+      "variants": [
+        "dàje",
+        "dajje",
+        "daje daje",
+        "eddaje"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "dai! forza!; ok, d'accordo; (preceduto da e) che pazienza, di nuovo!",
+      "meaning_en": "come on! let's go!; OK, deal!; (with e) oh come on, not again!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Daje, Roma, daje!",
+          "translation_it": "Forza, Roma, forza!",
+          "translation_en": "Come on, Roma!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC dàje1: impatience (e daje!), encouragement, acceptance (Daje! = sure), daje daje = ok, bye. From da' + je. In Belli: 'E ddàjje cor Governo!'."
+    },
+    {
+      "id": "aridaje",
+      "term": "aridaje",
+      "variants": [
+        "daje e aridaje"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ci risiamo! (fastidio per qualcosa che si ripete)",
+      "meaning_en": "here we go again!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Aridaje co' 'sto bug!",
+          "translation_it": "Ci risiamo con questo bug!",
+          "translation_en": "Not this bug again!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ao",
+      "term": "aò",
+      "variants": [
+        "ahó",
+        "ao",
+        "aho"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ehi! (per richiamare l'attenzione); enfasi",
+      "meaning_en": "hey! (attention-getter); emphatic",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ahó, ma che sta' a fà?",
+          "translation_it": "Ehi, ma che stai facendo?",
+          "translation_en": "Hey, what are you doing?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anvedi",
+      "term": "anvedi",
+      "variants": [
+        "anvedi oh"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "guarda un po'! (stupore, anche ironico)",
+      "meaning_en": "wow! would you look at that! (also ironic)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Anvedi che machinone!",
+          "translation_it": "Guarda che macchinone!",
+          "translation_en": "Wow, what a car!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From a' + 'n + vedi."
+    },
+    {
+      "id": "ammazza",
+      "term": "ammazza",
+      "variants": [
+        "ammazzate",
+        "ammazzete",
+        "ammazzelo"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti! caspita! (stupore)",
+      "meaning_en": "wow! damn!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ammazza che caldo!",
+          "translation_it": "Accidenti che caldo!",
+          "translation_en": "God, it's hot!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Post-tonic a > e in ammazzete (Romanesco vowel reduction)."
+    },
+    {
+      "id": "ammappa",
+      "term": "ammappa",
+      "variants": [
+        "ammappete",
+        "ammappelo"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "forma eufemistica di ammazza! (stupore)",
+      "meaning_en": "euphemistic 'wow!'",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avoja",
+      "term": "avoja",
+      "variants": [
+        "a voja"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "eccome! hai voglia! (in abbondanza)",
+      "meaning_en": "you bet! loads!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "- C'hai fame? - Avoja!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Alt form of hai voglia."
+    },
+    {
+      "id": "eccalla",
+      "term": "eccallà",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ecco! te l'avevo detto! (ironico, dopo un guaio)",
+      "meaning_en": "there you go! told you so!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Eccallà, s'è rotto tutto",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "see",
+      "term": "see",
+      "variants": [
+        "see, domani!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "sì, figurati! (incredulità ironica)",
+      "meaning_en": "yeah, right!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ce la fai in du' ore? See, domani!",
+          "translation_it": "Ce la fai in due ore? Figurati!",
+          "translation_en": "In two hours? Yeah, right!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From VRC entry domani."
+    },
+    {
+      "id": "annamo",
+      "term": "annamo",
+      "variants": [
+        "'nnamo"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "andiamo! su!",
+      "meaning_en": "let's go! come on!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'Nnamo, che è tardi!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "annamo-bene",
+      "term": "annamo bene",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "siamo a posto! (ironico: va malissimo)",
+      "meaning_en": "great, just great! (sarcastic)",
+      "register": "ironic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "alo",
+      "term": "aló",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "andiamo! (datato)",
+      "meaning_en": "let's go! (dated)",
+      "register": "archaic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary: Rome, dated."
+    },
+    {
+      "id": "bbrao",
+      "term": "bbrao",
+      "variants": [
+        "bravo"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "bravo! (esclamazione, forma substandard)",
+      "meaning_en": "bravo! well done!",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Loporcaro: exclamative bravo in substandard variant bbrao (VRC-B)."
+    },
+    {
+      "id": "diantine",
+      "term": "diàntine",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "diamine, perbacco (eufemismo per diavolo)",
+      "meaning_en": "heck! (euphemism for 'devil')",
+      "register": "archaic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: not common."
+    },
+    {
+      "id": "mannaggia-ar-diavolaccio",
+      "term": "mannaggia ar diavolaccio",
+      "variants": [
+        "porco diavolaccio"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti! (imprecazione bonaria)",
+      "meaning_en": "dammit! (mild oath)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC s.v. diavolaccio."
+    },
+    {
+      "id": "mannaggia-santa-pupa",
+      "term": "mannaggia santa Pupa",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti! (detto quando un bambino si fa male)",
+      "meaning_en": "oh dear! (said when a child gets hurt)",
+      "register": "familiar",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Santa Pupa = protector of children (itwiki)."
+    },
+    {
+      "id": "scialla",
+      "term": "scialla",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "calma, tranquillo",
+      "meaning_en": "chill, relax",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Youth slang; popular source only, now spread beyond Rome."
+    },
+    {
+      "id": "come-te-butta",
+      "term": "come te butta?",
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "come va?",
+      "meaning_en": "how's it going?",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "ce-vedemo",
+      "term": "ce vedemo",
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "ci vediamo",
+      "meaning_en": "see you",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Regular 1pl -emo of vedé; ce for ci."
+    },
+    {
+      "id": "ce-fai-o-ce-sei",
+      "term": "ce fai o ce sei?",
+      "variants": [
+        "ci sei o ci fai"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ci fai o ci sei? (fai finta o fai sul serio?)",
+      "meaning_en": "are you pretending or are you for real?",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-piace-l-idea",
+      "term": "me piace l'idea!",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "(antifrastico) non mi piace per niente",
+      "meaning_en": "(antiphrastic) I don't like it one bit",
+      "register": "ironic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: antiphrastic value."
+    },
+    {
+      "id": "de-brutto",
+      "term": "de brutto",
+      "variants": [
+        "daje de brutto"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "in malo modo; intensamente, di brutto",
+      "meaning_en": "badly; big time",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "'A Roma ha scajato de brutto",
+          "translation_it": "La Roma ha perso nettamente",
+          "translation_en": "Roma lost badly",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "de-cristo",
+      "term": "de Cristo",
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "(giovanile) alla grande",
+      "meaning_en": "(youth) brilliantly, great",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Come t'è annato l'esame? – De Cristo!",
+          "translation_it": "Com'è andato l'esame? Benissimo!",
+          "translation_en": "How did the exam go? Brilliantly!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Religious reference, not a curse; still avoid in formal contexts."
+    },
+    {
+      "id": "de-che",
+      "term": "de che?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma di che cosa stai parlando?",
+      "meaning_en": "what are you on about?",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ma de che?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-domann-e-dico",
+      "term": "me domann'e dico",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi chiedo e dico (introduce domanda polemica)",
+      "meaning_en": "I ask myself, I really do (introduces a polemical question)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo-si-che-se-divertimo",
+      "term": "mo' sì che se divertimo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "adesso viene il bello",
+      "meaning_en": "now the fun begins (ironic)",
+      "register": "ironic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pe-davero",
+      "term": "pe' davero",
+      "variants": [
+        "davero"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "per davvero, sul serio",
+      "meaning_en": "for real, seriously",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dacce",
+      "term": "dacce",
+      "variants": [
+        "c'avevo dato"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "verb",
+      "meaning_it": "indovinare (ciavevo dato!)",
+      "meaning_en": "to guess right",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In Belli son. 98."
+    },
+    {
+      "id": "dalla-a-beve",
+      "term": "dalla a beve",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "far credere una cosa falsa, ingannare",
+      "meaning_en": "to pull the wool over someone's eyes",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "A me nun me la dai a beve",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dassela-a-gambe",
+      "term": "dassela a gambe",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "scappare a gambe levate",
+      "meaning_en": "to run for it, leg it",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "daje-sotto",
+      "term": "daje sotto",
+      "variants": [
+        "daje dentro",
+        "daje giù"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "impegnarsi a fondo; (anche) consumare in fretta",
+      "meaning_en": "to put your back into it; to wolf down",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Je sto a dà sotto co' l'allenamenti",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "daje-oggi-daje-domani",
+      "term": "daje oggi daje domani",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "a forza di insistere",
+      "meaning_en": "by dint of insisting",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in Zanazzo 1907 per VRC."
+    },
+    {
+      "id": "levete-de-dosso",
+      "term": "levete de dosso!",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "togliti di torno!",
+      "meaning_en": "get off my back!",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "esse-duro-de-capoccia",
+      "term": "esse duro de capoccia",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "essere testardo; (anche) essere duro di comprendonio",
+      "meaning_en": "to be pig-headed; slow on the uptake",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anna-a-dama",
+      "term": "annà a dama",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "raggiungere lo scopo",
+      "meaning_en": "to hit the target, get there",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From the draughts game."
+    },
+    {
+      "id": "sta-piu-della-che-deqqua",
+      "term": "stà più dellà che deqqua",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "essere in punto di morte; essere sfinito",
+      "meaning_en": "to be at death's door; dead tired",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sai-che-disgrazia",
+      "term": "sai che disgrazia!",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "(ironico) bella disgrazia! a chi si lamenta per poco",
+      "meaning_en": "(ironic) oh what a tragedy!",
+      "register": "ironic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "volemose-bene",
+      "term": "volemose bene",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "vogliamoci bene (invito a una pacificazione superficiale)",
+      "meaning_en": "let's all be friends (call to superficial reconciliation)",
+      "register": "ironic",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-ce-so-santi",
+      "term": "nun ce so' santi",
+      "variants": [
+        "nun ce so' né Cristi né Madonne"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non c'è niente da fare, la decisione non cambia",
+      "meaning_en": "no way around it",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The longer variant invokes sacred names: keep for vulgarity ≥3."
+    },
+    {
+      "id": "ce-sarai",
+      "term": "ce sarai",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sarai tu! (per ritorcere un insulto)",
+      "meaning_en": "you are! takes one to know one",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-fette",
+      "term": "a fette",
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "a piedi",
+      "meaning_en": "on foot",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "So' venuto a fette",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-zeffunno",
+      "term": "a zeffunno",
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "(di pioggia) a dirotto",
+      "meaning_en": "(raining) cats and dogs",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Piove a zeffunno",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nja-faccio",
+      "term": "nja faccio",
+      "variants": [
+        "nun je la fo (classico)"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non ce la faccio (pronuncia moderna)",
+      "meaning_en": "I can't take it / can't make it",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Classical: nu je la fo (en.wiki table)."
+    },
+    {
+      "id": "da-paura",
+      "term": "da paura",
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "fantastico, eccezionale",
+      "meaning_en": "awesome",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "na-cifra",
+      "term": "'na cifra",
+      "category": "colloquial-expression",
+      "part_of_speech": "adverbial phrase",
+      "meaning_it": "tantissimo",
+      "meaning_en": "loads, a ton",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Me piace 'na cifra",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide",
+        "src-rom-elon"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "stai-manzo",
+      "term": "stai manzo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "stai calmo, tranquillo",
+      "meaning_en": "chill, stay calm",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "s-e-fatta-na-certa",
+      "term": "s'è fatta 'na certa",
+      "variants": [
+        "mo s'è fatta 'na certa"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "s'è fatto tardi",
+      "meaning_en": "it's getting late",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "mica-pizza-e-fichi",
+      "term": "mica pizza e fichi",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non è cosa da poco",
+      "meaning_en": "it's no small thing",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "na-pennica",
+      "term": "'na pennica",
+      "variants": [
+        "pennichella"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "noun phrase",
+      "meaning_it": "un pisolino",
+      "meaning_en": "a nap",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Popular source only."
+    },
+    {
+      "id": "c-ho",
+      "term": "c'ho",
+      "variants": [
+        "ciò",
+        "c'hai",
+        "c'ha",
+        "cià",
+        "c'avemo"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "verb",
+      "meaning_it": "ho (possesso: avecce)",
+      "meaning_en": "I have (possession, with ce)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "C'ho 'n'arsura!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Possession uses avecce; plain avé is the auxiliary (IG)."
+    },
+    {
+      "id": "e-che-davero-davero",
+      "term": "e che davero davero?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma dici sul serio?",
+      "meaning_en": "are you serious?!",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC under davero."
+    },
+    {
+      "id": "fa-er-finto-tonto",
+      "term": "fà er finto tonto",
+      "variants": [
+        "fà er finto tonto pe' nun pagà dazio"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "far finta di non capire (per non pagar dazio)",
+      "meaning_en": "to play dumb",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mejo",
+      "term": "mejo",
+      "variants": [
+        "er mejo"
+      ],
+      "category": "word",
+      "part_of_speech": "adverb/adjective",
+      "meaning_it": "meglio, migliore",
+      "meaning_en": "better, best",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "È mmejo oggi l'ovo che domani la gallina",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "gli > j."
+    },
+    {
+      "id": "famija",
+      "term": "famija",
+      "variants": [
+        "famijola"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "famiglia",
+      "meaning_en": "family",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "robba",
+      "term": "robba",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "roba",
+      "meaning_en": "stuff, things",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Robba da du' lire",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gemination of b (cf. libbro, subbito)."
+    },
+    {
+      "id": "libbro",
+      "term": "libbro",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "libro",
+      "meaning_en": "book",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "b gemination."
+    },
+    {
+      "id": "subbito",
+      "term": "subbito",
+      "category": "word",
+      "part_of_speech": "adverb",
+      "meaning_it": "subito",
+      "meaning_en": "immediately",
+      "register": "neutral",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbaja",
+      "term": "sbajà",
+      "variants": [
+        "sbajo (errore)"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sbagliare",
+      "meaning_en": "to make a mistake",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Co' lo sbajà s'impara",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ruzza",
+      "term": "ruzzà",
+      "variants": [
+        "ruzza (scherzo)"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scherzare, giocare",
+      "meaning_en": "to joke around, to play",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Ruzza co' li santi e lassa stà li quatrini",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sparagna",
+      "term": "sparagnà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "risparmiare",
+      "meaning_en": "to save (money)",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Sparagna, sparagna, arriva er gatto e se lo magna",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "commanna",
+      "term": "commannà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "comandare",
+      "meaning_en": "to give orders, to be in charge",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Chi nun sa fà nun sa commannà",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sci",
+      "term": "scì",
+      "variants": [
+        "uscì",
+        "escì"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "uscire (forma moderna)",
+      "meaning_en": "to go out",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "en.wiki table: classical uscì/escì, modern scì."
+    },
+    {
+      "id": "inquartasse",
+      "term": "inquartasse",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "ingrassare",
+      "meaning_en": "to put on weight",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-enwiki"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "intrippasse now means 'to get high' (en.wiki)."
+    },
+    {
+      "id": "ito",
+      "term": "ito",
+      "variants": [
+        "ita",
+        "iti",
+        "ite"
+      ],
+      "category": "function-word",
+      "part_of_speech": "participle",
+      "meaning_it": "andato (participio di annà)",
+      "meaning_en": "gone (past participle of 'to go')",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "So' ito a casa",
+          "translation_it": "Sono andato a casa",
+          "translation_en": "I went home",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-grammatica"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dindarolo",
+      "term": "dindarolo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "salvadanaio",
+      "meaning_en": "piggy bank",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "didditti",
+      "term": "diddittì",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "insetticida (qualsiasi)",
+      "meaning_en": "insect spray (any brand)",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From DDT."
+    },
+    {
+      "id": "dorminpiedi",
+      "term": "dorminpiedi",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona pigra e poco sveglia",
+      "meaning_en": "sleepyhead, slowcoach",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "discorzetto",
+      "term": "discorzetto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ramanzina",
+      "meaning_en": "a little talk, a telling-off",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Io e te dovemo fà un discorzetto",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Note -rs- > -rz-."
+    },
+    {
+      "id": "dedietro",
+      "term": "dedietro",
+      "variants": [
+        "dedietro (parlà dedietro)"
+      ],
+      "category": "word",
+      "part_of_speech": "adverb/noun",
+      "meaning_it": "dietro; (sost.) il sedere",
+      "meaning_en": "behind; (noun) backside",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "parlà dedietro = to badmouth behind someone's back."
+    },
+    {
+      "id": "diavolaccio",
+      "term": "diavolaccio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona in fondo per bene ma dai modi rudi",
+      "meaning_en": "rough diamond",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dumila",
+      "term": "dumila",
+      "category": "word",
+      "part_of_speech": "numeral",
+      "meaning_it": "duemila; (iperbolico) un sacco",
+      "meaning_en": "two thousand; (hyperbolic) loads",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ce n'hai dumila de 'ste scuse",
+          "translation_it": "Hai un sacco di queste scuse",
+          "translation_en": "You've got a thousand of these excuses",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dritteria",
+      "term": "dritteria",
+      "variants": [
+        "drittata"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "furbata; tiro mancino",
+      "meaning_en": "sly trick, dirty trick",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "domanassera",
+      "term": "domanassera",
+      "variants": [
+        "domanammatina",
+        "domanannotte"
+      ],
+      "category": "word",
+      "part_of_speech": "adverb",
+      "meaning_it": "domani sera",
+      "meaning_en": "tomorrow evening",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "testone",
+      "term": "testone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "(un tempo) un milione di lire; oggi spesso mille euro",
+      "meaning_en": "(formerly) a million lire; now often a thousand euros",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ho pagato un testone de gas!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciospa",
+      "term": "ciospa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sigaretta (gergo); (obsoleto) vecchia",
+      "meaning_en": "a cig, a smoke; (obsolete) old woman",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pallocco",
+      "term": "pallocco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona o bambino paffuto",
+      "meaning_en": "chubby child/person",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "becce",
+      "term": "becce",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "disperazione, miseria",
+      "meaning_en": "desperation, misery",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgarro",
+      "term": "sgarro",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cicatrice, sfregio (romano); sbaglio, offesa",
+      "meaning_en": "scar (Rome); slip-up, slight",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbraga",
+      "term": "sbraga",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "colpo potente",
+      "meaning_en": "a powerful blow",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbraga-2",
+      "term": "sbragà",
+      "variants": [
+        "sbragare"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "distruggere, sfasciare",
+      "meaning_en": "to wreck, to trash",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Hai sbragato er database",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zozzone",
+      "term": "zozzone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sporcaccione, persona sudicia",
+      "meaning_en": "slob",
+      "register": "colloquial",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chirichetto",
+      "term": "chirichetto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chierichetto",
+      "meaning_en": "altar boy",
+      "register": "popular",
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

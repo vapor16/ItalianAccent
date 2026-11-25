@@ -1,0 +1,4136 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "trimone",
+  "entries": [
+    {
+      "id": "ji",
+      "term": "jì",
+      "variants": [
+        "iì",
+        "ji",
+        "jí"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "io (pronome soggetto)",
+      "meaning_en": "I (subject pronoun)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tu",
+      "term": "tu",
+      "variants": [
+        "tù"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "tu",
+      "meaning_en": "you (sg.)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tonic/vocative 'a tté'."
+    },
+    {
+      "id": "jidde",
+      "term": "jìdde",
+      "variants": [
+        "iìdde",
+        "jédde",
+        "iédde"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "lui (jìdde) / lei (jédde)",
+      "meaning_en": "he (jìdde) / she (jédde)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Metaphonic gender pair: m. jìdde, f. jédde."
+    },
+    {
+      "id": "nu",
+      "term": "nù",
+      "variants": [
+        "nú"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "noi",
+      "meaning_en": "we",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Accent distinguishes nú 'we' from nu 'a'."
+    },
+    {
+      "id": "vu",
+      "term": "vù",
+      "variants": [
+        "vú"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "voi",
+      "meaning_en": "you (pl.)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lore",
+      "term": "lóre",
+      "variants": [
+        "lore"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "loro",
+      "meaning_en": "they",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u",
+      "term": "u",
+      "variants": [
+        "lu",
+        "l'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "il, lo (articolo determinativo m. sing.)",
+      "meaning_en": "the (masc. sg.)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural for both genders: le (i, li). 'u cane' / 'le cane'."
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "variants": [
+        "'a",
+        "l'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "la (articolo determinativo f. sing.)",
+      "meaning_en": "the (fem. sg.)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reduced to 'a after a noun before a possessive: la màchen'a mé."
+    },
+    {
+      "id": "le",
+      "term": "le",
+      "variants": [
+        "li",
+        "i",
+        "l'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "i, gli, le (articolo determinativo plurale)",
+      "meaning_en": "the (plural, both genders)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-2",
+      "term": "nu",
+      "variants": [
+        "n'",
+        "na"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "un, uno (nu) / una (na)",
+      "meaning_en": "a, an (nu masc., na fem.)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural indefinite: dò ('some, a couple of')."
+    },
+    {
+      "id": "cusse",
+      "term": "cùsse",
+      "variants": [
+        "chèsse",
+        "chìsse",
+        "cusse",
+        "chésse",
+        "chisse"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "questo / questa / questi (pronome o aggettivo tonico)",
+      "meaning_en": "this / these (tonic)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Barese has a two-way system: cùsse (near speaker/hearer) vs cùdde (far)."
+    },
+    {
+      "id": "cudde",
+      "term": "cùdde",
+      "variants": [
+        "chèdde",
+        "chìdde",
+        "cudde",
+        "chédde",
+        "chidde"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "quello / quella / quelli",
+      "meaning_en": "that / those",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "u cùdde / la chèdde 'the one (already mentioned)' is used contrastively."
+    },
+    {
+      "id": "stu",
+      "term": "stu",
+      "variants": [
+        "sta",
+        "sti"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "questo/questa/questi (solo davanti al nome)",
+      "meaning_en": "this/these (only before a noun)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "stu file, sta màghene, sti uagnùne."
+    },
+    {
+      "id": "ddo",
+      "term": "ddó",
+      "variants": [
+        "do'",
+        "dò",
+        "addò"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "qui, qua",
+      "meaning_en": "here",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dda",
+      "term": "ddà",
+      "variants": [
+        "dà",
+        "dè"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "là, lì",
+      "meaning_en": "there",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "addo",
+      "term": "addó",
+      "variants": [
+        "addove",
+        "addò"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "dove",
+      "meaning_en": "where",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quanne",
+      "term": "quanne",
+      "variants": [
+        "acquanne",
+        "akkwanne"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb/conjunction",
+      "meaning_it": "quando",
+      "meaning_en": "when",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh",
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Shows nd > nn."
+    },
+    {
+      "id": "accome",
+      "term": "accóme",
+      "variants": [
+        "come",
+        "accàmme"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "come",
+      "meaning_en": "how, as",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ce",
+      "term": "ce",
+      "variants": [
+        "cé",
+        "ci"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun/conjunction",
+      "meaning_it": "che cosa (interrogativo); anche 'se' (ipotetico)",
+      "meaning_en": "what (interrogative); also 'if'",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ce uè? 'what do you want?'; ce v'a ddùrme sùbbete... 'if you go to bed early...'."
+    },
+    {
+      "id": "ci",
+      "term": "ci",
+      "variants": [
+        "čə"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "chi",
+      "meaning_en": "who",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ci jè? 'who is it? / what's up?'. Many sources write ce for both."
+    },
+    {
+      "id": "pecche",
+      "term": "pecché",
+      "variants": [
+        "percé",
+        "peccé"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb/conjunction",
+      "meaning_it": "perché",
+      "meaning_en": "why, because",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ca",
+      "term": "ca",
+      "category": "function-word",
+      "part_of_speech": "conjunction/relative",
+      "meaning_it": "che (congiunzione e relativo), di quanto (paragone)",
+      "meaning_en": "that (complementizer/relative), than",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "u sacce ca jè nu bbuéne uagnóne 'I know he is a good lad'."
+    },
+    {
+      "id": "non",
+      "term": "non",
+      "variants": [
+        "nan",
+        "nòne"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "non",
+      "meaning_en": "not",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "City Barese prefers non, nan is widespread in the province; final n causes sandhi: nan bozze 'I can't'. 'No' as answer: none."
+    },
+    {
+      "id": "none",
+      "term": "none",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "no (risposta)",
+      "meaning_en": "no (answer)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sine",
+      "term": "sine",
+      "variants": [
+        "sí"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "sì",
+      "meaning_en": "yes",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ma",
+      "term": "mà",
+      "variants": [
+        "mè"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "mai",
+      "meaning_en": "never",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-enwiki-barese",
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Accented to distinguish from pronoun mé."
+    },
+    {
+      "id": "nudde",
+      "term": "nudde",
+      "variants": [
+        "pe nnudda nudde"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "niente, nulla",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "pe nnudda nudde 'not at all'."
+    },
+    {
+      "id": "assa",
+      "term": "assà",
+      "variants": [
+        "assé"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "molto, tanto",
+      "meaning_en": "a lot, very",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiu",
+      "term": "chiù",
+      "variants": [
+        "chiú"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "più",
+      "meaning_en": "more",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Comparative: chiù + adj + de."
+    },
+    {
+      "id": "mene",
+      "term": "méne",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "meno",
+      "meaning_en": "less",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "picche",
+      "term": "picche",
+      "variants": [
+        "nu picche"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "poco; nu picche = un po'",
+      "meaning_en": "little; nu picche = a bit",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Barese has no partitive article: nu picche de..."
+    },
+    {
+      "id": "sembe",
+      "term": "sèmbe",
+      "variants": [
+        "sémbe"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo",
+      "term": "mo'",
+      "variants": [
+        "mò",
+        "mmò"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ora, adesso",
+      "meaning_en": "now",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "mo mo 'just now'; mo ppùnde 'right now'."
+    },
+    {
+      "id": "po",
+      "term": "po'",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "poi",
+      "meaning_en": "then, afterwards",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "josce",
+      "term": "jòsce",
+      "variants": [
+        "iosce",
+        "iòsce",
+        "jóscə"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "oggi",
+      "meaning_en": "today",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-latino",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ajire",
+      "term": "ajìre",
+      "variants": [
+        "aìre",
+        "aiíre"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cra",
+      "term": "crà",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-latino",
+        "src-bar-barinedita-dimenticato"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From Latin cras."
+    },
+    {
+      "id": "pescra",
+      "term": "pescrà",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "dopodomani",
+      "meaning_en": "the day after tomorrow",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-latino"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nesterze",
+      "term": "nestèrze",
+      "variants": [
+        "nustérze"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "tre giorni fa (il giorno prima dell'altroieri)",
+      "meaning_en": "three days ago",
+      "register": "archaic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-latino",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "subbete",
+      "term": "sùbbete",
+      "variants": [
+        "sùbete"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "subito",
+      "meaning_en": "immediately",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "angore",
+      "term": "angóre",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "ancora",
+      "meaning_en": "still, again",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acchessi",
+      "term": "acchessì",
+      "variants": [
+        "dechessì",
+        "adacchessì"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "così",
+      "meaning_en": "like this, so",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "senze",
+      "term": "sènze",
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "senza",
+      "meaning_en": "without",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbasce",
+      "term": "abbàsce",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "giù, sotto",
+      "meaning_en": "down, below",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "jinde",
+      "term": "jìnde",
+      "variants": [
+        "iìnde",
+        "'nde",
+        "'n"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "in, dentro",
+      "meaning_en": "in, inside",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Locative fusion: 'ngàse 'at home', 'mmàghene 'in the car'."
+    },
+    {
+      "id": "nnanze",
+      "term": "nnanze",
+      "variants": [
+        "da nànze"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "davanti, avanti",
+      "meaning_en": "in front, forward",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "da mo nnanze 'from now on'."
+    },
+    {
+      "id": "ndrate",
+      "term": "ndràte",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "indietro",
+      "meaning_en": "back, backwards",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vecine",
+      "term": "vecìne",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "vicino",
+      "meaning_en": "near",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lendane",
+      "term": "lendàne",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "lontano",
+      "meaning_en": "far",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "asselute",
+      "term": "asselúte",
+      "variants": [
+        "asselute"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "solamente, soltanto",
+      "meaning_en": "only",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "City form (Ce sta asselúte na fresóle); the province often has sckitte instead."
+    },
+    {
+      "id": "do",
+      "term": "dò",
+      "variants": [
+        "do"
+      ],
+      "category": "function-word",
+      "part_of_speech": "determiner",
+      "meaning_it": "due; qualche, un paio di",
+      "meaning_en": "two; a couple of, some",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also used as plural indefinite article."
+    },
+    {
+      "id": "june",
+      "term": "jùne",
+      "variants": [
+        "iùne"
+      ],
+      "category": "function-word",
+      "part_of_speech": "numeral",
+      "meaning_it": "uno",
+      "meaning_en": "one",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "che",
+      "term": "che",
+      "variants": [
+        "cche"
+      ],
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "con",
+      "meaning_en": "with",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Triggers doubling: che ttè 'with you'. Articulated: c'u, che lla."
+    },
+    {
+      "id": "pe",
+      "term": "pe",
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "per",
+      "meaning_en": "for",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "pe ccolpe de 'because of'; doubling: pe nnù."
+    },
+    {
+      "id": "jesse",
+      "term": "jèsse",
+      "variants": [
+        "èsse",
+        "jèssə"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "essere. Presente: so', sì, jè, sìme, sìte, so'",
+      "meaning_en": "to be. Present: so', sì, jè, sìme, sìte, so'",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese",
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also first auxiliary for 1st/2nd persons in the present perfect."
+    },
+    {
+      "id": "ave",
+      "term": "avé",
+      "variants": [
+        "avè"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "avere come ausiliare e 'dovere' (avé a + infinito); presente: àgghie, è, à(ve), àmme, avìte, ànne/ònne",
+      "meaning_en": "to have (auxiliary) and 'to have to' (avé a + infinitive)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Lexical possession uses tené. avé a + inf. also expresses future."
+    },
+    {
+      "id": "tene",
+      "term": "tené",
+      "variants": [
+        "tenè",
+        "təné"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "tenere, avere (possesso): tènghe, tìine, tène...",
+      "meaning_en": "to have, to hold (possession)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-barinedita-termini",
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tènghe u prìisce; le corne ca tìine; tène la suste."
+    },
+    {
+      "id": "fa",
+      "term": "fà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "fare. Presente: fazze, fasce, fasce, facìme, facìte, fàscene",
+      "meaning_en": "to do, to make. Present: fazze, fasce, fasce, facìme, facìte, fàscene",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sci",
+      "term": "scì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "andare. Presente: vògghe, va, va, sciàme, sciàte, vonne; p.p. sciùte",
+      "meaning_en": "to go. Present: vògghe, va, va, sciàme, sciàte, vonne; past part. sciùte",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "vògghe a + inf. = 'I go and...'."
+    },
+    {
+      "id": "sta",
+      "term": "stà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "stare. Presente: stògghe, sta, sta, stàme, stàte, stònne",
+      "meaning_en": "to stay, to be (located); progressive auxiliary",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Progressive: stògghe a ffà 'I'm doing'; 2sg/3sg take an inflected verb: sta a pparle 'you're talking'."
+    },
+    {
+      "id": "disce",
+      "term": "dìsce",
+      "variants": [
+        "disce",
+        "ddisce"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "dire",
+      "meaning_en": "to say",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "3sg/2sg present also dìsce."
+    },
+    {
+      "id": "vede",
+      "term": "vedé",
+      "variants": [
+        "vədé",
+        "véde"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vedere",
+      "meaning_en": "to see",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Non ze véde u trène 'the train can't be seen'."
+    },
+    {
+      "id": "sape",
+      "term": "sapé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sapere (1sg: sacce)",
+      "meaning_en": "to know (1sg: sacce)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pete",
+      "term": "peté",
+      "variants": [
+        "pəté"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "potere (pòzze, pùte, pòte...)",
+      "meaning_en": "can, to be able (pòzze, pùte, pòte...)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "non (ze) pòte tirà nnanze acchessì 'one can't go on like this'."
+    },
+    {
+      "id": "vogghie",
+      "term": "vògghie",
+      "variants": [
+        "vògghiə",
+        "uè",
+        "vóle",
+        "veléve"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "voglio (vògghie), vuoi (uè), vuole (vóle); veléve = vorrei",
+      "meaning_en": "I want (vògghie), you want (uè), he wants (vóle); veléve = I'd like",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-enwiki-barese",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Conditional is replaced by the imperfect: Veléve scì o cìneme 'I'd like to go to the cinema'."
+    },
+    {
+      "id": "accatta",
+      "term": "accattà",
+      "variants": [
+        "accattè"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "comprare",
+      "meaning_en": "to buy",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From Latin ad-captare."
+    },
+    {
+      "id": "acchia",
+      "term": "acchià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "trovare",
+      "meaning_en": "to find",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acchiamenda",
+      "term": "acchiamendà",
+      "variants": [
+        "acchiaməndà",
+        "chiamìnde"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "guardare (imperativo: chiamìnde!)",
+      "meaning_en": "to look at (imperative: chiamìnde!)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "allassa",
+      "term": "allassà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lasciare",
+      "meaning_en": "to leave, let go",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "desceta",
+      "term": "descetà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "svegliare",
+      "meaning_en": "to wake up",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fadega",
+      "term": "fadegà",
+      "variants": [
+        "fatecà",
+        "ffadəgà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lavorare",
+      "meaning_en": "to work",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "nù stame a ffadegà ddó 'we're working here'."
+    },
+    {
+      "id": "mangia",
+      "term": "mangià",
+      "variants": [
+        "mangiè"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dorme",
+      "term": "dòrme",
+      "variants": [
+        "dermì"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "dormire",
+      "meaning_en": "to sleep",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "veni",
+      "term": "vení",
+      "variants": [
+        "vvenì",
+        "vənì"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "venire",
+      "meaning_en": "to come",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mette",
+      "term": "mètte",
+      "variants": [
+        "mèttə"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "mettere",
+      "meaning_en": "to put",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lesce",
+      "term": "lésce",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "leggere",
+      "meaning_en": "to read",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiove",
+      "term": "chiòve",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "piovere / piove",
+      "meaning_en": "to rain / it rains",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "pl > chi."
+    },
+    {
+      "id": "scequa",
+      "term": "scequà",
+      "variants": [
+        "scəquà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "giocare",
+      "meaning_en": "to play",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "penza",
+      "term": "penzà",
+      "variants": [
+        "pəndzà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "pensare",
+      "meaning_en": "to think",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "parla",
+      "term": "parlà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "parlare",
+      "meaning_en": "to speak",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "trasi",
+      "term": "trasì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "entrare",
+      "meaning_en": "to enter",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "aspetta",
+      "term": "aspettà",
+      "variants": [
+        "'spettà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "aspettare",
+      "meaning_en": "to wait",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cade",
+      "term": "cadé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "cadere",
+      "meaning_en": "to fall",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tagghia",
+      "term": "tagghià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "tagliare",
+      "meaning_en": "to cut",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scetta",
+      "term": "scettà",
+      "variants": [
+        "scəttà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "gettare, buttare via",
+      "meaning_en": "to throw (away)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "la màghena mé jè dda scettà 'my car is ready for the scrapheap'."
+    },
+    {
+      "id": "schesceta",
+      "term": "schescetà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "togliere un pensiero, una preoccupazione",
+      "meaning_en": "to take a worry off someone's mind",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-latino"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acciarama",
+      "term": "acciaramà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "circuire, allettare",
+      "meaning_en": "to sweet-talk, lure",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arragate",
+      "term": "arragàte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "arrabbiato, in lite con qualcuno",
+      "meaning_en": "angry, on bad terms with someone",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Coline stà arragàte che Mechèle.",
+          "translation_it": "Nicola è in lite con Michele.",
+          "translation_en": "Nicola is on bad terms with Michele.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uagnone",
+      "term": "uagnóne",
+      "variants": [
+        "uagnòne",
+        "uagnùne (pl.)",
+        "uagliò (voc.)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazzo (pl. uagnùne)",
+      "meaning_en": "boy, lad (pl. uagnùne)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Metaphonic plural; vocative uagliò."
+    },
+    {
+      "id": "pecceninne",
+      "term": "pecceninne",
+      "variants": [
+        "pəccənìnnə",
+        "peccenènne (f.)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "bambino; piccolo",
+      "meaning_en": "child; small",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "crestiane",
+      "term": "crestiàne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona, essere umano",
+      "meaning_en": "person, human being",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "femmene",
+      "term": "fèmmene",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "donna",
+      "meaning_en": "woman",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mamme",
+      "term": "màmme",
+      "variants": [
+        "mà (voc.)",
+        "màmete (tua madre)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "madre, mamma",
+      "meaning_en": "mother",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Vocative mà; enclitic possessive màme-te 'your mother'."
+    },
+    {
+      "id": "attane",
+      "term": "attàne",
+      "variants": [
+        "attàneme (mio padre)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "padre",
+      "meaning_en": "father",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "attàne-me 'my father'."
+    },
+    {
+      "id": "frate",
+      "term": "fràte",
+      "variants": [
+        "fràtete",
+        "fràdeme"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fratello",
+      "meaning_en": "brother",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sore",
+      "term": "sòre",
+      "variants": [
+        "sòreme",
+        "sòrete"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sorella",
+      "meaning_en": "sister",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "megghiere",
+      "term": "megghière",
+      "variants": [
+        "məgghiérə",
+        "megghièreme"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "moglie",
+      "meaning_en": "wife",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zziane",
+      "term": "zziàne",
+      "variants": [
+        "zzì (voc.)"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "zio, zia",
+      "meaning_en": "uncle, aunt",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cape",
+      "term": "cape",
+      "variants": [
+        "capa"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "testa",
+      "meaning_en": "head",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "capa tòste 'stubborn/dull', malàte de cape 'reckless'."
+    },
+    {
+      "id": "ecchie",
+      "term": "ècchie",
+      "variants": [
+        "l'ècchie"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "occhio, occhi",
+      "meaning_en": "eye(s)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Iàbbre l'ècchie! 'take care'."
+    },
+    {
+      "id": "recchie",
+      "term": "rècchie",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "orecchio",
+      "meaning_en": "ear",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vocche",
+      "term": "vòcche",
+      "variants": [
+        "mocche"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bocca",
+      "meaning_en": "mouth",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mane",
+      "term": "mane",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "mano",
+      "meaning_en": "hand",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "à 'mmane à 'mmane 'little by little'."
+    },
+    {
+      "id": "core",
+      "term": "core",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cuore",
+      "meaning_en": "heart",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-gdp-canonico"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "case",
+      "term": "càse",
+      "variants": [
+        "càsere (pl.)",
+        "'ngàse"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "casa",
+      "meaning_en": "house, home",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "'ngàse = 'at home' (locative)."
+    },
+    {
+      "id": "maghene",
+      "term": "màghene",
+      "variants": [
+        "màchene",
+        "'mmàghene"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "automobile, macchina",
+      "meaning_en": "car",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fresole",
+      "term": "fresóle",
+      "variants": [
+        "fresole",
+        "fressóle"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "padella",
+      "meaning_en": "frying pan",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-latino"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mmire",
+      "term": "mmìre",
+      "variants": [
+        "mìire"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "vino",
+      "meaning_en": "wine",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-latino",
+        "src-bar-barinedita-dimenticato"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acque",
+      "term": "àcque",
+      "variants": [
+        "àcqua"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "acqua",
+      "meaning_en": "water",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-barinedita-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pesce",
+      "term": "pésce",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pesce",
+      "meaning_en": "fish",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Contrast pèsce 'worse' (accent marks vowel quality)."
+    },
+    {
+      "id": "pesce-2",
+      "term": "pèsce",
+      "category": "word",
+      "part_of_speech": "adverb/adjective",
+      "meaning_it": "peggio, peggiore",
+      "meaning_en": "worse",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "remmate",
+      "term": "remmàte",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "immondizia, spazzatura",
+      "meaning_en": "rubbish, garbage",
+      "register": "popular",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in 12th-century parchments according to the source."
+    },
+    {
+      "id": "buatte",
+      "term": "buàtte",
+      "variants": [
+        "bbuàtte"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "barattolo di latta",
+      "meaning_en": "tin can",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From French boîte."
+    },
+    {
+      "id": "terrise",
+      "term": "terrìse",
+      "variants": [
+        "terrise"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "soldi, denaro",
+      "meaning_en": "money",
+      "register": "popular",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tiimbe",
+      "term": "tìimbe",
+      "variants": [
+        "timbe"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "tempo",
+      "meaning_en": "time",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-gdp-canonico",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cerase",
+      "term": "ceràse",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ciliegia",
+      "meaning_en": "cherry",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pulpe",
+      "term": "pùlpe",
+      "variants": [
+        "pulpe"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "polpo",
+      "meaning_en": "octopus",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rasce",
+      "term": "ràsce",
+      "variants": [
+        "rasce"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "razza (pesce)",
+      "meaning_en": "skate, ray (fish)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-proverbi",
+        "src-bar-gdp-ortografia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rizze",
+      "term": "rìzze",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ricci di mare",
+      "meaning_en": "sea urchins",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "strate",
+      "term": "strate",
+      "variants": [
+        "stràtə"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "strada",
+      "meaning_en": "road, street",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tavute",
+      "term": "tavúte",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bara",
+      "meaning_en": "coffin",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sparatrappe",
+      "term": "sparatràppe",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cerotto",
+      "meaning_en": "sticking plaster",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sparagne",
+      "term": "sparàgne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "risparmio",
+      "meaning_en": "saving(s)",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arellogge",
+      "term": "arellògge",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "orologio",
+      "meaning_en": "clock, watch",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "semane",
+      "term": "semàne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "settimana",
+      "meaning_en": "week",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tirabbuscio",
+      "term": "tirabbusciò",
+      "variants": [
+        "tirabusciò"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cavatappi",
+      "meaning_en": "corkscrew",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cheppone",
+      "term": "cheppòne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "debito",
+      "meaning_en": "debt",
+      "register": "popular",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scicche",
+      "term": "scicche",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "giacca elegante",
+      "meaning_en": "smart jacket",
+      "register": "popular",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vecciire",
+      "term": "veccìire",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "macellaio",
+      "meaning_en": "butcher",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gebellere",
+      "term": "gebellère",
+      "variants": [
+        "gibillero"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "confusione, baraonda, festa chiassosa",
+      "meaning_en": "commotion, uproar",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "jose",
+      "term": "jòse",
+      "variants": [
+        "iòse",
+        "jose"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chiasso, schiamazzo",
+      "meaning_en": "racket, din",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "muine",
+      "term": "muíne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chiasso, casino, confusione",
+      "meaning_en": "racket, mess",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "priisce",
+      "term": "prìisce",
+      "variants": [
+        "priscio",
+        "prisce",
+        "prìsce"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "gioia impaziente per qualcosa di bello che sta per accadere; soddisfazione",
+      "meaning_en": "eager joyful anticipation; glee",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Tènghe u prìisce.",
+          "translation_it": "Sono pieno di gioiosa attesa.",
+          "translation_en": "I'm thrilled and can't wait.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-doppiozero-lemmi",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Called the most Barese word of all."
+    },
+    {
+      "id": "aggigghie",
+      "term": "aggìgghie",
+      "variants": [
+        "aggìgghio"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "smania, frenesia improvvisa",
+      "meaning_en": "sudden restless excitement",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Tènghe n'aggìgghie.",
+          "translation_it": "Ho una smania addosso.",
+          "translation_en": "I've got the fidgets.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-doppiozero-lemmi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "suste",
+      "term": "suste",
+      "variants": [
+        "susta"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "noia, insofferenza passeggera",
+      "meaning_en": "passing boredom or irritability",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Non zi scènne mò a Vetucce, ca tène la suste.",
+          "translation_it": "Non andare ora da Vituccio, che è di malumore.",
+          "translation_en": "Don't go to Vituccio now, he's in a mood.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-doppiozero-lemmi",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "crianze",
+      "term": "criànze",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "buone maniere, educazione",
+      "meaning_en": "good manners",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "reduine",
+      "term": "reduìne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "manrovescio",
+      "meaning_en": "backhand slap",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Ha d'abbescecuà nu reduìne.",
+          "translation_it": "Ti arriva un manrovescio.",
+          "translation_en": "You're going to get a backhander.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mestazze",
+      "term": "mestàzze",
+      "variants": [
+        "mustàzze"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "baffi",
+      "meaning_en": "moustache",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "linie",
+      "term": "lìnie",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "lendine, uovo di pidocchio",
+      "meaning_en": "nit (louse egg)",
+      "register": "archaic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-dimenticato"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "iata",
+      "term": "iatà",
+      "variants": [
+        "jatà"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "soffiare",
+      "meaning_en": "to blow",
+      "register": "archaic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-dimenticato",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "brellocche",
+      "term": "brellòcche",
+      "variants": [
+        "bbrellocche"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ciondolo, pendente",
+      "meaning_en": "pendant, charm",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-dimenticato",
+        "src-bar-barinedita-francese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mamone",
+      "term": "mamòne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "bottino, malloppo",
+      "meaning_en": "loot, haul",
+      "register": "archaic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-dimenticato"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "filecenze",
+      "term": "filecènze",
+      "variants": [
+        "filecenza"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "'tregua' chiesta dai bambini per fermare il gioco",
+      "meaning_en": "children's call for a time-out in a game",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-latino"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fatte",
+      "term": "fatte",
+      "variants": [
+        "u fatte"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "il fatto, la questione",
+      "meaning_en": "the matter, the point",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Si capìte u fatte?"
+    },
+    {
+      "id": "nervature",
+      "term": "nervatùre",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "nervosismo, rabbia che monta",
+      "meaning_en": "rising anger, nerves",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sconfidenze",
+      "term": "sconfidènze",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "scoramento, voglia persa",
+      "meaning_en": "discouragement, loss of motivation",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbuene",
+      "term": "bbuéne",
+      "variants": [
+        "bbóne (f.)",
+        "bbùne",
+        "buéne"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "buono, bravo",
+      "meaning_en": "good",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Metaphonic: m. bbuéne, f. bbóne."
+    },
+    {
+      "id": "granne",
+      "term": "grànne",
+      "variants": [
+        "grèsse",
+        "gròsse (f.)"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "grande, grosso",
+      "meaning_en": "big",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbelle",
+      "term": "bbèlle",
+      "variants": [
+        "bèlle"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "bello",
+      "meaning_en": "nice, beautiful",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "brutte",
+      "term": "brùtte",
+      "variants": [
+        "bbrùtte"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "brutto",
+      "meaning_en": "ugly, bad",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vecchie",
+      "term": "vècchie",
+      "variants": [
+        "vìecchie"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "vecchio",
+      "meaning_en": "old",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nove",
+      "term": "nóve",
+      "variants": [
+        "névè",
+        "nuévè"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "nuovo (m. névè, f. nóve)",
+      "meaning_en": "new",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "strepiate",
+      "term": "strepiàte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "rotto, danneggiato",
+      "meaning_en": "broken, damaged",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From Spanish estropeado; handy for broken builds and machines."
+    },
+    {
+      "id": "pacce",
+      "term": "pacce",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "pazzo",
+      "meaning_en": "crazy",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "venale",
+      "term": "venàle",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "irascibile (non 'venale')",
+      "meaning_en": "short-tempered (false friend of Italian venale)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "amare",
+      "term": "amàre",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "amaro; detto di persona: inflessibile. L'arie jè amàre = la situazione è brutta",
+      "meaning_en": "bitter; of people: unbending. L'arie jè amàre = things look bad",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spappate",
+      "term": "spappàte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "distrutto dalla stanchezza",
+      "meaning_en": "exhausted, wiped out",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Stògghe spappàte."
+    },
+    {
+      "id": "frusche",
+      "term": "frùsche",
+      "variants": [
+        "frusque"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "furbo, sveglio",
+      "meaning_en": "smart, shrewd",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "assiduate",
+      "term": "assiduàte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "affidabile, che punta dritto all'obiettivo",
+      "meaning_en": "reliable, single-minded",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spatriate",
+      "term": "spatriàte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "sbandato, senza radici",
+      "meaning_en": "wayward, rootless",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nzevuse",
+      "term": "nzevùse",
+      "variants": [
+        "inzivus",
+        "nzəvùse"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "sporco, sudicio",
+      "meaning_en": "dirty, grimy",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-swadesh",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nnammurate",
+      "term": "nnammuràte",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "innamorato",
+      "meaning_en": "in love",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ue",
+      "term": "Ué!",
+      "variants": [
+        "ueeee",
+        "uè"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ciao! ehi! (saluto per strada, con la e allungata)",
+      "meaning_en": "hi! hey! (street greeting, drawn-out e)",
+      "register": "familiar",
+      "contexts": [
+        "greeting",
+        "calling someone"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Accent matters: ué 'hi' vs uè 'you want'."
+    },
+    {
+      "id": "ce-ue",
+      "term": "Ce uè?",
+      "variants": [
+        "Ce ué?",
+        "C uè",
+        "Ce vu?"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "che vuoi? (anche: in cosa posso aiutarti?)",
+      "meaning_en": "what do you want? (also: how can I help?)",
+      "register": "familiar",
+      "contexts": [
+        "confrontation",
+        "offer of help"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-emoticon",
+        "src-bar-barinedita-gesti",
+        "src-bar-visititaly"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Comes with the pinched-fingers gesture."
+    },
+    {
+      "id": "ci-je",
+      "term": "Ci jè?",
+      "variants": [
+        "Ci é?",
+        "Ci ié?"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "chi è? / che c'è?",
+      "meaning_en": "who is it? / what's up?",
+      "register": "familiar",
+      "contexts": [
+        "surprise",
+        "checking"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "na",
+      "term": "Nà!",
+      "variants": [
+        "Na!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ecco! tieni!",
+      "meaning_en": "there! here you are!",
+      "register": "familiar",
+      "contexts": [
+        "handing over",
+        "showing"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From Greek ná."
+    },
+    {
+      "id": "auande",
+      "term": "Auànde!",
+      "variants": [
+        "auand!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "attento! occhio!",
+      "meaning_en": "watch out!",
+      "register": "familiar",
+      "contexts": [
+        "warning"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo-adavere",
+      "term": "Mo' adavère!",
+      "variants": [
+        "mo' adaver!",
+        "addavère"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "proprio così! hai ragione!",
+      "meaning_en": "exactly! you're right!",
+      "register": "familiar",
+      "contexts": [
+        "agreement"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "je-normale",
+      "term": "Jè normàle!",
+      "variants": [
+        "Iè normal!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "è ovvio! naturale!",
+      "meaning_en": "obviously! of course!",
+      "register": "familiar",
+      "contexts": [
+        "agreement",
+        "obviousness"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbuonanotte",
+      "term": "Bbuonanòtte!",
+      "variants": [
+        "buonanott"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "e buonanotte! (scetticismo: figuriamoci)",
+      "meaning_en": "yeah, right! (scepticism)",
+      "register": "ironic",
+      "contexts": [
+        "scepticism"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "camine-vattinne",
+      "term": "Camìne vattìnne!",
+      "variants": [
+        "camin vattin"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma va'! sì, certo... (scetticismo)",
+      "meaning_en": "get away! sure... (scepticism)",
+      "register": "ironic",
+      "contexts": [
+        "scepticism"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "domane-je-feste",
+      "term": "Dòmane jè fèste!",
+      "variants": [
+        "doman' iè fest"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "sì, domani! (non succederà mai)",
+      "meaning_en": "yeah, and tomorrow's a holiday! (it'll never happen)",
+      "register": "ironic",
+      "contexts": [
+        "scepticism"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-vabbu",
+      "term": "E vabbù!",
+      "variants": [
+        "e vabbù"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "e va be'! pazienza",
+      "meaning_en": "oh well, never mind",
+      "register": "familiar",
+      "contexts": [
+        "resignation"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiaminde",
+      "term": "Chiamìnde!",
+      "variants": [
+        "chiamind a cud!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "imperative",
+      "meaning_it": "guarda! (anche: chiamìnde a ccùdde! = guarda quello!)",
+      "meaning_en": "look! (chiamìnde a ccùdde! = look at that guy!)",
+      "register": "familiar",
+      "contexts": [
+        "surprise",
+        "pointing at odd behaviour"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "beate-a-te",
+      "term": "Beàte a te!",
+      "variants": [
+        "beat a te"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "beato te!",
+      "meaning_en": "lucky you!",
+      "register": "familiar",
+      "contexts": [
+        "envy"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciame",
+      "term": "Sciàme!",
+      "variants": [
+        "sciamanìnne"
+      ],
+      "category": "interjection",
+      "part_of_speech": "imperative",
+      "meaning_it": "andiamo! (sciamanìnne = andiamocene)",
+      "meaning_en": "let's go! (sciamanìnne = let's get out of here)",
+      "register": "familiar",
+      "contexts": [
+        "urging"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-sfazzione",
+      "term": "A sfazzióne!",
+      "variants": [
+        "a sfazion"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "volentieri! nessun problema!",
+      "meaning_en": "with pleasure! no problem!",
+      "register": "familiar",
+      "contexts": [
+        "agreement",
+        "availability"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo-mo",
+      "term": "Mo mo!",
+      "variants": [
+        "mo mo"
+      ],
+      "category": "interjection",
+      "part_of_speech": "adverb",
+      "meaning_it": "subito! or ora!",
+      "meaning_en": "right now! just now!",
+      "register": "familiar",
+      "contexts": [
+        "urging",
+        "time"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "c-je-la-caricature",
+      "term": "C'jè la caricatùre?",
+      "variants": [
+        "c'iè la caricatur?",
+        "Ci è la caricatur?"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "che è, una presa in giro? (delusione, sospetto di scherno)",
+      "meaning_en": "what is this, a joke? (disappointment)",
+      "register": "ironic",
+      "contexts": [
+        "disappointment",
+        "mockery"
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tutt-apposte",
+      "term": "Tutt'appòste?",
+      "variants": [
+        "tutt'appost?"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "tutto a posto? come va?",
+      "meaning_en": "all good? how's it going?",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "auandane-auandane",
+      "term": "Auandàne auandàne",
+      "variants": [
+        "auandan auandan"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "si tira avanti (risposta al saluto)",
+      "meaning_en": "getting by (reply to a greeting)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciame-nnanze",
+      "term": "Sciàme nnanze",
+      "variants": [
+        "sciam innanz"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "andiamo avanti, si tira avanti",
+      "meaning_en": "keeping on, carrying on",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "statte-bbuene",
+      "term": "Stàtte bbuéne",
+      "variants": [
+        "statt bun"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "stammi bene (congedo)",
+      "meaning_en": "take care (farewell)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "iabbre-l-ecchie",
+      "term": "Iàbbre l'ècchie",
+      "variants": [
+        "iabr l'ecchie"
+      ],
+      "category": "greeting",
+      "part_of_speech": "phrase",
+      "meaning_it": "apri gli occhi, stai attento (congedo)",
+      "meaning_en": "keep your eyes open, take care (farewell)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uaglio",
+      "term": "uagliò",
+      "variants": [
+        "uaglio'",
+        "uagnù (pl.)"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "ragazzo! (vocativo, per bambini e ragazzi)",
+      "meaning_en": "kid! lad! (vocative)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-gergo",
+        "src-bar-andriani-2017"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "meste",
+      "term": "mèste",
+      "variants": [
+        "mé'",
+        "mest"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "signore, maestro (a uomo anziano, rispettoso o scherzoso)",
+      "meaning_en": "sir, master (to an older man)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-segno",
+      "term": "la segnó",
+      "variants": [
+        "la signó",
+        "la signóre"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "signora (cortesia verso una donna anziana)",
+      "meaning_en": "madam (courtesy to an older woman)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chemma",
+      "term": "chemmà",
+      "variants": [
+        "chemmàre",
+        "chembà",
+        "chembàre"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "comare / compare (madrina, padrino, vicino di fiducia)",
+      "meaning_en": "godmother / godfather, close neighbour",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-andriani-2017",
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "la figghie de chemmà Sisine (source example)."
+    },
+    {
+      "id": "zzi",
+      "term": "zzì",
+      "variants": [
+        "lo zzì"
+      ],
+      "category": "address-term",
+      "part_of_speech": "vocative",
+      "meaning_it": "zio! (vocativo, anche a persone anziane)",
+      "meaning_en": "uncle! (vocative, also to elderly men)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "capo",
+      "term": "capo",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "capo! (per richiamare un adulto)",
+      "meaning_en": "boss! mate! (to an adult man)",
+      "register": "familiar",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Regional Italian used in Barese conversation."
+    },
+    {
+      "id": "si-capite-u-fatte",
+      "term": "Si capìte u fatte?",
+      "variants": [
+        "si capit u fatt?"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "hai capito la questione? (riempitivo rafforzativo)",
+      "meaning_en": "get it? (emphatic filler)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "m-sta-a-vveni-la-nervature",
+      "term": "M'sta a vvenì la nervatùre",
+      "variants": [
+        "m'sta a ven la nervatur"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi sto arrabbiando",
+      "meaning_en": "I'm starting to lose my temper",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "m-sta-a-vveni-la-sconfidenze",
+      "term": "M'sta a vvenì la sconfidènze",
+      "variants": [
+        "m'sta a ven la sconfidenz"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi sta passando la voglia (per colpa degli altri)",
+      "meaning_en": "I'm losing the will (because of others)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "m-e-venute-la-suste",
+      "term": "M'è venùte la suste",
+      "variants": [
+        "ma venut la sust",
+        "m'sta a ven la sust"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi è venuta la noia / l'insofferenza",
+      "meaning_en": "I've got fed up",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stogghe-a-tremile",
+      "term": "Stògghe a tremìle",
+      "variants": [
+        "stoggh a tremil"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sono carichissimo, a mille",
+      "meaning_en": "I'm revved up",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stogghe-mbrisciate",
+      "term": "Stògghe mbrisciàte",
+      "variants": [
+        "stoggh imprisciat"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sono entusiasta in attesa di qualcosa di bello",
+      "meaning_en": "I'm excited, looking forward to it",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "so-forte",
+      "term": "So' fòrte",
+      "variants": [
+        "so fort"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sono un grande (orgoglio per un risultato)",
+      "meaning_en": "I'm great (pride in an achievement)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-si-fatte-pegghia-na-gocce",
+      "term": "Me si fatte pegghià na gocce",
+      "variants": [
+        "mi si fatt pigghià na gocc"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi hai fatto spaventare",
+      "meaning_en": "you gave me a fright",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-arie-je-amare",
+      "term": "L'àrie jè amàre",
+      "variants": [
+        "l'aria iè amar"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "l'aria è pesante, la situazione è brutta",
+      "meaning_en": "things look grim",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "citte-citte-a-ffa-la-jose",
+      "term": "Citte citte a ffà la jòse",
+      "variants": [
+        "citt citt a fa la jose"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "divertitevi, ma senza far chiasso",
+      "meaning_en": "have fun, but keep the noise down",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "famme-sta-citte",
+      "term": "Fàmme stà citte",
+      "variants": [
+        "famm ste citt"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "lasciami stare zitto (non sono d'accordo ma non litigo)",
+      "meaning_en": "let me keep quiet (I disagree but won't argue)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "com-ia-fa-co-cuss",
+      "term": "Com ia fa co cuss?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "come devo fare con questo? (con uno che non ascolta)",
+      "meaning_en": "what am I supposed to do with this guy?",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "come-t-ie-a-ddisce",
+      "term": "Come t'ie à ddisce?",
+      "variants": [
+        "com t ua disc?"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "come te lo devo dire? (quante volte?)",
+      "meaning_en": "how many times do I have to tell you?",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-visititaly"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "avé a + infinitive (obligation)."
+    },
+    {
+      "id": "com-te-piasce",
+      "term": "Com te piàsce",
+      "variants": [
+        "com t piasc"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "come ti piace, eh! (a chi si gode qualcosa)",
+      "meaning_en": "you're loving it, aren't you!",
+      "register": "ironic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-si-mmise-a-la-centraline",
+      "term": "Te si mmìse a la centralìne",
+      "variants": [
+        "ti si miss a la centralin",
+        "menandosi alla centrale"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "mi stai tempestando di richieste",
+      "meaning_en": "you're bombarding me with requests",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sta-toste",
+      "term": "Stà tòste",
+      "variants": [
+        "ste tost"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "è attraente (detto di una persona)",
+      "meaning_en": "(s)he's hot",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-umme-a-umme",
+      "term": "A ùmme a ùmme",
+      "variants": [
+        "a umma a umme"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "di nascosto, sotto sotto",
+      "meaning_en": "on the sly",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbelle-bbelle",
+      "term": "Bbèlle bbèlle",
+      "variants": [
+        "bélle bélle",
+        "bell bell"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "piano piano, con calma e attenzione",
+      "meaning_en": "slowly, carefully",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale",
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "allegre-allegre",
+      "term": "Allègre allègre",
+      "variants": [
+        "allegr allegr"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sbrigati, svelto",
+      "meaning_en": "hurry up",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fescenne-fescenne",
+      "term": "Fescénne fescénne",
+      "variants": [
+        "fuscénne fuscénne"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "in fretta e furia",
+      "meaning_en": "in a mad rush",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-ccuerte-a-ccuerte",
+      "term": "A ccuérte a ccuérte",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "per la via più breve",
+      "meaning_en": "by the shortest way",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-dritte-e-a-torte",
+      "term": "A dritte e a tòrte",
+      "variants": [
+        "a dritte e a térte"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "bene o male, in qualche modo",
+      "meaning_en": "one way or another",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "non-zia-ma",
+      "term": "Non zia mà",
+      "variants": [
+        "nan zia mé",
+        "mogghie a dDì"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "non sia mai, Dio non voglia",
+      "meaning_en": "God forbid",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo-ieve",
+      "term": "Mo iéve",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ne è passato di tempo!",
+      "meaning_en": "that was ages ago!",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "da-mo-nnanze",
+      "term": "Da mo nnanze",
+      "variants": [
+        "da mo de nanze"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "d'ora in poi",
+      "meaning_en": "from now on",
+      "register": "neutral",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-itwiki-puglia-centrale"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tenghe-u-priisce",
+      "term": "Tènghe u prìisce",
+      "variants": [
+        "tengh u priisce"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "sono pieno di gioiosa impazienza",
+      "meaning_en": "I'm buzzing with anticipation",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "je-mmuerte",
+      "term": "Jè mmuèrte",
+      "variants": [
+        "iè mmuèrte"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "è morto (anche: è finita)",
+      "meaning_en": "he's dead (also: it's over)",
+      "register": "colloquial",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "prisciatinne",
+      "term": "Prisciatìnne!",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "goditela! (augurio sarcastico a chi ha combinato un guaio e ne è pure contento)",
+      "meaning_en": "enjoy it! (sarcastic, to someone pleased with a mess they made)",
+      "register": "ironic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-doppiozero-lemmi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sorte-de-priisce",
+      "term": "Sorte de prìisce!",
+      "variants": [
+        "sorte de prisce"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "che entusiasmo per niente! (ironico)",
+      "meaning_en": "what a fuss over nothing! (ironic)",
+      "register": "ironic",
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-doppiozero-lemmi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

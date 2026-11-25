@@ -1,0 +1,1469 @@
+{
+  "$schema": "../../../../../schemas/profanity.schema.json",
+  "dialect": "daje",
+  "entries": [
+    {
+      "id": "li-mortacci-tua",
+      "original": "li mortacci tua",
+      "variants": [
+        "mortacci tua",
+        "'tacci tua",
+        "li mortacci vostra",
+        "li mortacci sua",
+        "li mortacci mia"
+      ],
+      "category": "imprecation",
+      "literal_meaning": "i tuoi morti (peggiorativo)",
+      "meaning_it": "(lett. i tuoi morti schifosi) insulto ai defunti dell'interlocutore; per estensione esclamazione di rabbia, stupore o affetto",
+      "meaning_en": "(lit. your lousy dead) insult to someone's dead relatives; by extension an exclamation of anger, amazement or affection",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "surprise",
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "joyful surprise among friends",
+        "venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "people in mourning"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Li mortacci tua, quanto tempo!",
+          "provenance": "ai-illustrative",
+          "translation_it": "Accidenti, quanto tempo!",
+          "translation_en": "Damn, long time no see!"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary",
+        "src-rom-intrepidguide",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tone decides meaning (itwiki). Hostile when aimed at someone in anger."
+    },
+    {
+      "id": "mortacci",
+      "original": "mortacci!",
+      "variants": [
+        "'tacci!",
+        "'ccitua"
+      ],
+      "category": "exclamation",
+      "meaning_it": "esclamazione generica per un imprevisto (es. qualcosa che cade e si rompe)",
+      "meaning_en": "generic exclamation for a sudden mishap",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "frustration",
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "when something breaks"
+      ],
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mortacci, s'è piantato er server!",
+          "provenance": "ai-illustrative",
+          "translation_en": "Damn, the server's frozen!"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciccia-ar-culo",
+      "original": "ciccia ar culo!",
+      "category": "dismissal",
+      "meaning_it": "esclamazione di fiera indifferenza: chi se ne importa!",
+      "meaning_en": "proud 'who gives a damn!'",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "defiance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bucio-de-culo",
+      "original": "bucio de culo",
+      "variants": [
+        "bucio",
+        "culo"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "buco del culo",
+      "figurative_meaning": "fortuna",
+      "meaning_it": "(lett. buco del culo) fortuna sfacciata; anche fatica improba",
+      "meaning_en": "(lit. arsehole) a huge stroke of luck; also gruelling effort",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "amazement"
+        ]
+      },
+      "appropriate_contexts": [
+        "luck in a deploy that should have failed"
+      ],
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ma che bucio de culo c'hai avuto!",
+          "provenance": "ai-illustrative",
+          "translation_it": "Che fortuna sfacciata hai avuto!",
+          "translation_en": "What a stroke of luck you had!"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "culo-de-piombo",
+      "original": "culo de piombo",
+      "category": "insult",
+      "meaning_it": "pigrizia, persona pigra",
+      "meaning_en": "(lit. lead arse) laziness, a lazy person",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "n-culo-cosi",
+      "original": "'n culo così",
+      "category": "threat-joking",
+      "meaning_it": "una vittoria schiacciante; minaccia scherzosa di superiorità",
+      "meaning_en": "a crushing win; a jokey threat of superiority",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "boasting"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Usually with a hand gesture showing size."
+    },
+    {
+      "id": "e-na-guaffa-de-culo",
+      "original": "e 'na guaffa de culo?",
+      "category": "dismissal",
+      "meaning_it": "(sarcastico) e cos'altro vuoi? a chi chiede troppo",
+      "meaning_en": "(sarcastic) what else do you want? to someone asking too much",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "leccaculo",
+      "original": "leccaculo",
+      "category": "insult",
+      "meaning_it": "adulatore, leccapiedi",
+      "meaning_en": "arse-licker, sycophant",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "faccia-come-er-culo",
+      "original": "faccia come er culo",
+      "variants": [
+        "c'hai 'na faccia come er culo"
+      ],
+      "category": "insult",
+      "meaning_it": "faccia tosta, sfrontatezza",
+      "meaning_en": "shameless cheek (lit. face like an arse)",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indignation"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pija-p-er-culo",
+      "original": "pijà p'er culo",
+      "variants": [
+        "pijasse p'er culo"
+      ],
+      "category": "vulgar-idiom",
+      "meaning_it": "prendere in giro",
+      "meaning_en": "to take the piss, to mock",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "annoyance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ma me stai a pijà p'er culo?",
+          "provenance": "ai-illustrative",
+          "translation_it": "Mi stai prendendo in giro?",
+          "translation_en": "Are you taking the piss?"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vattel-a-pija-nder-culo",
+      "original": "vàttel'a pijà 'nder culo",
+      "variants": [
+        "vattelo a pijà 'nder culo"
+      ],
+      "category": "dismissal",
+      "meaning_it": "va' a farti fottere",
+      "meaning_en": "go fuck yourself",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "strangers",
+        "children",
+        "friendly banter unless very close"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rodimento-de-culo",
+      "original": "rodimento de culo",
+      "category": "vulgar-idiom",
+      "meaning_it": "nervosismo, rabbia, rosicamento",
+      "meaning_en": "seething anger, being sore",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Refined jokey variant: 'che te rode, 'a piazzetta o er vicolo der Moro?' (itwiki)."
+    },
+    {
+      "id": "ma-che-cazzo-sta-a-fa",
+      "original": "ma che cazzo sta' a fà?",
+      "variants": [
+        "ma che cazzo stai a fà"
+      ],
+      "category": "exclamation",
+      "meaning_it": "ma che diavolo stai facendo? (fastidio, spesso lieve)",
+      "meaning_en": "what the fuck are you doing? (often only mild annoyance)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-me-frega-n-cazzo",
+      "original": "nun me frega 'n cazzo",
+      "variants": [
+        "nun capisci 'n cazzo"
+      ],
+      "category": "dismissal",
+      "meaning_it": "non mi importa niente",
+      "meaning_en": "I don't give a fuck",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cazzata",
+      "original": "cazzata",
+      "category": "insult",
+      "meaning_it": "sciocchezza, bugia, cosa da nulla",
+      "meaning_en": "bullshit, nonsense; trifle",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "dismissal"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cazzaro",
+      "original": "cazzaro",
+      "category": "insult",
+      "meaning_it": "chi racconta frottole, cazzate",
+      "meaning_en": "bullshitter, liar",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cazzone",
+      "original": "cazzone",
+      "variants": [
+        "cazzaccio"
+      ],
+      "category": "insult",
+      "meaning_it": "persona sciocca o insignificante",
+      "meaning_en": "dickhead, idiot",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo also has cazzaccio ('Bonomo vordì cazzaccio')."
+    },
+    {
+      "id": "testa-de-cazzo",
+      "original": "testa de cazzo",
+      "category": "insult",
+      "meaning_it": "testa di cazzo (insulto forte)",
+      "meaning_en": "dickhead (strong)",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-sti-cazzi",
+      "original": "e 'sti cazzi?",
+      "variants": [
+        "sticazzi",
+        "'sticazzi"
+      ],
+      "category": "dismissal",
+      "meaning_it": "e chi se ne frega? (indifferenza)",
+      "meaning_en": "so fucking what? (indifference)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary",
+        "src-rom-intrepidguide",
+        "src-rom-elon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In Rome = indifference; in the North it can mean amazement (Wiktionary). Use the Roman sense."
+    },
+    {
+      "id": "sto-cazzo",
+      "original": "'sto cazzo!",
+      "category": "exclamation",
+      "meaning_it": "stupore o incredulità sarcastica",
+      "meaning_en": "wow! / my arse! (sarcastic disbelief)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "disbelief"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "so-cazzi-tua",
+      "original": "so' cazzi tua",
+      "variants": [
+        "mo so' cazzi tua"
+      ],
+      "category": "vulgar-idiom",
+      "meaning_it": "sono affari tuoi / sono guai tuoi",
+      "meaning_en": "that's your fucking problem",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "dismissal",
+          "warning"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mo so' cazzi tua.",
+          "provenance": "attested",
+          "translation_it": "Adesso sono affari tuoi.",
+          "translation_en": "Now it's your problem."
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-cojonella",
+      "original": "a cojonella",
+      "category": "vulgar-idiom",
+      "meaning_it": "per scherzo, per gioco",
+      "meaning_en": "jokingly, for a laugh",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "joking"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-cojoni",
+      "original": "me cojoni!",
+      "category": "exclamation",
+      "meaning_it": "caspita! davvero? (stupore, ammirazione); anche fastidio",
+      "meaning_en": "wow! no way! (amazement); also 'oh come on'",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "annoyance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rompicojoni",
+      "original": "rompicojoni",
+      "variants": [
+        "rompicoglioni"
+      ],
+      "category": "insult",
+      "meaning_it": "rompiscatole, persona molesta",
+      "meaning_en": "pain in the arse (person)",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-rompe-li-cojoni",
+      "original": "nun rompe li cojoni",
+      "variants": [
+        "nu' rompe li cojoni",
+        "nun me rompe"
+      ],
+      "category": "dismissal",
+      "meaning_it": "smettila di scocciare",
+      "meaning_en": "stop breaking my balls",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "un-par-de-cojoni",
+      "original": "un par de cojoni",
+      "category": "dismissal",
+      "meaning_it": "niente affatto, col cavolo",
+      "meaning_en": "bollocks / like hell (nothing at all)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "refusal"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avecce-li-cojoni",
+      "original": "avecce li cojoni",
+      "category": "vulgar-idiom",
+      "meaning_it": "essere bravissimo in qualcosa",
+      "meaning_en": "to have balls, to be really good at something",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "admiration"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Cf. 'Santa Rosa è 'na santa che cià du' cojoni così' (praise, itwiki)."
+    },
+    {
+      "id": "cojone",
+      "original": "cojone",
+      "variants": [
+        "cojona"
+      ],
+      "category": "insult",
+      "meaning_it": "sciocco, fesso",
+      "meaning_en": "idiot, dickhead",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "affection among friends"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-elon",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo: 'Trenta dì ventotto mija e un cojon chi se ne pija'."
+    },
+    {
+      "id": "fregna",
+      "original": "fregna!",
+      "category": "exclamation",
+      "literal_meaning": "organo sessuale femminile",
+      "meaning_it": "stupore; anche 'bravo!' (lett. organo sessuale femminile)",
+      "meaning_en": "wow! well done! (lit. cunt)",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "amazement"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fregnaccia",
+      "original": "fregnaccia",
+      "variants": [
+        "fregnacciaro (chi dice fregnacce)"
+      ],
+      "category": "insult",
+      "meaning_it": "sciocchezza, frottola",
+      "meaning_en": "bullshit, nonsense",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "dismissal"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fregnone",
+      "original": "fregnone",
+      "category": "insult",
+      "meaning_it": "ingenuo, credulone, troppo buono",
+      "meaning_en": "sucker, gullible fool",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto",
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avecce-le-fregne",
+      "original": "avecce le fregne",
+      "category": "vulgar-idiom",
+      "meaning_it": "essere di cattivo umore, nervoso",
+      "meaning_en": "to be in a foul mood",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fijo-de-na-mignotta",
+      "original": "fijo de 'na mignotta",
+      "variants": [
+        "fijodena'"
+      ],
+      "category": "insult",
+      "meaning_it": "figlio di puttana (usato anche come intercalare)",
+      "meaning_en": "son of a bitch (also a filler)",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "strangers",
+        "children"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mignotta",
+      "original": "mignotta",
+      "category": "insult",
+      "meaning_it": "prostituta; (est.) persona che si vende per favori",
+      "meaning_en": "whore; (by ext.) someone who sells themselves for favours",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 4"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-loporcaro-2020",
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Roman origin (Loporcaro 2020). Do not aim at women as such; sexist when targeted."
+    },
+    {
+      "id": "paraculo",
+      "original": "paraculo",
+      "category": "insult",
+      "meaning_it": "furbo opportunista, che si para sempre",
+      "meaning_en": "crafty opportunist, smartarse (often half-admiring)",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "grudging admiration"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary",
+        "src-rom-itwiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary also lists an offensive homophobic sense: never use that sense."
+    },
+    {
+      "id": "appecoronasse",
+      "original": "appecoronasse",
+      "variants": [
+        "appecoronà"
+      ],
+      "category": "vulgar-idiom",
+      "meaning_it": "sottomettersi docilmente",
+      "meaning_en": "to bend over, to submit meekly",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pippa",
+      "original": "pippa",
+      "category": "double-entendre",
+      "meaning_it": "(volg.) sega; (inf.) persona incapace",
+      "meaning_en": "(vulg.) wank; (inf.) useless person",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The 'useless person' sense is usable at vulgarity 2."
+    },
+    {
+      "id": "mannaggia-quer-santo-che-nun-se-trova",
+      "original": "mannaggia quer santo che nun se trova",
+      "category": "imprecation",
+      "meaning_it": "imprecazione 'sicura', senza nominare nessun santo",
+      "meaning_en": "a 'safe' curse naming no actual saint",
+      "intensity": 1,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Deliberately non-blasphemous."
+    },
+    {
+      "id": "madosca",
+      "original": "Madosca!",
+      "variants": [
+        "Cristoforo Colombo!",
+        "Matina!"
+      ],
+      "category": "exclamation",
+      "meaning_it": "eufemismo per Madonna! (evita la bestemmia)",
+      "meaning_en": "euphemism for 'Madonna!' (avoids blasphemy)",
+      "intensity": 1,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "frustration"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Substitute names that avoid blasphemy (itwiki)."
+    },
+    {
+      "id": "nun-ce-so-ne-cristi-ne-madonne",
+      "original": "nun ce so' né Cristi né Madonne",
+      "category": "vulgar-idiom",
+      "meaning_it": "non c'è niente da fare, la decisione è irrevocabile",
+      "meaning_en": "no way, no how (lit. there are neither Christs nor Madonnas)",
+      "intensity": 3,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "firmness"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": true,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Invokes sacred names; flagged as blasphemy-adjacent. Use only at vulgarity ≥3; prefer 'nun ce so' santi' below that."
+    },
+    {
+      "id": "te-possin-ammazzatte",
+      "original": "te possin'ammazzatte",
+      "variants": [
+        "che te possino",
+        "che te possino ammazzà"
+      ],
+      "category": "imprecation",
+      "meaning_it": "che ti possano ammazzare (spesso scherzoso o apotropaico)",
+      "meaning_en": "may they kill you (often jokey)",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "exasperation",
+          "affectionate teasing"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Seen only in a secondary report of an Accademia della Crusca answer (not read directly)."
+    },
+    {
+      "id": "avecce-er-culo-chiacchierato",
+      "original": "avecce er culo chiacchierato",
+      "category": "insult",
+      "meaning_it": "essere sospettato di omosessualità (espressione offensiva)",
+      "meaning_en": "to be gossiped about as gay (offensive)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Homophobic: documented only, never generate."
+    },
+    {
+      "id": "frocio",
+      "original": "frocio",
+      "variants": [
+        "froscione"
+      ],
+      "category": "insult",
+      "meaning_it": "insulto omofobo",
+      "meaning_en": "homophobic slur",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 4"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In Wiktionary's Romanesco category. Slur: documented only, never generate."
+    },
+    {
+      "id": "racchia",
+      "original": "racchia",
+      "category": "insult",
+      "meaning_it": "donna brutta",
+      "meaning_en": "ugly woman",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-loporcaro-2020"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Body-shaming and sexist when aimed at a person; documented only."
+    },
+    {
+      "id": "chi-sse-ne-frega",
+      "original": "chi sse ne frega?",
+      "variants": [
+        "me ne frego"
+      ],
+      "category": "dismissal",
+      "meaning_it": "chi se ne importa? (il 'me ne frego' romano)",
+      "meaning_en": "who gives a damn?",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 1"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo: 'Noi Romani l'aria der me ne frego l'avemo imparata a Cristo'."
+    },
+    {
+      "id": "va-a-mori-ammazzato",
+      "original": "va' a morì ammazzato",
+      "category": "imprecation",
+      "meaning_it": "va' a morire ammazzato (imprecazione)",
+      "meaning_en": "go get yourself killed",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "exasperation"
+        ]
+      },
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 3"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco)",
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Common Roman curse; this profile found no primary source read in full. Zanazzo has the related 'Chi ammazza, mòre ammazzato'."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "sources": [
+    {
+      "id": "src-scn-wikipedia-en",
+      "title": "Sicilian language (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sicilian_language",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (all varieties)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Well-referenced article (Bonner 2001, Camilleri 1998, Pitre, Cipolla, Ledgeway). Grammar describes the literary/koine norm, not Catanese specifically.",
+      "relevant_sections": "Dialects (Catanese = Eastern non-metaphonetic); Phonology; Gemination and contractions; Grammar (nouns, aviri, jiri a, essiri table, future/conditional replacements, imperative); Martoglio extract; sample phrases",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-cat-wikipedia-it",
+      "title": "Dialetto catanese (Wikipedia in italiano)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_catanese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese (Catania and province)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Page carries a 'senza fonti' (no sources) banner since January 2021. Its lexicon (several hundred Catanese words with Italian glosses) is unreferenced; it is consistent with Martoglio and Wiktionary where they overlap. Treated as medium for single words, never as sole basis for grammar rules.",
+      "relevant_sections": "Lessico (A-Z list); Lord's Prayer in Catanese; infobox extract (UDHR art. 1 in Catanese)",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-cat-wikipedia-it-orientale",
+      "title": "Dialetto siciliano orientale (Wikipedia in italiano)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_siciliano_orientale",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Eastern Sicilian (Catania, Siracusa)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Short article citing Matranga-Sottile 2013 and the Vocabolario siciliano (CT I-IV subareas).",
+      "relevant_sections": "Classification; subareas CT I-IV",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-cat-wikipedia-scn-parrata",
+      "title": "Parrata catanisa (Wikipedia in siciliano)",
+      "url": "https://scn.wikipedia.org/wiki/Parrata_catanisa",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Short, mostly unreferenced, written in Sicilian; lists the salient Catanese sound changes with examples. Consistent with Piccitto's isogloss (rC assimilation) reported by Stalfieri 2022.",
+      "relevant_sections": "r+consonant assimilation; d>r; gr->r; gua->va; b->v; articles u/a/i; nta->na contractions; annunca as typical word",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-scn-wiktionary",
+      "title": "Wiktionary, Sicilian entries (via kaikki.org machine-readable extraction)",
+      "url": "https://kaikki.org/dictionary/Sicilian/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (all varieties; some entries labelled Catania)",
+      "source_type": "community-dictionary",
+      "license": "CC BY-SA 4.0 / GFDL",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Community dictionary; entries rarely give regional labels. Used for existence, meaning and register (vulgar/derogatory tags) of single words. Entry 'mbari read directly at https://en.wiktionary.org/wiki/%27mbari.",
+      "relevant_sections": "Entries: 'mbari, cumpari, cummari, minchia, minchiata, suca, sucari, spacchiu, spacchimi, pacchiu, sticchiu, buttana, cugghiuni, culu, va fa 'n culu, mmunnizza, malanova, babbu, sceccu, annunca, antura, tannu, mammurianu (Catania), purpu, jarrusu, etc.",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wiktionary contributors; kaikki.org (T. Ylonen)"
+    },
+    {
+      "id": "src-cat-martoglio-centona",
+      "title": "Centona. Raccolta completa di poesie siciliane (Liber Liber e-text)",
+      "url": "https://linux.studenti.polito.it/static_resources/liberliber/biblioteca/m/martoglio/centona/pdf/centon_p.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese (city of Catania, c. 1890-1920)",
+      "source_type": "literature",
+      "license": "Public domain text (Liber Liber: 'Diritti d'autore: no'); e-text distributed under Liber Liber licence",
+      "redistribution": "public-domain",
+      "reliability": "high",
+      "reliability_notes": "Primary literary attestation of Catanese by Nino Martoglio (1870-1921), with the author's own footnote glosses in Italian. Spelling is late-19th/early-20th c. literary (lu/la/li alongside 'u/'a/'i, dd for retroflex, 'ntra). Excellent for verb forms, function words, interjections, imprecations and urban slang of the time; some items are dated.",
+      "relevant_sections": "Notes/glosses to every poem; forms: sugnu, haju a, ha' a, âti a, âmu, siddu/suddu, annunca, accuddì, jemunìnni, 'mpari, vih, talè, preterites -au/-astru/-stuu, imperfect facìa",
+      "used_by": [
+        "mbare"
+      ],
+      "author": "Nino Martoglio",
+      "publisher": "N. Giannotta, Catania 1948 (1st ed. 1899); e-text Liber Liber/Progetto Manuzio 2003",
+      "publication_date": "1899/1948"
+    },
+    {
+      "id": "src-scn-stalfieri-2022",
+      "title": "Sicily (report, PRIN 2017 'Models of language variation and change'; suppl. material to Guardiano, Cambria & Stalfieri 2022, Languages 7:255)",
+      "url": "https://www.parametricomparison.unimore.it/wp-content/uploads/2026/05/840000364nuova_relaz_Sici.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian dialects (all areas)",
+      "source_type": "academic",
+      "license": "Not stated (academic report)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Academic report summarising Piccitto 1950, Ruffino 1997, Varvaro 1988. Used for isoglosses (Catanese-Syracusan assimilation of preconsonantal R; western palatalisation of preconsonantal r), preterite use for recent past, kinship possessives.",
+      "relevant_sections": "s.4 Consonants (isoglosses 14-23); s.5 morphology (no enclitic possessives, lack of analytic perfect: 'comu mangiasti'); s.6 nouns",
+      "used_by": [
+        "mbare"
+      ],
+      "author": "Vincenzo Stalfieri",
+      "publication_date": "2022"
+    },
+    {
+      "id": "src-scn-ud-sicilian",
+      "title": "UD for Sicilian (Universal Dependencies documentation)",
+      "url": "https://universaldependencies.org/scn/index.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian",
+      "source_type": "academic",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Treebank documentation; describes SVO with object fronting, pro-drop, clitic clusters, contractions, aviri a + infinitive, aviri as sole auxiliary, stari + gerund.",
+      "relevant_sections": "Word order; clitics (mû, tû, sû, mâ); contractions (â, dû, ô, ntô); aviri a; auxiliaries; progressive",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Universal Dependencies"
+    },
+    {
+      "id": "src-scn-wikiquote-proverbi",
+      "title": "Proverbi siciliani (Wikiquote in italiano)",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_siciliani",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (mostly pan-Sicilian, from Pitre, Scarcella, Traina and others)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Collection with references to 19th-century collections (Pitre 1880, Scarcella 1846, Traina 1868). Most proverbs are pan-Sicilian, a few show Catanese phonology (potta, cutta, voddiri, riscussu).",
+      "relevant_sections": "A-Z proverb list with Italian glosses",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-cat-sololibri-parole",
+      "title": "10 parole siciliane da conoscere prima di andare in Sicilia (Sololibri)",
+      "url": "https://sololibri.net/10-parole-conoscere-prima-andare-sicilia.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian; mbare and avaia attributed to Catania/north-east",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article; area attributions (mbare north-eastern vs compà south-western; avaia Catanese; bedda matri Palermitan) are not referenced.",
+      "relevant_sections": "mbare/'mpare, avaia/avà, minchia, mizzica, futtitinni, ntzu, peri peri, camurria",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-liveunict-camurria",
+      "title": "'Camurria' e 'amuninni': 10 modi di dire siciliani non traducibili in italiano (LiveUnict Catania)",
+      "url": "https://catania.liveuniversity.it/2018/12/02/camurria-amuninni-parole-modi-dire-siciliani/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian, Catania-based outlet",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Catania student news site, 2 Dec 2018. Attributes peri peri and avaia/avà to Catania.",
+      "relevant_sections": "camurria, peri peri, annacarisi, avaia, arriminari, accura, ammizzigghiatu, mappina, amuninni, unni cci chiovi cci sciddica",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-liveunict-proverbi",
+      "title": "10 proverbi siciliani e le loro spiegazioni (LiveUnict Catania)",
+      "url": "https://catania.liveuniversity.it/2019/03/31/10-proverbi-siciliani-spiegazione/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian, Catania-based outlet",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Article by Martina Bianchi, 31 Mar 2019. Proverbs with explanations; not area-specific.",
+      "relevant_sections": "10 proverbs",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-liveunict-influenze",
+      "title": "Il dialetto siciliano e l'influenza delle altre culture (LiveUnict Catania)",
+      "url": "https://catania.liveuniversity.it/2016/11/27/il-dialetto-siciliano-e-linfluenza-delle-altre-culture-ecco-da-dove-derivano-alcuni-termini/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "27 Nov 2016 article; list of Sicilian words with meanings.",
+      "relevant_sections": "word list (antura, babbiari, sciarra, tannu, 'nzemmula, raggia...)",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-balarm-babbu-ova",
+      "title": "Se a Catania ti dicono 'babb'i l'ova' non ti stanno facendo un complimento (Balarm)",
+      "url": "https://www.balarm.it/news/se-a-catania-ti-dicono-babb-i-l-ova-non-ti-stanno-facendo-un-complimento-ecco-perche-126827",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article (S. E. Cutuli, 6 Dec 2021).",
+      "relevant_sections": "babb'i l'ova / babbu ri l'ova",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-balarm-tri-pila",
+      "title": "In Sicilia c'e un proverbio per le cause perse: 'u porcu avi sulu tri pila' (Balarm)",
+      "url": "https://www.balarm.it/news/in-sicilia-c-e-un-proverbio-per-le-cause-perse-perche-si-dice-che-u-porcu-avi-sulu-tri-pila-144452",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article (V. Ragusa, 5 Apr 2024) on Catanese sayings.",
+      "relevant_sections": "Tri pila avi u poccu; Quandu si cunta e nenti; essiri a vintitri uri e tri quarti",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-scn-balarm-modi-di-dire",
+      "title": "30 modi di dire siciliani (quasi) intraducibili (Balarm)",
+      "url": "https://www.balarm.it/news/ci-sono-i-pidocchi-ripigghiati-e-i-cicirara-30-modi-di-dire-siciliani-quasi-intraducibili-144870",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (no area attribution)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article (G. Caccialupi, 21 Apr 2024); spellings partly western.",
+      "relevant_sections": "sayings list",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-scn-balarm-raggia",
+      "title": "Dalla A di Annacati alla Z di Ziccusu: l'alfabeto della 'raggia' (Balarm)",
+      "url": "https://www.balarm.it/news/dalla-a-di-annacati-alla-z-di-ziccusu-in-sicilia-c-e-un-vero-e-proprio-alfabeto-della-raggia-142995",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian, Palermo-based outlet",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article (G. Tantillo, 9 Feb 2024); several forms are western (ri, giarnu) and are NOT used for Catanese.",
+      "relevant_sections": "fitusu, vastasu, lagnusu, camurria, raggia",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-blogsicilia-pacchione",
+      "title": "'Pacchione', la parola che in Sicilia fa la differenza tra Catania e Palermo (BlogSicilia)",
+      "url": "https://www.blogsicilia.it/palermo/pacchione-la-parola-che-in-sicilia-fa-la-differenza-tra-catania-e-palermo/347118/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Catanese vs Palermitano",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article; Catania = compliment (attractive person), Palermo = insult (fat person).",
+      "relevant_sections": "pacchione/pacchiuni",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-cat-ilfoglio-suca",
+      "title": "Condannare Micciche per il 'suca' e un sacrilegio (Il Foglio)",
+      "url": "https://www.ilfoglio.it/politica/2024/05/21/news/condannare-micciche-per-il-suca-e-un-sacrilegio--101702",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian; 'sucuni' attributed to Catania",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Humorous newspaper column, 21 May 2024; states Catanians use the augmentative 'sucuni'.",
+      "relevant_sections": "suca, sucuni",
+      "used_by": [
+        "mbare"
+      ]
+    },
+    {
+      "id": "src-scn-wikipedia-en-profanity",
+      "title": "Italian profanity (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Italian_profanity",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Italian, with Sicilian-origin items",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Notes minchia as Sicilian-origin; minchiata; testa di minchia.",
+      "relevant_sections": "minchia section",
+      "used_by": [
+        "mbare"
+      ],
+      "publisher": "Wikimedia Foundation"
+    }
+  ]
+}

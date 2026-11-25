@@ -1,0 +1,158 @@
+{
+  "sources": [
+    {
+      "id": "src-sal-garrisi-dizionario",
+      "title": "Dizionario leccese-italiano (online edition)",
+      "author": "Antonio Garrisi",
+      "publisher": "antoniogarrisiopere.it (author's website)",
+      "url": "https://www.antoniogarrisiopere.it/31_000_DizioLecceItali_FrameSet.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Salentino centrale - Lecce and Cavallino",
+      "source_type": "community-dictionary",
+      "license": "All rights reserved (author's work published online)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Large single-author dictionary of the Lecce/Cavallino variety with full verb paradigms, usage examples, about 1,200 proverbs and an explicit orthographic note on the cacuminal sound (written δδ) and the simple/long sh sounds (sç/sc). It is not peer-reviewed, but it is the most detailed open source for the city variety and agrees with the academic descriptions. The front matter was read in full. All letter pages (A-Z) were downloaded and searched entry by entry for the items used. Definitions were rewritten in our own words, not copied.",
+      "relevant_sections": "Prefazione/Avvertenze (pronunciation and raddoppiamento rules); entries for verbs (aìre, èssere, fare, dire, ulìre, putìre, sapìre, sçire, stare, enìre, tare, ìtere, tenìre); function words; interjections; proverbs and 'modi di dire'; vulgar entries (cazzu, mìnchia, fessa, culu, curnutu, futtìre, mannàggia, etc.)",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-wikipedia-it-dialetti-salentini",
+      "title": "Dialetti salentini",
+      "publisher": "Wikipedia in italiano",
+      "url": "https://it.wikipedia.org/wiki/Dialetti_salentini",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Salento (provinces of Lecce, Brindisi, south-eastern Taranto)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Encyclopedic summary drawing on Rohlfs, Mancarella, Parlangeli, Morosi, Panareo and Ribezzo. Used for the three-way north/centre/south division, vowel systems, syntax ('ku'/'ka', the future and progressive periphrases, the imperfect-indicative hypothetical), the pronoun table, 'signurìa', and the proverbs and phrases it lists. Facts were rephrased.",
+      "relevant_sections": "Fonetica, Sintassi, Morfologia, Varianti, Dialetti salentini e dialetti pugliesi, Proverbi, Fraseologia",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-wikipedia-it-dialetto-leccese",
+      "title": "Dialetto leccese",
+      "publisher": "Wikipedia in italiano",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_leccese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Salentino centrale (Lecce area)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Used for the Lecce present/imperfect/perfect of essere, avere and scire, the progressive 'sta + finite verb', the future strategies, local differences (bu vs ve, li vs le, the Grecìa remote past, 'sta me uardi' vs 'me sta uardi') and a long list of common words.",
+      "relevant_sections": "Differenze dall'italiano standard, Altre differenze territoriali, Verbi, Parole di uso comune",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-wikipedia-it-salentino-meridionale",
+      "title": "Dialetto salentino meridionale",
+      "publisher": "Wikipedia in italiano",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_salentino_meridionale",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Southern Salento (south of the Gallipoli-Maglie-Otranto line)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Used only for the contrasts with the southern variety: no conditioned diphthongs, affricated cacuminal (beddhru), unstressed vowels tending to a.",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-wikipedia-en-salentino",
+      "title": "Salentino dialect",
+      "publisher": "Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Salentino_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Salento",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Classification (Extreme Southern Italian, after Avolio 2012). It also gives a small sample of sentences, taken from Golovko & Panov (aggiu ffare, iddu ulia cu llu ddicu, ci tinia fame mangiava). The page carries 'more citations needed' tags.",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-treccani-avolio",
+      "title": "Siciliani, calabresi e salentini, dialetti (Enciclopedia dell'Italiano)",
+      "author": "Francesco Avolio",
+      "publisher": "Istituto della Enciclopedia Italiana Treccani",
+      "url": "https://www.treccani.it/enciclopedia/siciliani-calabresi-e-salentini-dialetti_(Enciclopedia-dell'Italiano)/",
+      "publication_date": "2011",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Extreme Southern Italo-Romance (Sicily, Calabria, Salento)",
+      "source_type": "academic",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Scholarly encyclopedia article. Used for the five-vowel stressed system, the cacuminal outcome of -ll-, cacuminal tr/str, the wɛ diphthong (bbuenu vs bbona), voiceless stops kept after nasals, the 'ku' clause replacing the infinitive, the repeated imperfect in counterfactuals, crai 'tomorrow', and the spellings dd/ddh/ddr.",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-rohlfs-vds3",
+      "title": "Vocabolario dei dialetti salentini (Terra d'Otranto), vol. III: Supplemento, Repertorio italiano-salentino, Indici",
+      "author": "Gerhard Rohlfs",
+      "publisher": "Bayerische Akademie der Wissenschaften (open PDF on tll-open.badw.de)",
+      "url": "https://tll-open.badw.de/en/000916000/000916000.pdf",
+      "publication_date": "1961",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Terra d'Otranto (whole Salento)",
+      "source_type": "historical-dictionary",
+      "license": "Copyright 1961 Bayerische Akademie der Wissenschaften; made openly available online by the Academy",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "The standard reference work. Only volume III (the Italian-Salentino repertory) was available and was read through text extraction. Volumes I-II (the Salentine-Italian part, with locality labels) were not consulted, so Rohlfs is cited only for facts checked in vol. III: the forms listed under 'bestemmia', 'stupido', 'pene', 'nessuno', 'lavorare' and 'andare'. Its entries are pan-Salentine and often lack a locality, so Lecce forms were always confirmed in Garrisi.",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-romano-perileccesi",
+      "title": "I dialetti perileccesi",
+      "author": "Antonio Romano",
+      "publisher": "In P. Pascali & D. Capone (eds.), L'ombra di Tancredi, Giorgiani (author's manuscript on AperTO, Università di Torino)",
+      "url": "https://iris.unito.it/retrieve/6c003f90-f5c8-40b7-af0b-c1b09d5efa4c/AR2024_dialetti_perileccesi_pdf_postprint.pdf",
+      "publication_date": "2024",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Dialects around Lecce (Cavallino, Lizzanello, Lequile, Monteroni, Vernole, Trepuzzi, Squinzano)",
+      "source_type": "academic",
+      "license": "Open access author's manuscript (rights with author/publisher)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Peer-level academic description. It lists the features shared around Lecce: cacuminal -ḍḍ-, Sicilian-type vowels with metaphonic diphthongs ie/ue, the 2pl clitic bbu, the 'Lecce-type' possessives, reduced use of the infinitive, the progressive order 'se sta' (rather than 'sta sse') and regular raddoppiamento fonosintattico. It also gives the full possessive set (miu/mia/mei; tou/toa/toi; sou/soa/soi; nuesciu/noscia/nuesci/nosce; uesciu/oscia/uesci/osce; loru).",
+      "used_by": [
+        "mena"
+      ]
+    },
+    {
+      "id": "src-sal-wikiquote-proverbi-salentini",
+      "title": "Proverbi salentini",
+      "publisher": "Wikiquote in italiano",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_salentini",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Salento (mixed localities)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "A short list of sourced proverbs (citing Romano, Malecore, Lezzi and local press). Spellings vary by locality, so only items consistent with Lecce forms were used.",
+      "used_by": [
+        "mena"
+      ]
+    }
+  ]
+}
