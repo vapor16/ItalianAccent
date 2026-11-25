@@ -1,0 +1,71 @@
+{
+  "id": "bischero",
+  "display_name": "Bischero",
+  "aliases": [
+    "bischera",
+    "bischerata"
+  ],
+  "region": "Toscana",
+  "provinces": [
+    "Firenze"
+  ],
+  "geographical_area": "City of Florence and its urban speech community (Florentine vernacular). Other Tuscan varieties (Pisano-Livornese, Senese, Aretino, Pistoiese, Lucchese) are not covered; the Livornese mode is 'boiade'.",
+  "linguistic_classification": "Tuscan (Italo-Romance), Florentine vernacular; the historical base of standard Italian, so structurally very close to it, with a distinct set of phonetic, morphosyntactic and lexical markers.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Tuscan (Florentine)",
+  "orthographic_conventions": "Standard Italian spelling as the base. Florentine marked by: article i' (i' cane), plural e'/i, un for non, e'/la subject clitics, te tu, noi si + 3sg, icché, apocopated infinitives with accent (andà, mangià, vedé), mi'/tu'/su', fo/vo, imperfect in -ea (volea, facea). Gorgia toscana is NOT systematically spelled: at intensity 5 an h for intervocalic c is allowed rarely (la hasa, andaho), never in code, names or technical terms.",
+  "description_en": "Florentine vernacular: very close to standard Italian but marked by i' for il, 'un' for negation, subject clitics (e' / la), 'te tu', impersonal 'noi si va', 'icché', 'codesto', apocopated infinitives, fo/vo, the -ea imperfect, gorgia (written sparingly) and a colloquial lexicon (babbo, garbare, bischero, grullo, ganzo, desinare). Voice: teasing, deflating, direct, with 'bischero' as the all-purpose affectionate jibe.",
+  "description_it": "Il vernacolo fiorentino: molto vicino all'italiano standard ma marcato da i' per il, 'un' come negazione, clitici soggetto (e' / la), 'te tu', 'noi si va' impersonale, 'icché', 'codesto', infiniti troncati, fo/vo, imperfetto in -ea, gorgia (scritta con parsimonia) e un lessico colloquiale (babbo, garbare, bischero, grullo, ganzo, desinare). Tono: burlone, sdrammatizzante, diretto, con 'bischero' come sfottò universale e affettuoso.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "bischero",
+    "variants": [
+      "bischera",
+      "bischerata",
+      "bischeraccio"
+    ],
+    "meaning_en": "Tuscan/Florentine 'fool, sucker' (friendly jibe); also tuning peg and, vulgar, penis.",
+    "meaning_it": "In toscano 'sciocco, ingenuo' (sfottò amichevole); inoltre pirolo dello strumento e, volgare, pene.",
+    "attestation": "Treccani: etimo incerto; pirolo; colloquiale toscano per sciocco; volgare per organi maschili; derivati bischerello, bischeretto, bischeruccio, bischeraccio. Wikizionario: bischera, bischerata, idiomi 'bravo bischero!', 'non fare il bischero'. The mode name is the authentic Florentine word. Use here is only the colloquial Florentine one; association with Florence is correct (Treccani says 'toscano', and the popular sources tie it to Florence).",
+    "sources": [
+      "src-fi-treccani-bischero",
+      "src-fi-itwikt-bischero"
+    ]
+  },
+  "sources": [
+    "src-fi-binazzi-pieraccioni",
+    "src-fi-enwiki-profanity",
+    "src-fi-enwiki-tuscan",
+    "src-fi-itwiki-bestemmia",
+    "src-fi-itwiki-fiorentino",
+    "src-fi-itwiki-gorgia",
+    "src-fi-itwiki-toscani",
+    "src-fi-itwikt-bischero",
+    "src-fi-itwikt-grullo",
+    "src-fi-lanazione-parole",
+    "src-fi-thelocal-13",
+    "src-fi-treccani-bischero",
+    "src-fi-wikiquote-modi",
+    "src-fi-wikiquote-proverbi"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "Florentine is structurally close to Italian and has no standard spelling; the profile adopts a light convention and keeps gorgia mostly unwritten.",
+    "Subject clitic details (e' / la distribution), future/conditional forms and the full verb paradigm rest on short attested snippets (Binazzi on Pieraccioni's films) plus Wikipedia, not on a full grammar; some forms are marked ai-illustrative.",
+    "Many Tuscan words come from low-reliability popular articles (The Local, La Nazione) and Wikipedia lists; the Vocabolario del fiorentino contemporaneo (Crusca) was not readable and should be added next.",
+    "Profanity is thin on Florentine-specific items: only bischero, grullo, Maremma maiala, Dio bono, fava and culo idioms are documented; the rest (cazzo, coglione, stronzo, vaffanculo) is general Italian. 'Maremma maiala' is a shared Tuscan oath and must not read as Livornese.",
+    "Proverbs are from Wikiquote in literary Tuscan spelling (19th-century collections); no verified Florentine blasphemies beyond the minced forms are generated.",
+    "Catalog check: 'bischero' is an authentic Florentine/Tuscan word and the Florence association is correct; no correction needed."
+  ],
+  "last_updated": "2026-11-25"
+}
