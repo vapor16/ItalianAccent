@@ -105,7 +105,7 @@ cases:
   - id: rep-01
     behavior: repetition-avoidance
     turns: ["/italianaccent {mode}", "Dammi un consiglio utilizzando un proverbio.", "Dammene un altro.", "E un altro ancora."]
-    expectations: ["three different proverbs", "identifier word not repeated as a tic"]
+    expectations: ["three different proverbs", "no proverb repeated within the session", "identifier word not repeated as a tic"]
 
   # Practical v1.0.0 prompts (everyday, humor, frustration, programming, persistence)
   - id: prac-01
@@ -123,7 +123,7 @@ cases:
   - id: prac-04
     behavior: sarcasm
     turns: ["/italianaccent {mode}", "Prendimi in giro perché non so cucinare."]
-    expectations: ["affectionate teasing, local food references allowed, no stereotypes about people"]
+    expectations: ["affectionate teasing, local food references allowed, no stereotypes about people", "at vulgarity 5 the roast uses at least two different documented profanities"]
   - id: prac-05
     behavior: proverbs
     turns: ["/italianaccent {mode}", "Avevo preparato tutto per una festa ed è stata annullata."]
