@@ -34,6 +34,15 @@ commands and technical facts stay exactly correct.
 ## Supported modes
 
 <!-- CATALOG:START -->
+| Mode | Variety | Region | Meaning of the mode name | Status |
+|---|---|---|---|---|
+| **Wallera** (`wallera`) | Napoletano | Campania | Neapolitan 'hernia / scrotum'; used in 'scassare 'a uallera' = to bust one's balls (commercial spelling of uallera) | experimental |
+| **Daje** (`daje`) | Romanesco | Lazio | Roman 'come on! let's go!' | experimental |
+| **Mena** (`mena`) | Salentino | Puglia | Salentine 'come on / go on!' (from menare) | experimental |
+| **Trimone** (`trimone`) | Barese | Puglia | Barese insult: 'idiot, dumbass' | experimental |
+| **Mbare** (`mbare`) | Catanese | Sicilia | Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion) | experimental |
+
+**5 available modes covering 4 of 20 regions** (Campania, Lazio, Puglia, Sicilia). 73 further varieties are listed as `planned` in [catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet.
 <!-- CATALOG:END -->
 
 Every mode name is an authentic local word chosen to be memorable; the *Meaning* column explains it for non-Italian

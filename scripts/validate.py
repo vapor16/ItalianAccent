@@ -321,6 +321,32 @@ def stats() -> str:
     return "\n".join(rows)
 
 
+def catalog_md() -> str:
+    cat = load_json(REFS / "catalog.json")
+    av = [m for m in cat["modes"] if m["available"]]
+    rows = ["| Mode | Variety | Region | Meaning of the mode name | Status |", "|---|---|---|---|---|"]
+    for m in sorted(av, key=lambda m: (m["region"], m["id"])):
+        rows.append(f"| **{m['display_name']}** (`{m['id']}`) | {m['variety']} | {m['region']} | "
+                    f"{m.get('identifier_meaning_en', '')} | {m['maturity']} |")
+    planned = [m for m in cat["modes"] if not m["available"]]
+    regions = sorted({m["region"] for m in av})
+    rows += ["", f"**{len(av)} available modes covering {len(regions)} of 20 regions** "
+             f"({', '.join(regions)}). {len(planned)} further varieties are listed as `planned` in "
+             "[catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet."]
+    return "\n".join(rows)
+
+
+def update_readmes() -> None:
+    block = catalog_md()
+    for name in ["README.md", "README.it.md"]:
+        f = ROOT / name
+        if not f.exists():
+            continue
+        t = f.read_text(encoding="utf-8")
+        t = re.sub(r"(<!-- CATALOG:START -->).*?(<!-- CATALOG:END -->)", lambda m: f"{m.group(1)}\n{block}\n{m.group(2)}", t, flags=re.S)
+        f.write_text(t, encoding="utf-8")
+
+
 def build_zip() -> Path:
     fm = parse_frontmatter((SKILL_DIR / "SKILL.md").read_text(encoding="utf-8"))
     version = (fm.get("metadata") or {}).get("version", "0.0.0")
@@ -393,9 +419,13 @@ def main() -> int:
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--zip", action="store_true")
     ap.add_argument("--integrate", metavar="ID")
+    ap.add_argument("--readme", action="store_true", help="regenerate the catalog tables in the READMEs")
     a = ap.parse_args()
     if a.stats:
         print(stats())
+        return 0
+    if a.readme:
+        update_readmes()
         return 0
     if a.integrate:
         for n in integrate(a.integrate):
