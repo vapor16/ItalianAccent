@@ -91,8 +91,8 @@
       "region": "Sicilia",
       "classification": "Sicilian (Siciliano), western/Palermo variety",
       "identifier_meaning_en": "Sicilian vulgar 'dick', used as all-purpose exclamation",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/minchia/"
     },
     {

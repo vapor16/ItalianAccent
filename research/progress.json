@@ -38,19 +38,21 @@
     "implemented_experimental": [
       "wallera",
       "mena",
-      "trimone"
+      "trimone",
+      "daje",
+      "mbare",
+      "belin",
+      "minchia"
     ],
     "completing": [
       "daje",
       "mbare"
     ],
     "in_research": [
-      "minchia",
-      "belin"
+      "bischero",
+      "boiade"
     ],
     "queue": [
-      "bischero",
-      "boiade",
       "pirla",
       "pota",
       "socmel",
@@ -83,6 +85,9 @@
     "Interrupted pilot agents were completed by fresh Sonnet agents using research/completion-brief.md (no research repeated).",
     "Validator: lexicon homographs allowed when part_of_speech differs; censorship check targets letter*letter only."
   ],
-  "open_issues": [],
+  "open_issues": [
+    "Palermitano preconsonantal r→j (cajni, pajrari): asserted in mbare/profile.md §14 citing src-scn-stalfieri-2022, not found in minchia's sources. Needs native/linguist review; minchia profile does not use it.",
+    "belin, minchia: no attested blasphemy formulas found; none generated."
+  ],
   "next_action": "Integrate daje/mbare/minchia/belin as they finish; launch next breadth modes (bischero, boiade, pirla...)."
 }
