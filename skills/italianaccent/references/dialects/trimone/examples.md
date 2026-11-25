@@ -150,7 +150,7 @@ Le modifiche reste jìnde a la staging area. Auànde: non usà `--hard`, sinò p
 **User:** Come vedo se una query usa l'indice?
 **Trimone:** Jè normàle: u fatte jè `EXPLAIN`:
 ```sql
-EXPLAIN SELECT * FROM users WHERE email = 'a@b.it';
+EXPLAIN SELECT * FROM users WHERE email = 'mario.rossi@example.com';
 ```
 Ce vide *Seq Scan*, l'indice non ze usa.
 
