@@ -1,0 +1,878 @@
+{
+ "dialect": "minchia",
+ "entries": [
+  {
+   "id": "minchia",
+   "original": "minchia!",
+   "category": "exclamation",
+   "literal_meaning": "pene",
+   "figurative_meaning": "Interiezione universale: sorpresa, ammirazione, rabbia, disprezzo.",
+   "meaning_it": "Cazzo! / Accidenti! (stupore, rabbia, ammirazione secondo l'intonazione).",
+   "meaning_en": "Holy shit / damn / wow, depending on intonation.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "surprise",
+     "admiration",
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Minchia, quantu fa cauddu!",
+     "translation_it": "Cazzo, che caldo!",
+     "translation_en": "Damn, it's hot!",
+     "provenance": "ai-illustrative"
+    },
+    {
+     "text": "Minchia, u build passau!",
+     "translation_it": "Cavolo, la build è passata!",
+     "translation_en": "Damn, the build passed!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoviva-parole",
+    "src-pa-balarm-minchia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoviva: 'Be careful not to overuse it'. Balarm: expresses 'everything and nothing'."
+  },
+  {
+   "id": "minchiata",
+   "original": "minchiata",
+   "category": "vulgar-metaphor",
+   "literal_meaning": "azione da minchia",
+   "figurative_meaning": "Stupidaggine, sciocchezza, errore grossolano.",
+   "meaning_it": "Cazzata, stupidaggine.",
+   "meaning_en": "Bullshit, a stupid blunder.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "dismissal",
+     "self-criticism"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter",
+    "self-deprecating code comments"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Chi minchiata fici cu stu merge!",
+     "translation_it": "Che cazzata ho fatto con questo merge!",
+     "translation_en": "What a stupid thing I did with this merge!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-chiu-longa"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary: noun 'bullshit, crap', vulgar."
+  },
+  {
+   "id": "ma-chi-minchia-cunti",
+   "original": "ma chi minchia cunti?",
+   "category": "exclamation",
+   "figurative_meaning": "Ma che stai dicendo?",
+   "meaning_it": "Ma che cazzo dici?",
+   "meaning_en": "What the fuck are you saying?",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "disbelief",
+     "annoyance"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Ma chi minchia cunti?",
+     "translation_it": "Ma che cazzo dici?",
+     "translation_en": "What the hell are you saying?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-mischinu"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Quoted in a Balarm column; spelling as printed."
+  },
+  {
+   "id": "testa-di-minchia",
+   "original": "testa di minchia",
+   "category": "insult",
+   "literal_meaning": "testa di pene",
+   "figurative_meaning": "Persona stupida.",
+   "meaning_it": "Testa di cazzo.",
+   "meaning_en": "Dickhead.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "insult",
+     "banter"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between close friends",
+    "aimed at a bug or absent third party"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Ci sunnu tanti teste di minchia.",
+     "translation_it": "Ci sono tanti idioti.",
+     "translation_en": "There are plenty of dickheads.",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minchia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm quotes the phrase 'teste di minchia' in a reported speech. Hostile use should target objects or absent parties."
+  },
+  {
+   "id": "amminchiatu",
+   "original": "amminchiatu",
+   "category": "insult",
+   "literal_meaning": "fissato con la minchia",
+   "figurative_meaning": "Fissato con qualcosa che non avverrà; stordito, imbambolato.",
+   "meaning_it": "Fissato, rincoglionito.",
+   "meaning_en": "Dazed, obsessed.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing",
+     "annoyance"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "malaminchiata",
+   "original": "malaminchiata",
+   "variants": [
+    "malaminchiata"
+   ],
+   "category": "insult",
+   "figurative_meaning": "Persona poco sveglia.",
+   "meaning_it": "Persona non molto intelligente (insulto leggero).",
+   "meaning_en": "A not very bright person.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source (Balarm) glosses it as 'not very bright'."
+  },
+  {
+   "id": "camurria",
+   "original": "camurria",
+   "category": "exclamation",
+   "figurative_meaning": "Seccatura, rottura.",
+   "meaning_it": "Che rottura! Che noia!",
+   "meaning_en": "What a pain!",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "annoyance"
+    ]
+   },
+   "appropriate_contexts": [
+    "venting about traffic, WiFi"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Chi camurria stu bug!",
+     "translation_it": "Che rottura questo bug!",
+     "translation_en": "What a pain, this bug!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-intraducibili",
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Mild. Wiktionary also lists a medical sense (gonorrhea); everyday sense is 'nuisance'."
+  },
+  {
+   "id": "futtitinni",
+   "original": "futtitinni",
+   "category": "dismissal",
+   "literal_meaning": "fregatene",
+   "figurative_meaning": "Lascia perdere, fregatene.",
+   "meaning_it": "Fregatene, lascia stare.",
+   "meaning_en": "Screw it, forget about it.",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "relief",
+     "dismissal"
+    ]
+   },
+   "appropriate_contexts": [
+    "reassuring a friend"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Futtitinni, u fazzu dumani.",
+     "translation_it": "Fregatene, lo faccio domani.",
+     "translation_en": "Screw it, I'll do it tomorrow.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "babbu",
+   "original": "babbu",
+   "category": "insult",
+   "literal_meaning": "sciocco",
+   "figurative_meaning": "Stupido, ingenuo.",
+   "meaning_it": "Scemo, babbeo.",
+   "meaning_en": "Fool, silly.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary also records a vulgar sense 'vulva' for the noun; avoid that meaning."
+  },
+  {
+   "id": "vastasu",
+   "original": "vastasu",
+   "category": "insult",
+   "figurative_meaning": "Volgare, cafone.",
+   "meaning_it": "Cafone, villano.",
+   "meaning_en": "Boor.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing absent third parties"
+   ],
+   "inappropriate_contexts": [
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fitusu",
+   "original": "fitusu",
+   "category": "insult",
+   "figurative_meaning": "Schifoso, sporco; persona spregevole.",
+   "meaning_it": "Sporco, schifoso.",
+   "meaning_en": "Filthy, nasty.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "disgust"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing code smell or an absent third party"
+   ],
+   "inappropriate_contexts": [
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "minnitta",
+   "original": "minnitta",
+   "category": "threat-joking",
+   "literal_meaning": "vendetta",
+   "figurative_meaning": "Distruzione ('fari minnitta').",
+   "meaning_it": "Ti faccio a pezzi (minaccia di rabbia, quasi sempre iperbolica).",
+   "meaning_en": "I'll tear it/you apart (hyperbolic).",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "anger",
+     "hyperbole"
+    ]
+   },
+   "appropriate_contexts": [
+    "jokes about a bug or a deadline"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Ni fazzu minnitta i tìa!",
+     "translation_it": "Ti faccio a pezzi!",
+     "translation_en": "I'll tear you apart!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Quoted in Balarm; Traina derives it from vinnitta. In jokes aim it at objects."
+  },
+  {
+   "id": "cugghiuni",
+   "original": "cugghiuni",
+   "category": "insult",
+   "literal_meaning": "testicolo",
+   "figurative_meaning": "Sciocco, babbeo; anche 'palle' come fastidio.",
+   "meaning_it": "Coglione.",
+   "meaning_en": "Testicle; fool.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "insult",
+     "disbelief"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Si un cugghiuni, cumpà!",
+     "translation_it": "Sei un coglione, amico!",
+     "translation_en": "You're a dumbass, mate!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary: testicle; sucker, fool. Use the western vocative cumpà, not the Catanese 'mbari."
+  },
+  {
+   "id": "cuinnutu",
+   "original": "cuinnutu",
+   "category": "insult",
+   "literal_meaning": "cornuto",
+   "figurative_meaning": "Cornuto; fregato, sfortunato.",
+   "meaning_it": "Cornuto (insulto o sfortunato).",
+   "meaning_en": "Cuckold; unlucky wretch.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "insult",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "P'un cuinnutu, un cuinnutu e mienzu!",
+     "translation_it": "Per un cornuto, un cornuto e mezzo!",
+     "translation_en": "For one cuckold, one and a half cuckolds!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-mischinu",
+    "src-pa-balarm-amminchiato",
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm reports the sense 'wretch' for the related mischinu; here the sense is the classic insult."
+  },
+  {
+   "id": "suca",
+   "original": "suca",
+   "category": "dismissal",
+   "literal_meaning": "succhia",
+   "figurative_meaning": "Ma va', tiè: scherno, rivalsa, vittoria, rifiuto.",
+   "meaning_it": "Succhia! (scherno, vittoria, rifiuto).",
+   "meaning_en": "Suck it! (mockery, triumph, refusal).",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "mockery",
+     "triumph",
+     "refusal"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "celebrating a fixed bug"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Suca! U test è verdi.",
+     "translation_it": "Tiè! Il test è verde.",
+     "translation_en": "Ha! The test is green.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-suca"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm: omnipresent in Palermo graffiti; meaning changes with context."
+  },
+  {
+   "id": "suca-forte",
+   "original": "suca forte",
+   "variants": [
+    "suca ca' pompa",
+    "suca chi legge"
+   ],
+   "category": "dismissal",
+   "figurative_meaning": "Intensificazione scherzosa di suca.",
+   "meaning_it": "Succhia forte.",
+   "meaning_en": "Suck it hard.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "mockery"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-suca"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Variant listed by Balarm among the graffiti forms ('suca ca' pompa', 'suca chi legge')."
+  },
+  {
+   "id": "sticchiu",
+   "original": "sticchiu",
+   "category": "anatomical",
+   "literal_meaning": "vulva",
+   "figurative_meaning": "Organo genitale femminile.",
+   "meaning_it": "Fica.",
+   "meaning_en": "Pussy.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "none by default"
+   ],
+   "inappropriate_contexts": [
+    "almost all contexts"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary: vulgar slang. Palermo usage not source-checked; documented only, do not generate unless the user explicitly asks."
+  },
+  {
+   "id": "bottana",
+   "original": "bottana",
+   "category": "insult",
+   "literal_meaning": "prostituta",
+   "figurative_meaning": "Insulto sessista.",
+   "meaning_it": "Puttana.",
+   "meaning_en": "Whore.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "none"
+   ],
+   "inappropriate_contexts": [
+    "all contexts"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Gendered insult listed by Balarm; documented only, never generate."
+  },
+  {
+   "id": "tappinara",
+   "original": "tappinara",
+   "category": "insult",
+   "literal_meaning": "prostituta di strada",
+   "figurative_meaning": "Insulto sessista.",
+   "meaning_it": "Zoccola.",
+   "meaning_en": "Streetwalker (as insult).",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "none"
+   ],
+   "inappropriate_contexts": [
+    "all contexts"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Gendered insult listed by Balarm; documented only, never generate."
+  },
+  {
+   "id": "crastu",
+   "original": "crastu",
+   "category": "insult",
+   "literal_meaning": "cornuto",
+   "figurative_meaning": "Persona furba e maligna; traditore.",
+   "meaning_it": "Cornuto/traditore (in alcune zone).",
+   "meaning_en": "Sly, treacherous person.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing an absent third party"
+   ],
+   "inappropriate_contexts": [
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm treats it as a Sicilian word whose use varies by place; Palermo usage unchecked."
+  },
+  {
+   "id": "mizzica",
+   "original": "mizzica",
+   "category": "exclamation",
+   "figurative_meaning": "Esclamazione di stupore, più mite di minchia.",
+   "meaning_it": "Cavolo! Accidenti!",
+   "meaning_en": "Wow! Blimey!",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "surprise"
+    ]
+   },
+   "appropriate_contexts": [
+    "any informal context"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "bedda-matri",
+   "original": "bedda matri",
+   "variants": [
+    "beddamatri"
+   ],
+   "category": "exclamation",
+   "literal_meaning": "bella madre",
+   "figurative_meaning": "Esclamazione di grande meraviglia o costernazione.",
+   "meaning_it": "Madonna santa!",
+   "meaning_en": "Holy Mother!",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "astonishment",
+     "dismay"
+    ]
+   },
+   "appropriate_contexts": [
+    "any informal context"
+   ],
+   "inappropriate_contexts": [
+    "jokes about religion"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Bedda matri, chi disastru!",
+     "translation_it": "Madonna, che disastro!",
+     "translation_en": "Good grief, what a disaster!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "An invocation, not flagged as blasphemy by the sources."
+  }
+ ]
+}

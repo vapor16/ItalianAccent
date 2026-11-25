@@ -1,0 +1,227 @@
+{
+  "sources": [
+    {
+      "id": "src-pa-itwiki-palermitano",
+      "title": "Dialetto palermitano (Wikipedia in italiano)",
+      "publisher": "Wikipedia",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_palermitano",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Stub article flagged by Wikipedia itself for missing citations; used only for the diphthongization of stressed vowels (bìeddu, cacùocciulu) and the sample text of UDHR art. 1 in Palermitano.",
+      "relevant_sections": "Caratteristiche; Estratto in lingua",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-cademia-ortografia",
+      "title": "Proposta di normalizzazione ortografica comune della lingua siciliana, I edizione 2017",
+      "publisher": "Cademia Siciliana",
+      "url": "https://cademiasiciliana.org/wp-content/uploads/2017/10/Proposta-di-normalizzazione-ortografica-comune-della-lingua-siciliana-I-edizione-2017.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "institutional",
+      "license": "Not stated (facts cited only)",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Orthography proposal; the Palermitano remarks are brief asides (descending diphthong [jɛ] for <e>, loss of intervocalic g: agustu read as austu) but come from a language-planning body.",
+      "relevant_sections": "Introductory discussion of Palermitano pronunciation",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-palermoweb-proverbi",
+      "title": "Detti, proverbi e... scongiuri palermitani",
+      "publisher": "PalermoWeb",
+      "url": "https://www.palermoweb.it/palermo/detti-proverbi-e-scongiuri-palermitani/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright PalermoWeb (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Unsigned editorial page; spellings are in Palermo orthography (ru, ra, uocchi, duormi, buonu, malutiempu) and several items are explicitly tied to Palermo (cassaro, festino, vara di San Domenico). Printed typos noted in entries.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-palermoviva-parole",
+      "title": "A trip in Sicily? The Palermitan words every Tourist needs to know",
+      "author": "Saverio Schirò",
+      "publisher": "Palermoviva",
+      "url": "https://www.palermoviva.it/?p=101306",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Palermoviva (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Tourist-oriented list by an editor; useful for market vocabulary (abbanniari, pattiari, tastari) and everyday interjections as used in Palermo.",
+      "relevant_sections": "Words and Useful Expressions",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-minchia",
+      "title": "Insostituibile nel bene e nel male: elogio di una termine che racconta la storia, minchia",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/insostituibile-nel-bene-e-nel-male-elogio-di-una-termine-che-racconta-la-storia-minchia-59751",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Opinion piece in a Palermo outlet (2018); documents the many uses of minchia and quotes the phrase 'teste di minchia'.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-mischinu",
+      "title": "Cuinnutu, vaistunatu e pure attassato: se ti ci rivedi in Sicilia sei un mischino",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/cuinnutu-vaistunatu-e-pure-attassato-se-ti-ci-rivedi-in-sicilia-sei-un-mischino-149658",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Column with Palermo-area speech samples (Ma chi minchia cunti?, si na minchia sicca, mischinu as filler); etymology claims (Arabic miskin) are the author's and are not repeated as fact.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-minnitta",
+      "title": "In Sicilia con una parola puoi dire una cosa e il contrario: storia di un malaminnitta",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/in-sicilia-con-una-parola-puoi-dire-una-cosa-e-il-contrario-storia-di-un-malaminnitta-147363",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "First-person column written partly in Palermitano (ra, picca, ni fazzu minnitta, sminnò, pigghiata); cites Traina's dictionary for minnitta.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-suca",
+      "title": "Da tabù a poliedrico mito pop: il suca nasce, cresce e prospera, e non solo in Sicilia",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/da-tabu-a-poliedrico-mito-pop-il-suca-nasce-cresce-e-prospera-e-non-solo-in-sicilia-122740",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Feature on the graffiti and social meanings of suca in Palermo, with an interview of a semiotics graduate.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-sanfaso",
+      "title": "Il siciliano è una babele: una spiegazione alla sanfasò di alcune famose frasi di uso comune",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/il-siciliano-e-una-babele-una-spiegazione-alla-sanfaso-di-alcune-famose-frasi-di-uso-comune-123595",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Palermitano (Palermo)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Explains Palermo phrases (muriu u cani, finìu a cachi, chi nicchi e nacchi, sanfasò, fetenzia, malaminchiata). Read through a tool summary of the page, not line by line.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-intraducibili",
+      "title": "C'è chi si arrimina e chi è una camurria: alcune parole siciliane (quasi) intraducibili",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/c-e-chi-si-arrimina-e-chi-e-una-camurria-alcune-parole-siciliane-quasi-intraducibili-139050",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (Palermo outlet)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Ten Sicilian words glossed by a Palermo outlet (arriminarsi, annacarsi, azzizzari, camurria, ammatula, abbuttato, mizzica, strafalaru); not Palermo-exclusive.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-amminchiato",
+      "title": "Un amminchiato si fissa, il crastu è un furbo: in viaggio tra i modi di dire in Sicilia",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/un-amminchiato-si-fissa-il-crastu-e-un-furbo-in-viaggio-tra-i-modi-dire-in-sicilia-146122",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (Palermo outlet)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Word list (amminchiatu, scantusu, vastasu, fitusu, tintu, lagnusu) and sayings; the article itself says usage varies by place, so items are treated as general Sicilian. Read through a tool summary.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-chiu-longa",
+      "title": "Chiù longa è a pinsata, chiù grossa è a minchiata: come nasce un modo di dire siciliano",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/chiu-longa-e-a-pinsata-chiu-grossa-e-a-minchiata-come-nasce-un-modo-di-dire-siciliano-128420",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (Palermo outlet)",
+      "source_type": "popular-web",
+      "license": "Copyright Balarm (facts-only citation)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Humorous column; documents the saying and the addumari/astutari 'turn on/off' pair. Read through a tool summary.",
+      "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-vermiglio-asini",
+      "title": "Asini e scecchi. Una lettura degli usi fraseologici e paremiologici asinini in italiano e siciliano",
+      "author": "Ivana Vermiglio",
+      "publisher": "Lingue e Linguaggi (Università del Salento)",
+      "url": "https://iris.unipa.it/retrieve/4671184a-e674-4bfb-abaa-03f03575f35b/Vermiglio_LingueLinguaggi2024.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Sicilian (general)",
+      "source_type": "academic",
+      "license": "CC BY 3.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "high",
+      "reliability_notes": "Peer-reviewed paper (Università di Palermo, Lingue e Linguaggi 61, 2024) on Sicilian donkey phraseology; forms come from several Sicilian areas, not only Palermo.",
+      "relevant_sections": "Sections 3-5 (sicilian phraseological units)",
+      "used_by": [
+        "minchia"
+      ]
+    }
+  ]
+}
