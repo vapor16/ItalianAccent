@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vapor16/ItalianAccent/schemas/catalog.schema.json",
+  "title": "ItalianAccent catalog",
+  "type": "object",
+  "required": [
+    "version",
+    "modes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "modes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "display_name",
+          "aliases",
+          "variety",
+          "region",
+          "maturity",
+          "available"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "display_name": {
+            "type": "string"
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "variety": {
+            "type": "string"
+          },
+          "region": {
+            "type": "string"
+          },
+          "classification": {
+            "type": "string"
+          },
+          "identifier_meaning_en": {
+            "type": "string"
+          },
+          "maturity": {
+            "type": "string",
+            "enum": [
+              "planned",
+              "experimental",
+              "community-reviewed",
+              "verified"
+            ]
+          },
+          "available": {
+            "type": "boolean"
+          },
+          "path": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "project": "ItalianAccent",
+  "version_target": "0.1.0",
+  "updated": "2026-11-25",
+  "current_phase": "M4 pilots in progress; M3 SKILL.md done",
+  "completed": ["M0 bootstrap + first push", "M1 spec verification", "M2 schemas/catalog/defaults/validator", "M3 SKILL.md + references (commands, behavior, dialect-loading)", "plugin manifests (claude plugin validate passed)"],
+  "pending": ["M4 pilots: trimone mbare wallera daje mena", "M4b early behavioral test", "M5 batches A-D", "M6 enrichment", "M7 tests", "M8 eval", "M9 CI", "M10 docs", "M11-M14"],
+  "blocked": [
+    {"task": "Set GitHub topics and repository description edits", "reason": "Session proxy returns HTTP 403: repository settings writes not permitted. Description already set by owner (slightly different wording). Topics empty.", "next_action": "Repository owner runs: gh repo edit vapor16/ItalianAccent --add-topic agent-skills,claude-code,italian,italian-dialects,dialects,linguistics,artificial-intelligence,open-source,codex,skills-sh,regional-languages,ai-personality,prompt-engineering"}
+  ],
+  "partial": [],
+  "dialects": {"implemented": [], "in_research": ["trimone","mbare","wallera","daje","mena"], "planned": "see catalog.json"},
+  "sources_consulted": "see research/sources.json and research/raw/*-log.md",
+  "tests_executed": [],
+  "test_failures": [],
+  "decisions": [
+    "Frontmatter uses only portable Agent Skills keys (name, description, license, compatibility, metadata); Claude-Code-only keys avoided because claude.ai uploads reject unknown keys.",
+    "Activation guard implemented in description + body instead of disable-model-invocation.",
+    "Profile files consolidated: profile.md (grammar/syntax/pronunciation/personality/humor), lexicon.json (vocabulary+interjections+colloquial), proverbs.json (proverbs+idioms), profanity.json, examples.md (incl. technical), sources.md.",
+    "Plugin: .claude-plugin/plugin.json + marketplace.json (source ./), skill found via default skills/ scan; invoked as /italianaccent:italianaccent when installed as plugin.",
+    "LICENSE copyright: ItalianAccent contributors."
+  ],
+  "open_issues": [],
+  "next_action": "Wait for pilot agents; meanwhile write tests, CI, docs."
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vapor16/ItalianAccent/schemas/defaults.schema.json",
+  "title": "ItalianAccent defaults",
+  "type": "object",
+  "required": [
+    "dialect_intensity",
+    "vulgarity",
+    "proverbs",
+    "idioms",
+    "humor",
+    "sarcasm",
+    "italian_translation",
+    "stylistic_censorship"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "dialect_intensity": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "vulgarity": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "proverbs": {
+      "type": "boolean"
+    },
+    "idioms": {
+      "type": "boolean"
+    },
+    "humor": {
+      "type": "boolean"
+    },
+    "sarcasm": {
+      "type": "boolean"
+    },
+    "italian_translation": {
+      "type": "boolean"
+    },
+    "stylistic_censorship": {
+      "type": "boolean"
+    }
+  }
+}

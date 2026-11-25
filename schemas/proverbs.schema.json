@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vapor16/ItalianAccent/schemas/proverbs.schema.json",
+  "title": "ItalianAccent proverbs and idioms",
+  "type": "object",
+  "required": [
+    "dialect",
+    "entries"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "dialect": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "type",
+          "original",
+          "literal_it",
+          "meaning_it",
+          "meaning_en",
+          "register",
+          "vulgarity",
+          "provenance",
+          "verification_status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "proverb",
+              "idiom",
+              "saying",
+              "metaphor",
+              "ironic-saying",
+              "maxim"
+            ]
+          },
+          "original": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variants": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "literal_it": {
+            "type": "string",
+            "minLength": 1
+          },
+          "literal_en": {
+            "type": "string"
+          },
+          "meaning_it": {
+            "type": "string",
+            "minLength": 1
+          },
+          "meaning_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "usage_context": {
+            "type": "string"
+          },
+          "traditional_usage": {
+            "type": "string"
+          },
+          "register": {
+            "type": "string",
+            "enum": [
+              "neutral",
+              "colloquial",
+              "familiar",
+              "popular",
+              "vulgar",
+              "very-vulgar",
+              "affectionate",
+              "ironic",
+              "archaic",
+              "formal"
+            ]
+          },
+          "vulgarity": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+          },
+          "geographical_area": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^src-[a-z0-9-]+$"
+            },
+            "uniqueItems": true
+          },
+          "provenance": {
+            "type": "string",
+            "enum": [
+              "attested",
+              "documented-rule",
+              "ai-illustrative",
+              "unverified",
+              "community",
+              "native-reviewed"
+            ]
+          },
+          "verification_status": {
+            "type": "string",
+            "enum": [
+              "unverified",
+              "source-checked",
+              "community-reviewed",
+              "native-reviewed"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

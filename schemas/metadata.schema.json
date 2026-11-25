@@ -1,0 +1,179 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vapor16/ItalianAccent/schemas/metadata.schema.json",
+  "title": "ItalianAccent dialect profile metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "display_name",
+    "aliases",
+    "region",
+    "geographical_area",
+    "linguistic_classification",
+    "language_family",
+    "orthographic_conventions",
+    "description_en",
+    "description_it",
+    "version",
+    "maturity",
+    "available",
+    "identifier_word",
+    "sources",
+    "resources",
+    "reviews"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "region": {
+      "type": "string"
+    },
+    "provinces": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "geographical_area": {
+      "type": "string"
+    },
+    "linguistic_classification": {
+      "type": "string"
+    },
+    "language_family": {
+      "type": "string"
+    },
+    "orthographic_conventions": {
+      "type": "string"
+    },
+    "description_en": {
+      "type": "string"
+    },
+    "description_it": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "maturity": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "experimental",
+        "community-reviewed",
+        "verified"
+      ]
+    },
+    "available": {
+      "type": "boolean"
+    },
+    "identifier_word": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "form",
+        "meaning_en",
+        "attestation"
+      ],
+      "properties": {
+        "form": {
+          "type": "string"
+        },
+        "variants": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "meaning_en": {
+          "type": "string"
+        },
+        "meaning_it": {
+          "type": "string"
+        },
+        "attestation": {
+          "type": "string"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^src-[a-z0-9-]+$"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^src-[a-z0-9-]+$"
+      },
+      "uniqueItems": true
+    },
+    "resources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      },
+      "required": [
+        "profile"
+      ]
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "reviewer",
+          "date",
+          "scope"
+        ],
+        "properties": {
+          "reviewer": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "scope": {
+            "type": "string"
+          },
+          "link": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "known_limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "last_updated": {
+      "type": "string"
+    }
+  }
+}

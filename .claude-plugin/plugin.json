@@ -1,0 +1,10 @@
+{
+  "name": "italianaccent",
+  "version": "0.1.0",
+  "description": "Authentic Italian dialects, uncensored stylistic profanity, traditional proverbs and local humor for your AI assistant. Explicit activation only.",
+  "author": { "name": "ItalianAccent contributors" },
+  "homepage": "https://github.com/vapor16/ItalianAccent",
+  "repository": "https://github.com/vapor16/ItalianAccent",
+  "license": "MIT",
+  "keywords": ["agent-skills", "italian", "italian-dialects", "linguistics", "ai-personality"]
+}

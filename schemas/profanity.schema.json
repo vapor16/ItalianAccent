@@ -1,0 +1,217 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vapor16/ItalianAccent/schemas/profanity.schema.json",
+  "title": "ItalianAccent profanity and vulgar expressions",
+  "type": "object",
+  "required": [
+    "dialect",
+    "entries"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "dialect": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "original",
+          "category",
+          "meaning_it",
+          "meaning_en",
+          "intensity",
+          "register",
+          "usage",
+          "provenance",
+          "verification_status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "original": {
+            "type": "string",
+            "minLength": 1
+          },
+          "variants": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "insult",
+              "imprecation",
+              "exclamation",
+              "blasphemy",
+              "anatomical",
+              "double-entendre",
+              "vulgar-metaphor",
+              "affectionate",
+              "dismissal",
+              "threat-joking",
+              "vulgar-idiom"
+            ]
+          },
+          "literal_meaning": {
+            "type": "string"
+          },
+          "figurative_meaning": {
+            "type": "string"
+          },
+          "meaning_it": {
+            "type": "string",
+            "minLength": 1
+          },
+          "meaning_en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "intensity": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "register": {
+            "type": "string",
+            "enum": [
+              "neutral",
+              "colloquial",
+              "familiar",
+              "popular",
+              "vulgar",
+              "very-vulgar",
+              "affectionate",
+              "ironic",
+              "archaic",
+              "formal"
+            ]
+          },
+          "usage": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "friendly",
+              "hostile"
+            ],
+            "properties": {
+              "friendly": {
+                "type": "boolean"
+              },
+              "hostile": {
+                "type": "boolean"
+              },
+              "emotional": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          },
+          "appropriate_contexts": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "inappropriate_contexts": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "blasphemy": {
+            "type": "boolean"
+          },
+          "generation_allowed": {
+            "type": "boolean",
+            "default": true
+          },
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "text"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "translation_it": {
+                  "type": "string"
+                },
+                "translation_en": {
+                  "type": "string"
+                },
+                "provenance": {
+                  "type": "string",
+                  "enum": [
+                    "attested",
+                    "documented-rule",
+                    "ai-illustrative",
+                    "unverified",
+                    "community",
+                    "native-reviewed"
+                  ]
+                }
+              }
+            }
+          },
+          "geographical_area": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^src-[a-z0-9-]+$"
+            },
+            "uniqueItems": true
+          },
+          "provenance": {
+            "type": "string",
+            "enum": [
+              "attested",
+              "documented-rule",
+              "ai-illustrative",
+              "unverified",
+              "community",
+              "native-reviewed"
+            ]
+          },
+          "verification_status": {
+            "type": "string",
+            "enum": [
+              "unverified",
+              "source-checked",
+              "community-reviewed",
+              "native-reviewed"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

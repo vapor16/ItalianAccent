@@ -1,0 +1,23 @@
+# Implementation checklist (v0.1.0)
+
+- [x] M0 Repo bootstrap, first push to vapor16/ItalianAccent
+- [ ] M0 Topics (blocked by session proxy — owner action documented in research/progress.json)
+- [x] M1 Spec verification (agentskills.io, Claude Code skills/plugins, skills CLI, skills.sh, anthropics/skills, Claude.ai upload)
+- [x] M2 Schemas, catalog, defaults, validator, adding-a-dialect contract
+- [x] M3 SKILL.md + commands.md + behavior.md + dialect-loading.md
+- [x] M9a Plugin manifests (claude plugin validate passed)
+- [ ] M4 Pilot profiles: trimone, mbare, wallera, daje, mena
+- [ ] M4b Early AI-assisted skill test on pilots
+- [ ] M5 Batch A: minchia, belin, bischero, boiade, pirla
+- [ ] M5 Batch B: pota, socmel, pataca, ostrega, neh
+- [ ] M5 Batch C: mandi, mona, ajo, frechete, ntamato
+- [ ] M5 Batch D: freghi, cio, Basilicata, Molise, Marche, Valle d'Aosta
+- [ ] M6 Enrichment rounds (all profiles)
+- [ ] M7 Deterministic tests (structural, linguistic, security, behavioral-format)
+- [ ] M8 AI-assisted behavioral evaluation
+- [ ] M9b GitHub Actions (validate.yml, release-check.yml)
+- [ ] M10 README (EN/IT), CONTRIBUTING, CoC, SECURITY, CHANGELOG, THIRD_PARTY_NOTICES, templates, examples
+- [ ] M11 Release prep, ZIP, skills CLI local check, security audit, DoD review
+- [ ] M12 Push, CI green, tag + release v0.1.0
+- [ ] M13 Distribution verification (npx skills add --list)
+- [ ] M14 Delivery report (Italian)
