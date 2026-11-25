@@ -129,16 +129,14 @@
       "display_name": "Boia dé",
       "aliases": [
         "boia de",
-        "boiade'",
-        "boia deh",
-        "deh"
+        "boiade'"
       ],
       "variety": "Livornese",
       "region": "Toscana",
       "classification": "Tuscan, Livornese vernacular",
-      "identifier_meaning_en": "Livornese exclamation 'damn, wow' (boia = executioner + dé particle)",
-      "maturity": "planned",
-      "available": false,
+      "identifier_meaning_en": "Livornese exclamation 'damn!, wow!' (boia = executioner, used as an intensifier, + the interjection dé)",
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/boiade/"
     },
     {

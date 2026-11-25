@@ -44,8 +44,9 @@ commands and technical facts stay exactly correct.
 | **Mbare** (`mbare`) | Catanese | Sicilia | Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion) | experimental |
 | **Minchia** (`minchia`) | Palermitano | Sicilia | Sicilian vulgar 'dick', used as all-purpose exclamation | experimental |
 | **Bischero** (`bischero`) | Fiorentino | Toscana | Florentine 'fool, sucker' | experimental |
+| **Boia dé** (`boiade`) | Livornese | Toscana | Livornese exclamation 'damn!, wow!' (boia = executioner, used as an intensifier, + the interjection dé) | experimental |
 
-**8 available modes covering 6 of 20 regions** (Campania, Lazio, Liguria, Puglia, Sicilia, Toscana). 70 further varieties are listed as `planned` in [catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet.
+**9 available modes covering 6 of 20 regions** (Campania, Lazio, Liguria, Puglia, Sicilia, Toscana). 69 further varieties are listed as `planned` in [catalog.json](skills/italianaccent/references/catalog.json) and are not activatable yet.
 <!-- CATALOG:END -->
 
 Every mode name is an authentic local word chosen to be memorable; the *Meaning* column explains it for non-Italian

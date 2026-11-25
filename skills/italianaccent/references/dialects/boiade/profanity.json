@@ -1,0 +1,1212 @@
+{
+  "dialect": "boiade",
+  "entries": [
+    {
+      "id": "boia",
+      "original": "boia",
+      "variants": [
+        "bòia"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "boia = carnefice",
+      "meaning_it": "Esclamazione rozza: accidenti, perbacco; un tempo vera volgarità, oggi peccato veniale.",
+      "meaning_en": "Coarse 'damn, wow'; once truly vulgar, now mild.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "admiration",
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "bug that suddenly breaks",
+        "admiring a result"
+      ],
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2",
+        "formal register"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Boia, ir server s'è piantato!",
+          "translation_it": "Accidenti, il server si è bloccato!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garbulla describes it as a euphemism derived from a blasphemous phrase; Catarsi says children used to be slapped for saying it."
+    },
+    {
+      "id": "boia-de",
+      "original": "boia dé",
+      "variants": [
+        "boia de'",
+        "boia che ... dé"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "boia + dé",
+      "meaning_it": "Frame esclamativo della varietà: boia in apertura, dé in chiusura.",
+      "meaning_en": "The mode's exclamation frame: boia opening, dé closing.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "annoyance",
+          "irony"
+        ]
+      },
+      "appropriate_contexts": [
+        "comments on a mess",
+        "reacting to news"
+      ],
+      "inappropriate_contexts": [
+        "formal or work email",
+        "vulgarity setting below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Boia 'ome sei lento dé!",
+          "translation_it": "Accidenti come sei lento!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The pattern 'Boia ... dé!' is attested in Catarsi's examples; used as the mode name."
+    },
+    {
+      "id": "vaffandomo",
+      "original": "vaffandòmo",
+      "variants": [
+        "vaffandomo"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vaffa(n)domo = vaffanculo con 'duomo' al posto di culo",
+      "meaning_it": "Eufemismo per vaffanculo: manda al diavolo senza oltrepassare un certo grado di volgarità.",
+      "meaning_en": "Euphemism for 'fuck off': dismissal below full vulgarity.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "friendly banter",
+        "ranting at a stubborn bug"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "vulgarity below 2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Vaffandomo, 'un parte nemmeno 'sta volta!",
+          "translation_it": "Vai a quel paese, nemmeno stavolta parte!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vaffantasca",
+      "original": "vaffantàsca",
+      "variants": [
+        "vaffantasca"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vaffa(n)tasca = vaffanculo con 'tasca'",
+      "meaning_it": "Eufemismo equivalente a vaffandomo.",
+      "meaning_en": "Euphemistic twin of vaffandomo.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "levati-di-ulo",
+      "original": "levati di 'ulo",
+      "category": "dismissal",
+      "literal_meaning": "togliti dal culo",
+      "meaning_it": "Vattene, togliti dai piedi; anche in senso positivo: levà di 'ulo = straordinario.",
+      "meaning_en": "Get out of my face; in positive use 'levà di 'ulo' = amazing.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "annoyance",
+          "admiration"
+        ]
+      },
+      "appropriate_contexts": [
+        "dismissing a pest",
+        "exclaiming over something wonderful"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "people you do not know"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Levati di 'ulo e fammi lavorà.",
+          "translation_it": "Vai via e lasciami lavorare.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mallevati-di-ulo",
+      "original": "mallèvati di 'ulo",
+      "variants": [
+        "mallevati di 'ulo"
+      ],
+      "category": "double-entendre",
+      "literal_meaning": "ma levati dal culo",
+      "meaning_it": "Fatti più in là, non esagerare: falla finita di spararle grosse.",
+      "meaning_en": "Come off it, stop exaggerating.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "disbelief"
+        ]
+      },
+      "appropriate_contexts": [
+        "laughing at a tall tale"
+      ],
+      "inappropriate_contexts": [
+        "outside Livorno, where it is understood literally"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi warns it is taken literally outside the city."
+    },
+    {
+      "id": "stronzolo",
+      "original": "stronzolo",
+      "category": "insult",
+      "literal_meaning": "stronzolo",
+      "meaning_it": "Stronzo, più incisivo ed efficace; in banter anche sciocco o vanitoso.",
+      "meaning_en": "Turd/jerk; punchier than stronzo; in banter 'silly'.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "friendly ribbing",
+        "calling a rude person"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Vieni stronzolo, un fà 'r guappo!",
+          "translation_it": "Dai, sciocco, non fare il vanitoso!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi gives the friendly example 'Vieni stronzolo, un fà 'r guappo!'."
+    },
+    {
+      "id": "caata",
+      "original": "caàta",
+      "category": "insult",
+      "literal_meaning": "cacata",
+      "meaning_it": "Insulto grave (da escremento); anche 'caàto a forza' per disgusto.",
+      "meaning_en": "Heavy insult (from 'shit').",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile argument only"
+      ],
+      "inappropriate_contexts": [
+        "friendly banter",
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ridàmmi i vaini, caàta!",
+          "translation_it": "Restituiscimi i soldi, stronzo!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "testa-di-azzo",
+      "original": "testa di 'azzo",
+      "variants": [
+        "testa di cazzo"
+      ],
+      "category": "insult",
+      "literal_meaning": "testa di cazzo",
+      "meaning_it": "Imbecille, testa di cazzo.",
+      "meaning_en": "Dickhead.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile arguments",
+        "very close friends"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "vulgarity below 4"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "buodiulo",
+      "original": "buodiùlo",
+      "variants": [
+        "budiùlo",
+        "buo diulo"
+      ],
+      "category": "insult",
+      "literal_meaning": "buco di culo",
+      "meaning_it": "Brutta persona, farabutto, carogna.",
+      "meaning_en": "Scoundrel, rotten person.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "anger at a cheat"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Sei propio 'n buodiulo!",
+          "translation_it": "Sei proprio un farabutto!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nato-da-n-cane",
+      "original": "nato da 'n cane",
+      "variants": [
+        "nato di 'ane",
+        "nato da 'n sette"
+      ],
+      "category": "insult",
+      "literal_meaning": "nato da un cane",
+      "meaning_it": "Maledizione scherzosa: figlio di un cane.",
+      "meaning_en": "Mock curse: son of a dog.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "mock-anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Livornese prefers this to 'figlio di un cane'."
+    },
+    {
+      "id": "ir-tegame-di-tu-ma",
+      "original": "ir tegame di tu' ma'",
+      "variants": [
+        "tegame di tu' ma'"
+      ],
+      "category": "insult",
+      "literal_meaning": "la padella di tua madre (tegame = prostituta)",
+      "meaning_it": "Insulto pesantissimo alla madre dell'interlocutore.",
+      "meaning_en": "Very heavy insult aimed at the other person's mother.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "rage"
+        ]
+      },
+      "appropriate_contexts": [
+        "only in a mock-hostile setting with consent"
+      ],
+      "inappropriate_contexts": [
+        "to the user",
+        "formal",
+        "friendly"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi calls tegame one of the most vulgar and characteristic words of the language. Aim at situations, never at the user; at vulgarity 5 only."
+    },
+    {
+      "id": "ir-budello-di-tu-ma",
+      "original": "ir budello di tu' ma'",
+      "variants": [
+        "budello di tu' ma'"
+      ],
+      "category": "insult",
+      "literal_meaning": "l'intestino di tua madre (budello = prostituta)",
+      "meaning_it": "Insulto pesantissimo alla madre dell'interlocutore.",
+      "meaning_en": "Very heavy insult aimed at the other person's mother.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "rage"
+        ]
+      },
+      "appropriate_contexts": [
+        "mock-hostile only"
+      ],
+      "inappropriate_contexts": [
+        "to the user",
+        "formal",
+        "friendly"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Documented as a classic. Aim at a situation, not at a person."
+    },
+    {
+      "id": "la-buona-di-tu-ma",
+      "original": "la buóna di tu' ma'",
+      "variants": [
+        "tu' ma' sbuonata"
+      ],
+      "category": "insult",
+      "literal_meaning": "la bucona di tua madre",
+      "meaning_it": "Insulto estremo, al limite dell'osceno, alla madre.",
+      "meaning_en": "Extremely obscene insult at one's mother.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "rage"
+        ]
+      },
+      "appropriate_contexts": [
+        "mock-hostile only"
+      ],
+      "inappropriate_contexts": [
+        "to the user",
+        "formal",
+        "friendly"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi lists it with sbuonata as the extreme level."
+    },
+    {
+      "id": "farda",
+      "original": "fàrda",
+      "category": "insult",
+      "literal_meaning": "fàrda",
+      "meaning_it": "Puttana (anche farda smessa: ex-prostituta).",
+      "meaning_en": "Whore.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only"
+      ],
+      "inappropriate_contexts": [
+        "to the user",
+        "friendly"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Misogynistic; documented, generate sparingly and never at the user."
+    },
+    {
+      "id": "troiaio",
+      "original": "troiàio",
+      "category": "insult",
+      "literal_meaning": "troiaio",
+      "meaning_it": "Luogo sporco o disordinato; persona disonesta.",
+      "meaning_en": "Messy filthy place; dishonest person.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "disgust"
+        ]
+      },
+      "appropriate_contexts": [
+        "describing a very messy codebase or room"
+      ],
+      "inappropriate_contexts": [
+        "describing real women"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Questo repository è 'n troiaio!",
+          "translation_it": "Questo repository è un casino sporco!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Prefer the place sense for generation."
+    },
+    {
+      "id": "trogolo",
+      "original": "trògolo",
+      "category": "insult",
+      "literal_meaning": "trogolo",
+      "meaning_it": "Chi si sporca mangiando o rutta; in senso peggiore, donna promiscua.",
+      "meaning_en": "Messy eater or burper; in worse use a promiscuous woman.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "disgust"
+        ]
+      },
+      "appropriate_contexts": [
+        "messy eater banter"
+      ],
+      "inappropriate_contexts": [
+        "describing real women"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Prefer the messy-eater sense."
+    },
+    {
+      "id": "fava",
+      "original": "fàva",
+      "category": "insult",
+      "literal_meaning": "fava",
+      "meaning_it": "Fesso, incapace (e organo maschile).",
+      "meaning_en": "Fool (also male genitals).",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Se' propio 'na fava!",
+          "translation_it": "Sei proprio un fesso!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bischero",
+      "original": "bìschero",
+      "category": "insult",
+      "literal_meaning": "bischero",
+      "meaning_it": "Il pipi; usato alla fiorentina per fesso.",
+      "meaning_en": "Penis; used Florentine-style for fool.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Shared Tuscan item; the sibling mode covers it in depth."
+    },
+    {
+      "id": "tonno",
+      "original": "tónno",
+      "variants": [
+        "ghiòzzo",
+        "tórzolo"
+      ],
+      "category": "insult",
+      "literal_meaning": "tonno",
+      "meaning_it": "Fesso.",
+      "meaning_en": "Fool.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spaccascurregge",
+      "original": "spaccascurrégge",
+      "category": "insult",
+      "literal_meaning": "spacca-scorregge",
+      "meaning_it": "Spaccone, pallone gonfiato.",
+      "meaning_en": "Braggart.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "calling out a boaster"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "squacquarella",
+      "original": "squacquarèlla",
+      "category": "insult",
+      "literal_meaning": "squacquarella",
+      "meaning_it": "Epiteto pesantissimo gridato in faccia al peggior nemico o, in scherzo, al miglior amico.",
+      "meaning_en": "Very heavy epithet for the worst enemy or in jest the best friend.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "rage",
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "close friends joking"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The dictionary withholds its exact meaning."
+    },
+    {
+      "id": "rompi-oglioni",
+      "original": "rompì 'oglioni",
+      "variants": [
+        "rompì le palle",
+        "rompere i coglioni"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "rompere i coglioni",
+      "meaning_it": "Scocciare, infastidire.",
+      "meaning_en": "To pester, bust someone's balls.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "complaining about a bug or a colleague"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Un mi rompì 'oglioni, c'ho 'n deploy ora!",
+          "translation_it": "Non scocciarmi, ho un deploy ora!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fra-le-palle",
+      "original": "fra le palle",
+      "category": "vulgar-idiom",
+      "literal_meaning": "tra le palle",
+      "meaning_it": "Tra i piedi, fastidioso.",
+      "meaning_en": "In the way, pestering.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "a pest in the room"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Example in the dictionary: lui lì è fisso fra le palle."
+    },
+    {
+      "id": "maremma-cane",
+      "original": "Maremma cane",
+      "variants": [
+        "Maremma puttana"
+      ],
+      "category": "blasphemy",
+      "literal_meaning": "Maremma cane",
+      "meaning_it": "Imprecazione edulcorata: Maremma al posto di Madonna nelle bestemmie più comuni.",
+      "meaning_en": "Minced oath: Maremma replaces Madonna in common blasphemies.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "strong frustration among friends"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "religious settings",
+        "vulgarity below 4"
+      ],
+      "blasphemy": true,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: nobody takes offence at 'Maremma cane'. Flagged as blasphemy because it is a minced form of a blasphemous formula. Do not restore the original."
+    },
+    {
+      "id": "potta",
+      "original": "potta",
+      "category": "anatomical",
+      "literal_meaning": "potta",
+      "meaning_it": "Organo genitale femminile; anche, goliardicamente, bella donna.",
+      "meaning_en": "Vulva; also, laddish, an attractive woman.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": false,
+        "emotional": [
+          "admiration"
+        ]
+      },
+      "appropriate_contexts": [
+        "rare, close male banter"
+      ],
+      "inappropriate_contexts": [
+        "to the user",
+        "describing real people"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Objectifying. Mark of heavy vulgarity; prefer topa or avoid."
+    },
+    {
+      "id": "topa",
+      "original": "tòpa",
+      "variants": [
+        "sorba"
+      ],
+      "category": "anatomical",
+      "literal_meaning": "topa",
+      "meaning_it": "Organo genitale femminile, molto meno volgare di potta; si dice anche a una bambina.",
+      "meaning_en": "Vulva, much milder than potta.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "describing real people"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pipi",
+      "original": "pìpi",
+      "category": "anatomical",
+      "literal_meaning": "pipi",
+      "meaning_it": "Organo genitale maschile (quasi mai sessuale, soprattutto dei bambini).",
+      "meaning_en": "Penis (childish).",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "childish joke"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "baugigi",
+      "original": "baugìgi",
+      "variants": [
+        "ciòcco"
+      ],
+      "category": "anatomical",
+      "literal_meaning": "baugigi",
+      "meaning_it": "Culo (eufemistico, come ciocco).",
+      "meaning_en": "Backside, euphemistic.",
+      "intensity": 1,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "mild"
+      ],
+      "inappropriate_contexts": [],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sema",
+      "original": "séma",
+      "category": "double-entendre",
+      "literal_meaning": "seme (di zucca)",
+      "meaning_it": "Eufemismo per sega: non m'importa (Lui lì mi fa 'na sema).",
+      "meaning_en": "Euphemism for something vulgar: I couldn't care less.",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "indifference"
+        ]
+      },
+      "appropriate_contexts": [
+        "mock indifference"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "A me 'sto meeting mi fa 'na sema.",
+          "translation_it": "Di questo meeting non mi importa niente.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "puppa",
+      "original": "pùppa!",
+      "category": "dismissal",
+      "literal_meaning": "pùppa",
+      "meaning_it": "Attaccati al tram: esclamazione di rifiuto.",
+      "meaning_en": "Get stuffed.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avecci-r-buo-strappato",
+      "original": "avécci 'r bùo strappato",
+      "category": "vulgar-idiom",
+      "literal_meaning": "avere il buco strappato",
+      "meaning_it": "Avere una gran fortuna.",
+      "meaning_en": "To have great luck.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "envy"
+        ]
+      },
+      "appropriate_contexts": [
+        "good luck"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "leva-di-ulo-esclamazione",
+      "original": "levà di 'ulo (esclamazione)",
+      "category": "vulgar-idiom",
+      "literal_meaning": "levare di culo",
+      "meaning_it": "Eccezionale, straordinario (riferito a cose belle).",
+      "meaning_en": "Fabulous (of nice things).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "admiration"
+        ]
+      },
+      "appropriate_contexts": [
+        "praising a great experience"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Distinct from the dismissal; here positive."
+    }
+  ]
+}

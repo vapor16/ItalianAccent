@@ -1,0 +1,164 @@
+{
+  "sources": [
+    {
+      "id": "src-li-catarsi-dizionario",
+      "title": "Dizionario Livornese (A-Z of the Livorno vernacular)",
+      "author": "Marco Catarsi",
+      "publisher": "Altervista (self-published)",
+      "url": "https://livornese.altervista.org/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "community-dictionary",
+      "license": "Copyright the author; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Single-author dictionary by Marco Catarsi, born in Livorno to Livornese parents, built from his own memory and checked with relatives and friends (see the Fonti page). About 600 entries with example sentences, frequent notes on Florentine contrasts and on obsolete items (dagger mark). Not an academic work, so every item is source-checked but not independently verified. Only facts and short forms are cited; meanings are paraphrased.",
+      "relevant_sections": "Letters A-Z (index.php?ascii=65..90); entries dé, boia, bòia, vaffandomo/tasca, budello, tegame, buóna, merda, Maremma, pottata, esagerato, gavinoso, un, ni/gnene, etc.",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-catarsi-grafia",
+      "title": "Dizionario Livornese - Scelte di trascrizione fonetica",
+      "author": "Marco Catarsi",
+      "publisher": "Altervista (self-published)",
+      "url": "https://livornese.altervista.org/index.php?menu=grafia",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "community-dictionary",
+      "license": "Copyright the author; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "The author's spelling decisions: c'ho/c'hai/c'ha/c'abbiamo/c'avete/c'hanno, truncated infinitives written with an accent (mangià, bé, dormì), and the silent plural article rendered as an apostrophe (arrivano ' pisani). Used as the orthographic norm of the profile.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-treccani-toscani",
+      "title": "Dialetti toscani (Enciclopedia dell'Italiano)",
+      "author": "Treccani (Enciclopedia dell'Italiano)",
+      "publisher": "Istituto della Enciclopedia Italiana",
+      "url": "https://www.treccani.it/enciclopedia/dialetti-toscani_(Enciclopedia-dell'Italiano)/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Tuscany, pisano-livornese area",
+      "source_type": "encyclopedia",
+      "license": "Treccani, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Scholarly encyclopedia entry. Describes the pisano-livornese type: lowered mid-low vowels, velar /a/, liquid exchange (pe[l]ché), lateral-fricative 'lisca', velarized geminate laterals, plural articles in [lː], and cites the vitality of the interjection dé among young Livornese as a 'flag' feature. Gives no Livornese word list. Only facts are cited.",
+      "relevant_sections": "Section on pisano-livornese (phonetics, morphology) and the paragraph on elementi-bandiera",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-itwiki-toscani",
+      "title": "Dialetti toscani - Wikipedia (it)",
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation",
+      "url": "https://it.wikipedia.org/wiki/Dialetti_toscani",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Tuscany (pisano-livornese and Florentine contrasts)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Gives the pisano-livornese gorgia (intervocalic /k/ elided in Pisa and Livorno, aspirated in Florence), coastal rhotacism ir/er for il, vowel qualities, impersonal si with 'noi' (S'è mangiato aristorante) and general Tuscan syntax: te as subject, double dative (a me mi garba), 'un for non, mi'/tu'/su', vo/fo. Only the first 100,000 characters of the page were read. Facts rephrased.",
+      "relevant_sections": "Pisano-livornese subsection; Tuscan morphosyntax sections",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-livornomagazine-vernacolando",
+      "title": "Livorno Magazine - Vernacolando",
+      "author": "Livorno Magazine (editorial)",
+      "publisher": "Livorno Magazine",
+      "url": "https://www.livornomagazine.it/Livornesita/Vernacolando.htm",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "popular-web",
+      "license": "Copyright Livorno Magazine; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Short popular page on the vernacular: states that dé is nearly always present, takes its sense from intonation and is not the old Italian deh; that boia often accompanies dé; that intervocalic c is fully elided (la mi' 'asa); gives ciai/cianno spelling, le fétte (from English feet), and the ironic hyperbole e sei parigino.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-livornomagazine-proverbi",
+      "title": "Livorno Magazine - Modi di dire, detti e proverbi livornesi",
+      "author": "Livorno Magazine (editorial)",
+      "publisher": "Livorno Magazine",
+      "url": "https://www.livornomagazine.it/Livornesita/proverbi-e-modi-di-dire-in-vernacolo.htm",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "popular-web",
+      "license": "Copyright Livorno Magazine; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "About 150 popular sayings in a phonetic spelling, no authors or dates, many too crude to reuse. Meanings are not glossed on the page, so the meanings in proverbs.json are our own reading and several are marked unverified. Only short traditional formulas are cited.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-lenzi-vernacolario",
+      "title": "Daniela Lenzi - Vernacolo livornese (vernacolario)",
+      "author": "Daniela Lenzi",
+      "url": "https://www.danielalenzi.it/vernacolario.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "popular-web",
+      "license": "Copyright the author; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Personal site describing phonetic patterns of the vernacular with examples: aphesis ('un, 'nvece), apocope of infinitives, metathesis (drento, treciolo), epenthetic b (cambera), geminated b (robba, subbito), enclitic assimilation (amammi, vedetti), and post-war English loanwords (lescò, comò, gis, pòllice).",
+      "relevant_sections": "Phonetic patterns and loanwords sections",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-garbulla-vocabolario",
+      "title": "Vocabolario della lingua livornese - Pescheria Arbulla",
+      "author": "Pescheria Arbulla",
+      "url": "https://garbulla.jimdofree.com/vocabolario-livornese/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "popular-web",
+      "license": "Copyright the site owner; no open license stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Commercial site of a fish shop with a short vocabulary of interjections (ajò, aò, boia, bòna, alla grazia, e diàtti) and idioms (a pane, buo a buo, bùa dell'orate). Used only to corroborate items found in the Catarsi dictionary.",
+      "relevant_sections": "Vocabulary page",
+      "used_by": [
+        "boiade"
+      ]
+    },
+    {
+      "id": "src-li-itwiki-vernacoliere",
+      "title": "Il Vernacoliere - Wikipedia (it)",
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation",
+      "url": "https://it.wikipedia.org/wiki/Il_Vernacoliere",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Livorno (city)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Encyclopedic summary: satirical monthly published in Livorno, founded in 1961 by Mario Cardinali (first as Livorno Cronaca, monthly satire from 1982), written in Livornese and Italian, openly irreverent and crude. Used only for the description of the tradition; no examples were taken.",
+      "relevant_sections": "Introduction and description of language and register",
+      "used_by": [
+        "boiade"
+      ]
+    }
+  ]
+}

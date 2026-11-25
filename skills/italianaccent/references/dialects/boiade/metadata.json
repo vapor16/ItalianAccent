@@ -1,0 +1,70 @@
+{
+  "id": "boiade",
+  "display_name": "Boia dé",
+  "aliases": [
+    "boia de",
+    "boiade'"
+  ],
+  "region": "Toscana",
+  "provinces": [
+    "Livorno"
+  ],
+  "geographical_area": "City of Livorno and its urban vernacular (pisano-livornese), as recorded in Catarsi's Dizionario Livornese. Piombino and the rest of the coast, rural Pisan and Maremma varieties and the Jewish-Livornese argot bagitto are not covered.",
+  "linguistic_classification": "Western Tuscan, pisano-livornese vernacular of Livorno.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Tuscan (pisano-livornese)",
+  "orthographic_conventions": "Catarsi's conventions: dé with acute accent (never deh), c'ho/c'hai/c'ha, truncated infinitives with accent (mangià, bé, dormì), negation un, article ir/'r (ar, ner, der, cor), elided intervocalic c written with an apostrophe ('asa, 'ome, 'osa, pòo), silent plural article as an apostrophe (rare), epithetic -e on consonant-final loanwords (filobusse) but not on software terms.",
+  "description_en": "Livornese vernacular: ir (il) with 'r after prepositions, negation un, te as subject, ni/gnene datives, intervocalic c dropped ('asa), apocopated infinitives, impersonal si for 'we', and the ubiquitous interjection dé (never deh) with boia. Tone: ironic, deflating, openly coarse (Vernacoliere tradition), with antiphrasis (gavinoso, esagerato) and minced oaths (Maremma cane, vaffandomo).",
+  "description_it": "Vernacolo livornese: ir (il) e 'r dopo preposizione, negazione un, te soggetto, dativi ni/gnene, c intervocalica caduta ('asa), infiniti tronchi, si impersonale per 'noi', e l'interiezione onnipresente dé (mai deh) con boia. Tono ironico, sdrammatizzante, apertamente volgare (tradizione del Vernacoliere), con antifrasi (gavinoso, esagerato) e imprecazioni edulcorate (Maremma cane, vaffandomo).",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "boia dé",
+    "variants": [
+      "boia de'",
+      "boia de",
+      "boia che ... dé",
+      "dé"
+    ],
+    "meaning_en": "Livornese exclamation: 'boia' (lit. executioner; coarse 'damn, wow') + 'dé' (all-purpose interjection whose meaning depends on tone).",
+    "meaning_it": "Esclamazione livornese: 'boia' (lett. carnefice; 'accidenti, perbacco') + 'dé' (interiezione multiuso il cui senso dipende dal tono).",
+    "attestation": "Boia and dé are both documented separately (Catarsi's dictionary entries Bòia! and Dé; Livorno Magazine; Treccani cites the vitality of dé in Livornese). The collocation 'Boia ... dé!' is attested in Catarsi's example sentences (Boia 'ome sei stucco dé!, Boia che bodda lei lì, dé!, Boia che scazzata dé!). 'Boia dé' as a fixed two-word idiom is not recorded by any source consulted, so the commercial name is a shorthand for this frame. Spelling dé with acute accent is Catarsi's.",
+    "sources": [
+      "src-li-catarsi-dizionario",
+      "src-li-livornomagazine-vernacolando",
+      "src-li-treccani-toscani"
+    ]
+  },
+  "sources": [
+    "src-li-catarsi-dizionario",
+    "src-li-catarsi-grafia",
+    "src-li-garbulla-vocabolario",
+    "src-li-itwiki-toscani",
+    "src-li-itwiki-vernacoliere",
+    "src-li-lenzi-vernacolario",
+    "src-li-livornomagazine-proverbi",
+    "src-li-livornomagazine-vernacolando",
+    "src-li-treccani-toscani"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "The lexicon rests mainly on one native-speaker dictionary (Catarsi, memory-based, self-published) and on low-reliability popular pages; many items are marked obsolete (dagger) in the source and are used only for flavour.",
+    "Grammar is documented by Treccani and Wikipedia at a general level (pisano-livornese); verb paradigms are partial (first-person plural and plural forms are taken from impersonal si and examples, not from a grammar). No fieldwork source on Livornese morphosyntax was readable (Calamai's phonetic study on the SNS site returned HTTP 503).",
+    "Proverbs come from a popular page with no glosses and no authors: meanings are our own reading and most are marked unverified.",
+    "Catalog alias 'deh' (and 'boia deh') is inappropriate: Catarsi and Livorno Magazine state that deh is an old Italian exhortation unrelated to dé, and 'deh' is a generic Tuscan/literary particle. The catalog should drop 'deh' and 'boia deh';",
+    "Catalog identifier meaning 'boia = executioner + dé particle' is right for boia; dé is an interjection, not a particle of boia. 'Boia dé' is not attested as a fixed idiom; the frame 'Boia ... dé!' is.",
+    "The dictionary also records stereotyping words for 'stingy' based on a religion and a Tuscan town; the profile excludes them, as well as slurs for sexual orientation and disability.",
+    "No unminced blasphemy is documented; Maremma cane is the only blasphemy-flagged entry (a minced form).",
+    "Treccani and Calamai describe lisca, liquid exchange and vowel quality that are not shown in the written norm; they are deliberately not written."
+  ],
+  "last_updated": "2026-11-25"
+}
