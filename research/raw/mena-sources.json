@@ -153,6 +153,22 @@
       "used_by": [
         "mena"
       ]
+    },
+    {
+      "id": "src-sal-presicce-turre",
+      "title": "Il dialetto salentino come si parla a Scorrano (pagina 'Turre')",
+      "publisher": "Giuseppe Presicce / dialettosalentino.it",
+      "url": "https://www.dialettosalentino.it/turre_1.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Scorrano (LE), referring to Torrepaduli (Turre), frazione di Ruffano",
+      "source_type": "popular-web",
+      "license": "All rights reserved (author's work published online)",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Native-speaker popular web page by Giuseppe Presicce on the Scorrano dialect. Two idioms about the bride of Turre were checked verbatim on the page (accents verified in the page's ISO-8859-1 source). Documents Scorrano usage, not Lecce city.",
+      "used_by": [
+        "mena"
+      ]
     }
   ]
 }

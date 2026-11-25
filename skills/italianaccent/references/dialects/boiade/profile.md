@@ -18,7 +18,7 @@ No official standard. This profile follows Catarsi's choices (src-li-catarsi-gra
 - **Possession with ci:** *c'ho, c'hai, c'ha, c'abbiamo, c'avete, c'hanno*. Alternative *ciai/cianno* (src-li-livornomagazine-vernacolando) is not used.
 - **Truncated infinitives take an accent, not an apostrophe:** *mangià, bé, dormì, sortì, fà, dì, vedé*.
 - **Negation:** *un* (no apostrophe), as in the dictionary. *'un* is the popular alternative.
-- **Elided intervocalic c** is written with an apostrophe: *la mi' 'asa, 'ome, 'osa, 'on* (con), *pòo* (poco), *'iamà*. A double or non-intervocalic c stays: *a ccasa, cane*. Use this at intensity ≥4 and only on a few frequent words (*'ome, 'osa, 'asa, 'on*) to keep the text legible.
+- **Elided /k/ is lexical, not a rule.** Write the apostrophe **only on documented words**: *'asa, 'ome, 'osa, 'on* (con), *pòo* (poco), *'ulo, 'azzo, 'oglioni, 'onca* (the last four only in the fixed expressions of §9-§10). Every other word with an intervocalic c keeps it: *amico, fico, piccolo, secco, bicicletta, anche, cane, a ccasa*. Never derive new elisions from a general rule, never on names, technical terms or code. Use the documented words at intensity ≥4, a couple per answer at most, to keep the text legible.
 - **Silent plural article** may be shown as a lone apostrophe: *arrivano ' pisani* (Catarsi). Use sparingly; default is *i* or *li*.
 - **Elision of article + preposition:** *a', de', da', ne', co'* before plural nouns (*a' bozzi, ne' 'asìni*). Singular: *ar, der, dar, ner, cor, sur* (*ar mercato, der sudicio, ner muso, cor filobusse*).
 - **Loanwords with epithetic vowel:** *filobusse, tennisse, barre, slippe, gorfe, trèninghe, ciuinga* (Tuscan avoids final consonants, src-li-catarsi-dizionario). Do **not** do this to software terms.
@@ -27,7 +27,7 @@ No official standard. This profile follows Catarsi's choices (src-li-catarsi-gra
 
 | Rule | Examples | Source |
 |---|---|---|
-| Total loss of intervocalic /k/ (gorgia as zero, not aspiration) | *la mi' 'asa, 'ome, pòo, 'osa* | src-li-itwiki-toscani, src-li-livornomagazine-vernacolando |
+| Loss of /k/ in some frequent words (gorgia as zero, not aspiration); **lexical: documented words only, not every intervocalic c** | *la mi' 'asa, 'ome, pòo, 'osa* | src-li-itwiki-toscani, src-li-livornomagazine-vernacolando |
 | Rhotacism of il → ir (coast) | *ir cane, ir sole, ir mi' figliolo* | src-li-itwiki-toscani, src-li-catarsi-dizionario |
 | l → r before consonant | *artro, arbero, dorce, vorte* | src-li-itwiki-toscani, src-li-livornomagazine-proverbi |
 | Apocope of infinitive | *mangià, bé, dormì, sortì, fà* | src-li-catarsi-grafia, src-li-lenzi-vernacolario |
@@ -139,8 +139,8 @@ Pronunciation facts (open vowels, velar /a/, lisca) are described by Treccani bu
 
 ## 8. Discourse markers & interjections
 
-- **Dé!** the signature particle. Its sense depends on tone: disbelief (*Deeé...* with raised eyebrows), urging (*Dé, vai!*), "of course" (*Dé no!*), exasperation (*Ma dé!*). Appears in nearly every sentence at intensity 5, but not in every clause. Spell *dé*, never *deh* (src-li-catarsi-dizionario, src-li-livornomagazine-vernacolando, src-li-treccani-toscani).
-- **Boia!** damn, wow; **boia dé**, **boia che...**, **boia 'ome...**.
+- **Dé!** the signature particle. Its sense depends on tone: disbelief (*Deeé...* with raised eyebrows), urging (*Dé, vai!*), "of course" (*Dé no!*), exasperation (*Ma dé!*). Natural and frequent at high intensity, but not in every line and not in every clause: a good answer has stretches without it. Spell *dé*, never *deh* (src-li-catarsi-dizionario, src-li-livornomagazine-vernacolando, src-li-treccani-toscani).
+- **Boia!** damn, wow; chosen by emotion (surprise, annoyance, admiration), not as an opener. **Boia che...**, **boia 'ome...**, or *boia* alone. **Boia ... dé** is an attested *frame* (*Boia 'ome sei stucco dé!*), **not a fixed formula**: *boia* and *dé* are separate, do not weld them into *boia dé* in every line.
 - **Ajò! / aiòle** alert; **aò** vocative shout; **ibò, ónco** disgust; **oimmèi** impatience; **éla!** after a stumble (†); **aridàgnene** exasperation; **ariècco** there it is again; **bó** enough; **bòna** goodbye; **adìo** resigned farewell; **e diàtti** that's already something; **pùppa!** get lost; **lescò** shoo; **fido!** time out; **tónfa!** hit it.
 - **Mallèvati di 'ulo** = come off it (not "go away" locally).
 - **Gua'** (†) casual hello; **'nniamo!** come on.
@@ -185,6 +185,7 @@ Pronunciation facts (open vowels, velar /a/, lisca) are described by Treccani bu
 - **Deflating disbelief:** *Deeé...* (eyebrows up), *mallèvati di 'ulo*, *ma fai 'na bullétta?*
 - **Sweet replacements for rude words:** *'na sema, vaffandomo, vaffantasca*.
 - **Satire tradition** (Il Vernacoliere): irreverence toward situations, institutions and oneself; never toward groups of people.
+- **How to sound like a local:** sarcastic, deflating, spontaneous, with varied reactions (*dé, boia, ibò, oimmèi, ariècco, adìo, bó, e diàtti*). *Dé* and *boia* each appear **at most about once per answer** unless a quoted frame needs more; vary or drop them. Let the irony (antiphrasis, mock-solemnity, deflating disbelief) carry the voice, not a phonetic caricature or apostrophes on every c.
 
 ## 12. Intensity guide
 
@@ -193,8 +194,8 @@ Italian: *"Non toccare il database di produzione adesso, aspetta che finisca il 
 1. *Non toccare il database di produzione ora, aspetta che finisce ir backup, dé.*
 2. *Un toccà ir database di produzione ora: aspetta che finisce ir backup.*
 3. *Dé, un toccà ir database di produzione ora, aspetta che finisce ir backup, mi raccomando.*
-4. *Boia dé, un toccà ir database di produzione ora! Aspetta che finisce ir backup, sinnò si va ner bottino.*
-5. *Boia dé, un ti azzardà a toccà ir database di produzione ora, testa di 'azzo! Aspetta che finisce ir backup, sinnò siamo ner bottino fino ar collo.*
+4. *Boia, un toccà ir database di produzione ora! Aspetta che finisce ir backup, sinnò si va ner bottino.*
+5. *Un ti azzardà a toccà ir database di produzione ora, testa di 'azzo, dé! Aspetta che finisce ir backup, sinnò siamo ner bottino fino ar collo.*
 
 ## 13. Transformation guide (AI-illustrative, based on documented rules)
 
@@ -205,7 +206,7 @@ Italian: *"Non toccare il database di produzione adesso, aspetta che finisca il 
 5. *Questo progetto è una schifezza, lascia perdere.* → *Questo progetto è robba da torta, lascia perdé.* (robba da torta)
 6. *Mio figlio è sempre in giro.* → *Ir mi' figliolo è sempre a spasso, dé.* (ir, mi', dé)
 7. *Hai fame? Andiamo a tavola.* → *C'hai fame? 'Nniamo, mettiti ar tavolino.* (c'hai, ar tavolino)
-8. *(Tech)* *Il container non parte perché manca una variabile.* → *Ir container un parte perché ni manca 'na variabile, boia dé.* (ir, un, ni)
+8. *(Tech)* *Il container non parte perché manca una variabile.* → *Ir container un parte perché ni manca 'na variabile, boia.* (ir, un, ni)
 
 ## 14. Contamination guard
 

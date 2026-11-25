@@ -9,12 +9,12 @@
   "provinces": [
     "Lecce"
   ],
-  "geographical_area": "City of Lecce and the surrounding 'perileccese' towns (e.g. Cavallino, Carmiano, Novoli, Caprarica di Lecce) in central Salento. The profile follows the urban Lecce norm; northern Salentino (Brindisi/Taranto side) and southern Salentino (Otranto-Leuca) varieties differ and are not covered.",
+  "geographical_area": "Spoken variety of the city of Lecce and its surroundings (the 'perileccese' towns, e.g. Cavallino, Carmiano, Novoli, Caprarica di Lecce) in central Salento; public name \"Leccese — Salentino centrale\". Northern Salentino (Brindisi/Taranto side) and southern Salentino (Otranto-Leuca) varieties differ and are not covered; items collected in other towns (e.g. Scorrano) are labelled with their own locality.",
   "linguistic_classification": "Salentino (salentinu), Extreme-Southern Italo-Romance (Sicilian-type vowel system), central Salentino group, Lecce area; traditionally called a dialect.",
   "language_family": "Indo-European > Romance > Italo-Romance > Extreme Southern Italian (Salentino)",
   "orthographic_conventions": "Popular phonetic spelling based on Garrisi's Lecce-Cavallino dictionary: ddh for the cacuminal from Latin -LL- (beddhu, iddhu; alternatives δδ, ḍḍ), sci/sce for the sh sound (alternative sç), lu/la/li/le articles, nu/na indefinites (Garrisi nnu/nna), syntactic doubling written after cu, nu, a, e, ca, gne, cchiù (cu llu tata, nu ffazzu), clitic bu 'you (pl.)' for Lecce (ve further south), no schwa symbols (five clear vowels), final -e/-o written as pronounced.",
-  "description_en": "Salentino of Lecce: five-vowel extreme-southern system with metaphonic diphthongs (buenu/bona), cacuminal ddh from -LL-, no schwa, tenire for possession with aire only as auxiliary, 'cu' + finite verb replacing most infinitives, progressive with sta' + finite verb, 'aggiu' + infinitive for obligation, enclitic kin possessives (mama, sirma, fraima) and the clitic bu. Voice: a warm, ironic speaker who urges with 'mena!'.",
-  "description_it": "Il salentino di Lecce: sistema vocalico estremo-meridionale a cinque vocali con dittonghi metafonetici (buenu/bona), ddh cacuminale da -LL-, nessun suono indistinto, tenire per il possesso e aire solo ausiliare, 'cu' + verbo finito al posto dell'infinito, progressivo con sta' + verbo finito, 'aggiu' + infinito per il dovere, possessivi enclitici di parentela (mama, sirma, fraima) e clitico bu. Tono: caloroso e ironico, che sprona con 'mena!'.",
+  "description_en": "Mena (public name \"Leccese — Salentino centrale\") represents primarily the spoken variety of Lecce and its surroundings: five-vowel extreme-southern system with metaphonic diphthongs (buenu/bona), cacuminal ddh from -LL-, no schwa, tenire for possession with aire only as auxiliary, 'cu' + finite verb replacing most infinitives, progressive with sta' + finite verb, 'aggiu' + infinitive for obligation, enclitic kin possessives (mama, sirma, fraima) and the clitic bu. Voice: a warm, ironic speaker who urges with 'mena!'.",
+  "description_it": "Mena (nome pubblico «Leccese — Salentino centrale») rappresenta principalmente la varietà parlata di Lecce e dintorni: sistema vocalico estremo-meridionale a cinque vocali con dittonghi metafonetici (buenu/bona), ddh cacuminale da -LL-, nessun suono indistinto, tenire per il possesso e aire solo ausiliare, 'cu' + verbo finito al posto dell'infinito, progressivo con sta' + verbo finito, 'aggiu' + infinito per il dovere, possessivi enclitici di parentela (mama, sirma, fraima) e clitico bu. Tono: caloroso e ironico, che sprona con 'mena!'.",
   "version": "0.1.0",
   "maturity": "experimental",
   "available": true,
@@ -41,7 +41,8 @@
     "src-sal-wikipedia-it-dialetti-salentini",
     "src-sal-wikipedia-it-dialetto-leccese",
     "src-sal-wikipedia-it-salentino-meridionale",
-    "src-sal-wikiquote-proverbi-salentini"
+    "src-sal-wikiquote-proverbi-salentini",
+    "src-sal-presicce-turre"
   ],
   "resources": {
     "profile": "profile.md",
@@ -58,8 +59,9 @@
     "Garrisi's dictionary is a single-author community work; Rohlfs was consulted only in vol. III (Italian-Salentino repertory); modern grammars were not consulted directly.",
     "Salentino spelling is not standardized (ddh/dd/δδ/ḍḍ, sc/sç, nnu/nu): the profile picks one form and lists variants.",
     "Only the Lecce/perileccese norm is covered; northern and southern Salentino differ (e.g. ve vs bu, no conditioned diphthongs in the south).",
-    "Contrasts with Barese are stated only as far as the Wikipedia/Treccani sources support (schwa, no metaphony in centre-north Apulian).",
-    "The catalog entry still lists mena as planned/unavailable; it must be updated to experimental/available."
+    "Contrasts with Barese are stated only as far as the Treccani/Wikipedia sources support (schwa in centre-north Apulian; metaphony exists in both Apulian areas but with different outcomes, so it is not a distinguishing trait).",
+    "The catalog entry still lists mena as planned/unavailable; it must be updated to experimental/available.",
+    "Two Turre idioms (src-sal-presicce-turre) are collected in Scorrano and refer to Torrepaduli (Ruffano); they are not Lecce-city proverbs. Standard b is never devoiced to p in Mena: spagliare is an isolated lexical item."
   ],
   "last_updated": "2026-11-25"
 }

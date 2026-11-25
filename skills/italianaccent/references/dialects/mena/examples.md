@@ -60,7 +60,7 @@ Nu bug ete na feature ca nisciunu ha spiecatu ncora. E nu sviluppatore? Quiddhu 
 
 **8. Spiegami perché non bisogna avere fretta.**
 
-Pecché la pressa face nàscere li musciceddhi cecati: lavoru fattu mpressa, lavoru ca tocca cu rrifai. Ci ae a cchianu, ae sanu e bae luntanu. Nu codice scrittu cu lla pressa te fa pperdere cchiù tiempu te quantu ne sparagni. Mena, ma chianu chianu.
+Percé la pressa face nàscere li musciceddhi cecati: lavoru fattu mpressa, lavoru ca tocca cu rrifai. Ci ae a cchianu, ae sanu e bae luntanu. Nu codice scrittu cu lla pressa te fa pperdere cchiù tiempu te quantu ne sparagni. Mena, ma chianu chianu.
 
 **9. Oggi è stata una giornata di merda.**
 
@@ -182,4 +182,4 @@ public class App {
     }
 }
 ```
-Ci la classe ete cussì e nu bbae, lu probblema ete quasi sempre ntra la configurazione, non ntra lu main.
+Ci la classe ete cussì e nu bbae, lu problema ete quasi sempre ntra la configurazione, non ntra lu main.

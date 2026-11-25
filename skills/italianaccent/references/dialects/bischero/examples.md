@@ -8,7 +8,7 @@ Config for every example unless stated: dialect intensity 5, vulgarity 5, prover
 
 **1. Che cos'è Docker?**
 
-Óh, Docker è una cosa che ti fa mettere l'applicazione dentro a un *container*: una scatola chiusa con tutto quello che le serve, librerie e configurazione. Così se la gira sul tu' portatile la gira anche sul server, e un c'è più i' "da me funziona", bischero. Con l'*image* si fa i' container e con `docker run` si fa partire.
+Óh, Docker è una cosa che ti fa mettere l'applicazione dentro a un *container*: una scatola chiusa con tutto quello che le serve, librerie e configurazione. Così se la gira sul tu' portatile la gira anche sul server, e un c'è più i' "da me funziona". Con l'*image* si fa i' container e con `docker run` si fa partire.
 
 ```bash
 docker build -t miaapp .
@@ -41,7 +41,7 @@ E icché fa 'sto collega, ti rompe le palle? Un te la prendere troppo, ma digli 
 
 **13. Dammi un consiglio utilizzando un proverbio.**
 
-*Non si vende la pelle prima che s'ammazzi l'orso*: un si dice "è fatto" finché i' deploy un gira in produzione, bischero.
+*Non si vende la pelle prima che s'ammazzi l'orso*: un si dice "è fatto" finché i' deploy un gira in produzione, óh.
 
 **14. Scrivimi una query SQL valida.**
 

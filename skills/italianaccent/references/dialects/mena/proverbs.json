@@ -1,1461 +1,1497 @@
 {
- "dialect": "mena",
- "entries": [
-  {
-   "id": "ci-ae-a-cchianu-ae-sanu-e-bae-luntanu",
-   "type": "proverb",
-   "original": "Ci ae a cchianu, ae sanu e bae luntanu",
-   "variants": [
-    "Ci ae a cchianu, ae luntanu e rria sanu"
-   ],
-   "literal_it": "Chi va piano va sano e va lontano",
-   "meaning_it": "Andare con calma porta lontano e senza danni.",
-   "meaning_en": "Slow and steady goes far and safely.",
-   "usage_context": "fretta, rilasci affrettati, consigli di metodo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "la-pressa-face-nascere-li-musciceddhi-cecati",
-   "type": "proverb",
-   "original": "La pressa face nàscere li musciceddhi cecati",
-   "literal_it": "La fretta fa nascere i gattini ciechi",
-   "meaning_it": "La fretta produce lavori difettosi.",
-   "meaning_en": "Haste makes blind kittens: rushed work comes out flawed.",
-   "usage_context": "fretta, codice scritto di corsa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked",
-   "notes": "Salentine counterpart of \"la gatta frettolosa fa i gattini ciechi\"."
-  },
-  {
-   "id": "ci-ae-mpressa-ttoppa-e-ccate-nterra",
-   "type": "proverb",
-   "original": "Ci ae mpressa, ttoppa e ccate nterra",
-   "literal_it": "Chi va in fretta inciampa e cade a terra",
-   "meaning_it": "Chi corre troppo finisce per cadere.",
-   "meaning_en": "Whoever rushes trips and falls.",
-   "usage_context": "fretta",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-scarra-te-pressa-chiange-a-llengu",
-   "type": "proverb",
-   "original": "Ci scarra te pressa, chiange a llengu",
-   "literal_it": "Chi sbaglia in fretta piange a lungo",
-   "meaning_it": "Un errore fatto di corsa si paga per molto tempo.",
-   "meaning_en": "A mistake made in haste is regretted for a long time.",
-   "usage_context": "fretta, scelte sbagliate, deploy di venerdì",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "cu-llu-tiempu-e-lla-pacenzia-se-maturanu-le-custio",
-   "type": "proverb",
-   "original": "Cu llu tiempu e lla pacènzia se matùranu le custioni",
-   "literal_it": "Col tempo e la pazienza maturano le questioni",
-   "meaning_it": "I problemi si risolvono con tempo e pazienza.",
-   "meaning_en": "Time and patience settle every question.",
-   "usage_context": "pazienza, problemi lunghi",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "cu-llu-tiempu-e-ccu-lla-pagghia-se-mmaturanu-le-me",
-   "type": "proverb",
-   "original": "Cu llu tiempu e ccu lla pàgghia se mmatùranu le meddhe",
-   "literal_it": "Col tempo e con la paglia maturano le nespole",
-   "meaning_it": "Ogni cosa ha bisogno del suo tempo.",
-   "meaning_en": "With time and straw the medlars ripen.",
-   "usage_context": "pazienza",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked",
-   "notes": "Variant of the Italian proverb about medlars."
-  },
-  {
-   "id": "la-pacenzia-ete-nna-bona-erva-ma-nu-ccrisce-intra",
-   "type": "proverb",
-   "original": "La pacènzia ete nna bona erva, ma nu ccrisce intra a ttutte le sciardine",
-   "literal_it": "La pazienza è una buona erba, ma non cresce in tutti gli orti",
-   "meaning_it": "La pazienza è una virtù, ma non tutti ce l'hanno.",
-   "meaning_en": "Patience is a good herb, but it does not grow in every garden.",
-   "usage_context": "pazienza, colleghi irritanti",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "quandu-la-pira-ete-matura-cate-sula",
-   "type": "proverb",
-   "original": "Quandu la pira ete matura, cate sula",
-   "literal_it": "Quando la pera è matura cade da sola",
-   "meaning_it": "Le cose arrivano quando è il momento: inutile forzarle.",
-   "meaning_en": "When the pear is ripe it falls by itself.",
-   "usage_context": "pazienza, attesa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-tene-tiempu-cu-nnu-spetta-tiempu",
-   "type": "proverb",
-   "original": "Ci tene tiempu, cu nnu spetta tiempu",
-   "literal_it": "Chi ha tempo non aspetti tempo",
-   "meaning_it": "Se puoi fare una cosa ora, non rimandarla.",
-   "meaning_en": "If you have time, do not wait for more time.",
-   "usage_context": "procrastinazione",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "bbatti-lu-fierru-quannu-e-ccautu",
-   "type": "proverb",
-   "original": "Bbatti lu fierru quannu è ccautu",
-   "literal_it": "Batti il ferro quando è caldo",
-   "meaning_it": "Agisci al momento giusto, senza lasciare in sospeso.",
-   "meaning_en": "Strike while the iron is hot.",
-   "usage_context": "opportunità",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "spagliandu-se-mpara",
-   "type": "proverb",
-   "original": "Spagliandu se mpara",
-   "literal_it": "Sbagliando si impara",
-   "meaning_it": "Gli errori insegnano.",
-   "meaning_en": "You learn by making mistakes.",
-   "usage_context": "errore, incoraggiamento",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-nu-nde-faci-nu-nde-spagli",
-   "type": "proverb",
-   "original": "Ci nu nde faci nu nde spagli",
-   "literal_it": "Chi non ne fa non ne sbaglia",
-   "meaning_it": "Sbaglia solo chi agisce.",
-   "meaning_en": "Only those who do nothing make no mistakes.",
-   "usage_context": "errore, incoraggiamento",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "lu-fare-mpara-a-ffare",
-   "type": "proverb",
-   "original": "Lu fare mpara a ffare",
-   "literal_it": "Il fare insegna a fare",
-   "meaning_it": "Si impara facendo.",
-   "meaning_en": "Doing teaches you how to do.",
-   "usage_context": "imparare, pratica, crescita professionale",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-faci-cce-nnu-a-ffare-te-succete-cce-nnu-ccriti",
-   "type": "proverb",
-   "original": "Ci faci cce nnu à' ffare, te succete cce nnu ccriti",
-   "literal_it": "Se fai ciò che non devi fare, ti succede ciò che non credi",
-   "meaning_it": "Le azioni sbagliate hanno conseguenze impreviste.",
-   "meaning_en": "Do what you should not and the unexpected happens to you.",
-   "usage_context": "avvertimento, scelte sbagliate",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-llassa-la-strada-ecchia-pe-lla-noa-sape-cce-lla",
-   "type": "proverb",
-   "original": "Ci llassa la strada ecchia pe lla noa, sape cce llassa ma nu ssape cce ttroa",
-   "literal_it": "Chi lascia la strada vecchia per la nuova sa cosa lascia ma non sa cosa trova",
-   "meaning_it": "Cambiare comporta incognite.",
-   "meaning_en": "Whoever leaves the old road for the new knows what he leaves but not what he finds.",
-   "usage_context": "scelte, migrazioni tecnologiche, cambiare lavoro",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "cunsigghiu-de-ecchiu-e-iutu-de-gioane",
-   "type": "proverb",
-   "original": "Cunsìgghiu de ecchiu e iutu de giòane",
-   "literal_it": "Consiglio di vecchio e aiuto di giovane",
-   "meaning_it": "L'esperienza degli anziani e l'energia dei giovani vanno unite.",
-   "meaning_en": "An old man's advice and a young man's help.",
-   "usage_context": "consiglio, mentoring",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-simmena-ientu-ccogghie-maletiempu",
-   "type": "proverb",
-   "original": "Ci sìmmena ientu, ccògghie maletiempu",
-   "literal_it": "Chi semina vento raccoglie maltempo",
-   "meaning_it": "Chi provoca guai ne raccoglie di peggiori.",
-   "meaning_en": "Sow wind, reap storm.",
-   "usage_context": "conseguenze",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "quiddhu-ci-simmeni-ccuegghi",
-   "type": "proverb",
-   "original": "Quiddhu ci sìmmeni ccuegghi",
-   "literal_it": "Ciò che semini raccogli",
-   "meaning_it": "Ognuno raccoglie ciò che ha seminato.",
-   "meaning_en": "You reap what you sow.",
-   "usage_context": "conseguenze, impegno",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "megghiu-l-eu-osce-cca-ll-addhina-crai",
-   "type": "proverb",
-   "original": "Mègghiu l'eu osce cca ll'addhina crai",
-   "literal_it": "Meglio l'uovo oggi che la gallina domani",
-   "meaning_it": "Meglio un vantaggio sicuro subito che uno incerto in futuro.",
-   "meaning_en": "Better an egg today than a hen tomorrow.",
-   "usage_context": "decisioni, rilasci incrementali",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-tuttu-ole-nienti-pigghia",
-   "type": "proverb",
-   "original": "Ci tuttu ole, nienti pìgghia",
-   "literal_it": "Chi tutto vuole nulla prende",
-   "meaning_it": "Chi pretende troppo resta a mani vuote.",
-   "meaning_en": "Want everything, get nothing.",
-   "usage_context": "avidità, scope creep",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nu-ppoi-tinire-la-utte-china-e-lla-mugghiere-mbria",
-   "type": "proverb",
-   "original": "Nu ppoi tinire la utte china e lla mugghiere mbriaca",
-   "literal_it": "Non puoi avere la botte piena e la moglie ubriaca",
-   "meaning_it": "Non si può avere tutto; bisogna scegliere.",
-   "meaning_en": "You cannot have a full barrel and a drunk wife.",
-   "usage_context": "trade-off, scelte",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "stenni-lu-pete-pe-cquantu-e-llongu-lu-passu",
-   "type": "proverb",
-   "original": "Stenni lu pete pe cquantu è llongu lu passu",
-   "literal_it": "Stendi il piede quanto è lungo il passo",
-   "meaning_it": "Fai ciò che le tue risorse permettono.",
-   "meaning_en": "Stretch your leg only as far as your stride.",
-   "usage_context": "risorse limitate, budget",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "la-cuta-e-fforte-a-scurciare",
-   "type": "proverb",
-   "original": "La cuta è fforte a scurciare",
-   "literal_it": "La coda è dura da scorticare",
-   "meaning_it": "La parte finale di un lavoro è la più difficile.",
-   "meaning_en": "The tail is the hardest part to skin.",
-   "usage_context": "ultimo 10% di un progetto",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini",
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "lu-purpu-se-coce-cu-ll-acqua-soa-stessa",
-   "type": "proverb",
-   "original": "Lu purpu se coce cu ll'acqua soa stessa",
-   "literal_it": "Il polpo si cuoce nella sua stessa acqua",
-   "meaning_it": "Si impara (o si paga) per i propri errori; certe persone vanno lasciate maturare da sole.",
-   "meaning_en": "The octopus cooks in its own water.",
-   "usage_context": "testardaggine, lasciar sbagliare",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-nu-ffatia-nu-mmangia",
-   "type": "proverb",
-   "original": "Ci nu ffatìa nu mmàngia",
-   "literal_it": "Chi non lavora non mangia",
-   "meaning_it": "Senza lavoro non si guadagna.",
-   "meaning_en": "No work, no food.",
-   "usage_context": "lavoro",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-fatia-pigghia-nna-sarda-ci-nu-ffatia-nna-sarda",
-   "type": "ironic-saying",
-   "original": "Ci fatìa pìgghia nna sarda, ci nu ffatìa nna sarda e mmenza",
-   "literal_it": "Chi lavora prende una sarda, chi non lavora una sarda e mezza",
-   "meaning_it": "Ironia sull'ingiustizia: spesso chi non lavora guadagna di più.",
-   "meaning_en": "Who works gets a sardine, who does not gets one and a half.",
-   "usage_context": "ingiustizia sul lavoro, colleghi fannulloni",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "fatia-te-festa-picca-nde-resta",
-   "type": "proverb",
-   "original": "Fatìa te festa, picca nde resta",
-   "literal_it": "Lavoro di festa, poco ne resta",
-   "meaning_it": "Il lavoro fatto nei giorni di festa rende poco.",
-   "meaning_en": "Work done on holidays yields little.",
-   "usage_context": "straordinari, weekend di lavoro",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ogne-ffatia-se-mmereta-nnu-cumpensu",
-   "type": "proverb",
-   "original": "Ogne ffatìa se mmèreta nnu cumpensu",
-   "literal_it": "Ogni lavoro merita un compenso",
-   "meaning_it": "Il lavoro va pagato.",
-   "meaning_en": "Every job deserves its pay.",
-   "usage_context": "lavoro, compensi",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-llaa-la-capu-allu-puercu-nci-perde-rannu-e-ffat",
-   "type": "proverb",
-   "original": "Ci llaa la capu allu puercu, nci perde rannu e ffatìa",
-   "literal_it": "Chi lava la testa al maiale ci perde ranno e fatica",
-   "meaning_it": "È inutile sprecare sforzi con chi non vuole capire.",
-   "meaning_en": "Wash a pig's head and you waste soap and effort.",
-   "usage_context": "colleghi che non ascoltano, inutili spiegazioni",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-face-e-sface-nu-pperde-mai-tiempu",
-   "type": "proverb",
-   "original": "Ci face e sface nu pperde mai tiempu",
-   "literal_it": "Chi fa e disfa non perde mai tempo",
-   "meaning_it": "Chi rifà continuamente è sempre occupato (anche ironicamente).",
-   "meaning_en": "Who does and undoes never wastes time.",
-   "usage_context": "refactoring infinito, ironia",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nu-nc-ete-rosa-senza-spine-nu-nc-ete-omu-senza-uai",
-   "type": "proverb",
-   "original": "Nu nc'ete rosa senza spine, nu nc'ete omu senza uài",
-   "literal_it": "Non c'è rosa senza spine, non c'è uomo senza guai",
-   "meaning_it": "Tutti hanno i loro problemi.",
-   "meaning_en": "No rose without thorns, no man without troubles.",
-   "usage_context": "consolazione, giornata storta",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "monte-cu-mmonte-nu-sse-ncontra-mai-omu-cu-omu-ci-n",
-   "type": "proverb",
-   "original": "Monte cu mmonte nu sse ncontra mai, omu cu omu ci nu osce crai",
-   "literal_it": "Monte con monte non s'incontra mai, uomo con uomo se non oggi domani",
-   "meaning_it": "Prima o poi le persone si rincontrano (e il bene o il male si ricambia).",
-   "meaning_en": "Mountains never meet, but people do, if not today then tomorrow.",
-   "usage_context": "vendetta, karma, colleghi",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "lu-lupu-perde-lu-pilu-filu-lu-izziu",
-   "type": "proverb",
-   "original": "Lu lupu perde lu pilu, filu lu ìzziu",
-   "literal_it": "Il lupo perde il pelo, non il vizio",
-   "meaning_it": "Le abitudini non cambiano.",
-   "meaning_en": "The wolf loses its fur, not its vice.",
-   "usage_context": "persone che ricadono negli stessi errori",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-nasce-ciucciu-nu-ppote-murire-cavaddhu",
-   "type": "proverb",
-   "original": "Ci nasce ciucciu nu ppote murire cavaddhu",
-   "literal_it": "Chi nasce asino non può morire cavallo",
-   "meaning_it": "La natura di una persona non cambia.",
-   "meaning_en": "Born a donkey, you cannot die a horse.",
-   "usage_context": "carattere, sarcasmo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "quandu-lu-ciucciu-nu-mbole-bia-mmacari-ca-fischi",
-   "type": "proverb",
-   "original": "Quandu lu ciùcciu nu mbole bia, mmacari ca fischi",
-   "variants": [
-    "Quannu lu ciucciu nu mbole cu mbie, magari ca fischi"
-   ],
-   "literal_it": "Quando l'asino non vuole bere, è inutile fischiare",
-   "meaning_it": "Con chi si ostina è inutile insistere.",
-   "meaning_en": "When the donkey will not drink, whistling is useless.",
-   "usage_context": "testardaggine, colleghi ostinati",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario",
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ttacca-lu-ciucciu-a-ddu-ole-lu-patrunu",
-   "type": "proverb",
-   "original": "Ttacca lu ciùcciu a ddu ole lu patrunu",
-   "literal_it": "Lega l'asino dove vuole il padrone",
-   "meaning_it": "Fai quello che ti chiede chi comanda (anche se non sei d'accordo).",
-   "meaning_en": "Tie the donkey where the master wants.",
-   "usage_context": "requisiti assurdi del cliente/capo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario",
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ragghiu-de-ciucciu-nu-rria-a-ncelu",
-   "type": "proverb",
-   "original": "Ràgghiu de ciùcciu nu rria a ncelu",
-   "literal_it": "Raglio d'asino non arriva in cielo",
-   "meaning_it": "Le parole degli sciocchi non contano.",
-   "meaning_en": "A donkey's bray does not reach heaven.",
-   "usage_context": "critiche infondate, troll",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "lu-oi-chiama-lu-ciucciu-curnutu",
-   "type": "proverb",
-   "original": "Lu oi chiama lu ciùcciu curnutu",
-   "variants": [
-    "Lu oi chiama curnutu lu ciammarrucu"
-   ],
-   "literal_it": "Il bue chiama cornuto l'asino",
-   "meaning_it": "Chi critica gli altri per i difetti che ha lui stesso.",
-   "meaning_en": "The ox calls the donkey a cuckold (pot calling the kettle black).",
-   "usage_context": "ipocrisia",
-   "register": "popular",
-   "vulgarity": 1,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-pecura-se-face-lu-lupu-se-la-mangia",
-   "type": "proverb",
-   "original": "Ci pècura se face, lu lupu se la màngia",
-   "literal_it": "Chi si fa pecora, il lupo se la mangia",
-   "meaning_it": "Chi è troppo remissivo viene sopraffatto.",
-   "meaning_en": "Make yourself a sheep and the wolf will eat you.",
-   "usage_context": "farsi rispettare",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "quannu-lu-tiaulu-te-ncarizza-l-anima-toa-ole",
-   "type": "proverb",
-   "original": "Quannu lu tiàulu te ncarizza l'ànima toa ole",
-   "literal_it": "Quando il diavolo ti accarezza vuole la tua anima",
-   "meaning_it": "Diffida di chi diventa gentile all'improvviso.",
-   "meaning_en": "When the devil caresses you, he wants your soul.",
-   "usage_context": "diffidenza",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "te-lu-iabbu-nu-nci-mueri-ma-cci-ccappi",
-   "type": "proverb",
-   "original": "Te lu iabbu nu nci mueri ma cci ccappi",
-   "literal_it": "Della presa in giro non muori, ma ci incappi",
-   "meaning_it": "Chi deride le disgrazie altrui finisce per subirle.",
-   "meaning_en": "Mockery won't kill you, but you will fall into the same trouble.",
-   "usage_context": "non deridere gli altri",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-sputi-ncielu-a-nfacce-te-cate",
-   "type": "proverb",
-   "original": "Ci sputi 'ncielu a 'nfacce te cate",
-   "literal_it": "Se sputi in cielo ti ricade in faccia",
-   "meaning_it": "Il disprezzo ti si ritorce contro.",
-   "meaning_en": "Spit at the sky and it falls back on your face.",
-   "usage_context": "arroganza",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nde-ccite-cchiui-la-lingua-cca-lla-spata",
-   "type": "proverb",
-   "original": "Nde ccite cchiùi la lìngua cca lla spata",
-   "literal_it": "Ne uccide più la lingua che la spada",
-   "meaning_it": "Le parole fanno più danni delle armi.",
-   "meaning_en": "The tongue kills more than the sword.",
-   "usage_context": "pettegolezzo, conflitti",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ale-cchiui-nnu-tristu-ncordu-cca-nna-bona-lite",
-   "type": "proverb",
-   "original": "Ale cchiùi nnu tristu ncordu cca nna bona lite",
-   "literal_it": "Vale più un cattivo accordo che una buona lite",
-   "meaning_it": "Meglio un compromesso che una causa.",
-   "meaning_en": "A bad agreement is worth more than a good lawsuit.",
-   "usage_context": "conflitti, negoziazione",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "lu-busciardu-a-ttenire-bona-memoria",
-   "type": "proverb",
-   "original": "Lu busciardu à ttenìre bona memòria",
-   "literal_it": "Il bugiardo deve avere buona memoria",
-   "meaning_it": "Chi mente deve ricordarsi le proprie bugie.",
-   "meaning_en": "A liar needs a good memory.",
-   "usage_context": "bugie",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "luntanu-de-l-ecchiu-luntanu-te-lu-core",
-   "type": "proverb",
-   "original": "Luntanu de l'ecchiu, luntanu te lu core",
-   "literal_it": "Lontano dagli occhi, lontano dal cuore",
-   "meaning_it": "La distanza raffredda i sentimenti.",
-   "meaning_en": "Out of sight, out of mind.",
-   "usage_context": "distanza",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "core-presciatu-nu-ddenta-ecchiu",
-   "type": "proverb",
-   "original": "Core presciatu nu ddenta ecchiu",
-   "literal_it": "Cuore felice non invecchia",
-   "meaning_it": "La gioia mantiene giovani.",
-   "meaning_en": "A happy heart never grows old.",
-   "usage_context": "consolazione, buon umore",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ci-la-morte-ae-crianza-lu-tiempu-ete-galantomu",
-   "type": "proverb",
-   "original": "Ci la morte àe crianza, lu tiempu ete galantomu",
-   "literal_it": "Se la morte ha creanza, il tempo è galantuomo",
-   "meaning_it": "Col tempo la verità e la giustizia vengono a galla.",
-   "meaning_en": "If death is polite, time is a gentleman (truth comes out).",
-   "usage_context": "giustizia, attesa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nna-utata-te-chiai-te-sarva-quantu-ai",
-   "type": "proverb",
-   "original": "Nna utata te chiài te sarva quantu ài",
-   "literal_it": "Un giro di chiave ti salva quanto hai",
-   "meaning_it": "La prudenza protegge i tuoi beni.",
-   "meaning_en": "One turn of the key saves all you have.",
-   "usage_context": "sicurezza, password, backup",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "l-acqua-cita-dopu-nnu-ccertu-tiempu-nfetisce",
-   "type": "proverb",
-   "original": "L'àcqua cita dopu nnu ccertu tiempu nfetisce",
-   "literal_it": "L'acqua ferma dopo un po' imputridisce",
-   "meaning_it": "Ciò che resta fermo si guasta; bisogna rinnovarsi.",
-   "meaning_en": "Still water goes foul after a while.",
-   "usage_context": "stagnazione, aggiornarsi",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "face-cchiu-mmiraculi-nna-utte-te-mieru-ca-nna-chie",
-   "type": "proverb",
-   "original": "Face cchiù mmiràculi nna utte te mieru ca nna chiesa china te santi",
-   "literal_it": "Fa più miracoli una botte di vino che una chiesa piena di santi",
-   "meaning_it": "Il vino (o la convivialità) risolve più di tante preghiere.",
-   "meaning_en": "A barrel of wine works more miracles than a church full of saints.",
-   "usage_context": "umorismo, festa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini",
-    "src-sal-wikiquote-proverbi-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "le-astime-su-ccomu-le-fogghie-cinca-le-mina-le-cco",
-   "type": "proverb",
-   "original": "Le astime su' ccomu le fògghie: cinca le mina le ccògghie",
-   "literal_it": "Le bestemmie sono come le foglie: chi le getta le raccoglie",
-   "meaning_it": "Le maledizioni ricadono su chi le lancia.",
-   "meaning_en": "Curses are like leaves: whoever throws them picks them up again.",
-   "usage_context": "moderare il linguaggio",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "allu-squagghiare-te-la-nie-parenu-li-strunzi",
-   "type": "proverb",
-   "original": "Allu squagghiare te la nie pàrenu li strunzi",
-   "variants": [
-    "Allu squagghiare te la nie si iteno li strunzi"
-   ],
-   "literal_it": "Allo sciogliersi della neve si vedono gli stronzi",
-   "meaning_it": "Quando cadono le apparenze emerge la verità (e chi vale poco).",
-   "meaning_en": "When the snow melts, the turds show.",
-   "usage_context": "smascherare qualcuno, post-mortem di un incidente",
-   "register": "vulgar",
-   "vulgarity": 2,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario",
-    "src-sal-wikiquote-proverbi-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "puru-li-strunzi-enenu-a-ggalla",
-   "type": "proverb",
-   "original": "Puru li strunzi ènenu a ggalla",
-   "literal_it": "Anche gli stronzi vengono a galla",
-   "meaning_it": "Anche chi non vale nulla a volte emerge.",
-   "meaning_en": "Even turds float to the surface.",
-   "usage_context": "sarcasmo su promozioni immeritate",
-   "register": "vulgar",
-   "vulgarity": 2,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "quannu-autru-nu-ttei-cu-mmammata-te-curchi",
-   "type": "proverb",
-   "original": "Quannu autru nu ttei cu mmàmmata te curchi",
-   "literal_it": "Quando non hai altro ti corichi con tua madre",
-   "meaning_it": "Quando non ci sono alternative ci si accontenta di ciò che si ha (iperbole volgare).",
-   "meaning_en": "When you have nothing else, you sleep with your mother (crude: make do with what you have).",
-   "usage_context": "accontentarsi; solo tra amici, molto volgare",
-   "register": "very-vulgar",
-   "vulgarity": 4,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "puttana-pe-nna-fava-puttana-pe-nn-ongulu",
-   "type": "proverb",
-   "original": "Puttana pe nna fava, puttana pe nn'òngulu",
-   "literal_it": "Puttana per una fava, puttana per un baccello",
-   "meaning_it": "Se scendi a compromessi per poco, tanto vale per tutto.",
-   "meaning_en": "Whore for a bean, whore for a pod (once compromised, why stop).",
-   "usage_context": "cinismo, volgare",
-   "register": "vulgar",
-   "vulgarity": 3,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "a-casa-bruciata-minti-focu",
-   "type": "proverb",
-   "original": "A casa bruciata minti focu",
-   "literal_it": "A casa bruciata metti fuoco",
-   "meaning_it": "Se il danno è già grande, un problema in più non cambia molto.",
-   "meaning_en": "Set fire to an already burnt house.",
-   "usage_context": "rassegnazione ironica, giornata disastrosa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "te-marisciu-la-cecala-canta-canta-e-ppoi-sciatta",
-   "type": "saying",
-   "original": "Te marisciu la cecala canta, canta e ppoi sciatta",
-   "variants": [
-    "La cecala canta canta e poi schiatta"
-   ],
-   "literal_it": "A mezzogiorno la cicala canta e canta e poi scoppia",
-   "meaning_it": "Chi si sfinisce o si vanta troppo finisce male.",
-   "meaning_en": "At noon the cicada sings and sings, then bursts.",
-   "usage_context": "burnout, vanteria",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario",
-    "src-sal-wikiquote-proverbi-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "mutu-fumu-e-picca-arrustu",
-   "type": "saying",
-   "original": "Mutu fumu e picca arrustu",
-   "literal_it": "Molto fumo e poco arrosto",
-   "meaning_it": "Tante apparenze e poca sostanza.",
-   "meaning_en": "Lots of smoke, little roast.",
-   "usage_context": "marketing, promesse vuote",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "curnutu-vattutu-e-ccacciatu-te-casa",
-   "type": "idiom",
-   "original": "Curnutu, vattutu e ccacciatu te casa",
-   "literal_it": "Cornuto, picchiato e cacciato di casa",
-   "meaning_it": "Oltre al danno, la beffa.",
-   "meaning_en": "Cuckolded, beaten and thrown out of the house: insult added to injury.",
-   "usage_context": "ingiustizie a catena",
-   "register": "vulgar",
-   "vulgarity": 2,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nde-scimme-cu-nna-manu-a-nnanzi-e-una-a-rretu",
-   "type": "idiom",
-   "original": "Nde scimme cu nna manu a nnanzi e una a rretu",
-   "literal_it": "Ce ne andammo con una mano davanti e una dietro",
-   "meaning_it": "Restare senza un soldo.",
-   "meaning_en": "We left with one hand in front and one behind (penniless).",
-   "usage_context": "povertà, fallimento",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "restare-all-urmu",
-   "type": "idiom",
-   "original": "Restare all'urmu",
-   "variants": [
-    "lassare all'urmu"
-   ],
-   "literal_it": "Restare all'olmo",
-   "meaning_it": "Rimanere a bocca asciutta, senza niente.",
-   "meaning_en": "To be left under the elm: empty-handed.",
-   "usage_context": "delusione",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini",
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "stare-a-cciommu",
-   "type": "idiom",
-   "original": "Stare a cciommu",
-   "literal_it": "Stare come l'Ecce Homo",
-   "meaning_it": "Essere ridotto malissimo.",
-   "meaning_en": "To be in a terrible state (like the Ecce Homo).",
-   "usage_context": "stanchezza, sconfitta",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "stare-cchiu-ddhai-ca-quai",
-   "type": "idiom",
-   "original": "Stare cchiù ddhai ca quai",
-   "literal_it": "Stare più di là che di qua",
-   "meaning_it": "Essere in fin di vita (anche iperbolico).",
-   "meaning_en": "To be more over there than here (at death's door).",
-   "usage_context": "iperbole, server morente",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "stare-cu-lla-luna-storta",
-   "type": "idiom",
-   "original": "Stare cu lla luna storta",
-   "literal_it": "Stare con la luna storta",
-   "meaning_it": "Essere di cattivo umore.",
-   "meaning_en": "To be in a foul mood.",
-   "usage_context": "umore",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "tare-nnu-corpu-alla-utte-e-unu-allu-tampagnu",
-   "type": "idiom",
-   "original": "Tare nnu corpu alla utte e unu allu tampagnu",
-   "literal_it": "Dare un colpo alla botte e uno al coperchio",
-   "meaning_it": "Barcamenarsi per accontentare tutti.",
-   "meaning_en": "Hit the barrel once and the lid once (keep everyone happy).",
-   "usage_context": "diplomazia",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ttaccare-bbuttune",
-   "type": "idiom",
-   "original": "Ttaccare bbuttune",
-   "literal_it": "Attaccare bottone",
-   "meaning_it": "Mettersi a parlare a lungo annoiando.",
-   "meaning_en": "To buttonhole someone with endless talk.",
-   "usage_context": "colleghi logorroici, meeting",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "ucca-te-furnu",
-   "type": "metaphor",
-   "original": "Ucca te furnu",
-   "literal_it": "Bocca di forno",
-   "meaning_it": "Persona che mangia tantissimo.",
-   "meaning_en": "Oven mouth: a big eater.",
-   "usage_context": "umorismo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "bbascia-l-ali",
-   "type": "idiom",
-   "original": "Bbascia l'ali",
-   "literal_it": "Abbassa le ali",
-   "meaning_it": "Smettila con la superbia.",
-   "meaning_en": "Lower your wings (stop being arrogant).",
-   "usage_context": "arroganza",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "canusciutu-comu-lu-sette-te-danari",
-   "type": "idiom",
-   "original": "Canusciutu comu lu sette te danari",
-   "literal_it": "Conosciuto come il sette di denari",
-   "meaning_it": "Notissimo a tutti.",
-   "meaning_en": "Known like the seven of coins: famous.",
-   "usage_context": "fama",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nu-ffischia",
-   "type": "idiom",
-   "original": "Nu ffischia",
-   "literal_it": "Non fischia",
-   "meaning_it": "Detto di chi è impotente o di chi non sa fare bene il proprio lavoro.",
-   "meaning_en": "\"He doesn't whistle\": impotent, or useless at the job.",
-   "usage_context": "presa in giro, volgare allusivo",
-   "register": "vulgar",
-   "vulgarity": 2,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "rriccojere-cu-llu-cucchiarinu",
-   "type": "idiom",
-   "original": "Rriccòjere cu llu cucchiarinu",
-   "literal_it": "Raccogliere col cucchiaino",
-   "meaning_it": "Si dice di chi è a pezzi e va aiutato a rimettersi in piedi.",
-   "meaning_en": "To scrape someone up with a teaspoon.",
-   "usage_context": "stanchezza estrema, dopo un rilascio",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "fare-casa-e-putea",
-   "type": "idiom",
-   "original": "Fare casa e putea",
-   "literal_it": "Fare casa e bottega",
-   "meaning_it": "Pensare solo a famiglia e lavoro; vivere dove si lavora.",
-   "meaning_en": "To do home and shop: live for family and work.",
-   "usage_context": "vita dedita al lavoro",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario",
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "tenire-la-lucerta-cu-ddo-cute",
-   "type": "idiom",
-   "original": "Tenìre la lucerta cu ddo' cute",
-   "literal_it": "Avere la lucertola con due code",
-   "meaning_it": "Essere fortunatissimo.",
-   "meaning_en": "To own the two-tailed lizard: to be very lucky.",
-   "usage_context": "fortuna",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "fare-ccordu-cu-llu-diaulu",
-   "type": "idiom",
-   "original": "Fare ccordu cu llu diàulu",
-   "literal_it": "Fare un accordo col diavolo",
-   "meaning_it": "Avere una fortuna sfacciata.",
-   "meaning_en": "To have made a pact with the devil: shamelessly lucky.",
-   "usage_context": "fortuna sospetta, test che passano per miracolo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "stare-comu-lu-tiaulu-e-ll-acqua-santa",
-   "type": "idiom",
-   "original": "Stare comu lu tiàulu e ll'àcqua santa",
-   "literal_it": "Stare come il diavolo e l'acqua santa",
-   "meaning_it": "Essere in totale disaccordo.",
-   "meaning_en": "To get on like the devil and holy water.",
-   "usage_context": "incompatibilità",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "musciare-nnu-ciucciu-ca-ola",
-   "type": "idiom",
-   "original": "Musciare nnu ciùcciu ca ola",
-   "literal_it": "Mostrare un asino che vola",
-   "meaning_it": "Far credere l'impossibile a un credulone.",
-   "meaning_en": "To show someone a flying donkey.",
-   "usage_context": "truffe, promesse irrealistiche",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "spetta-lu-culummu-na-ca-moi-te-cate-a-mmucca",
-   "type": "ironic-saying",
-   "original": "Spètta lu culummu, na, ca moi te cate a mmucca",
-   "literal_it": "Aspetta il fiorone, ecco, che ora ti cade in bocca",
-   "meaning_it": "È inutile aspettare passivamente: non succederà.",
-   "meaning_en": "Wait for the fig, it will drop right into your mouth (it won't).",
-   "usage_context": "passività, sarcasmo",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "mintere-muta-carne-a-ccocere",
-   "type": "idiom",
-   "original": "Mìntere muta carne a ccòcere",
-   "literal_it": "Mettere molta carne a cuocere",
-   "meaning_it": "Proporre o iniziare troppe cose insieme.",
-   "meaning_en": "To put too much meat on to cook: too many irons in the fire.",
-   "usage_context": "troppi task paralleli",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "carrecare-de-mazzate",
-   "type": "idiom",
-   "original": "Carrecare de mazzate",
-   "literal_it": "Caricare di botte",
-   "meaning_it": "Picchiare di santa ragione.",
-   "meaning_en": "To give someone a sound thrashing.",
-   "usage_context": "iperbole, minaccia scherzosa",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "tenire-lu-stomecu-te-struzzu",
-   "type": "idiom",
-   "original": "Tenìre lu stòmecu te struzzu",
-   "literal_it": "Avere lo stomaco di struzzo",
-   "meaning_it": "Digerire tutto, accettare qualunque cosa.",
-   "meaning_en": "To have an ostrich stomach: put up with anything.",
-   "usage_context": "pazienza estrema",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "fetere-lu-mustazzu",
-   "type": "idiom",
-   "original": "Fètere lu mustazzu",
-   "literal_it": "Puzzare il baffo",
-   "meaning_it": "Non farsi passare una mosca sotto il naso; essere permaloso.",
-   "meaning_en": "To be touchy, let nothing slide.",
-   "usage_context": "permalosità",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "nu-ire-facce",
-   "type": "idiom",
-   "original": "Nu ìre facce",
-   "literal_it": "Non avere faccia",
-   "meaning_it": "Vergognarsi.",
-   "meaning_en": "Not to have the face (to be ashamed).",
-   "usage_context": "vergogna",
-   "register": "popular",
-   "vulgarity": 0,
-   "geographical_area": "Lecce (Salentino centrale)",
-   "sources": [
-    "src-sal-garrisi-dizionario"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  },
-  {
-   "id": "cangiare-l-acqua-all-aceddhu",
-   "type": "idiom",
-   "original": "Cangiare l'acqua all'aceddhu",
-   "literal_it": "Cambiare l'acqua all'uccello",
-   "meaning_it": "Modo pudico per dire urinare.",
-   "meaning_en": "To change the bird's water (to pee).",
-   "usage_context": "eufemismo scherzoso",
-   "register": "familiar",
-   "vulgarity": 1,
-   "geographical_area": "Salento (central-southern forms, as given by the source)",
-   "sources": [
-    "src-sal-wikipedia-it-dialetti-salentini"
-   ],
-   "provenance": "attested",
-   "verification_status": "source-checked"
-  }
- ]
+  "dialect": "mena",
+  "entries": [
+    {
+      "id": "ci-ae-a-cchianu-ae-sanu-e-bae-luntanu",
+      "type": "proverb",
+      "original": "Ci ae a cchianu, ae sanu e bae luntanu",
+      "variants": [
+        "Ci ae a cchianu, ae luntanu e rria sanu"
+      ],
+      "literal_it": "Chi va piano va sano e va lontano",
+      "meaning_it": "Andare con calma porta lontano e senza danni.",
+      "meaning_en": "Slow and steady goes far and safely.",
+      "usage_context": "fretta, rilasci affrettati, consigli di metodo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-pressa-face-nascere-li-musciceddhi-cecati",
+      "type": "proverb",
+      "original": "La pressa face nàscere li musciceddhi cecati",
+      "literal_it": "La fretta fa nascere i gattini ciechi",
+      "meaning_it": "La fretta produce lavori difettosi.",
+      "meaning_en": "Haste makes blind kittens: rushed work comes out flawed.",
+      "usage_context": "fretta, codice scritto di corsa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Salentine counterpart of \"la gatta frettolosa fa i gattini ciechi\"."
+    },
+    {
+      "id": "ci-ae-mpressa-ttoppa-e-ccate-nterra",
+      "type": "proverb",
+      "original": "Ci ae mpressa, ttoppa e ccate nterra",
+      "literal_it": "Chi va in fretta inciampa e cade a terra",
+      "meaning_it": "Chi corre troppo finisce per cadere.",
+      "meaning_en": "Whoever rushes trips and falls.",
+      "usage_context": "fretta",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-scarra-te-pressa-chiange-a-llengu",
+      "type": "proverb",
+      "original": "Ci scarra te pressa, chiange a llengu",
+      "literal_it": "Chi sbaglia in fretta piange a lungo",
+      "meaning_it": "Un errore fatto di corsa si paga per molto tempo.",
+      "meaning_en": "A mistake made in haste is regretted for a long time.",
+      "usage_context": "fretta, scelte sbagliate, deploy di venerdì",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-llu-tiempu-e-lla-pacenzia-se-maturanu-le-custio",
+      "type": "proverb",
+      "original": "Cu llu tiempu e lla pacènzia se matùranu le custioni",
+      "literal_it": "Col tempo e la pazienza maturano le questioni",
+      "meaning_it": "I problemi si risolvono con tempo e pazienza.",
+      "meaning_en": "Time and patience settle every question.",
+      "usage_context": "pazienza, problemi lunghi",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-llu-tiempu-e-ccu-lla-pagghia-se-mmaturanu-le-me",
+      "type": "proverb",
+      "original": "Cu llu tiempu e ccu lla pàgghia se mmatùranu le meddhe",
+      "literal_it": "Col tempo e con la paglia maturano le nespole",
+      "meaning_it": "Ogni cosa ha bisogno del suo tempo.",
+      "meaning_en": "With time and straw the medlars ripen.",
+      "usage_context": "pazienza",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variant of the Italian proverb about medlars."
+    },
+    {
+      "id": "la-pacenzia-ete-nna-bona-erva-ma-nu-ccrisce-intra",
+      "type": "proverb",
+      "original": "La pacènzia ete nna bona erva, ma nu ccrisce intra a ttutte le sciardine",
+      "literal_it": "La pazienza è una buona erba, ma non cresce in tutti gli orti",
+      "meaning_it": "La pazienza è una virtù, ma non tutti ce l'hanno.",
+      "meaning_en": "Patience is a good herb, but it does not grow in every garden.",
+      "usage_context": "pazienza, colleghi irritanti",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quandu-la-pira-ete-matura-cate-sula",
+      "type": "proverb",
+      "original": "Quandu la pira ete matura, cate sula",
+      "literal_it": "Quando la pera è matura cade da sola",
+      "meaning_it": "Le cose arrivano quando è il momento: inutile forzarle.",
+      "meaning_en": "When the pear is ripe it falls by itself.",
+      "usage_context": "pazienza, attesa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-tene-tiempu-cu-nnu-spetta-tiempu",
+      "type": "proverb",
+      "original": "Ci tene tiempu, cu nnu spetta tiempu",
+      "literal_it": "Chi ha tempo non aspetti tempo",
+      "meaning_it": "Se puoi fare una cosa ora, non rimandarla.",
+      "meaning_en": "If you have time, do not wait for more time.",
+      "usage_context": "procrastinazione",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbatti-lu-fierru-quannu-e-ccautu",
+      "type": "proverb",
+      "original": "Bbatti lu fierru quannu è ccautu",
+      "literal_it": "Batti il ferro quando è caldo",
+      "meaning_it": "Agisci al momento giusto, senza lasciare in sospeso.",
+      "meaning_en": "Strike while the iron is hot.",
+      "usage_context": "opportunità",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spagliandu-se-mpara",
+      "type": "proverb",
+      "original": "Spagliandu se mpara",
+      "literal_it": "Sbagliando si impara",
+      "meaning_it": "Gli errori insegnano.",
+      "meaning_en": "You learn by making mistakes.",
+      "usage_context": "errore, incoraggiamento",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-nu-nde-faci-nu-nde-spagli",
+      "type": "proverb",
+      "original": "Ci nu nde faci nu nde spagli",
+      "literal_it": "Chi non ne fa non ne sbaglia",
+      "meaning_it": "Sbaglia solo chi agisce.",
+      "meaning_en": "Only those who do nothing make no mistakes.",
+      "usage_context": "errore, incoraggiamento",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-fare-mpara-a-ffare",
+      "type": "proverb",
+      "original": "Lu fare mpara a ffare",
+      "literal_it": "Il fare insegna a fare",
+      "meaning_it": "Si impara facendo.",
+      "meaning_en": "Doing teaches you how to do.",
+      "usage_context": "imparare, pratica, crescita professionale",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-faci-cce-nnu-a-ffare-te-succete-cce-nnu-ccriti",
+      "type": "proverb",
+      "original": "Ci faci cce nnu à' ffare, te succete cce nnu ccriti",
+      "literal_it": "Se fai ciò che non devi fare, ti succede ciò che non credi",
+      "meaning_it": "Le azioni sbagliate hanno conseguenze impreviste.",
+      "meaning_en": "Do what you should not and the unexpected happens to you.",
+      "usage_context": "avvertimento, scelte sbagliate",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-llassa-la-strada-ecchia-pe-lla-noa-sape-cce-lla",
+      "type": "proverb",
+      "original": "Ci llassa la strada ecchia pe lla noa, sape cce llassa ma nu ssape cce ttroa",
+      "literal_it": "Chi lascia la strada vecchia per la nuova sa cosa lascia ma non sa cosa trova",
+      "meaning_it": "Cambiare comporta incognite.",
+      "meaning_en": "Whoever leaves the old road for the new knows what he leaves but not what he finds.",
+      "usage_context": "scelte, migrazioni tecnologiche, cambiare lavoro",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cunsigghiu-de-ecchiu-e-iutu-de-gioane",
+      "type": "proverb",
+      "original": "Cunsìgghiu de ecchiu e iutu de giòane",
+      "literal_it": "Consiglio di vecchio e aiuto di giovane",
+      "meaning_it": "L'esperienza degli anziani e l'energia dei giovani vanno unite.",
+      "meaning_en": "An old man's advice and a young man's help.",
+      "usage_context": "consiglio, mentoring",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-simmena-ientu-ccogghie-maletiempu",
+      "type": "proverb",
+      "original": "Ci sìmmena ientu, ccògghie maletiempu",
+      "literal_it": "Chi semina vento raccoglie maltempo",
+      "meaning_it": "Chi provoca guai ne raccoglie di peggiori.",
+      "meaning_en": "Sow wind, reap storm.",
+      "usage_context": "conseguenze",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quiddhu-ci-simmeni-ccuegghi",
+      "type": "proverb",
+      "original": "Quiddhu ci sìmmeni ccuegghi",
+      "literal_it": "Ciò che semini raccogli",
+      "meaning_it": "Ognuno raccoglie ciò che ha seminato.",
+      "meaning_en": "You reap what you sow.",
+      "usage_context": "conseguenze, impegno",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "megghiu-l-eu-osce-cca-ll-addhina-crai",
+      "type": "proverb",
+      "original": "Mègghiu l'eu osce cca ll'addhina crai",
+      "literal_it": "Meglio l'uovo oggi che la gallina domani",
+      "meaning_it": "Meglio un vantaggio sicuro subito che uno incerto in futuro.",
+      "meaning_en": "Better an egg today than a hen tomorrow.",
+      "usage_context": "decisioni, rilasci incrementali",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-tuttu-ole-nienti-pigghia",
+      "type": "proverb",
+      "original": "Ci tuttu ole, nienti pìgghia",
+      "literal_it": "Chi tutto vuole nulla prende",
+      "meaning_it": "Chi pretende troppo resta a mani vuote.",
+      "meaning_en": "Want everything, get nothing.",
+      "usage_context": "avidità, scope creep",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-ppoi-tinire-la-utte-china-e-lla-mugghiere-mbria",
+      "type": "proverb",
+      "original": "Nu ppoi tinire la utte china e lla mugghiere mbriaca",
+      "literal_it": "Non puoi avere la botte piena e la moglie ubriaca",
+      "meaning_it": "Non si può avere tutto; bisogna scegliere.",
+      "meaning_en": "You cannot have a full barrel and a drunk wife.",
+      "usage_context": "trade-off, scelte",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stenni-lu-pete-pe-cquantu-e-llongu-lu-passu",
+      "type": "proverb",
+      "original": "Stenni lu pete pe cquantu è llongu lu passu",
+      "literal_it": "Stendi il piede quanto è lungo il passo",
+      "meaning_it": "Fai ciò che le tue risorse permettono.",
+      "meaning_en": "Stretch your leg only as far as your stride.",
+      "usage_context": "risorse limitate, budget",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-cuta-e-fforte-a-scurciare",
+      "type": "proverb",
+      "original": "La cuta è fforte a scurciare",
+      "literal_it": "La coda è dura da scorticare",
+      "meaning_it": "La parte finale di un lavoro è la più difficile.",
+      "meaning_en": "The tail is the hardest part to skin.",
+      "usage_context": "ultimo 10% di un progetto",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini",
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-purpu-se-coce-cu-ll-acqua-soa-stessa",
+      "type": "proverb",
+      "original": "Lu purpu se coce cu ll'acqua soa stessa",
+      "literal_it": "Il polpo si cuoce nella sua stessa acqua",
+      "meaning_it": "Si impara (o si paga) per i propri errori; certe persone vanno lasciate maturare da sole.",
+      "meaning_en": "The octopus cooks in its own water.",
+      "usage_context": "testardaggine, lasciar sbagliare",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-nu-ffatia-nu-mmangia",
+      "type": "proverb",
+      "original": "Ci nu ffatìa nu mmàngia",
+      "literal_it": "Chi non lavora non mangia",
+      "meaning_it": "Senza lavoro non si guadagna.",
+      "meaning_en": "No work, no food.",
+      "usage_context": "lavoro",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-fatia-pigghia-nna-sarda-ci-nu-ffatia-nna-sarda",
+      "type": "ironic-saying",
+      "original": "Ci fatìa pìgghia nna sarda, ci nu ffatìa nna sarda e mmenza",
+      "literal_it": "Chi lavora prende una sarda, chi non lavora una sarda e mezza",
+      "meaning_it": "Ironia sull'ingiustizia: spesso chi non lavora guadagna di più.",
+      "meaning_en": "Who works gets a sardine, who does not gets one and a half.",
+      "usage_context": "ingiustizia sul lavoro, colleghi fannulloni",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fatia-te-festa-picca-nde-resta",
+      "type": "proverb",
+      "original": "Fatìa te festa, picca nde resta",
+      "literal_it": "Lavoro di festa, poco ne resta",
+      "meaning_it": "Il lavoro fatto nei giorni di festa rende poco.",
+      "meaning_en": "Work done on holidays yields little.",
+      "usage_context": "straordinari, weekend di lavoro",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ogne-ffatia-se-mmereta-nnu-cumpensu",
+      "type": "proverb",
+      "original": "Ogne ffatìa se mmèreta nnu cumpensu",
+      "literal_it": "Ogni lavoro merita un compenso",
+      "meaning_it": "Il lavoro va pagato.",
+      "meaning_en": "Every job deserves its pay.",
+      "usage_context": "lavoro, compensi",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-llaa-la-capu-allu-puercu-nci-perde-rannu-e-ffat",
+      "type": "proverb",
+      "original": "Ci llaa la capu allu puercu, nci perde rannu e ffatìa",
+      "literal_it": "Chi lava la testa al maiale ci perde ranno e fatica",
+      "meaning_it": "È inutile sprecare sforzi con chi non vuole capire.",
+      "meaning_en": "Wash a pig's head and you waste soap and effort.",
+      "usage_context": "colleghi che non ascoltano, inutili spiegazioni",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-face-e-sface-nu-pperde-mai-tiempu",
+      "type": "proverb",
+      "original": "Ci face e sface nu pperde mai tiempu",
+      "literal_it": "Chi fa e disfa non perde mai tempo",
+      "meaning_it": "Chi rifà continuamente è sempre occupato (anche ironicamente).",
+      "meaning_en": "Who does and undoes never wastes time.",
+      "usage_context": "refactoring infinito, ironia",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-nc-ete-rosa-senza-spine-nu-nc-ete-omu-senza-uai",
+      "type": "proverb",
+      "original": "Nu nc'ete rosa senza spine, nu nc'ete omu senza uài",
+      "literal_it": "Non c'è rosa senza spine, non c'è uomo senza guai",
+      "meaning_it": "Tutti hanno i loro problemi.",
+      "meaning_en": "No rose without thorns, no man without troubles.",
+      "usage_context": "consolazione, giornata storta",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "monte-cu-mmonte-nu-sse-ncontra-mai-omu-cu-omu-ci-n",
+      "type": "proverb",
+      "original": "Monte cu mmonte nu sse ncontra mai, omu cu omu ci nu osce crai",
+      "literal_it": "Monte con monte non s'incontra mai, uomo con uomo se non oggi domani",
+      "meaning_it": "Prima o poi le persone si rincontrano (e il bene o il male si ricambia).",
+      "meaning_en": "Mountains never meet, but people do, if not today then tomorrow.",
+      "usage_context": "vendetta, karma, colleghi",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-lupu-perde-lu-pilu-filu-lu-izziu",
+      "type": "proverb",
+      "original": "Lu lupu perde lu pilu, filu lu ìzziu",
+      "literal_it": "Il lupo perde il pelo, non il vizio",
+      "meaning_it": "Le abitudini non cambiano.",
+      "meaning_en": "The wolf loses its fur, not its vice.",
+      "usage_context": "persone che ricadono negli stessi errori",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-nasce-ciucciu-nu-ppote-murire-cavaddhu",
+      "type": "proverb",
+      "original": "Ci nasce ciucciu nu ppote murire cavaddhu",
+      "literal_it": "Chi nasce asino non può morire cavallo",
+      "meaning_it": "La natura di una persona non cambia.",
+      "meaning_en": "Born a donkey, you cannot die a horse.",
+      "usage_context": "carattere, sarcasmo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quandu-lu-ciucciu-nu-mbole-bia-mmacari-ca-fischi",
+      "type": "proverb",
+      "original": "Quandu lu ciùcciu nu mbole bia, mmacari ca fischi",
+      "variants": [
+        "Quannu lu ciucciu nu mbole cu mbie, magari ca fischi"
+      ],
+      "literal_it": "Quando l'asino non vuole bere, è inutile fischiare",
+      "meaning_it": "Con chi si ostina è inutile insistere.",
+      "meaning_en": "When the donkey will not drink, whistling is useless.",
+      "usage_context": "testardaggine, colleghi ostinati",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario",
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ttacca-lu-ciucciu-a-ddu-ole-lu-patrunu",
+      "type": "proverb",
+      "original": "Ttacca lu ciùcciu a ddu ole lu patrunu",
+      "literal_it": "Lega l'asino dove vuole il padrone",
+      "meaning_it": "Fai quello che ti chiede chi comanda (anche se non sei d'accordo).",
+      "meaning_en": "Tie the donkey where the master wants.",
+      "usage_context": "requisiti assurdi del cliente/capo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario",
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ragghiu-de-ciucciu-nu-rria-a-ncelu",
+      "type": "proverb",
+      "original": "Ràgghiu de ciùcciu nu rria a ncelu",
+      "literal_it": "Raglio d'asino non arriva in cielo",
+      "meaning_it": "Le parole degli sciocchi non contano.",
+      "meaning_en": "A donkey's bray does not reach heaven.",
+      "usage_context": "critiche infondate, troll",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-oi-chiama-lu-ciucciu-curnutu",
+      "type": "proverb",
+      "original": "Lu oi chiama lu ciùcciu curnutu",
+      "variants": [
+        "Lu oi chiama curnutu lu ciammarrucu"
+      ],
+      "literal_it": "Il bue chiama cornuto l'asino",
+      "meaning_it": "Chi critica gli altri per i difetti che ha lui stesso.",
+      "meaning_en": "The ox calls the donkey a cuckold (pot calling the kettle black).",
+      "usage_context": "ipocrisia",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-pecura-se-face-lu-lupu-se-la-mangia",
+      "type": "proverb",
+      "original": "Ci pècura se face, lu lupu se la màngia",
+      "literal_it": "Chi si fa pecora, il lupo se la mangia",
+      "meaning_it": "Chi è troppo remissivo viene sopraffatto.",
+      "meaning_en": "Make yourself a sheep and the wolf will eat you.",
+      "usage_context": "farsi rispettare",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quannu-lu-tiaulu-te-ncarizza-l-anima-toa-ole",
+      "type": "proverb",
+      "original": "Quannu lu tiàulu te ncarizza l'ànima toa ole",
+      "literal_it": "Quando il diavolo ti accarezza vuole la tua anima",
+      "meaning_it": "Diffida di chi diventa gentile all'improvviso.",
+      "meaning_en": "When the devil caresses you, he wants your soul.",
+      "usage_context": "diffidenza",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-lu-iabbu-nu-nci-mueri-ma-cci-ccappi",
+      "type": "proverb",
+      "original": "Te lu iabbu nu nci mueri ma cci ccappi",
+      "literal_it": "Della presa in giro non muori, ma ci incappi",
+      "meaning_it": "Chi deride le disgrazie altrui finisce per subirle.",
+      "meaning_en": "Mockery won't kill you, but you will fall into the same trouble.",
+      "usage_context": "non deridere gli altri",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-sputi-ncielu-a-nfacce-te-cate",
+      "type": "proverb",
+      "original": "Ci sputi 'ncielu a 'nfacce te cate",
+      "literal_it": "Se sputi in cielo ti ricade in faccia",
+      "meaning_it": "Il disprezzo ti si ritorce contro.",
+      "meaning_en": "Spit at the sky and it falls back on your face.",
+      "usage_context": "arroganza",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nde-ccite-cchiui-la-lingua-cca-lla-spata",
+      "type": "proverb",
+      "original": "Nde ccite cchiùi la lìngua cca lla spata",
+      "literal_it": "Ne uccide più la lingua che la spada",
+      "meaning_it": "Le parole fanno più danni delle armi.",
+      "meaning_en": "The tongue kills more than the sword.",
+      "usage_context": "pettegolezzo, conflitti",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ale-cchiui-nnu-tristu-ncordu-cca-nna-bona-lite",
+      "type": "proverb",
+      "original": "Ale cchiùi nnu tristu ncordu cca nna bona lite",
+      "literal_it": "Vale più un cattivo accordo che una buona lite",
+      "meaning_it": "Meglio un compromesso che una causa.",
+      "meaning_en": "A bad agreement is worth more than a good lawsuit.",
+      "usage_context": "conflitti, negoziazione",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-busciardu-a-ttenire-bona-memoria",
+      "type": "proverb",
+      "original": "Lu busciardu à ttenìre bona memòria",
+      "literal_it": "Il bugiardo deve avere buona memoria",
+      "meaning_it": "Chi mente deve ricordarsi le proprie bugie.",
+      "meaning_en": "A liar needs a good memory.",
+      "usage_context": "bugie",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "luntanu-de-l-ecchiu-luntanu-te-lu-core",
+      "type": "proverb",
+      "original": "Luntanu de l'ecchiu, luntanu te lu core",
+      "literal_it": "Lontano dagli occhi, lontano dal cuore",
+      "meaning_it": "La distanza raffredda i sentimenti.",
+      "meaning_en": "Out of sight, out of mind.",
+      "usage_context": "distanza",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "core-presciatu-nu-ddenta-ecchiu",
+      "type": "proverb",
+      "original": "Core presciatu nu ddenta ecchiu",
+      "literal_it": "Cuore felice non invecchia",
+      "meaning_it": "La gioia mantiene giovani.",
+      "meaning_en": "A happy heart never grows old.",
+      "usage_context": "consolazione, buon umore",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ci-la-morte-ae-crianza-lu-tiempu-ete-galantomu",
+      "type": "proverb",
+      "original": "Ci la morte àe crianza, lu tiempu ete galantomu",
+      "literal_it": "Se la morte ha creanza, il tempo è galantuomo",
+      "meaning_it": "Col tempo la verità e la giustizia vengono a galla.",
+      "meaning_en": "If death is polite, time is a gentleman (truth comes out).",
+      "usage_context": "giustizia, attesa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nna-utata-te-chiai-te-sarva-quantu-ai",
+      "type": "proverb",
+      "original": "Nna utata te chiài te sarva quantu ài",
+      "literal_it": "Un giro di chiave ti salva quanto hai",
+      "meaning_it": "La prudenza protegge i tuoi beni.",
+      "meaning_en": "One turn of the key saves all you have.",
+      "usage_context": "sicurezza, password, backup",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-acqua-cita-dopu-nnu-ccertu-tiempu-nfetisce",
+      "type": "proverb",
+      "original": "L'àcqua cita dopu nnu ccertu tiempu nfetisce",
+      "literal_it": "L'acqua ferma dopo un po' imputridisce",
+      "meaning_it": "Ciò che resta fermo si guasta; bisogna rinnovarsi.",
+      "meaning_en": "Still water goes foul after a while.",
+      "usage_context": "stagnazione, aggiornarsi",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "face-cchiu-mmiraculi-nna-utte-te-mieru-ca-nna-chie",
+      "type": "proverb",
+      "original": "Face cchiù mmiràculi nna utte te mieru ca nna chiesa china te santi",
+      "literal_it": "Fa più miracoli una botte di vino che una chiesa piena di santi",
+      "meaning_it": "Il vino (o la convivialità) risolve più di tante preghiere.",
+      "meaning_en": "A barrel of wine works more miracles than a church full of saints.",
+      "usage_context": "umorismo, festa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini",
+        "src-sal-wikiquote-proverbi-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "le-astime-su-ccomu-le-fogghie-cinca-le-mina-le-cco",
+      "type": "proverb",
+      "original": "Le astime su' ccomu le fògghie: cinca le mina le ccògghie",
+      "literal_it": "Le bestemmie sono come le foglie: chi le getta le raccoglie",
+      "meaning_it": "Le maledizioni ricadono su chi le lancia.",
+      "meaning_en": "Curses are like leaves: whoever throws them picks them up again.",
+      "usage_context": "moderare il linguaggio",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "allu-squagghiare-te-la-nie-parenu-li-strunzi",
+      "type": "proverb",
+      "original": "Allu squagghiare te la nie pàrenu li strunzi",
+      "variants": [
+        "Allu squagghiare te la nie si iteno li strunzi"
+      ],
+      "literal_it": "Allo sciogliersi della neve si vedono gli stronzi",
+      "meaning_it": "Quando cadono le apparenze emerge la verità (e chi vale poco).",
+      "meaning_en": "When the snow melts, the turds show.",
+      "usage_context": "smascherare qualcuno, post-mortem di un incidente",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario",
+        "src-sal-wikiquote-proverbi-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "puru-li-strunzi-enenu-a-ggalla",
+      "type": "proverb",
+      "original": "Puru li strunzi ènenu a ggalla",
+      "literal_it": "Anche gli stronzi vengono a galla",
+      "meaning_it": "Anche chi non vale nulla a volte emerge.",
+      "meaning_en": "Even turds float to the surface.",
+      "usage_context": "sarcasmo su promozioni immeritate",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quannu-autru-nu-ttei-cu-mmammata-te-curchi",
+      "type": "proverb",
+      "original": "Quannu autru nu ttei cu mmàmmata te curchi",
+      "literal_it": "Quando non hai altro ti corichi con tua madre",
+      "meaning_it": "Quando non ci sono alternative ci si accontenta di ciò che si ha (iperbole volgare).",
+      "meaning_en": "When you have nothing else, you sleep with your mother (crude: make do with what you have).",
+      "usage_context": "accontentarsi; solo tra amici, molto volgare",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "puttana-pe-nna-fava-puttana-pe-nn-ongulu",
+      "type": "proverb",
+      "original": "Puttana pe nna fava, puttana pe nn'òngulu",
+      "literal_it": "Puttana per una fava, puttana per un baccello",
+      "meaning_it": "Se scendi a compromessi per poco, tanto vale per tutto.",
+      "meaning_en": "Whore for a bean, whore for a pod (once compromised, why stop).",
+      "usage_context": "cinismo, volgare",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-casa-bruciata-minti-focu",
+      "type": "proverb",
+      "original": "A casa bruciata minti focu",
+      "literal_it": "A casa bruciata metti fuoco",
+      "meaning_it": "Se il danno è già grande, un problema in più non cambia molto.",
+      "meaning_en": "Set fire to an already burnt house.",
+      "usage_context": "rassegnazione ironica, giornata disastrosa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-marisciu-la-cecala-canta-canta-e-ppoi-sciatta",
+      "type": "saying",
+      "original": "Te marisciu la cecala canta, canta e ppoi sciatta",
+      "variants": [
+        "La cecala canta canta e poi schiatta"
+      ],
+      "literal_it": "A mezzogiorno la cicala canta e canta e poi scoppia",
+      "meaning_it": "Chi si sfinisce o si vanta troppo finisce male.",
+      "meaning_en": "At noon the cicada sings and sings, then bursts.",
+      "usage_context": "burnout, vanteria",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario",
+        "src-sal-wikiquote-proverbi-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mutu-fumu-e-picca-arrustu",
+      "type": "saying",
+      "original": "Mutu fumu e picca arrustu",
+      "literal_it": "Molto fumo e poco arrosto",
+      "meaning_it": "Tante apparenze e poca sostanza.",
+      "meaning_en": "Lots of smoke, little roast.",
+      "usage_context": "marketing, promesse vuote",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "curnutu-vattutu-e-ccacciatu-te-casa",
+      "type": "idiom",
+      "original": "Curnutu, vattutu e ccacciatu te casa",
+      "literal_it": "Cornuto, picchiato e cacciato di casa",
+      "meaning_it": "Oltre al danno, la beffa.",
+      "meaning_en": "Cuckolded, beaten and thrown out of the house: insult added to injury.",
+      "usage_context": "ingiustizie a catena",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nde-scimme-cu-nna-manu-a-nnanzi-e-una-a-rretu",
+      "type": "idiom",
+      "original": "Nde scimme cu nna manu a nnanzi e una a rretu",
+      "literal_it": "Ce ne andammo con una mano davanti e una dietro",
+      "meaning_it": "Restare senza un soldo.",
+      "meaning_en": "We left with one hand in front and one behind (penniless).",
+      "usage_context": "povertà, fallimento",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "restare-all-urmu",
+      "type": "idiom",
+      "original": "Restare all'urmu",
+      "variants": [
+        "lassare all'urmu"
+      ],
+      "literal_it": "Restare all'olmo",
+      "meaning_it": "Rimanere a bocca asciutta, senza niente.",
+      "meaning_en": "To be left under the elm: empty-handed.",
+      "usage_context": "delusione",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini",
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stare-a-cciommu",
+      "type": "idiom",
+      "original": "Stare a cciommu",
+      "literal_it": "Stare come l'Ecce Homo",
+      "meaning_it": "Essere ridotto malissimo.",
+      "meaning_en": "To be in a terrible state (like the Ecce Homo).",
+      "usage_context": "stanchezza, sconfitta",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stare-cchiu-ddhai-ca-quai",
+      "type": "idiom",
+      "original": "Stare cchiù ddhai ca quai",
+      "literal_it": "Stare più di là che di qua",
+      "meaning_it": "Essere in fin di vita (anche iperbolico).",
+      "meaning_en": "To be more over there than here (at death's door).",
+      "usage_context": "iperbole, server morente",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stare-cu-lla-luna-storta",
+      "type": "idiom",
+      "original": "Stare cu lla luna storta",
+      "literal_it": "Stare con la luna storta",
+      "meaning_it": "Essere di cattivo umore.",
+      "meaning_en": "To be in a foul mood.",
+      "usage_context": "umore",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tare-nnu-corpu-alla-utte-e-unu-allu-tampagnu",
+      "type": "idiom",
+      "original": "Tare nnu corpu alla utte e unu allu tampagnu",
+      "literal_it": "Dare un colpo alla botte e uno al coperchio",
+      "meaning_it": "Barcamenarsi per accontentare tutti.",
+      "meaning_en": "Hit the barrel once and the lid once (keep everyone happy).",
+      "usage_context": "diplomazia",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ttaccare-bbuttune",
+      "type": "idiom",
+      "original": "Ttaccare bbuttune",
+      "literal_it": "Attaccare bottone",
+      "meaning_it": "Mettersi a parlare a lungo annoiando.",
+      "meaning_en": "To buttonhole someone with endless talk.",
+      "usage_context": "colleghi logorroici, meeting",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ucca-te-furnu",
+      "type": "metaphor",
+      "original": "Ucca te furnu",
+      "literal_it": "Bocca di forno",
+      "meaning_it": "Persona che mangia tantissimo.",
+      "meaning_en": "Oven mouth: a big eater.",
+      "usage_context": "umorismo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbascia-l-ali",
+      "type": "idiom",
+      "original": "Bbascia l'ali",
+      "literal_it": "Abbassa le ali",
+      "meaning_it": "Smettila con la superbia.",
+      "meaning_en": "Lower your wings (stop being arrogant).",
+      "usage_context": "arroganza",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "canusciutu-comu-lu-sette-te-danari",
+      "type": "idiom",
+      "original": "Canusciutu comu lu sette te danari",
+      "literal_it": "Conosciuto come il sette di denari",
+      "meaning_it": "Notissimo a tutti.",
+      "meaning_en": "Known like the seven of coins: famous.",
+      "usage_context": "fama",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-ffischia",
+      "type": "idiom",
+      "original": "Nu ffischia",
+      "literal_it": "Non fischia",
+      "meaning_it": "Detto di chi è impotente o di chi non sa fare bene il proprio lavoro.",
+      "meaning_en": "\"He doesn't whistle\": impotent, or useless at the job.",
+      "usage_context": "presa in giro, volgare allusivo",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rriccojere-cu-llu-cucchiarinu",
+      "type": "idiom",
+      "original": "Rriccòjere cu llu cucchiarinu",
+      "literal_it": "Raccogliere col cucchiaino",
+      "meaning_it": "Si dice di chi è a pezzi e va aiutato a rimettersi in piedi.",
+      "meaning_en": "To scrape someone up with a teaspoon.",
+      "usage_context": "stanchezza estrema, dopo un rilascio",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-casa-e-putea",
+      "type": "idiom",
+      "original": "Fare casa e putea",
+      "literal_it": "Fare casa e bottega",
+      "meaning_it": "Pensare solo a famiglia e lavoro; vivere dove si lavora.",
+      "meaning_en": "To do home and shop: live for family and work.",
+      "usage_context": "vita dedita al lavoro",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario",
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tenire-la-lucerta-cu-ddo-cute",
+      "type": "idiom",
+      "original": "Tenìre la lucerta cu ddo' cute",
+      "literal_it": "Avere la lucertola con due code",
+      "meaning_it": "Essere fortunatissimo.",
+      "meaning_en": "To own the two-tailed lizard: to be very lucky.",
+      "usage_context": "fortuna",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-ccordu-cu-llu-diaulu",
+      "type": "idiom",
+      "original": "Fare ccordu cu llu diàulu",
+      "literal_it": "Fare un accordo col diavolo",
+      "meaning_it": "Avere una fortuna sfacciata.",
+      "meaning_en": "To have made a pact with the devil: shamelessly lucky.",
+      "usage_context": "fortuna sospetta, test che passano per miracolo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stare-comu-lu-tiaulu-e-ll-acqua-santa",
+      "type": "idiom",
+      "original": "Stare comu lu tiàulu e ll'àcqua santa",
+      "literal_it": "Stare come il diavolo e l'acqua santa",
+      "meaning_it": "Essere in totale disaccordo.",
+      "meaning_en": "To get on like the devil and holy water.",
+      "usage_context": "incompatibilità",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "musciare-nnu-ciucciu-ca-ola",
+      "type": "idiom",
+      "original": "Musciare nnu ciùcciu ca ola",
+      "literal_it": "Mostrare un asino che vola",
+      "meaning_it": "Far credere l'impossibile a un credulone.",
+      "meaning_en": "To show someone a flying donkey.",
+      "usage_context": "truffe, promesse irrealistiche",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spetta-lu-culummu-na-ca-moi-te-cate-a-mmucca",
+      "type": "ironic-saying",
+      "original": "Spètta lu culummu, na, ca moi te cate a mmucca",
+      "literal_it": "Aspetta il fiorone, ecco, che ora ti cade in bocca",
+      "meaning_it": "È inutile aspettare passivamente: non succederà.",
+      "meaning_en": "Wait for the fig, it will drop right into your mouth (it won't).",
+      "usage_context": "passività, sarcasmo",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mintere-muta-carne-a-ccocere",
+      "type": "idiom",
+      "original": "Mìntere muta carne a ccòcere",
+      "literal_it": "Mettere molta carne a cuocere",
+      "meaning_it": "Proporre o iniziare troppe cose insieme.",
+      "meaning_en": "To put too much meat on to cook: too many irons in the fire.",
+      "usage_context": "troppi task paralleli",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "carrecare-de-mazzate",
+      "type": "idiom",
+      "original": "Carrecare de mazzate",
+      "literal_it": "Caricare di botte",
+      "meaning_it": "Picchiare di santa ragione.",
+      "meaning_en": "To give someone a sound thrashing.",
+      "usage_context": "iperbole, minaccia scherzosa",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tenire-lu-stomecu-te-struzzu",
+      "type": "idiom",
+      "original": "Tenìre lu stòmecu te struzzu",
+      "literal_it": "Avere lo stomaco di struzzo",
+      "meaning_it": "Digerire tutto, accettare qualunque cosa.",
+      "meaning_en": "To have an ostrich stomach: put up with anything.",
+      "usage_context": "pazienza estrema",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fetere-lu-mustazzu",
+      "type": "idiom",
+      "original": "Fètere lu mustazzu",
+      "literal_it": "Puzzare il baffo",
+      "meaning_it": "Non farsi passare una mosca sotto il naso; essere permaloso.",
+      "meaning_en": "To be touchy, let nothing slide.",
+      "usage_context": "permalosità",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nu-ire-facce",
+      "type": "idiom",
+      "original": "Nu ìre facce",
+      "literal_it": "Non avere faccia",
+      "meaning_it": "Vergognarsi.",
+      "meaning_en": "Not to have the face (to be ashamed).",
+      "usage_context": "vergogna",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cangiare-l-acqua-all-aceddhu",
+      "type": "idiom",
+      "original": "Cangiare l'acqua all'aceddhu",
+      "literal_it": "Cambiare l'acqua all'uccello",
+      "meaning_it": "Modo pudico per dire urinare.",
+      "meaning_en": "To change the bird's water (to pee).",
+      "usage_context": "eufemismo scherzoso",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Salento (central-southern forms, as given by the source)",
+      "sources": [
+        "src-sal-wikipedia-it-dialetti-salentini"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rrimanire-comu-la-zzita-de-turre",
+      "original": "Rrimanire comu la zzita de Turre.",
+      "literal_it": "Restare come la sposa di Torrepaduli.",
+      "meaning_it": "Prepararsi con cura a un evento importante e scoprire all'ultimo momento di non potervi partecipare.",
+      "meaning_en": "To prepare carefully for an important event and find out at the last minute that you cannot take part.",
+      "usage_context": "tutto pronto e poi saltato all'ultimo: rilascio o demo annullati all'ultimo minuto, invito sfumato",
+      "notes": "Collected in Scorrano and referring to Torrepaduli (Ruffano); not a Lecce-city proverb. Based on a surreal local story of a bride too tall for the church door. Spelling checked on the source page.",
+      "type": "proverb",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Scorrano (LE), referring to Torrepaduli (Turre), frazione di Ruffano",
+      "sources": [
+        "src-sal-presicce-turre"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "comu-facimu-comu-ficera-a-turre",
+      "original": "Comu facimu? Comu fìcera a Turre, ca ne taiàra la capu alla zzita!",
+      "literal_it": "Come facciamo? Come fecero a Torrepaduli, quando tagliarono la testa alla sposa!",
+      "meaning_it": "Risposta ironica a «come facciamo?»: propone una soluzione spiccia e assurda a un problema che sembra insuperabile.",
+      "meaning_en": "Ironic reply to 'what do we do?': proposes an absurd quick fix for a problem that seems insurmountable.",
+      "usage_context": "risposta ironica a un problema apparentemente senza uscita; soluzione drastica o assurda (es. riscrivere tutto, cancellare il database)",
+      "notes": "Collected in Scorrano and referring to Torrepaduli (Ruffano); not a Lecce-city proverb. Humorous exchange: use as a joke, never as a real recommendation. Accents (fìcera, taiàra) verified in the source page.",
+      "type": "proverb",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Scorrano (LE), referring to Torrepaduli (Turre), frazione di Ruffano",
+      "sources": [
+        "src-sal-presicce-turre"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
 }

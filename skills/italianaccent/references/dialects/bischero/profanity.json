@@ -400,7 +400,7 @@
         "formal"
       ],
       "blasphemy": true,
-      "generation_allowed": true,
+      "generation_allowed": false,
       "examples": [
         {
           "text": "Porco zio, 'un parte!",
@@ -414,7 +414,7 @@
       ],
       "provenance": "unverified",
       "verification_status": "unverified",
-      "notes": "Pattern 'porco + divine name' documented (itwiki-bestemmia); zio as substitute is known but not read in a source. Low confidence."
+      "notes": "Pattern 'porco + divine name' documented (itwiki-bestemmia); zio as substitute is known but not read in a source. Low confidence. Unverified blasphemy-adjacent form: generation disabled."
     },
     {
       "id": "porca-miseria",
