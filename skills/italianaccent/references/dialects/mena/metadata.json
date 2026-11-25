@@ -34,6 +34,7 @@
   },
   "sources": [
     "src-sal-garrisi-dizionario",
+    "src-sal-presicce-turre",
     "src-sal-rohlfs-vds3",
     "src-sal-romano-perileccesi",
     "src-sal-treccani-avolio",
@@ -41,8 +42,7 @@
     "src-sal-wikipedia-it-dialetti-salentini",
     "src-sal-wikipedia-it-dialetto-leccese",
     "src-sal-wikipedia-it-salentino-meridionale",
-    "src-sal-wikiquote-proverbi-salentini",
-    "src-sal-presicce-turre"
+    "src-sal-wikiquote-proverbi-salentini"
   ],
   "resources": {
     "profile": "profile.md",

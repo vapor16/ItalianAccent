@@ -41,7 +41,7 @@ commands and technical facts stay exactly correct.
 | **Belin** (`belin`) | Genovese | Liguria | Genoese vulgar 'dick', all-purpose exclamation | experimental |
 | **Pirla** (`pirla`) | Milanese | Lombardia | Milanese 'idiot, jerk' | experimental |
 | **Potà** (`pota`) | Bergamasco | Lombardia | Bergamasque all-purpose interjection (originally vulgar 'female genitals') | experimental |
-| **Mena** (`mena`) | Salentino | Puglia | Salentine 'come on / go on!' (from menare) | experimental |
+| **Mena** (`mena`) | Leccese — Salentino centrale | Puglia | Salentine 'come on / go on!' (from menare) | experimental |
 | **Trimone** (`trimone`) | Barese | Puglia | Barese insult: 'idiot, dumbass' | experimental |
 | **Mbare** (`mbare`) | Catanese | Sicilia | Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion) | experimental |
 | **Minchia** (`minchia`) | Palermitano | Sicilia | Sicilian vulgar 'dick', used as all-purpose exclamation | experimental |
