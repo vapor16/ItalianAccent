@@ -1,0 +1,164 @@
+{
+  "sources": [
+    {
+      "id": "src-bg-carrara-tesi",
+      "title": "Pòta nèh: i segnali discorsivi del bergamasco contemporaneo (tesi magistrale)",
+      "url": "https://unitesi.unipv.it/retrieve/74eec36a-7eb5-425f-80a1-a64440b2d65f/Carrara_Valentina_Tesi.pdf",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "academic",
+      "license": "Thesis deposited in the University of Pavia repository (copyright of the author); consulted for facts and short attested examples",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read in full text locally (pdftotext). Orthography follows RID/Sanga. Gives sec. 5.4.1 on pòta/potà/'tà with attested spoken examples (16 speakers), glossary of discourse markers, summary of grammar (clitics, mìa, ö/ü, sibilant systems, -à-a imperfect). Speakers' Bergamasque mixes with Italian.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Valentina Carrara",
+      "publisher": "Università degli Studi di Pavia, Dipartimento di Studi Umanistici",
+      "relevant_sections": "Ch. 2-4 (grammar, orthography); 5.4.1 Pòta; Appendix 1-4 glossary"
+    },
+    {
+      "id": "src-bg-itwiki-dialetto",
+      "title": "Dialetto bergamasco (Wikipedia italiana)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_bergamasco",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Gives articles, obligatory subject clitics, full paradigms of èss, ìga, fà, regular verbs, demonstratives, plurals, negation mìa, ö/ü, aspirated h for s (sura > hura, sich > hich), history. Pronouns and some paradigms cross-checked against the Pavia thesis.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation",
+      "relevant_sections": "Grammatica, Fonetica"
+    },
+    {
+      "id": "src-bg-itwikt-pota",
+      "title": "pota / potà / pòta (Wikizionario)",
+      "url": "https://it.wiktionary.org/wiki/pota",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Lombard (Eastern) section: interjection with six listed uses and example scenes (written in Italian), pronunciation variants 'ta, 'òta, rarely Potà, lengthened Poòta, four dialect proverbs on the friar and on pòta, cites Zappettini 1859 p.389. No etymology given. Synonyms listed are vulgar. The Wikizionario spelling is Pòta.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikizionario contributors",
+      "publisher": "Wikimedia Foundation",
+      "relevant_sections": "Lombardo"
+    },
+    {
+      "id": "src-bg-tiraboschi-proverbi",
+      "title": "Raccolta di proverbi bergamaschi (Wikisource, trascrizione)",
+      "url": "https://it.wikisource.org/wiki/Raccolta_di_proverbi_bergamaschi",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "public-domain",
+      "license": "Public domain (Tiraboschi, 1875); Wikisource transcription CC BY-SA",
+      "redistribution": "public-domain",
+      "reliability": "medium",
+      "reliability_notes": "Antonio Tiraboschi, Bergamo, Fratelli Bolis, 1875; proofreading incomplete (25-100% per chapter). Orthography is Tiraboschi's own 19th-century system (ć, ś, é/è, ö, ü) with Italian renderings. Chapters read: Famiglia, Fatti e parole, Contrattazioni, Allegria, Diligenza, Ira, Fortuna, Avvertimento.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Antonio Tiraboschi",
+      "publisher": "Tipografia Fratelli Bolis, Bergamo (1875); Wikisource",
+      "relevant_sections": "Famiglia; Fatti e parole; Contrattazioni; Allegria; Diligenza; Ira; Fortuna; Avvertimento",
+      "publication_date": "1875"
+    },
+    {
+      "id": "src-bg-ducato-vocabolario",
+      "title": "Vocabolario bergamasco-italiano (Ducato di Piazza Pontida)",
+      "url": "https://www.ducatodipiazzapontida.it/en/vocabolario-bergamasco-italiano",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "institutional",
+      "license": "Site content (cultural association); consulted for facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Online dictionary derived from Tiraboschi 1867 Vocabolario dei dialetti bergamaschi antichi e moderni and Caffi. Only the letter P page (pà to palèt) was readable; used for a few basic nouns. The landing page also states that the printed Francia-Gambarini dictionaries exist.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Ducato di Piazza Pontida",
+      "relevant_sections": "Letter P"
+    },
+    {
+      "id": "src-bg-enwiki-profanity",
+      "title": "Italian profanity (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Italian_profanity",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "low",
+      "reliability_notes": "Only one mention relevant here: the Bergamo dialect expression 'pota de Cristo' ('Christ's cunt') as an example of oaths that invoke the body of the Lord. No further Bergamasque items.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation",
+      "relevant_sections": "Blasphemous profanity"
+    },
+    {
+      "id": "src-bg-enwiki-bergamasque",
+      "title": "Bergamasque dialect (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bergamasque_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Classification (Gallo-Italic, Eastern Lombard), area (province of Bergamo, Crema), status (Regional Law 25/2016), sample texts showing ol, ö, ü. No grammar tables.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bg-enwiki-lombard",
+      "title": "Lombard language (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lombard_language",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Only the first 100000 characters were read. Eastern Lombard debuccalization of the last sibilant to [h], ö/ü orthography, list of orthographies (Classical, Ticinese, Modern, Scriver, NOL). No Bergamasque grammar.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation",
+      "relevant_sections": "Phonology, Orthography"
+    },
+    {
+      "id": "src-bg-lmowiki-bergamasch",
+      "title": "Dialèt bergamàsch (Wikipedia in lombardo)",
+      "url": "https://lmo.wikipedia.org/wiki/Dialèt_bergamàsch",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardia; Eastern Lombard)",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Subject clitics are obligatory, mìa after the verb, orthography of the Ducato di Piazza Pontida is most used, vowel table. Little vocabulary. Confirms the clitic forms 'l, la, a m', i.",
+      "used_by": [
+        "pota"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation"
+    }
+  ]
+}
