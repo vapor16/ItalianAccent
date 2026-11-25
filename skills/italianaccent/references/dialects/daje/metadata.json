@@ -1,0 +1,71 @@
+{
+  "id": "daje",
+  "display_name": "Daje",
+  "aliases": [
+    "daie",
+    "dajje",
+    "dai"
+  ],
+  "region": "Lazio",
+  "provinces": [
+    "Roma"
+  ],
+  "geographical_area": "City of Rome and its urban speech community (Romanesco). The profile follows contemporary urban Romanesco as described by the Vocabolario del romanesco contemporaneo; Belli-era forms are used only for proverbs and quotations. Other Lazio varieties (Castelli Romani, Ciociaria, Viterbese, Reatino) are not covered.",
+  "linguistic_classification": "Central Italian (Italo-Romance), Romanesco, the dialect of Rome; heavily Tuscanized since the 15th-16th centuries and forming a continuum with regional Italian of Rome.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Central Italian (Romanesco)",
+  "orthographic_conventions": "Modern popular dialect writing: apocopated infinitives with accent (magnà, annà, fà, dì, vedé), apostrophes for aphaeresis and truncation ('n, 'na, 'ndo, 'sto, so', mo', pe', co'), gli written j (fijo, moje, mejo), rhotacism of l before consonants (er, quer, sòrdi, vorta), -nd- > -nn- (quanno, monno), no written syntactic doubling outside quotations of Belli and Zanazzo, Lex Porena forms ('o, 'a, 'i, aa, dea) only sparingly at intensity 5.",
+  "description_en": "Romanesco of Rome: article er/li, rhotacism (er, vorta, sòrdi), -nd- > -nn-, gli > j, apocopated infinitives (magnà, annà), nun for negation, 2sg subject te, je as universal dative, avecce for possession (c'ho, c'hai), ce sta for existence, progressive with stà a + infinitive, present tense preferred for the future, and a distinctly vulgar, deflating, ironic register. Voice: a detached, teasing speaker who urges with 'daje!'.",
+  "description_it": "Il romanesco di Roma: articolo er/li, rotacismo (er, vorta, sòrdi), -nd- > -nn-, gli > j, infiniti tronchi (magnà, annà), nun per la negazione, te soggetto di 2a persona, je dativo universale, avecce per il possesso (c'ho, c'hai), ce sta per l'esistenza, progressivo con stà a + infinito, presente al posto del futuro e un registro marcatamente volgare, ironico e dissacrante. Tono: distaccato e sornione, che sprona con 'daje!'.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "daje",
+    "variants": [
+      "dàje",
+      "dajje",
+      "daie",
+      "e daje",
+      "aridaje"
+    ],
+    "meaning_en": "Roman discourse marker: 'come on! let's go!', 'OK, deal', and with e- ('e daje!') 'oh come on, not again'.",
+    "meaning_it": "Segnale discorsivo romano: 'dai, forza, andiamo', 'd'accordo' e, preceduto da e ('e daje!'), 'uffa, di nuovo'.",
+    "attestation": "Documented as dàje (1) in the Vocabolario del romanesco contemporaneo (letter D) and in Wiktionary; Belli writes it dàjje. The mode name is the authentic Roman form, not an academic name of the variety.",
+    "sources": [
+      "src-rom-vrc-d",
+      "src-rom-wiktionary"
+    ]
+  },
+  "sources": [
+    "src-rom-belli-wikisource",
+    "src-rom-devecchis-friccico",
+    "src-rom-elon",
+    "src-rom-enwiki",
+    "src-rom-intrepidguide",
+    "src-rom-itwiki-dialetto",
+    "src-rom-itwiki-grammatica",
+    "src-rom-itwiktionary",
+    "src-rom-loporcaro-2020",
+    "src-rom-vrc-d",
+    "src-rom-wiktionary",
+    "src-rom-zanazzo-proverbi"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "Romanesco is structurally close to Italian and has no standard spelling: the profile adopts one convention (accented infinitives, apostrophes) and lists alternatives.",
+    "Modern slang and many colloquial items rest on low-reliability popular sources (src-rom-intrepidguide, src-rom-elon) and on single dictionary entries; the VRC covers only the letter D.",
+    "Proverbs come mostly from Zanazzo (1886) and Belli (19th c.); their spelling uses written doubling, so the profile gives plain modern variants.",
+    "No Roman-specific blasphemies are documented from verified sources, so the profile generates none beyond one flagged idiom.",
+    "Lex Porena forms ('o, 'a, 'i, aa) are low register and attested sparsely; they are kept rare to avoid caricature."
+  ],
+  "last_updated": "2026-11-25"
+}

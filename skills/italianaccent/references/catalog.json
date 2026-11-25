@@ -13,8 +13,8 @@
       "region": "Sicilia",
       "classification": "Sicilian (Siciliano), eastern/Catanese variety",
       "identifier_meaning_en": "Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion)",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/mbare/"
     },
     {
@@ -61,8 +61,8 @@
       "region": "Lazio",
       "classification": "Central Italian, Romanesco (Rome)",
       "identifier_meaning_en": "Roman 'come on! let's go!'",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/daje/"
     },
     {
