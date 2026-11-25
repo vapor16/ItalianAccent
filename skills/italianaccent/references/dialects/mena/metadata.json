@@ -1,0 +1,65 @@
+{
+  "id": "mena",
+  "display_name": "Mena",
+  "aliases": [
+    "mena mena",
+    "menà"
+  ],
+  "region": "Puglia",
+  "provinces": [
+    "Lecce"
+  ],
+  "geographical_area": "City of Lecce and the surrounding 'perileccese' towns (e.g. Cavallino, Carmiano, Novoli, Caprarica di Lecce) in central Salento. The profile follows the urban Lecce norm; northern Salentino (Brindisi/Taranto side) and southern Salentino (Otranto-Leuca) varieties differ and are not covered.",
+  "linguistic_classification": "Salentino (salentinu), Extreme-Southern Italo-Romance (Sicilian-type vowel system), central Salentino group, Lecce area; traditionally called a dialect.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Extreme Southern Italian (Salentino)",
+  "orthographic_conventions": "Popular phonetic spelling based on Garrisi's Lecce-Cavallino dictionary: ddh for the cacuminal from Latin -LL- (beddhu, iddhu; alternatives δδ, ḍḍ), sci/sce for the sh sound (alternative sç), lu/la/li/le articles, nu/na indefinites (Garrisi nnu/nna), syntactic doubling written after cu, nu, a, e, ca, gne, cchiù (cu llu tata, nu ffazzu), clitic bu 'you (pl.)' for Lecce (ve further south), no schwa symbols (five clear vowels), final -e/-o written as pronounced.",
+  "description_en": "Salentino of Lecce: five-vowel extreme-southern system with metaphonic diphthongs (buenu/bona), cacuminal ddh from -LL-, no schwa, tenire for possession with aire only as auxiliary, 'cu' + finite verb replacing most infinitives, progressive with sta' + finite verb, 'aggiu' + infinitive for obligation, enclitic kin possessives (mama, sirma, fraima) and the clitic bu. Voice: a warm, ironic speaker who urges with 'mena!'.",
+  "description_it": "Il salentino di Lecce: sistema vocalico estremo-meridionale a cinque vocali con dittonghi metafonetici (buenu/bona), ddh cacuminale da -LL-, nessun suono indistinto, tenire per il possesso e aire solo ausiliare, 'cu' + verbo finito al posto dell'infinito, progressivo con sta' + verbo finito, 'aggiu' + infinito per il dovere, possessivi enclitici di parentela (mama, sirma, fraima) e clitico bu. Tono: caloroso e ironico, che sprona con 'mena!'.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "mena",
+    "variants": [
+      "mena me'",
+      "mena mena",
+      "menà"
+    ],
+    "meaning_en": "Exhortation 'come on, go on, hurry up!'; from the verb menare 'to throw, drive'.",
+    "meaning_it": "Esortazione 'dai, su, presto, sbrigati'; dal verbo menare 'gettare, spingere'.",
+    "attestation": "Recorded in Garrisi's Lecce-Cavallino dictionary as an exhortation (presto, orsu), also doubled as 'mena me''. The mode name is this interjection, not an academic name of the variety.",
+    "sources": [
+      "src-sal-garrisi-dizionario"
+    ]
+  },
+  "sources": [
+    "src-sal-garrisi-dizionario",
+    "src-sal-rohlfs-vds3",
+    "src-sal-romano-perileccesi",
+    "src-sal-treccani-avolio",
+    "src-sal-wikipedia-en-salentino",
+    "src-sal-wikipedia-it-dialetti-salentini",
+    "src-sal-wikipedia-it-dialetto-leccese",
+    "src-sal-wikipedia-it-salentino-meridionale",
+    "src-sal-wikiquote-proverbi-salentini"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "Verb paradigms are documented only for essere, aire (auxiliary), scire and tenire plus the verbs in the lexicon; fare, dire and stare are attested only in fragments (fazzu, facia, facenu, dicenu, dittu, sta'), so profile and examples avoid other forms.",
+    "Garrisi's dictionary is a single-author community work; Rohlfs was consulted only in vol. III (Italian-Salentino repertory); modern grammars were not consulted directly.",
+    "Salentino spelling is not standardized (ddh/dd/δδ/ḍḍ, sc/sç, nnu/nu): the profile picks one form and lists variants.",
+    "Only the Lecce/perileccese norm is covered; northern and southern Salentino differ (e.g. ve vs bu, no conditioned diphthongs in the south).",
+    "Contrasts with Barese are stated only as far as the Wikipedia/Treccani sources support (schwa, no metaphony in centre-north Apulian).",
+    "The catalog entry still lists mena as planned/unavailable; it must be updated to experimental/available."
+  ],
+  "last_updated": "2026-11-25"
+}
