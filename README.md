@@ -101,7 +101,7 @@ agent documents).
 
 ### Claude.ai
 
-Download `italianaccent-0.1.0.zip` from the [v0.1.0 release](https://github.com/vapor16/ItalianAccent/releases/tag/v0.1.0)
+Download `italianaccent-1.0.0.zip` from the [v1.0.0 release](https://github.com/vapor16/ItalianAccent/releases/tag/v1.0.0)
 and upload it in **Customize → Skills → Upload a skill** (code execution must be enabled). Then activate in natural
 language: *"Activate ItalianAccent in Wallera mode."*
 
@@ -196,7 +196,7 @@ provenance and sources; meanings are original annotations, not copied dictionary
 | `community-reviewed` | Reviewed by ≥2 local speakers (linked public reviews) |
 | `verified` | Community-reviewed + linguist or broad speaker review |
 
-**All v0.1.0 modes are `experimental`.**
+**All v1.0.0 modes are `experimental`.**
 
 ## Limitations
 
@@ -227,14 +227,13 @@ python scripts/validate.py && python -m pytest
 
 ## Roadmap
 
-- **v0.1.0 — Foundation** (this release, experimental): working skill, modular catalog, profiles listed above,
-  configurable profanity, proverbs, idioms, grammar, commands, tests, docs, distribution.
-- **v0.2.0 — Linguistic expansion**: richer vocabularies and proverb collections, better grammar coverage,
-  more profiles from the planned list (provincial varieties of every region), better sources.
-- **v0.3.0 — Community edition**: native-speaker reviews, corrections, first `community-reviewed` profiles,
-  more local varieties.
-- **v1.0.0 — ItalianAccent**: documented coverage of all 20 regions with mature, community-reviewed profiles,
-  stable docs and multi-platform distribution.
+- **v1.0.0** (this release): eleven experimental modes covering Apulia, Campania, Lazio, Liguria, Lombardy, Sicily
+  and Tuscany; configurable profanity, proverbs, idioms, commands, tests, documentation, distribution.
+- **Next**: native-speaker reviews and corrections (first `community-reviewed` profiles), richer vocabularies and
+  proverb collections.
+- **Future modes**: research already started for Romagnolo (*pataca*), Bolognese (*socmel*) and Venetian (*ostrega*)
+  is parked in [`research/future-profiles/`](research/future-profiles/); more regional varieties are listed as
+  `planned` in the catalog. New modes ship only when they are authentic and sourced.
 
 ## License
 

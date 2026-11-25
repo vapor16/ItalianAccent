@@ -53,3 +53,21 @@ def test_examples_do_not_overuse_identifier(v):
         for b in blocks:
             n = sum(1 for tok in re.findall(r"[\w'’]+", b) if v.normalize(tok) == word)
             assert n <= 3, f"{d.name}: identifier '{word}' used {n} times in one example block"
+
+
+def test_bischero_no_h_gorgia_by_default(v):
+    t = _profile(v, "bischero").lower()
+    assert "andaho" not in t
+    assert re.search(r"gorgia.{0,300}(not written|do not write|never write)", t, re.S), "gorgia must be pronunciation-only"
+
+
+def test_daje_mb_mm_rare_ld_ll_residual(v):
+    t = _profile(v, "daje").lower()
+    assert re.search(r"mb-?\s*→\s*-?mm.{0,200}rare", t, re.S)
+    assert re.search(r"ld-?\s*→\s*-?ll.{0,200}residual", t, re.S)
+
+
+def test_sicilian_r_assimilation_is_lexical(v):
+    for pid in ("mbare", "minchia"):
+        t = _profile(v, pid).lower()
+        assert ("lexical" in t or "never import" in t) and re.search(r"(never|not|don't)[^.]{0,80}(arbitrary|every|analogy)", t), f"{pid}: r rules must be lexically constrained"

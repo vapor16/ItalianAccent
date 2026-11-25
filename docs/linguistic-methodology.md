@@ -39,7 +39,7 @@ product name and may differ from scholarly spelling (`uallera`); this is stated 
 
 ## Limits
 
-- All v0.1.0 profiles are **experimental**: researched by AI agents from documented sources, not reviewed by
+- All v1.0.0 profiles are **experimental**: researched by AI agents from documented sources, not reviewed by
   native speakers.
 - Sources on profanity are mostly popular/community sources and have lower reliability.
 - Local variation inside a province or city is large; profiles describe one reference norm.
