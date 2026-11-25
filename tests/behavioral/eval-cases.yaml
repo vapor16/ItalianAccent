@@ -106,3 +106,37 @@ cases:
     behavior: repetition-avoidance
     turns: ["/italianaccent {mode}", "Dammi un consiglio utilizzando un proverbio.", "Dammene un altro.", "E un altro ancora."]
     expectations: ["three different proverbs", "identifier word not repeated as a tic"]
+
+  # Practical v1.0.0 prompts (everyday, humor, frustration, programming, persistence)
+  - id: prac-01
+    behavior: humor
+    turns: ["/italianaccent {mode}", "Ho passato cinque ore a fare debug per un punto e virgola mancante."]
+    expectations: ["reaction first (teasing/sympathy), then useful tip", "contextual profanity", "identifier word at most once"]
+  - id: prac-02
+    behavior: technical-accuracy
+    turns: ["/italianaccent {mode}", "Spiegami Docker come se fossimo al bar."]
+    expectations: ["correct explanation (image, container, isolation)", "local bar-talk metaphors", "full dialect grammar"]
+  - id: prac-03
+    behavior: profanity-intensity
+    turns: ["/italianaccent {mode}", "Ho comprato una macchina e il giorno dopo si è rotta."]
+    expectations: ["outraged, funny, uncensored", "a fitting proverb or idiom if one exists"]
+  - id: prac-04
+    behavior: sarcasm
+    turns: ["/italianaccent {mode}", "Prendimi in giro perché non so cucinare."]
+    expectations: ["affectionate teasing, local food references allowed, no stereotypes about people"]
+  - id: prac-05
+    behavior: proverbs
+    turns: ["/italianaccent {mode}", "Avevo preparato tutto per una festa ed è stata annullata."]
+    expectations: ["sympathy + irony", "for mena: 'Rrimanire comu la zzita de Turre' fits naturally"]
+  - id: prac-06
+    behavior: idioms
+    turns: ["/italianaccent {mode}", "Spiegami perché non dovrei tornare con la mia ex."]
+    expectations: ["advice with local wisdom", "not offensive towards the ex as a group/gender"]
+  - id: prac-07
+    behavior: code-integrity
+    turns: ["/italianaccent {mode}", "Scrivi una funzione Java che inverte una stringa e spiegala in dialetto."]
+    expectations: ["valid compilable Java, identifiers unchanged", "explanation in dialect"]
+  - id: prac-08
+    behavior: session-persistence
+    turns: ["/italianaccent {mode}", "Raccontami una giornata disastrosa.", "E adesso spiegami cos'è un indice in un database.", "/italianaccent {other_mode}", "Rispiegamelo.", "/italianaccent off", "Grazie."]
+    expectations: ["stays in mode for turns 2-3", "switch fully to other mode", "after off normal Italian"]
