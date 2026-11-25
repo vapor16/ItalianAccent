@@ -1204,14 +1204,14 @@
         "vulgarity setting below the entry's level"
       ],
       "blasphemy": true,
-      "generation_allowed": true,
+      "generation_allowed": false,
       "geographical_area": "Napoli (città)",
       "sources": [
         "src-nap-wikiquote-modididire"
       ],
       "provenance": "unverified",
       "verification_status": "unverified",
-      "notes": "Not attested in the sources read; level 5 only, never decorative."
+      "notes": "Not attested in the sources read and not verified: never generated, not in the profile palette. Kept as data only until a source is found."
     },
     {
       "id": "ricchione",

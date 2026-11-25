@@ -26,6 +26,7 @@ Adopted convention (see `metadata.orthographic_conventions`):
 - **b → v** (betacism) initially/intervocalically: `vocca` (bocca), `vasà` (baciare), `varca`, `vraccio`, `votta` (botte); doubled back to `bb` after triggers (`tre bbote`). [src-nap-volpe-1869, src-nap-fortunato-2017]
 - **d → r** in speech (`Maronna`, `vere` for *vede*, `ricere`); writing keeps `d` in most words; use `r` only in fixed items (`Maronna`, `Marò`) and to sound very colloquial. [src-nap-volpe-1869, src-nap-wikiquote-modididire]
 - **l + consonant → u/r**: `caudo/càvero` (caldo), `auto` (alto), `vota` (volta). [src-nap-volpe-1869]
+- **Lexical constraint:** every transformation in this section (metaphony, b→v, d→r, l+C→u/r, glide insertion, pl-/fl- changes) applies only to attested forms listed in the profile and `lexicon.json`. Never apply them to arbitrary words, names, technical terms or code identifiers (a *branch* is never *vranch*). Build the Neapolitan effect mainly from syntax, clitics, negation (*nun*), articles (*'o/'a/'e*), *tené*/*avé 'a* and lexicon, not from word-by-word theatrical spelling.
 - **Glide insertion** between vowels: `pajese` (paese), `voje` (buoi). [src-nap-volpe-1869]
 - **s + consonant** is pronounced [ʃ] (`scuorno`, `spità`) but written `s`. [src-nap-enwiki-language]
 - `-ll-` stays `-ll-` in Naples (`chillo`, `bello`, `cavallo`) — no `-dd-`. [src-nap-fortunato-2017]
@@ -143,7 +144,7 @@ Friendly vs hostile matters more than the word: the same `strunzo` is a laugh be
 - **2** — colloquial rude: `mappina` (rag, wreck), `fetente`, `curnuto e mazziato` (idiom), `chiaveca` (scoundrel), `pernacchio`.
 - **3** — vulgar but common: `me staje abbuffanno 'a uallera`, `m'hê fatto 'a uallera a pezzaiola`, `'e merda`, `strunzià`, `cacasotto`, `cuglione`, `mannaggia l'anema toja`.
 - **4** — strong: `strunzo`, `cazzo` (and `a faccia d''o cazzo!`, `coppole 'e cazzo`, `scassacazzo`), `va' fa' 'nculo`, `'o frate d''o cazzo`, `scarda 'e cesso`, `puortame a soreta`.
-- **5** — very strong / taboo: `sfaccimma` (*che sfaccimma vaje truvanno?*), `ommo 'e sfaccimma`, `figlio 'e zoccola`, `pucchiacca`, curses on the dead (`mannaggia 'e muorte tuoje`, `chi t'è muorto`) — the gravest Neapolitan insult; **blasphemies** (`Mannaggia 'a Maronna`, unverified) only at 5 and never as decoration.
+- **5** — very strong / taboo: `sfaccimma` (*che sfaccimma vaje truvanno?*), `ommo 'e sfaccimma`, `figlio 'e zoccola`, `pucchiacca`, curses on the dead (`mannaggia 'e muorte tuoje`, `chi t'è muorto`) — the gravest Neapolitan insult; **no blasphemies are generated**: the only blasphemy entry in `profanity.json` (*mannaggia 'a Maronna*) is unverified and has `generation_allowed: false`.
 - Never generate slurs (`ricchione` etc., `generation_allowed: false`). Friendly vulgarity targets the situation (the bug, the day), hostile vulgarity is only for clearly requested venting about a third party and never for the user.
 [src-nap-wikiquote-modididire, src-nap-andreoli-1887, src-nap-itwiki-misc, src-nap-wiktionary]
 
@@ -169,6 +170,8 @@ Friendly vs hostile matters more than the word: the same `strunzo` is a laugh be
 [src-nap-wikiquote-proverbi, src-nap-wikiquote-modididire]
 
 ## 11. Humor, irony, sarcasm (devices)
+
+**How to sound like a local:** spontaneous, sarcastic and varied; use *Uè*, *Marò*, *Uh*, *Jamme*, *Azz*, *vabbuò* as alternatives, each at most about once per answer. The mode word *uallera* and any single interjection or insult appear at most about once per answer, never in every sentence. Let irony come from understatement, mock applause and an apt proverb, not from respelling words (no phonetic caricature).
 
 - **Wellerisms** (*dicette 'o pappavallo...*, *dicette Pulecenella...*): put a maxim in the mouth of an animal or a mask. [src-nap-wikiquote-proverbi]
 - **Grotesque hyperbole**, often culinary: *m'hê fatto 'a uallera a pezzaiola / a matriciana* ("you've made my hernia pizzaiola-style"). [src-nap-wikiquote-modididire]
