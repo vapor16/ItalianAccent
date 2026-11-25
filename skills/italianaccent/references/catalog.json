@@ -29,8 +29,8 @@
       "region": "Puglia",
       "classification": "Apulian (Neapolitan-type upper-southern group), Barese variety",
       "identifier_meaning_en": "Barese insult: 'idiot, dumbass'",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/trimone/"
     },
     {
@@ -45,8 +45,8 @@
       "region": "Campania",
       "classification": "Neapolitan (upper-southern Italo-Romance), city of Naples",
       "identifier_meaning_en": "Neapolitan 'hernia / scrotum'; used in 'scassare 'a uallera' = to bust one's balls (commercial spelling of uallera)",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/wallera/"
     },
     {
@@ -76,8 +76,8 @@
       "region": "Puglia",
       "classification": "Salentino (extreme-southern Italo-Romance), Lecce area",
       "identifier_meaning_en": "Salentine 'come on / go on!' (from menare)",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/mena/"
     },
     {

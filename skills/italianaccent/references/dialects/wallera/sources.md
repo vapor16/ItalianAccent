@@ -1,0 +1,21 @@
+# Sources — Wallera (City of Naples (Napoli). The profile follows the urban Neapolitan norm used in literature, theatre and song; the surrounding metropolitan area and other Campanian varieties (Irpinian, Cilentan, Beneventan, Casertan, island varieties with 'u) differ and are not covered.)
+
+Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+
+| ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
+|---|---|---|---|---|---|---|
+| `src-nap-andreoli-1887` | Vocabolario napoletano-italiano | Raffaele Andreoli / Paravia, Torino; hosted on Internet Archive (PHAIDRA scan) | historical-dictionary | high | Public domain (public-domain) | <https://archive.org/details/Vocabolario-napoletano-italiano-PHAIDRA_o_84154> |
+| `src-nap-dambra-1873` | Vocabolario napolitano-toscano domestico di arti e mestieri | Raffaele D'Ambra / Napoli (a spese dell'autore); digitized by Google, hosted on Internet Archive | historical-dictionary | high | Public domain (public-domain) | <https://archive.org/details/vocabolarionapo00ambrgoog> |
+| `src-nap-enwiki-language` | Neapolitan language | Wikipedia contributors / Wikipedia (en) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wikipedia.org/wiki/Neapolitan_language> |
+| `src-nap-fortunato-2017` | Appuniscë a parlesia? Uno studio sui posteggiatori napoletani e il loro gergo (tesi di laurea magistrale) | Anna Fortunato / Università degli Studi di Padova | academic | high | All rights reserved (thesis repository, open access) (facts-only-citation) | <https://thesis.unipd.it/bitstream/20.500.12608/24439/1/Anna_Fortunato_2017.pdf> |
+| `src-nap-itwiki-grammatica` | Grammatica napoletana | Wikipedia contributors / Wikipedia (it) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Grammatica_napoletana> |
+| `src-nap-itwiki-lingua` | Lingua napoletana | Wikipedia contributors / Wikipedia (it) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Lingua_napoletana> |
+| `src-nap-itwiki-misc` | Italian Wikipedia articles: Facite ammuina; Scugnizzo; Guappo; Inciucio; Fica (section on regional names: pucchiacca) | Wikipedia contributors / Wikipedia (it) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Facite_ammuina> |
+| `src-nap-scattidigusto-uallera` | La frutta realistica ci ha fatto la uallera, video virale | Scatti di Gusto | popular-web | low | All rights reserved (facts-only-citation) | <https://www.scattidigusto.it/la-frutta-realistica-ci-ha-fatto-la-uallera-video-virale> |
+| `src-nap-visitnaples-glossary` | Glossary of Neapolitan: the most used and known words in Naples and beyond | visitnaples.eu | popular-web | low | All rights reserved (facts-only-citation) | <https://visitnaples.eu/en/neapolitanity/tales-of-naples/glossary-of-neapolitan-the-most-used-and-known-words-in-naples-and-beyond> |
+| `src-nap-volpe-1869` | Vocabolario napolitano-italiano tascabile ... preceduto da brevi osservazioni grammaticali | Pietro Paolo Volpe / Napoli; digitized by Google, hosted on Internet Archive | historical-dictionary | medium | Public domain (public-domain) | <https://archive.org/details/vocabolarionapo00volpgoog> |
+| `src-nap-wikiquote-modididire` | Modi di dire napoletani | Wikiquote contributors / Wikiquote (it) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Modi_di_dire_napoletani> |
+| `src-nap-wikiquote-proverbi` | Proverbi napoletani | Wikiquote contributors / Wikiquote (it) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_napoletani> |
+| `src-nap-wiktionary` | Wiktionary Neapolitan and Italian entries (machine-readable extract by kaikki.org) | Wiktionary contributors; extraction by Tatu Ylonen (wiktextract) / kaikki.org / Wiktionary (en) | openly-licensed | medium | CC BY-SA 4.0 / GFDL (Wiktionary) (open-license-attribution) | <https://kaikki.org/dictionary/Neapolitan/> |
+
+Access date of all sources: see `research/sources.json` (`access_date`).

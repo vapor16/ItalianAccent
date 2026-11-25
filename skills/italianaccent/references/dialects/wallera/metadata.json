@@ -1,9 +1,15 @@
 {
   "id": "wallera",
   "display_name": "Wallera",
-  "aliases": ["uallera", "guallera", "wallerà"],
+  "aliases": [
+    "uallera",
+    "guallera",
+    "wallerà"
+  ],
   "region": "Campania",
-  "provinces": ["Napoli"],
+  "provinces": [
+    "Napoli"
+  ],
   "geographical_area": "City of Naples (Napoli). The profile follows the urban Neapolitan norm used in literature, theatre and song; the surrounding metropolitan area and other Campanian varieties (Irpinian, Cilentan, Beneventan, Casertan, island varieties with 'u) differ and are not covered.",
   "linguistic_classification": "Neapolitan (napoletano), upper-southern / intermediate-southern Italo-Romance (Pellegrini group 'alto-meridionale'); a Romance language variety of the Neapolitan group (ISO 639-3 nap), traditionally called a dialect in Italy.",
   "language_family": "Indo-European > Romance > Italo-Romance > Southern Italian (Neapolitan group)",
@@ -15,26 +21,37 @@
   "available": true,
   "identifier_word": {
     "form": "uallera",
-    "variants": ["guallera", "guallara", "uallara", "wallera (commercial spelling used as the mode id)"],
+    "variants": [
+      "guallera",
+      "guallara",
+      "uallara",
+      "wallera (commercial spelling used as the mode id)"
+    ],
     "meaning_en": "Literally hernia (especially inguinal-scrotal hernia), by extension the scrotum; figuratively boredom/annoyance, in idioms such as abbuffà 'a uallera ('to swell someone's hernia' = to bore or annoy someone to death).",
     "meaning_it": "Letteralmente ernia (soprattutto inguino-scrotale), per estensione lo scroto; in senso figurato noia, fastidio, in locuzioni come abbuffà 'a uallera (= annoiare, scocciare a morte).",
     "attestation": "Attested as 'Guallara, Guallera sf. Ernia' in D'Ambra (1873), with the phrases 'Abbottare la guallara' (to be envious) and 'Abboffare la guallera' (to annoy, to bore); Andreoli (1887) has the derivative guallaruso 'ernioso'. Modern idioms 'Me staje abbuffanno 'a guallera' and 'M'hê fatto 'a guallara a pezzaiola' are collected in it.wikiquote Modi di dire napoletani; the proverb 'Guallere e denare nisciuno sape si ne tene' in it.wikiquote Proverbi napoletani. The aphaeretic spelling 'uallera' (initial g- dropped, as is normal before /w/ in Neapolitan) is attested in contemporary press ('ci ha fatto la uallera'). 'Wallera' with w is NOT a traditional Neapolitan spelling (the alphabet has no w): it is the commercial/brand spelling chosen for the mode name, rendering the pronunciation /wal'lerə/.",
-    "sources": ["src-nap-dambra-1873", "src-nap-andreoli-1887", "src-nap-wikiquote-modididire", "src-nap-wikiquote-proverbi", "src-nap-scattidigusto-uallera"]
+    "sources": [
+      "src-nap-dambra-1873",
+      "src-nap-andreoli-1887",
+      "src-nap-wikiquote-modididire",
+      "src-nap-wikiquote-proverbi",
+      "src-nap-scattidigusto-uallera"
+    ]
   },
   "sources": [
+    "src-nap-andreoli-1887",
+    "src-nap-dambra-1873",
+    "src-nap-enwiki-language",
+    "src-nap-fortunato-2017",
     "src-nap-itwiki-grammatica",
     "src-nap-itwiki-lingua",
-    "src-nap-enwiki-language",
-    "src-nap-dambra-1873",
-    "src-nap-andreoli-1887",
-    "src-nap-volpe-1869",
-    "src-nap-wikiquote-proverbi",
-    "src-nap-wikiquote-modididire",
-    "src-nap-wiktionary",
-    "src-nap-fortunato-2017",
     "src-nap-itwiki-misc",
+    "src-nap-scattidigusto-uallera",
     "src-nap-visitnaples-glossary",
-    "src-nap-scattidigusto-uallera"
+    "src-nap-volpe-1869",
+    "src-nap-wikiquote-modididire",
+    "src-nap-wikiquote-proverbi",
+    "src-nap-wiktionary"
   ],
   "resources": {
     "profile": "profile.md",
