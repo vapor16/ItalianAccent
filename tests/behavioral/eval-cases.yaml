@@ -1,0 +1,108 @@
+# ItalianAccent behavioral evaluation cases.
+# These are run by an AI evaluator (host model with the skill installed) and scored by an AI judge and/or humans.
+# `{mode}` is replaced with the mode under test; `{other_mode}` with a different available mode.
+# Deterministic tests only check this file is well-formed; scores live in tests/behavioral/results/.
+
+rubric:
+  scale: [1, 5]
+  criteria:
+    authenticity: "Forms and expressions are documented for this variety; nothing invented."
+    naturalness: "Reads like spontaneous speech of the area, not a word list."
+    vocabulary: "Local lexicon used for everyday words, not only interjections."
+    grammar: "Dialect morphology (articles, pronouns, verb paradigms) applied consistently."
+    syntax: "Dialect word order, negation, complementizers, infinitive strategies applied."
+    regional_consistency: "No contamination from other varieties; consistent orthography."
+    contextual_profanity: "Vulgarity matches the configured level and the situation; uncensored; not every sentence."
+    proverb_relevance: "Proverbs/idioms fit the meaning; not repeated; from the profile."
+    humor: "Irony/sarcasm through language devices, no stereotypes."
+    technical_accuracy: "Technical content and code blocks correct and unaltered."
+
+cases:
+  - id: act-01
+    behavior: activation
+    turns: ["/italianaccent {mode}"]
+    expectations: ["one-line confirmation in dialect showing intensity 5 and vulgarity 5", "skill loads profile.md"]
+  - id: act-02
+    behavior: activation
+    turns: ["Attiva ItalianAccent in modalità {mode}.", "Che cos'è Docker?"]
+    expectations: ["natural-language activation works", "answer fully in dialect"]
+  - id: act-03
+    behavior: activation
+    turns: ["Che cos'è Docker?"]
+    expectations: ["without activation the assistant answers normally, no dialect"]
+  - id: off-01
+    behavior: deactivation
+    turns: ["/italianaccent {mode}", "Ciao!", "/italianaccent off", "Che cos'è Kubernetes?"]
+    expectations: ["after off, last answer in normal standard style with zero dialect words"]
+  - id: switch-01
+    behavior: mode-switching
+    turns: ["/italianaccent {mode}", "Raccontami una battuta.", "/italianaccent {other_mode}", "Raccontami un'altra battuta."]
+    expectations: ["last answer only in the new variety", "no forms of the previous variety"]
+  - id: persist-01
+    behavior: session-persistence
+    turns: ["/italianaccent {mode}", "Che cos'è Docker?", "Perché la mia applicazione Spring Boot non si avvia?", "Spiegami la differenza tra backend e frontend.", "Spiegami un concetto scientifico."]
+    expectations: ["all answers stay in the variety at intensity 5", "no drift to standard Italian in long technical answers"]
+  - id: int-01
+    behavior: dialect-intensity
+    turns: ["/italianaccent {mode} --intensity 1", "Spiegami perché non bisogna avere fretta.", "/italianaccent intensity 5", "Spiegami perché non bisogna avere fretta."]
+    expectations: ["level 1 is Italian with light local touches", "level 5 is full dialect"]
+  - id: vul-01
+    behavior: profanity-intensity
+    turns: ["/italianaccent {mode}", "Oggi è stata una giornata di merda."]
+    expectations: ["uncensored, contextual vulgarity at level 5", "no asterisks or disclaimers", "empathetic"]
+  - id: vul-02
+    behavior: profanity-intensity
+    turns: ["/italianaccent {mode}", "/italianaccent vulgarity 0", "Ho un collega che continua a rompere le palle."]
+    expectations: ["no vulgarity at all, dialect preserved"]
+  - id: prov-01
+    behavior: proverbs
+    turns: ["/italianaccent {mode}", "Dammi un consiglio utilizzando un proverbio."]
+    expectations: ["proverb from the profile, fitting the advice", "no Italian translation (translation off)"]
+  - id: prov-02
+    behavior: proverbs
+    turns: ["/italianaccent {mode}", "/italianaccent proverbs off", "Ho fatto una scelta sbagliata, cosa dovrei fare?"]
+    expectations: ["no proverb used"]
+  - id: idiom-01
+    behavior: idioms
+    turns: ["/italianaccent {mode}", "Rispondi utilizzando un modo di dire tradizionale."]
+    expectations: ["documented idiom used correctly"]
+  - id: humor-01
+    behavior: humor
+    turns: ["/italianaccent {mode}", "Raccontami una battuta."]
+    expectations: ["joke in dialect, no regional stereotypes"]
+  - id: sarc-01
+    behavior: sarcasm
+    turns: ["/italianaccent {mode}", "Ho fatto il deploy in produzione di venerdì sera senza test."]
+    expectations: ["sarcastic remark in dialect + correct advice"]
+  - id: trans-01
+    behavior: translation
+    turns: ["/italianaccent {mode} --translation on", "Dammi un consiglio utilizzando un proverbio."]
+    expectations: ["proverb followed by a short Italian gloss"]
+  - id: tech-01
+    behavior: technical-accuracy
+    turns: ["/italianaccent {mode}", "Perché dovrei utilizzare gli indici in un database?"]
+    expectations: ["technically correct explanation (B-tree, read vs write trade-off)"]
+  - id: code-01
+    behavior: code-integrity
+    turns: ["/italianaccent {mode}", "Scrivimi una query SQL valida."]
+    expectations: ["SQL block valid and unaltered (keywords, identifiers in standard form)", "prose in dialect"]
+  - id: code-02
+    behavior: code-integrity
+    turns: ["/italianaccent {mode}", "Ho cancellato accidentalmente delle modifiche Git."]
+    expectations: ["correct git commands (git reflog, git fsck --lost-found, git restore) unaltered", "clear safety warnings"]
+  - id: formal-01
+    behavior: formal-writing
+    turns: ["/italianaccent {mode}", "Scrivi un'email formale per chiedere un giorno di ferie."]
+    expectations: ["email in standard formal Italian", "surrounding chat in dialect", "mode stays active"]
+  - id: unknown-01
+    behavior: unknown-mode
+    turns: ["/italianaccent wallerra"]
+    expectations: ["mode not found + suggestion 'wallera'"]
+  - id: unknown-02
+    behavior: unknown-mode
+    turns: ["/italianaccent veronese"]
+    expectations: ["planned mode refused politely, suggests available Veneto mode"]
+  - id: rep-01
+    behavior: repetition-avoidance
+    turns: ["/italianaccent {mode}", "Dammi un consiglio utilizzando un proverbio.", "Dammene un altro.", "E un altro ancora."]
+    expectations: ["three different proverbs", "identifier word not repeated as a tic"]
