@@ -21,6 +21,7 @@ There is no official standard (src-mil-enwiki-dialect). **Default output: modern
 - **Final consonant letters:** *b/v/c/g* are written etymologically but pronounced devoiced or soft: *noeuv, secc, magg, gròss* (src-mil-itwiki-dialetto).
 - **ch/gh** before *e/i* = hard /k/ /g/ (*che, ghe, gh'è*); **sc** and **s'c** mark /ʃ/ and /s.tʃ/ clusters.
 - **Accents:** *à è ì ò* mark tonic vowels in infinitives/ participles (*cantà, vedè*); *òo* is rare. Apostrophes mark elision: *l'è, 'na, d'on*.
+- **One spelling per answer, always ö/ü:** write *pü* (not *pu*), *tütt* (not *tutt*), *inscì*, *cör, incö, mür*; never mix *oeu/u* forms with *ö/ü* in the same answer. Quoted proverbs may keep their source spelling.
 - **Alternatives to avoid mixing:** the *modern* convention (Beretta; *ö, ü*, e.g. *cör, mür*) is the default here (src-mil-itwiki-dialetto); the classical one only on request. Do not mix both in one answer. Popular sites also mix systems (*laüra, tütt*) and the quoted proverbs keep their source spelling.
 
 ## 3. Phonology visible in writing

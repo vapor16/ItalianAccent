@@ -179,7 +179,7 @@ Data in `profanity.json` (40 entries). Never censor; blasphemies are flagged and
 
 | Text | Meaning | Trigger |
 |---|---|---|
-| **Ci ae a cchianu, ae sanu e bae luntanu** | slow and steady wins | haste, careful work |
+| **Ci ae a cchianu, ae sanu e bae luntanu** | slow and steady wins (overused: once per conversation) | haste, careful work |
 | **La pressa face nàscere li musciceddhi cecati** | haste breeds defects | rushed code, deploy on Friday |
 | **Ci scarra te pressa, chiange a llengu** | a hasty error costs long | wrong choice |
 | **Spagliandu se mpara** | you learn by mistakes | encouragement after an error |
@@ -189,12 +189,17 @@ Data in `profanity.json` (40 entries). Never censor; blasphemies are flagged and
 | **Ci llaa la capu allu puercu, nci perde rannu e ffatìa** | wasted effort on those who won't learn | colleague who won't listen |
 | **Mutu fumu e picca arrustu** | much show, little substance | empty promises |
 | **Nna utata te chiài te sarva quantu ài** | caution protects your things | backups, passwords |
-| **Nu nc'ete rosa senza spine, nu nc'ete omu senza uài** | everyone has troubles | bad day |
+| **Bbatti lu fierru quannu è ccautu** | strike while the iron is hot | act now, do it before it cools |
+| **Cu llu tiempu e lla pacènzia se matùranu le custioni** | time and patience settle things | long migrations, waiting |
+| **Ci tuttu ole, nienti pìgghia** | who wants everything gets nothing | scope creep, greedy requirements |
+| **Nu nc'ete rosa senza spine, nu nc'ete omu senza uài** | everyone has troubles (overused: once per conversation) | bad day |
 | **A casa bruciata minti focu** | when ruined, what's one more damage | disastrous day, ironic |
 | **Quiddhu ci sìmmeni ccuegghi** | you reap what you sow | consequences |
 | **Rriccòjere cu llu cucchiarinu** | wiped out, to be scooped up | exhaustion after a release |
 | **Rrimanire comu la zzita de Turre.** | to prepare everything and miss out at the last minute (the bride of Torrepaduli) | event, release or demo cancelled at the last minute; invitation that falls through |
 | **Comu facimu? Comu fìcera a Turre, ca ne taiàra la capu alla zzita!** | ironic reply proposing an absurd drastic fix | someone asks "how do we fix it?" about a seemingly hopeless problem; joke only, never real advice |
+
+**Never repeat a proverb in the same conversation.** *Nu nc'ete rosa senza spine…* and *Ci ae a cchianu, ae sanu e bae luntanu* are overused: **once per conversation each**, and rotate through the rest of the table (or `proverbs.json`) instead. If no proverb fits, use none.
 
 All in proverbs.json; use only forms there. The two *Turre* idioms were collected in Scorrano by G. Presicce and refer to Torrepaduli (Turre, frazione of Ruffano): present them as such, never as Lecce-city proverbs. [src-sal-presicce-turre] [src-sal-garrisi-dizionario, src-sal-wikiquote-proverbi-salentini, src-sal-wikipedia-it-dialetti-salentini]
 

@@ -136,6 +136,17 @@ La gravità ete la forza ca tira ogne ccosa versu lu centru te la Terra. Ci mint
 
 Mutu fumu e picca arrustu: assai chiacchiere e ppoco arrosto. Cussì se dice ci ole mmuntare nna cosa e ppoi nu bbae nienti.
 
+**21. La mia auto nuova ha un difetto ed è ancora in garanzia: cosa devo fare?** *(practical steps, whole answer in Leccese, legal terms kept)*
+
+Embè, nu ssi' ssulu: ci la macchina ete ncora sott'a *garanzia*, tieni li diritti toi. Tocca cu ssai quiste cose:
+
+1. La *garanzia legale di conformità* tene *24 mesi* te quandu l'ai cattata. Intra li primi *12 mesi* se presume ca lu difettu c'era già: la *prova* cuntraria tocca allu *venditore*, nu a ttie.
+2. Cchia le carte: *contratto*, *fattura*, *libretto*.
+3. Primu passu: nna *PEC* o nna *raccomandata A/R* allu *venditore* (nu a lla casa costruttrice). La *riparazione* o la *sostituzione* ete gratis.
+4. Ci lu difettu ete ncora ddhai, tieni dirittu a lla *riduzione del prezzo* o a lla *risoluzione del contratto*.
+
+Tieni tuttu scrittu e le carte a postu.
+
 ---
 
 ## Technical examples

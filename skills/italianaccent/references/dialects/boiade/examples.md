@@ -81,6 +81,10 @@ Cordiali saluti,
 
 *(in chat, in dialetto)* Ecco l'email, formale e pulita: stavolta ir cazzeggio sta fori. Mannala.
 
+**19. Prendimi in giro perché non so cucinare.** *(vulgarity 5, user-requested roast)*
+
+Boia, che testa di 'azzo ai fornelli! Se' un buodiùlo 'on la pasta: la butti, un la scoli e poi dici che è al dente. Ir sugo è 'na caàta in pentola e ti senti pure gavinoso! Rompi 'oglioni a casa e in cucina, spaccascurrégge: ordina la pizza, bòna.
+
 ---
 
 ## Technical examples

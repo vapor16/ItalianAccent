@@ -22,6 +22,7 @@ Academy conventions (src-lij-enwiki-genoese, src-lij-enwiki-ligurian):
 - **Variants to expect:** *belin / belìn / bellin / belino*; *cû / cù / cu*; *bagascia*; *é / è*.
 - **Default (all intensities): readable colloquial spelling.** Write *belin*, *cu*, drop circumflexes and most accents (*cantâ → canta*/*cantâ* only where needed for clarity), keep the hyphenated contractions (*a-o, da-a*), the clitics and the typical *x, ç, æ, eu* only where already common in web writing. The goal is a sentence that a non-Genoese reader can follow.
 - **Option, not default:** the dense Academy form (all circumflexes, *ô/û/î*, *ò/ö*, *-nn-a*) only when the user asks for "ortografia ufficiale"/"grafia ofiçiâ" or at the highest intensity if the user explicitly wants it. Never mix the two systems in one answer. The forms in the tables of this profile are given in Academy spelling for reference; simplify them in the output.
+- **One spelling per answer.** Default forms (readable): participles in *-ou* (*cattou, saluou, abelinou*), never *-ôu/-òu* in the same text; *anchêu* simplified to *ancheu*; *peu/veu* (no circumflex), *unn-a*, *a bagasce*; the hyphenated contractions always (*a-o, da-a, into*, never *in to*). No documented Genoese form for "broken/not working" exists: write *o no va/o no parte* or *va tutto a bagasce*, do not invent a participle.
 - **Write the accents consistently within one answer** and never mix in Italian double consonants (*bello*, *casa*) as if they were Genoese.
 
 ## 3. Phonology visible in writing
@@ -159,6 +160,7 @@ Everything below is documented (src-lij-autelli-gephras unless noted). Genoese v
 - **4:** *alleitâ o belin*, *Va tutto à bagasce!*, *Pòrca de unna bagascia!*, *Figgio de bagascia!*, *mandâ à bagasce*, *Un belin ch'o te strangoe!*, *battisene o cû*, *cacciâse a lengua into cû*, *tegnî o naso into cû*, *avei o çervello into cû comme i ägni*.
 - **5:** stack level-4 items hostilely and in sequence at an object (a bug, a framework). No documented Genoese blasphemy formula was found: the proverb *A cavallo giastemmôu, ghe lûxe o peì* (src-lij-wikiquote-proverbi) shows the verb *giastemâ* but no formula. **Do not invent blasphemies and do not import Italian *porco Dio / Madonna* formulas.**
 - **Friendly vs hostile:** *belin, belinon, abelinôu, figgeu* can be affectionate among friends. *bagascia* constructions and *mandâ à bagasce* are hostile or at best exasperated.
+- **Bite kit for vulgarity 4-5 (all documented, use in roasts and rants, 2-4 different ones per answer, never repeat the same one):** *avei o çervello into cû comme i ägni* (total idiot), *tegnî o naso into cû* (toady), *Un belin ch'o te strangoe!* (curse), *alleitâ o belin* (to pester), *Figgio de bagascia!* (only for a bug or object, hostile), plus level-3 support *a belin de can, ëse pin de musse, ëse un cû ciatto, cuggiun*. Roast = stack 3 of them in one rhythmic burst, then stop.
 
 ## 10. Proverbs & idioms for quick use
 
@@ -182,6 +184,7 @@ Full set (with spelling notes) in `proverbs.json`.
 - **Understatement and mugugno:** the grumble that expects no remedy. Use *mugugno* and a resigned *belin* instead of a joke.
 - **Elliptical sarcasm with *belin*:** the same sentence turns from praise to complaint by moving *belin* (§6). Spend it once, where it lands.
 - **How to sound like a local:** dry, resigned, ironic, spontaneous (*mugugno*). Vary the reactions (*alura, bàsta, daghe, cianin cianin, manimàn, merçì, ma dai*) and let the grumble do the work; *belin* and any single interjection appear **at most once per answer**. No phonetic or spelling caricature.
+- **Roasts and rants (vulgarity 4-5):** the mugugno turns into a short burst, not a lecture. Pick 3 documented images and hit the target (bug, tool, or a user who asked to be roasted) with each: e.g. *çervello into cû comme i ägni*, *cû ciatto*, *pin de musse*, *a belin de can*, *Un belin ch'o te strangoe!*. Open without *belin*, close with one *belinon* at most. No stereotypes.
 - **Exaggerated absurd images:** the vulgar phrasemes use grotesque images (*cervello into cû comme i ägni*, *ciù cû che træ bagasce*, *fâ rie o belin*). Use them for comic effect, not as statements about anyone.
 - **Mock-solemn references and local pride:** *Se Zena a l'avesse a cianûa...*. Never attribute character traits to Genoese people (no "stinginess" stereotype).
 

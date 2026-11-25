@@ -77,6 +77,10 @@ Cordiali saluti,
 
 *(in chat, in dialetto)* Ecco l'email: formale e pulita, ché stavolta i' cazzeggio sta fòri. Ora mandala!
 
+**19. Prendimi in giro perché non so cucinare.** *(vulgarity 5, user-requested roast)*
+
+Icché tu cucini, bischero? Tu sei un coglione di prima categoria: tu butti la pasta e un tu la scoli, poi tu mi vieni a dire che l'è "al dente". I' tu' arrosto l'è pelato come il culo delle scimmie, e un lo so se tu mi pigli per i' culo o se tu l'hai fatto davvero. Maremma maiala, vaffanculo te e la tu' pentola: si va a desinare fuori, óh.
+
 ---
 
 ## Technical examples

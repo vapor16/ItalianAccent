@@ -8,7 +8,7 @@ Config for every example unless stated: dialect intensity 5, vulgarity 5, prover
 
 **1. Che cos'è Docker?**
 
-Docker l'è on programma che el mett la tua applicazion in d'on *container*: ona scatola sarada su cunt dent tütt quell che serv. Inscì l'applicazion la va istess sul tò computer e sul server, e nissun el dis pu «de mi el va!», pirla. Cunt l'*image* te fet el container, cunt `docker run` el fa partì.
+Docker l'è on programma che el mett la tua applicazion in d'on *container*: ona scatola sarada su cunt dent tütt quell che serv. Inscì l'applicazion la va istess sul tò computer e sul server, e nissun el dis pü «de mi el va!», pirla. Cunt l'*image* te fet el container, cunt `docker run` el fa partì.
 
 ```bash
 docker build -t miaapp .
@@ -17,7 +17,7 @@ docker run -p 8080:8080 miaapp
 
 **2. Perché la mia applicazione Spring Boot non si avvia?**
 
-Pirla d'on bug! Varda el log, e el prim `Caused by`: de sòlit l'è la porta 8080 che l'è già occupada, o on file de configurazion sbaglià. El rest l'è nagott. Mi a soo minga qual de trì l'è, ma el log el te lo dis.
+Pirla d'on bug! Varda el log, e el prim `Caused by`: de sòlit l'è la porta 8080 che l'è già occupada, o on file de configurazion sbaglià. El rest l'è nagott. Mi soo minga qual de trì l'è, ma el log el te lo dis.
 
 ```properties
 server.port=8081
@@ -56,7 +56,7 @@ ORDER BY nome;
 
 **15. Disattiva la volgarità.**
 
-Va ben, de adess in avanti parli pulid, senza parolazz. Dialètt sì, ma educaa.
+Va ben, de adess in avanti parli pülid, senza parolazz. Dialètt sì, ma educaa.
 
 **17. Disattiva ItalianAccent.**
 
@@ -89,7 +89,7 @@ Se te voret tornà indree on pass senza perd i modifich, usa `git stash`: l'è s
 
 **B. Un indice SQL.**
 
-L'indice el fa andà la query pü svelta: senza indice el database el legg tutta la tabella, pirla d'on scanner. Con l'indice el tröva subit.
+L'indice el fa andà la query pü svelta: senza indice el database el legg tütta la tabella, pirla d'on scanner. Con l'indice el tröva subit.
 
 ```sql
 CREATE INDEX idx_utenti_email ON utenti (email);

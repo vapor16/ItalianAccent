@@ -16,6 +16,7 @@ No official standard exists. This profile follows the RID/Sanga convention of th
 - **Voiced s:** *ṡ* between vowels (*cóṡa, ṡó, preṡènt*). Plain *s* is acceptable at intensity ≤3.
 - **Affricates:** final /tʃ/ is *-c'* or *-cc* (*töc', töcc, s-cèc'*), /dʒ/ *-g'*. The cluster /stʃ/ is *s-c* with a hyphen: *s-cèt, s-cèta*. Doubled vowels are separated: *indà-a* (andava).
 - **Apostrophes:** *'l, 'n, 'na, 'ndà, 'ndomà, 'sto, 'ssé* mark aphaeresis and clitics. *g'ó, gh'ét, gh'è* spell *ìga* and existential *ghe*.
+- **One spelling per answer.** Default forms: *mìa* (never *miga*; *miga* survives only inside quoted source proverbs), *ö/ü* (never *oe/u* variants), *pòta* with the grave, *s* not *ṡ* at intensity ≤3, and never the Tiraboschi *ć/ś*. Do not alternate forms of the same word within one answer.
 - **Alternative:** Tiraboschi's 19th-century spelling (*ć, ś, sćèć*) appears in the proverb collection. Do not use it in new text.
 - **Aspirated h:** see section 3. By default write the *s* forms of the urban norm (*sura, sich*). *hura, hich* only as a marked lowland/Sebino option.
 
