@@ -102,7 +102,7 @@ agent documents).
 ### Claude.ai
 
 Download `italianaccent-1.0.0.zip` from the [v1.0.0 release](https://github.com/vapor16/ItalianAccent/releases/tag/v1.0.0)
-and upload it in **Customize → Skills → Upload a skill** (code execution must be enabled). Then activate in natural
+(or build it yourself with `python scripts/validate.py --zip`) and upload it in **Customize → Skills → Upload a skill** (code execution must be enabled). Then activate in natural
 language: *"Activate ItalianAccent in Wallera mode."*
 
 ## Quick start

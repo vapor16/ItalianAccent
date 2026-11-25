@@ -100,7 +100,7 @@ Per altri agenti copia la stessa cartella nella loro directory delle skill.
 ### Claude.ai
 
 Scarica `italianaccent-1.0.0.zip` dalla [release v1.0.0](https://github.com/vapor16/ItalianAccent/releases/tag/v1.0.0)
-e caricalo in **Personalizza → Skill → Carica una skill** (serve l'esecuzione di codice attiva). Poi attivala a
+(oppure generalo con `python scripts/validate.py --zip`) e caricalo in **Personalizza → Skill → Carica una skill** (serve l'esecuzione di codice attiva). Poi attivala a
 parole: *"Attiva ItalianAccent in modalità Wallera."*
 
 ## Avvio rapido

@@ -2,7 +2,7 @@
   "project": "ItalianAccent",
   "version_target": "1.0.0",
   "updated": "2026-11-25",
-  "current_phase": "v1.0.0 release preparation: corrections done, installed-skill evaluation done, retest of fixes running",
+  "current_phase": "v1.0.0 ready on main; tag and GitHub release require owner action (session proxy refuses tag push and release API with HTTP 403)",
   "completed": [
     "M0 bootstrap + first push",
     "M1 spec verification",
@@ -11,10 +11,7 @@
     "plugin manifests (claude plugin validate passed)"
   ],
   "pending": [
-    "retest of fixes",
-    "release v1.0.0: tag, GitHub release with ZIP",
-    "distribution check via npx skills add vapor16/ItalianAccent --list",
-    "final Italian report"
+    "owner: topics, workflows activation, tag + release"
   ],
   "blocked": [
     {
@@ -26,6 +23,11 @@
       "task": "Activate GitHub Actions workflows",
       "reason": "Session token lacks 'workflow' scope; GitHub rejects pushes touching .github/workflows/",
       "next_action": "Owner runs: git mv ci/workflows .github/workflows && git commit -m 'ci: activate GitHub Actions workflows' && git push"
+    },
+    {
+      "task": "Tag v1.0.0 and GitHub release",
+      "reason": "Session proxy returns HTTP 403 for tag push and for the releases API",
+      "next_action": "Owner runs: git clone https://github.com/vapor16/ItalianAccent && cd ItalianAccent && python3 scripts/validate.py --zip && git tag -a v1.0.0 -m 'ItalianAccent v1.0.0' && git push origin v1.0.0 && gh release create v1.0.0 dist/italianaccent-1.0.0.zip --title 'ItalianAccent v1.0.0' --notes-file docs/releases/v1.0.0.md"
     }
   ],
   "partial": [],
@@ -56,7 +58,9 @@
     "pytest: all pass (structural, linguistic incl. audit regressions, security, behavioral-format)",
     "claude plugin validate: passed",
     "skills CLI 1.9.0 discovers italianaccent (local)",
-    "AI-assisted installed-skill eval (claude -p, Sonnet, with vs without): 11 modes, 34 prompts; scored for 7 modes in tests/behavioral/results/v1.0.0/SCORES.md (3.57 with vs 3.34 without; with wins on authenticity/grammar/regional consistency/technical accuracy, lost on profanity/humor -> fixed)"
+    "AI-assisted installed-skill eval (claude -p, Sonnet, with vs without): 11 modes, 34 prompts; scored for 7 modes in tests/behavioral/results/v1.0.0/SCORES.md (3.57 with vs 3.34 without; with wins on authenticity/grammar/regional consistency/technical accuracy, lost on profanity/humor -> fixed)",
+    "Retest of fixes on installed skill: tests/behavioral/results/v1.0.0-retest",
+    "Distribution: npx skills add vapor16/ItalianAccent --skill italianaccent -a claude-code installs SKILL.md + 11 profiles from public GitHub"
   ],
   "test_failures": [],
   "decisions": [
@@ -76,5 +80,5 @@
     "Palermitano preconsonantal r→j (cajni, pajrari): asserted in mbare/profile.md §14 citing src-scn-stalfieri-2022, not found in minchia's sources. Needs native/linguist review; minchia profile does not use it.",
     "belin, minchia: no attested blasphemy formulas found; none generated."
   ],
-  "next_action": "Review retest transcripts, then tag and publish v1.0.0."
+  "next_action": "Owner manual steps (see blocked). Then verify GitHub Actions run and release page."
 }
