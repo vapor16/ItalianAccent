@@ -1,0 +1,48 @@
+name: Request a new dialect
+description: Propose a new ItalianAccent mode
+labels:
+- dialect
+- new-mode
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: variety
+  attributes:
+    label: Variety (town/area)
+  validations:
+    required: true
+- type: input
+  id: region
+  attributes:
+    label: Region
+  validations:
+    required: true
+- type: input
+  id: identifier
+  attributes:
+    label: Proposed identifier word (must be attested locally)
+  validations:
+    required: true
+- type: textarea
+  id: meaning
+  attributes:
+    label: Meaning of the identifier word
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false
+- type: checkboxes
+  id: speaker
+  attributes:
+    label: Native speaker
+    options:
+    - label: I speak this variety and could help review the profile

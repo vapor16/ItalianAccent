@@ -1,0 +1,42 @@
+name: Native-speaker review
+description: Review a profile as a local speaker (needed for community-reviewed status)
+labels:
+- review
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: scope
+  attributes:
+    label: What did you review? (grammar, lexicon, profanity, proverbs, examples)
+  validations:
+    required: true
+- type: textarea
+  id: findings
+  attributes:
+    label: 'Findings: correct / wrong / missing items'
+  validations:
+    required: true
+- type: checkboxes
+  id: confirm
+  attributes:
+    label: Confirmation
+    options:
+    - label: I am a speaker of this variety and my review reflects real local usage
+      required: true

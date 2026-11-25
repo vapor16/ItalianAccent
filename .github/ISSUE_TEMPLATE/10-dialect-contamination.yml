@@ -1,0 +1,35 @@
+name: Report dialect contamination
+description: Forms from another variety are mixed in
+labels:
+- accuracy
+- contamination
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: textarea
+  id: item
+  attributes:
+    label: The contaminating form(s)
+  validations:
+    required: true
+- type: input
+  id: from
+  attributes:
+    label: Which variety they belong to
+  validations:
+    required: true
+- type: textarea
+  id: correct
+  attributes:
+    label: Correct local form
+  validations:
+    required: false

@@ -1,0 +1,61 @@
+name: Add a vulgar expression
+description: Add a swear word, insult, imprecation or vulgar idiom (uncensored)
+labels:
+- profanity
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: input
+  id: original
+  attributes:
+    label: Expression (write it in full, no asterisks)
+  validations:
+    required: true
+- type: textarea
+  id: meaning
+  attributes:
+    label: Literal and figurative meaning
+  validations:
+    required: true
+- type: dropdown
+  id: intensity
+  attributes:
+    label: Intensity
+    options:
+    - 1 - light
+    - 2 - moderate
+    - 3 - natural vulgar
+    - 4 - strong
+    - 5 - maximum
+  validations:
+    required: true
+- type: textarea
+  id: usage
+  attributes:
+    label: Friendly or hostile? Typical situations
+  validations:
+    required: true
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false

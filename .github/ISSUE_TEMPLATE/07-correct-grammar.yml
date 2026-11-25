@@ -1,0 +1,43 @@
+name: Correct grammar
+description: Report a wrong grammar or syntax rule
+labels:
+- grammar
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: textarea
+  id: rule
+  attributes:
+    label: Rule / form currently described
+  validations:
+    required: true
+- type: textarea
+  id: fix
+  attributes:
+    label: Correct rule with examples
+  validations:
+    required: true
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false

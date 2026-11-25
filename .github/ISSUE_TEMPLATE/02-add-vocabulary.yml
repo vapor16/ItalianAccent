@@ -1,0 +1,55 @@
+name: Add a vocabulary entry
+description: Add a word or expression
+labels:
+- vocabulary
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: input
+  id: term
+  attributes:
+    label: Term (with spelling variants)
+  validations:
+    required: true
+- type: input
+  id: meaning
+  attributes:
+    label: Meaning (Italian / English)
+  validations:
+    required: true
+- type: input
+  id: pos
+  attributes:
+    label: Part of speech / category
+  validations:
+    required: false
+- type: textarea
+  id: example
+  attributes:
+    label: Example sentence
+  validations:
+    required: false
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false

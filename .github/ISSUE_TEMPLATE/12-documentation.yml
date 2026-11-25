@@ -1,0 +1,21 @@
+name: Improve documentation
+description: Docs are unclear, wrong or missing
+labels:
+- documentation
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: where
+  attributes:
+    label: File / section
+  validations:
+    required: true
+- type: textarea
+  id: problem
+  attributes:
+    label: What should change
+  validations:
+    required: true

@@ -1,0 +1,50 @@
+name: Correct a vocabulary entry
+description: Fix a wrong word, meaning or spelling
+labels:
+- vocabulary
+- correction
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: input
+  id: term
+  attributes:
+    label: Entry as currently written
+  validations:
+    required: true
+- type: textarea
+  id: problem
+  attributes:
+    label: What is wrong
+  validations:
+    required: true
+- type: textarea
+  id: fix
+  attributes:
+    label: Proposed correction
+  validations:
+    required: true
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false

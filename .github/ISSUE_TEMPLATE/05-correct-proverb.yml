@@ -1,0 +1,44 @@
+name: Correct a proverb or idiom
+description: Fix a proverb, its translation or meaning
+labels:
+- proverbs
+- correction
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: textarea
+  id: current
+  attributes:
+    label: Proverb as currently written
+  validations:
+    required: true
+- type: textarea
+  id: fix
+  attributes:
+    label: Proposed correction and why
+  validations:
+    required: true
+- type: input
+  id: area
+  attributes:
+    label: Town / area where this usage is attested
+    description: No personal data needed.
+  validations:
+    required: true
+- type: textarea
+  id: sources
+  attributes:
+    label: Sources
+    description: Dictionary, book, URL, or 'native speaker usage'. Do not paste copyrighted
+      dictionary text.
+  validations:
+    required: false

@@ -1,0 +1,29 @@
+name: Report an invented expression
+description: Something looks made up
+labels:
+- accuracy
+- invented
+body:
+- type: markdown
+  attributes:
+    value: Thanks! Please do not paste copyrighted dictionary text; describe facts
+      in your own words.
+- type: input
+  id: mode
+  attributes:
+    label: Mode id (e.g. wallera, trimone)
+    placeholder: wallera
+  validations:
+    required: true
+- type: textarea
+  id: item
+  attributes:
+    label: Entry or example that looks invented
+  validations:
+    required: true
+- type: textarea
+  id: why
+  attributes:
+    label: Why you think it is not authentic
+  validations:
+    required: true
