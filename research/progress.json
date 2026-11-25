@@ -1,8 +1,8 @@
 {
   "project": "ItalianAccent",
-  "version_target": "0.1.0",
+  "version_target": "1.0.0",
   "updated": "2026-11-25",
-  "current_phase": "M4 pilots: wallera, mena, trimone integrated; daje+mbare completing; M5 breadth started (minchia, belin)",
+  "current_phase": "v1.0.0 release preparation: corrections done, installed-skill evaluation done, retest of fixes running",
   "completed": [
     "M0 bootstrap + first push",
     "M1 spec verification",
@@ -11,15 +11,10 @@
     "plugin manifests (claude plugin validate passed)"
   ],
   "pending": [
-    "M4 pilots: trimone mbare wallera daje mena",
-    "M4b early behavioral test",
-    "M5 batches A-D",
-    "M6 enrichment",
-    "M7 tests",
-    "M8 eval",
-    "M9 CI",
-    "M10 docs",
-    "M11-M14"
+    "retest of fixes",
+    "release v1.0.0: tag, GitHub release with ZIP",
+    "distribution check via npx skills add vapor16/ItalianAccent --list",
+    "final Italian report"
   ],
   "blocked": [
     {
@@ -35,44 +30,34 @@
   ],
   "partial": [],
   "dialects": {
-    "implemented_experimental": [
-      "wallera",
-      "mena",
+    "available_experimental": [
       "trimone",
-      "daje",
       "mbare",
-      "belin",
+      "wallera",
+      "daje",
+      "mena",
       "minchia",
+      "belin",
       "bischero",
       "boiade",
       "pirla",
       "pota"
     ],
-    "completing": [
-      "daje",
-      "mbare"
+    "parked_future": [
+      "pataca (complete, not released)",
+      "socmel (partial)",
+      "ostrega (partial)"
     ],
-    "in_research": [],
-    "queue": [
-      "socmel",
-      "pataca",
-      "ostrega",
-      "neh",
-      "mandi",
-      "mona",
-      "ajo",
-      "frechete",
-      "ntamato",
-      "freghi",
-      "cio",
-      "basilicata-tbd",
-      "molise-tbd",
-      "marche-tbd",
-      "valle-daosta-tbd"
-    ]
+    "planned": "see catalog.json"
   },
   "sources_consulted": "see research/sources.json and research/raw/*-log.md",
-  "tests_executed": [],
+  "tests_executed": [
+    "scripts/validate.py: 0 errors",
+    "pytest: all pass (structural, linguistic incl. audit regressions, security, behavioral-format)",
+    "claude plugin validate: passed",
+    "skills CLI 1.9.0 discovers italianaccent (local)",
+    "AI-assisted installed-skill eval (claude -p, Sonnet, with vs without): 11 modes, 34 prompts; scored for 7 modes in tests/behavioral/results/v1.0.0/SCORES.md (3.57 with vs 3.34 without; with wins on authenticity/grammar/regional consistency/technical accuracy, lost on profanity/humor -> fixed)"
+  ],
   "test_failures": [],
   "decisions": [
     "Frontmatter uses only portable Agent Skills keys (name, description, license, compatibility, metadata); Claude-Code-only keys avoided because claude.ai uploads reject unknown keys.",
@@ -82,11 +67,14 @@
     "LICENSE copyright: ItalianAccent contributors.",
     "Usage policy (user directive): subagents run on Sonnet, max 3 concurrent; deterministic tasks (integration, sources.md, stats, validation) via scripts/validate.py.",
     "Interrupted pilot agents were completed by fresh Sonnet agents using research/completion-brief.md (no research repeated).",
-    "Validator: lexicon homographs allowed when part_of_speech differs; censorship check targets letter*letter only."
+    "Validator: lexicon homographs allowed when part_of_speech differs; censorship check targets letter*letter only.",
+    "Owner simplified scope: v1.0.0 with 11 modes; unfinished profiles parked in research/future-profiles.",
+    "External audit (research/ITALIANACCENT_RESEARCH.md) applied with source verification where possible.",
+    "Evaluation-driven fixes: vulgarity 4-5 must bite, no repeated proverbs, lists in dialect, short activation, one spelling per answer."
   ],
   "open_issues": [
     "Palermitano preconsonantal r→j (cajni, pajrari): asserted in mbare/profile.md §14 citing src-scn-stalfieri-2022, not found in minchia's sources. Needs native/linguist review; minchia profile does not use it.",
     "belin, minchia: no attested blasphemy formulas found; none generated."
   ],
-  "next_action": "Integrate daje/mbare/minchia/belin as they finish; launch next breadth modes (bischero, boiade, pirla...)."
+  "next_action": "Review retest transcripts, then tag and publish v1.0.0."
 }
