@@ -1,0 +1,79 @@
+{
+  "id": "mbare",
+  "display_name": "Mbare",
+  "aliases": [
+    "mbari",
+    "mbà"
+  ],
+  "region": "Sicilia",
+  "provinces": [
+    "Catania"
+  ],
+  "geographical_area": "City of Catania and most of its province (urban Catanese). The profile follows the city norm; the Etna sub-varieties (CT I-IV in the Vocabolario siciliano) and the adjoining Siracusa area are not described separately. Palermitano and western Sicilian, Messinese and the metaphonetic varieties of central and south-eastern Sicily are excluded.",
+  "linguistic_classification": "Sicilian (Siciliano), Extreme Southern Italo-Romance, eastern non-metaphonetic group, Catanese variety; traditionally called a dialect, also classed as a regional language.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Extreme Southern Italian (Sicilian)",
+  "orthographic_conventions": "Popular phonetic spelling: final vowels only -a, -i, -u; dd for the retroflex from Latin -LL- (beddu, iddu; alternative ḍḍ); articles u, a, i; j for /j/ (jornu); gghi (figghiu); chi- from pl- (chianu); apostrophes for aphaeresis ('mbari, 'nzirtari); circumflex contractions (ô, â, dû, hâ, âmu). At intensity 4-5 the Catanese changes are written (r assimilated before consonants: fotti, jonnu; d > r: rumani, ranni from granni); at 1-2 the general Sicilian spelling is used (forti, jornu, dumani, granni).",
+  "description_en": "Catanese Sicilian: three-vowel unstressed system (-a, -i, -u), no metaphonic diphthongs, retroflex dd, rhotacism of d (rumani), assimilation of preconsonantal r (fotti, jonnu), full infinitives (-ari, -iri), passato remoto as the everyday past, no productive future (present + adverb or aviri a + infinitive), aviri a for obligation, stari + gerund for the progressive, accusative a with animate objects, subjunctive in place of the conditional and 3pl -unu endings (diciunu). Voice: a friendly, ironic speaker who calls everyone 'mbari and urges with 'avaia!'.",
+  "description_it": "Il siciliano di Catania: vocali atone solo -a, -i, -u, nessun dittongo metafonetico, dd cacuminale, rotacismo di d (rumani), assimilazione di r davanti a consonante (fotti, jonnu), infiniti interi (-ari, -iri), passato remoto come passato di tutti i giorni, nessun futuro produttivo (presente + avverbio o aviri a + infinito), aviri a per il dovere, stari + gerundio per il progressivo, a davanti a complemento oggetto animato, congiuntivo al posto del condizionale e terza plurale in -unu (diciunu). Tono: amichevole e ironico, chiama tutti 'mbari e sprona con 'avaia!'.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "'mbare",
+    "variants": [
+      "'mbari",
+      "'mpari",
+      "'mpare",
+      "mbari",
+      "mbà"
+    ],
+    "meaning_en": "Sicilian vocative 'mate, buddy', from Latin compater (godfather, companion).",
+    "meaning_it": "Vocativo siciliano 'amico, compare', dal latino compater (compare).",
+    "attestation": "Wiktionary lists 'mbari and notes it is often written 'mbare; Martoglio's Centona (Catania, 1899) writes 'mpari; SoloLibri places 'mpare/'mbare in the north-east (Catania, Messina) versus compà/cumpà in the south-west. The mode name is the popular spelling 'mbare, not the academic form 'mbari.",
+    "sources": [
+      "src-scn-wiktionary",
+      "src-cat-martoglio-centona",
+      "src-cat-sololibri-parole"
+    ]
+  },
+  "sources": [
+    "src-cat-balarm-babbu-ova",
+    "src-cat-balarm-tri-pila",
+    "src-cat-blogsicilia-pacchione",
+    "src-cat-ilfoglio-suca",
+    "src-cat-liveunict-camurria",
+    "src-cat-liveunict-influenze",
+    "src-cat-liveunict-proverbi",
+    "src-cat-martoglio-centona",
+    "src-cat-sololibri-parole",
+    "src-cat-wikipedia-it",
+    "src-cat-wikipedia-it-orientale",
+    "src-cat-wikipedia-scn-parrata",
+    "src-scn-balarm-modi-di-dire",
+    "src-scn-balarm-raggia",
+    "src-scn-stalfieri-2022",
+    "src-scn-ud-sicilian",
+    "src-scn-wikipedia-en",
+    "src-scn-wikipedia-en-profanity",
+    "src-scn-wikiquote-proverbi",
+    "src-scn-wiktionary"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "Catanese-specific forms rest mainly on Martoglio's Centona (1899) and on Wikipedia pages; modern spoken Catanese may differ (e.g. -unu 3pl, 2pl -stru/-stuu).",
+    "Sicilian spelling is not standardized (dd/ḍḍ, u/'u/lu, j/i): the profile picks one form and lists alternatives; intensity 1-2 uses general Sicilian spelling.",
+    "Several colloquial and vulgar items rest on low-reliability popular or journalistic sources and are marked accordingly in the data files.",
+    "No Catanese blasphemous formula was found in the sources, so none is documented or generated.",
+    "Palermitano and Catanese differ (e.g. pacchiuni, compà vs 'mbari, preconsonantal r): items attested only for the west were excluded, but gaps may remain."
+  ],
+  "last_updated": "2026-11-25"
+}
