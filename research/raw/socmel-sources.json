@@ -1,0 +1,268 @@
+{
+  "sources": [
+    {
+      "id": "src-bo-itwiki-dialetto",
+      "title": "Dialetto bolognese (Wikipedia in italiano)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_bolognese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Uses the Canepari-Vitali OLM spelling; some parts are uncited. Facts only, rephrased.",
+      "relevant_sections": "Ortografia, articoli, pronomi, plurali, essere/mangiare, numerali, negazione brîṡa",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bo-enwiki-dialect",
+      "title": "Bolognese dialect (Wikipedia, English)",
+      "url": "https://en.wikipedia.org/wiki/Bolognese_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Detailed grammar sections (clitics, negation, plurals, participles, syntax) with example sentences; the page itself notes some inconsistent tables and missing citations.",
+      "relevant_sections": "Orthography, subject clitic table, avair/èser, negation, plurals, articles, examples, mò, es",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bo-wiktionary",
+      "title": "English Wiktionary, Emilian (Bolognese) entries: andèr, fèr, vlair, dîr, psair, savair, magnèr, sucèr, brîṡa",
+      "url": "https://en.wiktionary.org/wiki/andèr",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Conjugation tables built from Vitali-Lepri; each verb is a separate page on en.wiktionary.org (andèr, fèr, vlair, dîr, psair, savair, magnèr, sucèr, brîṡa).",
+      "relevant_sections": "Present indicative paradigms, participles, brîṡa usage and etymology",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Wiktionary contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bo-verbix",
+      "title": "Verbix: Bolognese verb conjugation (conjugation classes)",
+      "url": "https://docs.verbix.com/Languages/Bolognese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "openly-licensed",
+      "license": "Site terms (free to read); facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Model paradigms for the four conjugation classes (mandèr, parair, adliżer, finîr) incl. imperfect and future.",
+      "relevant_sections": "Conjugation classes, imperfect, future, gerund, participle",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Verbix"
+    },
+    {
+      "id": "src-bo-itwiki-soccmel",
+      "title": "Socc'mel (Wikipedia in italiano)",
+      "url": "https://it.wikipedia.org/wiki/Socc'mel",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Cites Menarini, Lepri-Vitali (2007), Mainoldi, Panzini, Treccani 'Intercalari'. Gives meaning, spelling variants, softening of use.",
+      "relevant_sections": "Meaning, sucèr link, variants soccia/bän/in pónta, usage, bibliography",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Wikipedia contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bo-bulgnais-lessico",
+      "title": "Al sît bulgnaiṡ: Parôl (lessico), including Menarini's entry on socc'mel and a phrasebook",
+      "url": "https://www.bulgnais.com/lessico.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "community-dictionary",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Maintained by Daniele Vitali's bolognese site. The text as fetched had encoding corruption: diacritics of many items could not be read, so only forms with clear base letters are used and flagged.",
+      "relevant_sections": "Menarini entry (shibboleth, variants, replies), phrasebook, word list",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Il Sito Bolognese (D. Vitali et al.)",
+      "publisher": "Società per il Sito Bolognese"
+    },
+    {
+      "id": "src-bo-bulgnais-grafia",
+      "title": "Al sît bulgnaiṡ: Ortografia and Fonetica pages",
+      "url": "https://www.bulgnais.com/grafia.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "institutional",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Describes the OLM spelling (Canepari-Vitali 1995) used by the Lepri-Vitali dictionary. Fetched text had encoding corruption in the vowel table; rules on s/ṡ, z/ż, apostrophes and doubling were legible.",
+      "relevant_sections": "Accent use, s/ṡ z/ż, apostrophe (apocope marked, aphaeresis not), consonant length",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Daniele Vitali / Il Sito Bolognese",
+      "publisher": "Società per il Sito Bolognese"
+    },
+    {
+      "id": "src-bo-bulgnais-libri",
+      "title": "Al sît bulgnaiṡ: Libri (reviews, Dante translation snippets)",
+      "url": "https://www.bulgnais.com/libri.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "community-dictionary",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Only the first part of the very long page was read; used for two literary lines (a rendering of Dante's 'dove il si suona' as 'dòvv as dìs sèmper sòccmel' and the proverb 'Al pan di èter l é sèt gràsst'). Diacritics possibly altered by encoding.",
+      "relevant_sections": "Dante rendering with sòccmel; 'proverbio petroniano'",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Il Sito Bolognese"
+    },
+    {
+      "id": "src-bo-itwikiquote-proverbi",
+      "title": "Proverbi bolognesi (Wikiquote in italiano)",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_bolognesi",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "12 proverbs with Italian gloss, taken from Coronedi Berti, Vocabolario bolognese italiano (1869-74) and Lepri-Vitali. Spelling is mixed (19th-century and modern), so it is quoted as printed.",
+      "relevant_sections": "Proverbs 1-12",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Wikiquote contributors",
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bo-socmel-it",
+      "title": "Socmel! (socmel.it): Dizionarietto bolognese and 'Perché proprio Socmel?'",
+      "url": "https://www.socmel.it/dialetto",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "popular-web",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular tourism/culture site; its own footer says texts were written with AI assistance and reviewed. Spellings are modern OLM-like (Bulåggna, Brîṡa, tajadèl). Used only for headwords and short glosses, treated as unverified unless confirmed elsewhere.",
+      "relevant_sections": "36-entry dizionarietto; discussion of the spelling 'Socmel'/'sòccmel' and tones of use",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Socmel! project"
+    },
+    {
+      "id": "src-bo-slengo-socmel",
+      "title": "Slengo: socmel",
+      "url": "https://slengo.it/define/socmel",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "popular-web",
+      "license": "User-generated, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "User-submitted slang definition.",
+      "relevant_sections": "Definition 'intercalare bolognese buono per ogni occasione'",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Slengo users"
+    },
+    {
+      "id": "src-bo-succede-guida",
+      "title": "Succede solo a Bologna: guide to feeling at home in Bologna",
+      "url": "https://succedesoloabologna.it/blog-en/a-somewhat-serious-guide-to-feeling-at-home-in-bologna",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "popular-web",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular blog. Its items (fare balotta, bòna lé, bella vèz, bandéssa, ói...) are Bologna-flavoured colloquialisms, many of them in Bolognese Italian rather than dialect proper.",
+      "relevant_sections": "Expressions list",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Succede solo a Bologna"
+    },
+    {
+      "id": "src-bo-treccani-sbolognare",
+      "title": "Treccani Vocabolario: sbolognare",
+      "url": "https://www.treccani.it/vocabolario/sbolognare/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna (Italian loan)",
+      "source_type": "institutional",
+      "license": "Site terms; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Used only to document that sbolognare is Italian of Bolognese-furbesco origin.",
+      "relevant_sections": "Etymology of sbolognare",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Istituto dell'Enciclopedia Italiana",
+      "publisher": "Treccani"
+    },
+    {
+      "id": "src-bo-riggillo-socc-mel-ban",
+      "title": "Socc'mel ban, raccolta di proverbi bolognesi (F. Riggillo, ill. G. Ravazzini, 2024), bookseller listing",
+      "url": "https://www.abebooks.com/9791255761600/Soccmel-ban-Francesca-Riggillo/plp",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "popular-web",
+      "license": "Listing text; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Only a bookseller listing was read. It documents that 'Soccmel' is used as a title word in a Bolognese-proverb book; the book itself was not read.",
+      "relevant_sections": "Title and description only",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Edizioni Artestampa",
+      "publication_date": "2024"
+    },
+    {
+      "id": "src-bo-bulgnais-corso",
+      "title": "Al sît bulgnaiṡ: Corso di bolognese (pagina corso.html)",
+      "url": "https://www.bulgnais.com/corso.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Bolognese (Emilian), city of Bologna",
+      "source_type": "community-dictionary",
+      "license": "Site content, all rights reserved; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Page fetched with corrupted diacritics; only a word list with Italian glosses (braghéra, trabiscòn, tentinbrîga-like words) was usable.",
+      "relevant_sections": "Vocabulary list with glosses",
+      "used_by": [
+        "socmel"
+      ],
+      "author": "Il Sito Bolognese"
+    }
+  ]
+}

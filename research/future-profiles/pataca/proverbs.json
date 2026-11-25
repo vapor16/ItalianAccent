@@ -1,0 +1,639 @@
+{
+  "$schema": "../../../../../schemas/proverbs.schema.json",
+  "dialect": "pataca",
+  "entries": [
+    {
+      "id": "a-poc-a-poc-u-s-pela-al-j-oc",
+      "type": "proverb",
+      "original": "A poc a poc u s' pela al j' oc.",
+      "literal_it": "A poco a poco si pelano le oche.",
+      "meaning_it": "Con calma si possono fare le cose più difficili.",
+      "meaning_en": "Slowly, with patience, even hard jobs get done.",
+      "usage_context": "haste, big refactors",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-n-e-tot-or-cvel-ch-arluz",
+      "type": "proverb",
+      "original": "U n' è tòt òr cvèl ch'arlùz.",
+      "literal_it": "Non è tutto oro quel che luccica.",
+      "meaning_it": "Le apparenze ingannano.",
+      "meaning_en": "All that glitters is not gold.",
+      "usage_context": "hype, too-good-to-be-true tools",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani prints arlù§ (voiced z)."
+    },
+    {
+      "id": "la-roba-rubeda-la-n-porta-furtona",
+      "type": "proverb",
+      "original": "La roba rubèda la n' pòrta furtòna.",
+      "literal_it": "La roba rubata non porta fortuna.",
+      "meaning_it": "Ciò che si prende con l'inganno non dà frutto.",
+      "meaning_en": "Ill-gotten goods bring no luck.",
+      "usage_context": "copy-pasted code, shortcuts",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-n-s-fa-un-fos-senza-do-riv",
+      "type": "proverb",
+      "original": "U n' s' fa un fòs senza dò riv.",
+      "literal_it": "Non si fa un fosso senza due rive.",
+      "meaning_it": "Ogni cosa ha due lati.",
+      "meaning_en": "Every ditch has two banks; there are two sides to everything.",
+      "usage_context": "trade-offs",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mej-utne-cun-al-boni-ch-a-n-e-cun-al-cativi",
+      "type": "proverb",
+      "original": "L'è mèj utnè' cun al bòni ch'a n'è cun al cativi.",
+      "literal_it": "È meglio ottenere con le buone che con le cattive.",
+      "meaning_it": "Con le buone maniere si ottiene di più.",
+      "meaning_en": "Kind ways get you further than harsh ones.",
+      "usage_context": "difficult colleagues",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-s-ciopa-e-la-moj-a-n-s-presta-a-incion",
+      "type": "proverb",
+      "original": "La s-ciòpa e la mój a n' s' prèsta a inciòn.",
+      "literal_it": "Il fucile e la moglie non si prestano a nessuno.",
+      "meaning_it": "Alcune cose non si cedono.",
+      "meaning_en": "Some things are never lent.",
+      "usage_context": "jealous guarding of resources",
+      "register": "archaic",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reflects a traditional male-centred view of marriage; use only as a historical quotation."
+    },
+    {
+      "id": "u-n-s-po-ande-in-paradis-a-spet-di-sent",
+      "type": "proverb",
+      "original": "U n' s' pò andé' in paradis a spét di Sent.",
+      "literal_it": "Non si può andare in paradiso a dispetto dei Santi.",
+      "meaning_it": "Non si può ottenere nulla contro la volontà di chi conta.",
+      "meaning_en": "You cannot get to heaven against the saints' will.",
+      "usage_context": "office politics, forced outcomes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mej-un-gardlen-int-la-pignata-eh-a-n-e-un-curnacc-int-la",
+      "type": "proverb",
+      "original": "L'è mej un gardlén int la pignata eh' a n' è un curnacc int la vaia.",
+      "literal_it": "È meglio un cardellino nella pentola che un corvo nella valle.",
+      "meaning_it": "Meglio poco e certo che molto e incerto.",
+      "meaning_en": "A goldfinch in the pot beats a crow in the valley.",
+      "usage_context": "choosing between sure and uncertain",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-ven-l-e-la-teta-di-vece",
+      "type": "saying",
+      "original": "E' vén l'è la teta di vece.",
+      "literal_it": "Il vino è il latte dei vecchi.",
+      "meaning_it": "Il vino conforta i vecchi.",
+      "meaning_en": "Wine is the milk of the old.",
+      "usage_context": "toasting, cheerful excuse",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani's spelling: E' vén r è...; variant normalised."
+    },
+    {
+      "id": "i-cvajon-i-sta-ben-int-la-maleta",
+      "type": "ironic-saying",
+      "original": "I cvajón i sta ben int la maleta.",
+      "literal_it": "Gli sciocchi stanno bene nella valigia.",
+      "meaning_it": "Gli sciocchi è meglio che stiano a casa loro (gioco di parole tra testicoli e sciocchi).",
+      "meaning_en": "Fools are best kept at home (pun between testicles and fools).",
+      "usage_context": "mockery of fools",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani explains the double sense of cvajón."
+    },
+    {
+      "id": "a-critice-tot-i-cvajon-j-e-bon",
+      "type": "proverb",
+      "original": "A criticè' tòt i cvajón j' è bòn.",
+      "literal_it": "A criticare sono bravi tutti gli sciocchi.",
+      "meaning_it": "Criticare è facile, fare è difficile.",
+      "meaning_en": "Any fool can criticise.",
+      "usage_context": "code review nitpicking",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-d-fura-l-e-di-cvajon-e-e-d-drenta-l-e-di-patron",
+      "type": "saying",
+      "original": "E' d' fura l'è di cvajón e e' d' drénta l'è di patron.",
+      "literal_it": "L'esterno è per gli sciocchi, l'interno per i padroni.",
+      "meaning_it": "Chi comanda sta dentro, gli altri fuori.",
+      "meaning_en": "The outside is for fools, the inside for the masters.",
+      "usage_context": "insiders vs outsiders",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-eh-e-armast-scute-da-l-acva-bulida-u-s-n-argverda-nenc-d",
+      "type": "proverb",
+      "original": "Chi eh' è armast scuté da l'acva bulida u s' n'argvérda nénc dia giazéda.",
+      "literal_it": "Chi è rimasto scottato dall'acqua bollente se ne guarda anche da quella gelata.",
+      "meaning_it": "Chi si è scottato diffida di tutto.",
+      "meaning_en": "Once bitten, twice shy.",
+      "usage_context": "after a bad deploy",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-ora-de-sturb-la-ven-par-tot",
+      "type": "proverb",
+      "original": "L'ora de sturb la vén par tot.",
+      "literal_it": "L'ora del dolore viene per tutti.",
+      "meaning_it": "Le sofferenze toccano a tutti.",
+      "meaning_en": "Hard times come to everyone.",
+      "usage_context": "consolation after failure",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sant-antoni-u-s-inamure-int-un-porc",
+      "type": "saying",
+      "original": "Sant Antoni u s' inamurè int un pòrc.",
+      "literal_it": "Sant'Antonio si innamorò di un maiale.",
+      "meaning_it": "I gusti sono strani.",
+      "meaning_en": "Tastes differ; there is no accounting for taste.",
+      "usage_context": "odd choices",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'per dire che la gente ha i gusti più strani'."
+    },
+    {
+      "id": "la-cojpa-la-j-e-sempar-de-mang",
+      "type": "saying",
+      "original": "La cójpa la j'è sempar de màng.",
+      "literal_it": "La colpa è sempre del manico.",
+      "meaning_it": "La colpa si scarica sugli strumenti.",
+      "meaning_en": "The fault is always the handle's.",
+      "usage_context": "blame games",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "OCR of Ercolani; spelling cójpa/còlpa uncertain."
+    },
+    {
+      "id": "par-santa-luzi-e-de-e-cor-vi",
+      "type": "proverb",
+      "original": "Par Santa Luzì e' de e' cor vi.",
+      "literal_it": "Per Santa Lucia il giorno corre via.",
+      "meaning_it": "In dicembre le giornate sono cortissime.",
+      "meaning_en": "On St Lucy's day the day races away (short days).",
+      "usage_context": "short days, deadline",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "par-santa-catarena-o-neva-o-paciarena",
+      "type": "proverb",
+      "original": "Par Santa Cataréna, o neva o paciaréna.",
+      "literal_it": "Per Santa Caterina o neve o fanghiglia.",
+      "meaning_it": "Il tempo di fine novembre è brutto.",
+      "meaning_en": "St Catherine's day brings snow or slush.",
+      "usage_context": "bad weather",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "par-sa-biez-da-e-fred-u-s-mor-scvez",
+      "type": "proverb",
+      "original": "Par Sa' Biéz, da e' fred u s' mòr scvèz.",
+      "literal_it": "Per San Biagio si muore quasi dal freddo.",
+      "meaning_it": "Il freddo è forte a San Biagio.",
+      "meaning_en": "At St Blaise you nearly die of cold.",
+      "usage_context": "cold weather",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "par-sant-antoni-abet-i-de-i-s-slonga-un-ora-e-un-cvert",
+      "type": "proverb",
+      "original": "Par Sànt Antoni abét i de i s' slonga un'ora e un cvért.",
+      "literal_it": "Per Sant'Antonio abate i giorni si allungano di un'ora e un quarto.",
+      "meaning_it": "A metà gennaio le giornate crescono.",
+      "meaning_en": "By St Anthony Abbot the days grow by an hour and a quarter.",
+      "usage_context": "seasons",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i-ninen-e-i-burdel-di-cuntaden-j-e-bel-da-znen",
+      "type": "saying",
+      "original": "I ninén e i burdèl di cuntadén j' è bel da znén.",
+      "literal_it": "I maialini e i bambini dei contadini sono belli da piccoli.",
+      "meaning_it": "Le cose belle da piccole si rovinano crescendo.",
+      "meaning_en": "Piglets and farm children are lovely when small.",
+      "usage_context": "growth, scope creep",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Light rural saying; do not apply to people of a place."
+    },
+    {
+      "id": "a-forza-d-fe-us-fa-la-pratica",
+      "type": "proverb",
+      "original": "A forza d' fê us fa la pratica.",
+      "variants": [
+        "A forza d' fê us fa la pratica"
+      ],
+      "literal_it": "A forza di fare si fa la pratica.",
+      "meaning_it": "Facendo si impara.",
+      "meaning_en": "Practice makes perfect.",
+      "usage_context": "learning to code",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-wikiquote-proverbs"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikiquote spelling."
+    },
+    {
+      "id": "la-furtona-la-va-e-la-ven",
+      "type": "proverb",
+      "original": "La furtona la va e la ven.",
+      "literal_it": "La fortuna va e viene.",
+      "meaning_it": "La sorte cambia.",
+      "meaning_en": "Fortune comes and goes.",
+      "usage_context": "luck, setbacks",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-wikiquote-proverbs"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-carite-la-prinzepia-da-se-stess",
+      "type": "proverb",
+      "original": "La carité la prinzepia da se stess.",
+      "literal_it": "La carità comincia da se stessi.",
+      "meaning_it": "Prima pensa a te.",
+      "meaning_en": "Charity begins at home.",
+      "usage_context": "priorities",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-wikiquote-proverbs"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mei-un-ov-inco-che-dman-una-galena",
+      "type": "proverb",
+      "original": "L e méi un ôv inco, che dman una galena.",
+      "variants": [
+        "L'è méi un ôv incù che dman una galena"
+      ],
+      "literal_it": "È meglio un uovo oggi che una gallina domani.",
+      "meaning_it": "Meglio il poco certo subito.",
+      "meaning_en": "A bird in the hand.",
+      "usage_context": "scope cuts",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-wikiquote-proverbs"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikiquote printed with irregular spacing; normalised variant provided."
+    },
+    {
+      "id": "ebsogna-ciape-la-furtona-quand-la-s-presenta",
+      "type": "proverb",
+      "original": "Ebsogna ciapê la furtona quand la s' presenta.",
+      "variants": [
+        "E' bsogna ciapê la furtona quand la s' presenta"
+      ],
+      "literal_it": "Bisogna prendere la fortuna quando si presenta.",
+      "meaning_it": "Cogli l'occasione.",
+      "meaning_en": "Seize fortune when it comes.",
+      "usage_context": "opportunities",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-wikiquote-proverbs"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "us-impera-pio-da-la-pratica-che-ne-da-la-gramatica",
+      "type": "proverb",
+      "original": "Us impèra piò da la pratica che nè da la gràmatica.",
+      "literal_it": "Si impara più dalla pratica che dalla grammatica.",
+      "meaning_it": "Si impara facendo.",
+      "meaning_en": "One learns more from practice than from grammar.",
+      "usage_context": "learning",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-donnaglamour-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Low-reliability collection; not corroborated."
+    },
+    {
+      "id": "save-zcor-l-e-una-virto-save-ste-zet-l-e-sageza",
+      "type": "proverb",
+      "original": "Savè zcòr l'è una virtó, savè stè zèt l'è sagèza.",
+      "literal_it": "Saper parlare è una virtù, saper tacere è saggezza.",
+      "meaning_it": "Il silenzio è saggezza.",
+      "meaning_en": "Speaking well is a virtue, silence is wisdom.",
+      "usage_context": "meetings",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-donnaglamour-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Low-reliability collection; not corroborated."
+    },
+    {
+      "id": "chi-semna-vent-l-arcoi-tempesta",
+      "type": "proverb",
+      "original": "Chi sèmna vènt l'arcòi tèmpèsta.",
+      "literal_it": "Chi semina vento raccoglie tempesta.",
+      "meaning_it": "Gli atti sconsiderati si pagano.",
+      "meaning_en": "He who sows the wind reaps the whirlwind.",
+      "usage_context": "technical debt",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-donnaglamour-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Low-reliability collection; widespread Italian proverb; dialect spelling uncorroborated."
+    },
+    {
+      "id": "ch-u-t-vegna-un-azident",
+      "type": "idiom",
+      "original": "Ch'u t' vegna un azidént!",
+      "literal_it": "Che ti venga un accidente!",
+      "meaning_it": "Imprecazione affettuosa o scherzosa.",
+      "meaning_en": "May you get a stroke! (affectionate imprecation)",
+      "usage_context": "venting at a bug or friend",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-ora-ades",
+      "type": "idiom",
+      "original": "L'è ora adès!",
+      "literal_it": "È ora adesso!",
+      "meaning_it": "Il bello deve ancora venire.",
+      "meaning_en": "The best is yet to come.",
+      "usage_context": "at the start of a hard step",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-stmana-ch-a-du-sebat",
+      "type": "ironic-saying",
+      "original": "La stmàna ch'à du sebat.",
+      "literal_it": "La settimana che ha due sabati.",
+      "meaning_it": "Mai.",
+      "meaning_en": "Never (the week with two Saturdays).",
+      "usage_context": "never, deadlines that never come",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "imbarieg-coma-una-cioza",
+      "type": "idiom",
+      "original": "Imbariég coma una ciòza.",
+      "literal_it": "Ubriaco come una chioccia.",
+      "meaning_it": "Ubriaco fradicio.",
+      "meaning_en": "Drunk as a hen.",
+      "usage_context": "drunkenness",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "durmi-coma-un-gir",
+      "type": "idiom",
+      "original": "Durmì' coma un gir.",
+      "literal_it": "Dormire come un ghiro.",
+      "meaning_it": "Dormire profondamente.",
+      "meaning_en": "To sleep like a dormouse.",
+      "usage_context": "sleep",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-e-geval",
+      "type": "idiom",
+      "original": "Fé' e' géval.",
+      "literal_it": "Fare il diavolo.",
+      "meaning_it": "Fare confusione.",
+      "meaning_en": "To raise hell.",
+      "usage_context": "noise, chaos",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-de-cui",
+      "type": "idiom",
+      "original": "Ave' de cui.",
+      "literal_it": "Avere del culo.",
+      "meaning_it": "Essere fortunato.",
+      "meaning_en": "To be lucky.",
+      "usage_context": "good luck",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

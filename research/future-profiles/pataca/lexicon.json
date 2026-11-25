@@ -1,0 +1,2290 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "pataca",
+  "entries": [
+    {
+      "id": "e",
+      "term": "e'",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile singolare (il)",
+      "meaning_en": "masculine singular definite article (the)",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "variants": [
+        "è",
+        "l'"
+      ],
+      "examples": [
+        {
+          "text": "E' scherz",
+          "translation_it": "Lo scherzo",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Pronounced as a single e; Wikipedia writes it è to distinguish it from 'and'. Plural: i schirz."
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo femminile singolare (la)",
+      "meaning_en": "feminine singular definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "variants": [
+        "l'"
+      ],
+      "examples": [
+        {
+          "text": "La furtona la va e la ven",
+          "translation_it": "La fortuna va e viene",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i",
+      "term": "i",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile plurale (i, gli)",
+      "meaning_en": "masculine plural definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "variants": [
+        "j"
+      ],
+      "examples": [
+        {
+          "text": "I schirz",
+          "translation_it": "Gli scherzi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also subject clitic of 3pl masculine."
+    },
+    {
+      "id": "al",
+      "term": "al",
+      "category": "function-word",
+      "meaning_it": "articolo femminile plurale (le); anche clitico soggetto 3pl femminile",
+      "meaning_en": "feminine plural article; also 3pl feminine subject clitic",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "variants": [
+        "àgli"
+      ],
+      "examples": [
+        {
+          "text": "al crós",
+          "translation_it": "le croci",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-clitico-soggetto",
+      "term": "a (clitico soggetto)",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 1sg, 1pl e 2pl, obbligatorio col verbo",
+      "meaning_en": "subject clitic for 1sg, 1pl, 2pl, obligatory with the verb",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "a"
+      ],
+      "examples": [
+        {
+          "text": "A mâgn!",
+          "translation_it": "Mangio!",
+          "provenance": "attested"
+        },
+        {
+          "text": "A vèg par la mi stré",
+          "translation_it": "Vado per i fatti miei",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-enwiki-romagnol"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "t",
+      "term": "t'",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 2sg",
+      "meaning_en": "2sg subject clitic",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "T' si un zèmbal",
+          "translation_it": "Sei uno stupido",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "u-e-l",
+      "term": "u (e', l')",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 3sg maschile e impersonale",
+      "meaning_en": "3sg masculine and impersonal subject clitic",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "e'",
+        "l'",
+        "u i"
+      ],
+      "examples": [
+        {
+          "text": "U s' lèva e' vént",
+          "translation_it": "Si leva il vento",
+          "provenance": "attested"
+        },
+        {
+          "text": "E' piôv",
+          "translation_it": "Piove",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "u i è = c'è; u s' + 3sg = impersonal/passive."
+    },
+    {
+      "id": "n",
+      "term": "n'",
+      "category": "function-word",
+      "meaning_it": "negazione preverbale (non)",
+      "meaning_en": "preverbal negation (not)",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "variants": [
+        "ne",
+        "nu"
+      ],
+      "examples": [
+        {
+          "text": "A n' vój sintì tént sprègn",
+          "translation_it": "Non voglio sentire tante lamentele",
+          "provenance": "attested"
+        },
+        {
+          "text": "U n' j è incion",
+          "translation_it": "Non c'è nessuno",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cvel",
+      "term": "cvèl",
+      "category": "function-word",
+      "meaning_it": "cosa; quello",
+      "meaning_en": "thing; that",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "cvél"
+      ],
+      "examples": [
+        {
+          "text": "Cvèl ch'è le",
+          "translation_it": "Quello lì",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: cvèl = quello; cvéla/cvél = cosa."
+    },
+    {
+      "id": "gnit",
+      "term": "gnit",
+      "category": "function-word",
+      "meaning_it": "niente",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "gnint"
+      ],
+      "examples": [
+        {
+          "text": "A n' so padrón 'd fé' gnit",
+          "translation_it": "Non sono padrone di fare niente",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "incion",
+      "term": "incion",
+      "category": "function-word",
+      "meaning_it": "nessuno (con negazione n')",
+      "meaning_en": "nobody (with negation n')",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "variants": [
+        "inciòn"
+      ],
+      "examples": [
+        {
+          "text": "U n' j è incion",
+          "translation_it": "Non c'è nessuno",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo",
+      "term": "mo",
+      "category": "function-word",
+      "meaning_it": "ma",
+      "meaning_en": "but",
+      "register": "neutral",
+      "part_of_speech": "conjunction",
+      "variants": [
+        "ma"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nenc",
+      "term": "nénc",
+      "category": "function-word",
+      "meaning_it": "anche, pure",
+      "meaning_en": "also, even",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "variants": [
+        "nènc"
+      ],
+      "examples": [
+        {
+          "text": "J' è nén cativ",
+          "translation_it": "Sono anche cattivi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sempar",
+      "term": "sempar",
+      "category": "function-word",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "variants": [
+        "sèmpre"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ades",
+      "term": "adès",
+      "category": "function-word",
+      "meaning_it": "adesso",
+      "meaning_en": "now",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "variants": [
+        "adèss"
+      ],
+      "examples": [
+        {
+          "text": "L'è ora adès!",
+          "translation_it": "È ora che viene il bello!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "incu",
+      "term": "incù",
+      "category": "function-word",
+      "meaning_it": "oggi (Romagna occidentale; Rimini: oz')",
+      "meaning_en": "today (western Romagna; Rimini oz')",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "variants": [
+        "oz'",
+        "og'"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Eastern/Rimini form oz'."
+    },
+    {
+      "id": "adm-n",
+      "term": "admän",
+      "category": "function-word",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "par",
+      "term": "par",
+      "category": "function-word",
+      "meaning_it": "per",
+      "meaning_en": "for",
+      "register": "neutral",
+      "part_of_speech": "preposition",
+      "variants": [
+        "pr'",
+        "par"
+      ],
+      "examples": [
+        {
+          "text": "A vèg par la mi stré",
+          "translation_it": "Vado per la mia strada",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cun",
+      "term": "cun",
+      "category": "function-word",
+      "meaning_it": "con",
+      "meaning_en": "with",
+      "register": "neutral",
+      "part_of_speech": "preposition",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "int",
+      "term": "int",
+      "category": "function-word",
+      "meaning_it": "in, dentro",
+      "meaning_en": "in, inside",
+      "register": "neutral",
+      "part_of_speech": "preposition",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pataca",
+      "term": "pataca",
+      "category": "word",
+      "meaning_it": "sciocco, minchione, anche sbruffone ingenuo e innocuo",
+      "meaning_en": "fool, simpleton; also a harmless show-off",
+      "register": "familiar",
+      "part_of_speech": "noun/adjective",
+      "vulgarity": 2,
+      "variants": [
+        "patacca",
+        "patàca"
+      ],
+      "examples": [
+        {
+          "text": "T' si un pataca",
+          "translation_it": "Sei un pataca",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-areasosta-pataca"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'patacca, sm. agg. minchione, sciocco', pl. patéca. The mode name. Popular web adds the nuance of the harmless braggart (low reliability). Writing: pataca (single c) in modern use; patacca in Ercolani."
+    },
+    {
+      "id": "pataca-organo-sessuale-femminile",
+      "term": "pataca (organo sessuale femminile)",
+      "category": "word",
+      "meaning_it": "termine volgare per la vulva",
+      "meaning_en": "vulgar term for female genitalia",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 4,
+      "variants": [
+        "patacca"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-enwiktionary-patacca"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani (entry spatachéss) notes that 'pataca' also names female genitalia; Wiktionary lists the vulgar sense for Italian 'patacca'. Do not use casually."
+    },
+    {
+      "id": "burdel",
+      "term": "burdèl",
+      "category": "word",
+      "meaning_it": "ragazzo, bambino",
+      "meaning_en": "boy, kid",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "burdèla",
+        "burdèl (pl.)"
+      ],
+      "examples": [
+        {
+          "text": "I ninén e i burdèl di cuntadén j' è bel da znén",
+          "translation_it": "I maialini e i bambini dei contadini sono belli da piccoli",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani/DEI: from Latin burdus; F. burdèla."
+    },
+    {
+      "id": "tabac",
+      "term": "tabàc",
+      "category": "word",
+      "meaning_it": "ragazzo (voce familiare)",
+      "meaning_en": "kid, lad",
+      "register": "familiar",
+      "part_of_speech": "noun",
+      "variants": [
+        "tabàca (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: traslato dal veneto 'tabacco'."
+    },
+    {
+      "id": "baben",
+      "term": "babén",
+      "category": "word",
+      "meaning_it": "bambino",
+      "meaning_en": "child",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "babìn",
+        "babén (f. babéna)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fradel",
+      "term": "fradèl",
+      "category": "word",
+      "meaning_it": "fratello",
+      "meaning_en": "brother",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "fradël (sg., long vowel)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Singular fradël (long ë) vs plural fradèl (short è) in Vitali orthography."
+    },
+    {
+      "id": "non",
+      "term": "non",
+      "category": "word",
+      "meaning_it": "nonno",
+      "meaning_en": "grandfather",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ba",
+      "term": "ba",
+      "category": "word",
+      "meaning_it": "babbo, padre",
+      "meaning_en": "dad",
+      "register": "familiar",
+      "part_of_speech": "noun",
+      "variants": [
+        "bab"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "amig",
+      "term": "amìg",
+      "category": "word",
+      "meaning_it": "amico; anche amante",
+      "meaning_en": "friend; also lover",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "amìga (f.)"
+      ],
+      "examples": [
+        {
+          "text": "Fé' l'amig",
+          "translation_it": "Fare pace",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "fé' l'amig = fare pace."
+    },
+    {
+      "id": "ca",
+      "term": "ca",
+      "category": "word",
+      "meaning_it": "casa",
+      "meaning_en": "house, home",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "ca'"
+      ],
+      "examples": [
+        {
+          "text": "A n' m'arscòd piò in ca",
+          "translation_it": "Non ho più posto in casa",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "let",
+      "term": "lét",
+      "category": "word",
+      "meaning_it": "letto",
+      "meaning_en": "bed",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "lèt"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ven",
+      "term": "vén",
+      "category": "word",
+      "meaning_it": "vino",
+      "meaning_en": "wine",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "E' vén l'è la teta di vece",
+          "translation_it": "Il vino è il latte dei vecchi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acva",
+      "term": "acva",
+      "category": "word",
+      "meaning_it": "acqua; pioggia",
+      "meaning_en": "water; rain",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "acv"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "diner",
+      "term": "dinèr",
+      "category": "word",
+      "meaning_it": "denaro, soldi",
+      "meaning_en": "money",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cui",
+      "term": "cui",
+      "category": "word",
+      "meaning_it": "culo, sedere",
+      "meaning_en": "bum, behind",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Ave' de cui",
+          "translation_it": "Essere fortunato",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Pl. cui."
+    },
+    {
+      "id": "cvajon",
+      "term": "cvajón",
+      "category": "word",
+      "meaning_it": "testicolo; sciocco",
+      "meaning_en": "testicle; fool",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "variants": [
+        "quajòn",
+        "cvajunòn (scioccone)"
+      ],
+      "examples": [
+        {
+          "text": "A critiche' tòt i cvajón j' è bòn",
+          "translation_it": "A criticare sono bravi tutti gli sciocchi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "merda",
+      "term": "mèrda",
+      "category": "word",
+      "meaning_it": "merda; cosa schifosa",
+      "meaning_en": "shit; crap",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Cremar coma la merda a e' sol",
+          "translation_it": "Crescere come la merda al sole",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "geval",
+      "term": "géval",
+      "category": "word",
+      "meaning_it": "diavolo",
+      "meaning_en": "devil",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "variants": [
+        "gèval"
+      ],
+      "examples": [
+        {
+          "text": "Fé' e' géval",
+          "translation_it": "Fare il diavolo a quattro",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "coc",
+      "term": "cóc",
+      "category": "word",
+      "meaning_it": "cuculo; per estensione uomo sciocco",
+      "meaning_en": "cuckoo; by extension a fool",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "vulgarity": 2,
+      "variants": [
+        "coc"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zembal",
+      "term": "zèmbal",
+      "category": "word",
+      "meaning_it": "cembalo; per estensione stupido",
+      "meaning_en": "cymbal; figuratively a stupid person",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "T' si un zèmbal",
+          "translation_it": "Sei uno stupido",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scioc",
+      "term": "sciòc",
+      "category": "word",
+      "meaning_it": "sciocco",
+      "meaning_en": "silly, foolish",
+      "register": "colloquial",
+      "part_of_speech": "adjective/noun",
+      "variants": [
+        "sciòca (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stopid",
+      "term": "stópid",
+      "category": "word",
+      "meaning_it": "stupido",
+      "meaning_en": "stupid",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bagian",
+      "term": "bagiàn",
+      "category": "word",
+      "meaning_it": "sciocco, baggiano",
+      "meaning_en": "simpleton",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "bagiàna (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "batocc",
+      "term": "batòcc",
+      "category": "word",
+      "meaning_it": "battaglio; nel dialetto del XVII sec. sciocco",
+      "meaning_en": "clapper; in 17th-c. dialect a fool",
+      "register": "archaic",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pacon",
+      "term": "pacòn",
+      "category": "word",
+      "meaning_it": "babbeo; anche ceffone",
+      "meaning_en": "simpleton; also a slap",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mamaloc",
+      "term": "mamalóc",
+      "category": "word",
+      "meaning_it": "mammalucco, stupido",
+      "meaning_en": "dolt",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "birb",
+      "term": "birb",
+      "category": "word",
+      "meaning_it": "furbo, scaltro",
+      "meaning_en": "sly, shrewd",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "birba (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maladet",
+      "term": "maladèt",
+      "category": "word",
+      "meaning_it": "maledetto; per estensione scaltro",
+      "meaning_en": "damned; also cunning",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "carogna",
+      "term": "carógna",
+      "category": "word",
+      "meaning_it": "carogna; persona cattiva e dispettosa",
+      "meaning_en": "carcass; a wicked, spiteful person",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "canaja",
+      "term": "canàja",
+      "category": "word",
+      "meaning_it": "canaglia, birbante o birichino",
+      "meaning_en": "scoundrel or scamp",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "vulgarity": 2,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ledar",
+      "term": "lédar",
+      "category": "word",
+      "meaning_it": "ladro",
+      "meaning_en": "thief",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "variants": [
+        "lèdar",
+        "lédra (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bdocc",
+      "term": "bdòcc",
+      "category": "word",
+      "meaning_it": "pidocchio; uomo gretto",
+      "meaning_en": "louse; a stingy man",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "vulgarity": 2,
+      "variants": [
+        "bdocc"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porc",
+      "term": "pòrc",
+      "category": "word",
+      "meaning_it": "maiale; persona immorale",
+      "meaning_en": "pig; an immoral person",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "variants": [
+        "pòro"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pioc",
+      "term": "piòc",
+      "category": "word",
+      "meaning_it": "pitocco; persona noiosa e petulante",
+      "meaning_en": "beggar; a boring, nagging person",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "variants": [
+        "piòca (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "imbarieg",
+      "term": "imbariég",
+      "category": "word",
+      "meaning_it": "ubriaco",
+      "meaning_en": "drunk",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "imbariéga (f.)"
+      ],
+      "examples": [
+        {
+          "text": "Imbariég coma una ciòza",
+          "translation_it": "Ubriaco come una chioccia",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "imbariagot",
+      "term": "imbarìagòt",
+      "category": "word",
+      "meaning_it": "ubriacone",
+      "meaning_en": "drunkard",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciacaron",
+      "term": "ciacaròn",
+      "category": "word",
+      "meaning_it": "chiacchierone",
+      "meaning_en": "chatterbox",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "variants": [
+        "ciacaròna (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cagnera",
+      "term": "cagnéra",
+      "category": "word",
+      "meaning_it": "chiasso, baccano",
+      "meaning_en": "racket, din",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nujoz",
+      "term": "nujòz",
+      "category": "word",
+      "meaning_it": "noioso",
+      "meaning_en": "boring",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "nujó§"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani writes nujó§ with voiced z."
+    },
+    {
+      "id": "schiv",
+      "term": "schiv",
+      "category": "word",
+      "meaning_it": "schifo; sporco, ripugnante",
+      "meaning_en": "disgust; filthy",
+      "register": "colloquial",
+      "part_of_speech": "noun/adjective",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lord",
+      "term": "lord",
+      "category": "word",
+      "meaning_it": "lordo, sporco",
+      "meaning_en": "dirty, soiled",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "lórda (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mat",
+      "term": "màt",
+      "category": "word",
+      "meaning_it": "pazzo; anche selvatico, falso",
+      "meaning_en": "mad; also wild, false",
+      "register": "colloquial",
+      "part_of_speech": "adjective",
+      "variants": [
+        "mat"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "brev",
+      "term": "brèv",
+      "category": "word",
+      "meaning_it": "bravo, capace",
+      "meaning_en": "good, capable",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "variants": [
+        "bréva (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bon",
+      "term": "bòn",
+      "category": "word",
+      "meaning_it": "buono",
+      "meaning_en": "good",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "variants": [
+        "bòna (f.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "povar",
+      "term": "pòvar",
+      "category": "word",
+      "meaning_it": "povero",
+      "meaning_en": "poor",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "variants": [
+        "por",
+        "pòra (f.)"
+      ],
+      "examples": [
+        {
+          "text": "L'è una pòra erósa",
+          "translation_it": "È una povera croce",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vaca",
+      "term": "vaca",
+      "category": "word",
+      "meaning_it": "vacca; volgarmente prostituta",
+      "meaning_en": "cow; vulgarly a prostitute",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 4,
+      "examples": [
+        {
+          "text": "Fé' dia vaca",
+          "translation_it": "Battere la fiacca",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magne",
+      "term": "magnè",
+      "category": "word",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "magnèr",
+        "a mâgn"
+      ],
+      "examples": [
+        {
+          "text": "Magnéss e' capitél",
+          "translation_it": "Mangiarsi il capitale",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-itwiki-lingua-romagnola"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ber",
+      "term": "ber",
+      "category": "word",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "be'"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio dbu."
+    },
+    {
+      "id": "durmi",
+      "term": "durmì",
+      "category": "word",
+      "meaning_it": "dormire",
+      "meaning_en": "to sleep",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "dormir"
+      ],
+      "examples": [
+        {
+          "text": "Durmì' coma un gir",
+          "translation_it": "Dormire come un ghiro",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lavure",
+      "term": "lavurè",
+      "category": "word",
+      "meaning_it": "lavorare; arare",
+      "meaning_en": "to work; to plough",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "lavurèr"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "saver",
+      "term": "savér",
+      "category": "word",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "savè"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio savù."
+    },
+    {
+      "id": "vler",
+      "term": "vlér",
+      "category": "word",
+      "meaning_it": "volere",
+      "meaning_en": "to want",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "a vój"
+      ],
+      "examples": [
+        {
+          "text": "A n' vój sintì tént sprègn",
+          "translation_it": "Non voglio sentire tante lamentele",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio vlu."
+    },
+    {
+      "id": "duver",
+      "term": "duvér",
+      "category": "word",
+      "meaning_it": "dovere; bisognare",
+      "meaning_en": "must; to need",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "bsògna"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio duvù/dvù."
+    },
+    {
+      "id": "vnir",
+      "term": "vnir",
+      "category": "word",
+      "meaning_it": "venire",
+      "meaning_en": "to come",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "avnìr"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio vnù."
+    },
+    {
+      "id": "dir",
+      "term": "dir",
+      "category": "word",
+      "meaning_it": "dire",
+      "meaning_en": "to say",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "di'"
+      ],
+      "examples": [
+        {
+          "text": "U j dis",
+          "translation_it": "Gli dice",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participio dèt."
+    },
+    {
+      "id": "ander",
+      "term": "andêr",
+      "category": "word",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "andé'"
+      ],
+      "examples": [
+        {
+          "text": "A vèg par la mi stré",
+          "translation_it": "Vado per la mia strada",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiktionary-andeer",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1sg a vèg attested in Ercolani."
+    },
+    {
+      "id": "piscer",
+      "term": "piscér",
+      "category": "word",
+      "meaning_it": "pisciare",
+      "meaning_en": "to piss",
+      "register": "vulgar",
+      "part_of_speech": "verb",
+      "vulgarity": 3,
+      "variants": [
+        "pi§òt (materassino)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Anche piscéda 'pisciata'."
+    },
+    {
+      "id": "futir",
+      "term": "futir",
+      "category": "word",
+      "meaning_it": "fottere; ingannare",
+      "meaning_en": "to fuck; to cheat",
+      "register": "vulgar",
+      "part_of_speech": "verb",
+      "vulgarity": 4,
+      "variants": [
+        "futì"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cvajuner",
+      "term": "cvajunèr",
+      "category": "word",
+      "meaning_it": "coglionare, burlare, sfottere",
+      "meaning_en": "to mock, to take for a fool",
+      "register": "vulgar",
+      "part_of_speech": "verb",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "biastmer",
+      "term": "biastmér",
+      "category": "word",
+      "meaning_it": "bestemmiare",
+      "meaning_en": "to blaspheme",
+      "register": "vulgar",
+      "part_of_speech": "verb",
+      "vulgarity": 4,
+      "variants": [
+        "biastèma (n.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Noun biastèma; biastmaza = brutta bestemmia."
+    },
+    {
+      "id": "smaduner",
+      "term": "smadunèr",
+      "category": "word",
+      "meaning_it": "bestemmiare la Madonna; bestemmiare",
+      "meaning_en": "to blaspheme the Virgin; to blaspheme",
+      "register": "vulgar",
+      "part_of_speech": "verb",
+      "vulgarity": 4,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maladir",
+      "term": "maladir",
+      "category": "word",
+      "meaning_it": "maledire",
+      "meaning_en": "to curse",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "maladizión (n.)"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "paper",
+      "term": "papèr",
+      "category": "word",
+      "meaning_it": "pappare, mangiare con ingordigia; anche guadagnare illecitamente",
+      "meaning_en": "to gobble; also to make dishonest gains",
+      "register": "colloquial",
+      "part_of_speech": "verb",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe",
+      "term": "fé'",
+      "category": "word",
+      "meaning_it": "fare",
+      "meaning_en": "to do, to make",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "variants": [
+        "fê",
+        "fêr"
+      ],
+      "examples": [
+        {
+          "text": "Fé' cvajón",
+          "translation_it": "Infinocchiare",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-itwiki-lingua-romagnola",
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "azident",
+      "term": "azidént!",
+      "category": "interjection",
+      "meaning_it": "accidenti! (ammorbidito)",
+      "meaning_en": "damn! (softened)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "variants": [
+        "a?idént",
+        "azidént"
+      ],
+      "examples": [
+        {
+          "text": "Azidént!",
+          "translation_it": "Accidenti!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'purgata di ogni senso di imprecazione'."
+    },
+    {
+      "id": "ch-u-t-vegna-un-azident",
+      "term": "Ch'u t' vegna un azidént!",
+      "category": "interjection",
+      "meaning_it": "che ti pigli un accidente!",
+      "meaning_en": "may you get a stroke!",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Ch'u t' vegna un azidént!",
+          "translation_it": "Che ti prenda un accidente!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'tipica imprecazione amichevole romagnola che vale un complimento'."
+    },
+    {
+      "id": "anticor",
+      "term": "anticòr!",
+      "category": "interjection",
+      "meaning_it": "accidenti, colpo (imprecazione antica)",
+      "meaning_en": "damn it (old imprecation)",
+      "register": "archaic",
+      "vulgarity": 2,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fott",
+      "term": "fótt!",
+      "category": "interjection",
+      "meaning_it": "capperi! altro che!",
+      "meaning_en": "wow! you bet!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dadbon",
+      "term": "dadbòn",
+      "category": "interjection",
+      "meaning_it": "davvero? sul serio",
+      "meaning_en": "really? seriously?",
+      "register": "colloquial",
+      "variants": [
+        "dadbòn!"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magara",
+      "term": "magàra!",
+      "category": "interjection",
+      "meaning_it": "magari! se Dio volesse",
+      "meaning_en": "if only!",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ohi",
+      "term": "ohi!",
+      "category": "interjection",
+      "meaning_it": "ehi! ohimè",
+      "meaning_en": "hey! alas",
+      "register": "colloquial",
+      "variants": [
+        "vohi"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "oh",
+      "term": "oh!",
+      "category": "interjection",
+      "meaning_it": "oh",
+      "meaning_en": "oh",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "adesi",
+      "term": "adèsi!",
+      "category": "interjection",
+      "meaning_it": "adagio! piano!",
+      "meaning_en": "slowly! gently!",
+      "register": "colloquial",
+      "variants": [
+        "adè§i"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani writes adè§i (voiced z/s)."
+    },
+    {
+      "id": "viva",
+      "term": "viva!",
+      "category": "interjection",
+      "meaning_it": "viva, evviva",
+      "meaning_en": "hooray",
+      "register": "colloquial",
+      "variants": [
+        "Viva e' tu Signor!"
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "par-carite",
+      "term": "par caritè!",
+      "category": "interjection",
+      "meaning_it": "per carità!",
+      "meaning_en": "for goodness' sake!",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mo-nenc",
+      "term": "mo nénc!",
+      "category": "interjection",
+      "meaning_it": "ancora! (con fastidio)",
+      "meaning_en": "again! (annoyed)",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "angv-ad-giana",
+      "term": "Angv ad Giana!",
+      "category": "interjection",
+      "meaning_it": "sangue di Diana (giuramento attenuato)",
+      "meaning_en": "by Diana's blood (mild oath)",
+      "register": "archaic",
+      "vulgarity": 1,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'sopravvive nell'esclamazione'."
+    },
+    {
+      "id": "dmenga",
+      "term": "Dmènga!",
+      "category": "interjection",
+      "meaning_it": "mai! (domenica che non verrà)",
+      "meaning_en": "never! (some Sunday)",
+      "register": "ironic",
+      "examples": [
+        {
+          "text": "Dmènga!",
+          "translation_it": "Mai!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-e-geval",
+      "term": "Fé' e' géval",
+      "category": "colloquial-expression",
+      "meaning_it": "fare il diavolo a quattro, far baccano",
+      "meaning_en": "to raise hell, make a racket",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-e-geval-ados",
+      "term": "Ave' e' géval adòs",
+      "category": "colloquial-expression",
+      "meaning_it": "avere il diavolo in corpo",
+      "meaning_en": "to be possessed by the devil, to be frantic",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-de-cui",
+      "term": "Ave' de cui",
+      "category": "colloquial-expression",
+      "meaning_it": "essere fortunato",
+      "meaning_en": "to be lucky",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-cvajon",
+      "term": "Fé' cvajón",
+      "category": "colloquial-expression",
+      "meaning_it": "infinocchiare, prendere in giro",
+      "meaning_en": "to fool, to con",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-dia-vaca",
+      "term": "Fé' dia vaca",
+      "category": "colloquial-expression",
+      "meaning_it": "battere la fiacca",
+      "meaning_en": "to slack off",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-dia-bucalera",
+      "term": "Fé' dia bucalera",
+      "category": "colloquial-expression",
+      "meaning_it": "fare baccano, parlare ad alta voce",
+      "meaning_en": "to make a din, talk loudly",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-dia-cagnera",
+      "term": "Fé' dia cagnéra",
+      "category": "colloquial-expression",
+      "meaning_it": "fare chiasso",
+      "meaning_en": "to make a racket",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-la-scemia",
+      "term": "Fé' la scemia",
+      "category": "colloquial-expression",
+      "meaning_it": "assumere pose ipocrite",
+      "meaning_en": "to put on airs",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fe-cont-d-gnit",
+      "term": "Fé' cónt 'd gnit",
+      "category": "colloquial-expression",
+      "meaning_it": "fare l'indifferente",
+      "meaning_en": "to act indifferent",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tne-da-cont",
+      "term": "Tné' da cónt",
+      "category": "colloquial-expression",
+      "meaning_it": "tenere in serbo, risparmiare",
+      "meaning_en": "to keep in reserve, to save",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-veg-par-la-mi-stre",
+      "term": "A vèg par la mi stré",
+      "category": "colloquial-expression",
+      "meaning_it": "vado per i fatti miei",
+      "meaning_en": "I go my own way",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-n-n-ho-alsir",
+      "term": "A n' n'ho alsìr",
+      "category": "colloquial-expression",
+      "meaning_it": "non ho tempo",
+      "meaning_en": "I have no time",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-ora-ades",
+      "term": "L'è ora adès!",
+      "category": "colloquial-expression",
+      "meaning_it": "il bello deve ancora venire",
+      "meaning_en": "the best is yet to come",
+      "register": "ironic",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-bubana",
+      "term": "L'è bubàna!",
+      "category": "colloquial-expression",
+      "meaning_it": "è abbondanza, è cuccagna",
+      "meaning_en": "it's plenty, it's a feast",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-stmana-ch-a-du-sebat",
+      "term": "La stmàna ch'à du sebat",
+      "category": "colloquial-expression",
+      "meaning_it": "mai (la settimana con due sabati)",
+      "meaning_en": "never (the week with two Saturdays)",
+      "register": "ironic",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caghess-ados",
+      "term": "Caghéss adòs",
+      "category": "colloquial-expression",
+      "meaning_it": "farsela addosso",
+      "meaning_en": "to soil oneself, to be terrified",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-a-caghe-int-e-remai",
+      "term": "Va' a caghé' int e' remai",
+      "category": "colloquial-expression",
+      "meaning_it": "va' a fare lo sciocco, va' al diavolo",
+      "meaning_en": "go and act the fool, get lost",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciacare-in-majoscul",
+      "term": "Ciacarè' in majóscul",
+      "category": "colloquial-expression",
+      "meaning_it": "parlare in italiano (scherzoso)",
+      "meaning_en": "to speak 'in capitals', i.e. Italian (jocular)",
+      "register": "ironic",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "durmi-coma-un-gir",
+      "term": "Durmì' coma un gir",
+      "category": "colloquial-expression",
+      "meaning_it": "dormire come un ghiro",
+      "meaning_en": "to sleep like a dormouse",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "imbarieg-coma-una-cioza",
+      "term": "Imbariég coma una ciòza",
+      "category": "colloquial-expression",
+      "meaning_it": "ubriaco come una chioccia",
+      "meaning_en": "drunk as a hen",
+      "register": "colloquial",
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

@@ -14,3 +14,8 @@ Read (via web fetch):
 - https://support.claude.com/en/articles/12512180-using-skills-in-claude — ZIP upload of the skill folder.
 
 `claude plugin validate .` run locally: passed.
+
+## 2026-11-25 — Scope freeze and external audit
+
+- Owner decision: v1.0.0 ships the 11 existing modes only. Unfinished profiles (pataca complete, socmel and ostrega partial) parked in `research/future-profiles/` with raw sources in `research/raw/`.
+- External audit received (`research/ITALIANACCENT_RESEARCH.md`). Claims are verified against the cited sources before corrections; see per-profile notes below.

@@ -1,0 +1,443 @@
+{
+  "$schema": "../../../../../schemas/proverbs.schema.json",
+  "dialect": "socmel",
+  "entries": [
+    {
+      "id": "a-far-i-fat-su-an-s-insporca-mai-el-man",
+      "type": "proverb",
+      "original": "A far i fat su an s'insporca mai el man.",
+      "literal_it": "Facendo i fatti propri non ci si sporca mai le mani.",
+      "meaning_it": "Chi si fa i fatti suoi non si mette nei guai.",
+      "meaning_en": "Mind your own business and you stay out of trouble.",
+      "usage_context": "interfering in a colleague's mess, staying out of other people's quarrels",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "al-bon-vein-al-n-ha-bisogn-dla-frasca",
+      "type": "proverb",
+      "original": "Al bón vein al n'ha bisógn dla frasca.",
+      "literal_it": "Il buon vino non ha bisogno della frasca.",
+      "meaning_it": "La qualità non ha bisogno di pubblicità (la frasca era l'insegna dell'osteria).",
+      "meaning_en": "Good wine needs no bush: quality needs no advertising.",
+      "usage_context": "praising good work, a clean solution that needs no fanfare",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "al-prem-coulp-an-casca-l-alber",
+      "type": "proverb",
+      "original": "Al prem còulp an casca l'alber.",
+      "literal_it": "Al primo colpo non cade l'albero.",
+      "meaning_it": "Per riuscire serve insistere, spesso più tentativi.",
+      "meaning_en": "The tree does not fall at the first blow: persistence is needed.",
+      "usage_context": "failed first attempt, debugging, retries",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "al-ven-l-e-la-tatta-di-vic",
+      "type": "proverb",
+      "original": "Al vén l'è la tatta di vîc.",
+      "literal_it": "Il vino è il biberon dei vecchi.",
+      "meaning_it": "Il vino è il latte dei vecchi.",
+      "meaning_en": "Wine is the old men's baby bottle.",
+      "usage_context": "jokes about wine and age",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "anch-questa-l-e-fatta-dess-quel-ch-cavo-i-uc-a-so-muier",
+      "type": "proverb",
+      "original": "Anch quésta l'è fatta, dess quél ch' cavò i uc' a so muier.",
+      "literal_it": "Anche questa è fatta, disse quello che cavò gli occhi alla moglie.",
+      "meaning_it": "Si dice (ironicamente) quando si porta a termine un lavoro con soddisfazione.",
+      "meaning_en": "Another job done, said the man who put out his wife's eyes (wellerism).",
+      "usage_context": "finishing a task, ironic closure",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ. Black-humour wellerism: use sparingly.",
+      "variants": [
+        "Anch quésta l'è fatta"
+      ]
+    },
+    {
+      "id": "andar-alla-bassa-tot-i-sant-ajuten",
+      "type": "proverb",
+      "original": "Andar alla bassa, tòt i sant ajuten.",
+      "literal_it": "Andando alla bassa (a favore), tutti i santi aiutano.",
+      "meaning_it": "Quando le cose vanno per il verso giusto tutti danno una mano.",
+      "meaning_en": "When things go downhill (with the wind) every saint helps.",
+      "usage_context": "everything finally working, helpers appearing",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ. The wording is partly Italianate."
+    },
+    {
+      "id": "com-dess-la-voulp-ol-u-zo-l-an-me-pias",
+      "type": "proverb",
+      "original": "Com dess la vóulp ol u: zò l'an me pias.",
+      "literal_it": "Come disse la volpe all'uva: ...",
+      "meaning_it": "Detto di chi finge di disprezzare ciò che desidera (l'uva acerba).",
+      "meaning_en": "As the fox said of the grapes: pretending to scorn what one wants.",
+      "usage_context": "sour grapes",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ. The printed text looks garbled ('ol u'): reproduced as given, low confidence in the exact words."
+    },
+    {
+      "id": "cum-dess-quel-ch-frava-el-i-och-ai-vol-esser-da-far",
+      "type": "proverb",
+      "original": "Cum dess quél ch' frava el i och, ai vol ésser da far.",
+      "literal_it": "Come disse quello che ferrava le oche: c'è da fare.",
+      "meaning_it": "Si dice di un compito quasi impossibile (ferrare le oche).",
+      "meaning_en": "As the man shoeing geese said: there is work to do (an almost impossible task).",
+      "usage_context": "absurdly hard tasks, legacy code",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ. The printed text looks garbled: reproduced as given, low confidence in the exact words."
+    },
+    {
+      "id": "dal-det-al-fat-ai-e-un-gran-trat",
+      "type": "proverb",
+      "original": "Dal det al fat ai é un gran trat.",
+      "literal_it": "Dal detto al fatto c'è un gran tratto.",
+      "meaning_it": "Tra il dire e il fare c'è di mezzo un gran tratto.",
+      "meaning_en": "Between saying and doing there is a long way.",
+      "usage_context": "promises vs delivery, 'it will be ready tomorrow'",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "du-gal-in-t-un-pullar-i-stan-mal",
+      "type": "proverb",
+      "original": "Du gal in t'un pullar i stan mal.",
+      "literal_it": "Due galli in un pollaio stanno male.",
+      "meaning_it": "Due rivali per la stessa cosa non vanno d'accordo.",
+      "meaning_en": "Two cocks in one henhouse do not get along.",
+      "usage_context": "two senior devs on one decision, rivalry",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "quand-la-berba-fa-al-stupen-lasa-al-don-e-tent-al-ven",
+      "type": "proverb",
+      "original": "Quand la bèrba fà al stupén lâsa äl dòn e tént al vén.",
+      "literal_it": "Quando la barba fa lo stoppino, lascia le donne e tieni il vino.",
+      "meaning_it": "Invecchiando si rinuncia alle donne e si preferisce il vino.",
+      "meaning_en": "With white beard, leave women and keep to wine.",
+      "usage_context": "jokes about ageing",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ. Sexist-leaning old saying: quote rather than apply."
+    },
+    {
+      "id": "mei-al-ven-fess-che-l-acua-cera",
+      "type": "proverb",
+      "original": "Méi al vén féss che l'âcua cèra.",
+      "literal_it": "Meglio il vino torbido che l'acqua chiara.",
+      "meaning_it": "Detto dei bevitori: meglio un vino torbido dell'acqua limpida.",
+      "meaning_en": "Murky wine beats clear water (drinkers' saying).",
+      "usage_context": "jokes among friends at the osteria",
+      "register": "familiar",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling is quoted as printed on Wikiquote, which mixes 19th-century (Coronedi Berti) and modern forms; the modern OLM spelling of some words may differ."
+    },
+    {
+      "id": "al-pan-di-eter-l-e-set-grasst",
+      "type": "proverb",
+      "original": "Al pan di èter l é sèt gràsst.",
+      "literal_it": "Il pane degli altri è sapido/salato.",
+      "meaning_it": "Rendering of Dante's 'sa di sale lo pane altrui': vivere alle spalle altrui è amaro.",
+      "meaning_en": "Others' bread tastes of salt: depending on others is hard.",
+      "usage_context": "dependence on someone else's infrastructure or favours",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-bulgnais-libri"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Called a 'proverbio petroniano' on bulgnais.com. The exact spelling and the reading rest on a garbled page, and the line may be a literary translation rather than traditional wording: low confidence."
+    },
+    {
+      "id": "ster-in-uraccia",
+      "type": "idiom",
+      "original": "stèr in uràccia",
+      "literal_it": "stare in orecchia",
+      "meaning_it": "Stare all'erta, sul chi vive.",
+      "meaning_en": "To be on one's guard.",
+      "usage_context": "deploys, monitoring, wary situations",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "fer-al-furb",
+      "type": "idiom",
+      "original": "fèr al fûrb",
+      "literal_it": "fare il furbo",
+      "meaning_it": "Comportarsi da furbo, fare lo scaltro.",
+      "meaning_en": "To act smart.",
+      "usage_context": "code shortcuts, cutting corners",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested as part of a sample sentence (l é un èṡen es vôl fèr al fûrb)."
+    },
+    {
+      "id": "soccmel",
+      "type": "saying",
+      "original": "Sòccmel!",
+      "literal_it": "succhiamelo",
+      "meaning_it": "Esclamazione di stupore, ammirazione o disappunto.",
+      "meaning_en": "Bolognese all-purpose exclamation.",
+      "usage_context": "any surprise; never as a formal phrase",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel",
+        "src-bo-socmel-it",
+        "src-bo-slengo-socmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "See profanity.json for the cruder extensions."
+    },
+    {
+      "id": "dovv-as-dis-semper-soccmel",
+      "type": "saying",
+      "original": "dòvv as dìs sèmper sòccmel",
+      "literal_it": "dove si dice sempre socmel",
+      "meaning_it": "Umoristica resa bolognese del 'dove il sì suona' di Dante (Bologna come terra del socmel).",
+      "meaning_en": "Humorous Bolognese rendering of Dante's 'where the sì sounds'.",
+      "usage_context": "quoting Bologna as the land of socmel",
+      "register": "ironic",
+      "vulgarity": 2,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-bulgnais-libri"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "From a page snippet read in a garbled encoding; treat as a literary pun, not a traditional saying."
+    },
+    {
+      "id": "priler-la-masela",
+      "type": "idiom",
+      "original": "prilèr la maṡèla",
+      "literal_it": "far girare la manovella",
+      "meaning_it": "Fare sempre la stessa cosa, ripetitivamente.",
+      "meaning_en": "To do the same thing over and over.",
+      "usage_context": "repetitive tasks, boilerplate",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna and province",
+      "sources": [
+        "src-bo-bulgnais-corso"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "The bulgnais corso page glosses it as 'fare una cosa sempre uguale'; the exact diacritics on the verb were lost to encoding."
+    },
+    {
+      "id": "fare-balotta",
+      "type": "idiom",
+      "original": "fare balotta",
+      "literal_it": "fare balotta",
+      "meaning_it": "Passare la serata insieme agli amici.",
+      "meaning_en": "To hang out with friends.",
+      "usage_context": "evenings, meeting friends",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna (regional Italian)",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Regional Italian, not dialect proper: use inside Italian-flavoured sentences."
+    },
+    {
+      "id": "mi-suda-anche-la-lingua-in-bocca",
+      "type": "idiom",
+      "original": "Mi suda anche la lingua in bocca",
+      "literal_it": "mi suda anche la lingua in bocca",
+      "meaning_it": "Fa un caldo eccessivo.",
+      "meaning_en": "It is boiling hot (even my tongue sweats).",
+      "usage_context": "summer heat, overloaded servers",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna (regional Italian)",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "andare-a-busso",
+      "type": "idiom",
+      "original": "andare a busso",
+      "literal_it": "andare a busso",
+      "meaning_it": "Andare a tutta velocità.",
+      "meaning_en": "To go flat out.",
+      "usage_context": "speed",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna (regional Italian)",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "variants": [
+        "andare a manetta"
+      ]
+    },
+    {
+      "id": "buttare-il-rusco",
+      "type": "idiom",
+      "original": "buttare il rusco",
+      "literal_it": "buttare il rusco",
+      "meaning_it": "Buttare la spazzatura.",
+      "meaning_en": "To take out the rubbish.",
+      "usage_context": "clean-up, deleting dead code",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna (regional Italian)",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "dare-il-tiro",
+      "type": "idiom",
+      "original": "dare il tiro",
+      "literal_it": "dare il tiro",
+      "meaning_it": "Aprire il portone col citofono.",
+      "meaning_en": "To buzz someone in.",
+      "usage_context": "letting someone in; 'open the door'",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna (regional Italian)",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "bona-le",
+      "type": "idiom",
+      "original": "bóna lé",
+      "literal_it": "buona là",
+      "meaning_it": "Basta così, la misura è colma.",
+      "meaning_en": "Enough is enough.",
+      "usage_context": "losing patience",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "variants": [
+        "bòna lé"
+      ]
+    }
+  ]
+}

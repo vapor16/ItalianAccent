@@ -1,0 +1,72 @@
+{
+  "id": "pataca",
+  "display_name": "Pataca",
+  "aliases": [
+    "patacca",
+    "pataca'"
+  ],
+  "region": "Emilia-Romagna",
+  "provinces": [
+    "Ravenna",
+    "Forlì-Cesena",
+    "Rimini"
+  ],
+  "geographical_area": "Romagna (Ravenna, Forlì-Cesena, Rimini provinces and neighbouring areas). The profile writes a Ravenna–Forlì koiné, because the usable open sources (Ercolani 1960, Ravenna countryside; Wikipedia grammar sections) favour it; Rimini differences are flagged where documented. The proposed Rimini reference is therefore not adopted as a base norm.",
+  "linguistic_classification": "Romagnol (Romagnolo), Gallo-Italic, Emilian-Romagnol group.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Gallo-Italic > Emilian-Romagnol (Romagnol)",
+  "orthographic_conventions": "Vitali-style modern Romagnol: diacritics for vowel quality/length (é è ê ë ó ò ô ö ã), apostrophe for clitics and truncations (t', n', l'è, j'è), apocopated infinitives (magnè, fé', durmì), e' for the masculine article, no doubled consonants (pataca), voiced z written z. Ercolani's older spelling and Rimini variants are accepted as alternatives.",
+  "description_en": "Romagnol of Romagna: obligatory subject clitics (a, t', e'/u, la, i, al), preverbal negation n', masculine article e', metaphonic masculine plurals (can/chèn), a rich vowel system with length and nasal vowels, four conjugations and impersonal u s' constructions, plus a teasing, ironic register. The word pataca means 'fool, harmless show-off'.",
+  "description_it": "Romagnolo di Romagna: clitici soggetto obbligatori (a, t', e'/u, la, i, al), negazione preverbale n', articolo maschile e', plurali maschili metafonetici (can/chèn), sistema vocalico ricco con lunghezza e vocali nasali, quattro coniugazioni e costruzioni impersonali con u s', e un registro canzonatorio e ironico. La parola pataca significa 'sciocco, sbruffone innocuo'.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "pataca",
+    "variants": [
+      "patacca",
+      "patàca",
+      "patéca (pl.)"
+    ],
+    "meaning_en": "Romagnol: fool, simpleton, harmless show-off (also vulgar term for female genitalia).",
+    "meaning_it": "Romagnolo: sciocco, minchione, sbruffone ingenuo e innocuo (anche termine volgare per la vulva).",
+    "attestation": "Ercolani's Vocabolario romagnolo-italiano (1960) has 'patacca, sm. agg., minchione, sciocco', pl. patéca, and notes the genital sense under spatachéss. Popular FAQ pages describe the harmless-braggart nuance. Standard Italian 'patacca' (junk coin) is a different sense. The mode name is the common Romagnol form with single c; Ercolani spells it with cc. The catalog gloss 'originally vulgar' is only partly true: the vulgar sense exists but the main attested sense is 'fool'.",
+    "sources": [
+      "src-rgn-ercolani-1960",
+      "src-rgn-areasosta-pataca",
+      "src-rgn-enwiktionary-patacca",
+      "src-rgn-itwiktionary-patacca"
+    ]
+  },
+  "sources": [
+    "src-rgn-areasosta-pataca",
+    "src-rgn-donnaglamour-proverbi",
+    "src-rgn-enwiki-romagnol",
+    "src-rgn-enwiktionary-patacca",
+    "src-rgn-ercolani-1960",
+    "src-rgn-itwiki-lingua-romagnola",
+    "src-rgn-itwiktionary-andeer",
+    "src-rgn-itwiktionary-patacca",
+    "src-rgn-wikiquote-proverbs"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review: all example sentences are AI-illustrative.",
+    "Reference norm is a Ravenna–Forlì koiné, not Rimini as the brief proposed; Rimini paradigms (essere a sèm, magnè) are only partly documented, and the printed Rimini 2sg of essere ('t'cè') is uncertain.",
+    "The main lexical source (Ercolani 1960) is Ravenna-countryside, OCR text with noisy diacritics (voiced z rendered § ? ^); forms were normalised and must not be treated as precise spelling.",
+    "Documented verb coverage is partial: fare and andare lack a full present paradigm (only a vèg and infinitives are attested), so examples avoid them and use impersonal u s' constructions.",
+    "Examples use words outside the lexicon (e.g. ucupèda, pulida, cliént) built regularly; they are low confidence.",
+    "Only one blasphemy (smadunèr) is documented, as a verb with no verbatim formula, so no oath text is generated; level-5 vulgarity is built from level 3-4 items.",
+    "The catalog describes the identifier as 'originally vulgar'; sources support 'fool' as the main sense with a separate vulgar genital sense.",
+    "Three proverbs (Chi sèmna vènt..., Us impèra..., Savè zcòr...) come only from a low-reliability web list and are marked unverified.",
+    "The Bolognese mode (socmel) is written in parallel; contrast statements in profile section 14 should be checked against it once available."
+  ],
+  "last_updated": "2026-11-25"
+}

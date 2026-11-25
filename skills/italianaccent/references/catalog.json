@@ -72,7 +72,7 @@
         "mena mena",
         "menà"
       ],
-      "variety": "Salentino",
+      "variety": "Leccese — Salentino centrale",
       "region": "Puglia",
       "classification": "Salentino (extreme-southern Italo-Romance), Lecce area",
       "identifier_meaning_en": "Salentine 'come on / go on!' (from menare)",
@@ -181,7 +181,8 @@
       "identifier_meaning_en": "Bolognese vulgar exclamation of amazement ('suck it')",
       "maturity": "planned",
       "available": false,
-      "path": "references/dialects/socmel/"
+      "path": "references/dialects/socmel/",
+      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
     },
     {
       "id": "pataca",
@@ -196,7 +197,8 @@
       "identifier_meaning_en": "Romagnol 'fool, braggart' (originally vulgar)",
       "maturity": "planned",
       "available": false,
-      "path": "references/dialects/pataca/"
+      "path": "references/dialects/pataca/",
+      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
     },
     {
       "id": "ostrega",
@@ -212,7 +214,8 @@
       "identifier_meaning_en": "Venetian euphemistic exclamation 'wow, gosh' (lit. 'oyster')",
       "maturity": "planned",
       "available": false,
-      "path": "references/dialects/ostrega/"
+      "path": "references/dialects/ostrega/",
+      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
     },
     {
       "id": "neh",

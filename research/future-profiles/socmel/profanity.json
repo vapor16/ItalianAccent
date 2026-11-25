@@ -1,0 +1,482 @@
+{
+  "$schema": "../../../../../schemas/profanity.schema.json",
+  "dialect": "socmel",
+  "entries": [
+    {
+      "id": "socc-mel",
+      "original": "sòcc'mel",
+      "category": "exclamation",
+      "literal_meaning": "succhiamelo",
+      "meaning_it": "Intercalare bolognese per eccellenza: stupore, ammirazione, disappunto, derisione, a volte affetto. Il senso letterale (invito sessuale volgare) è molto sbiadito.",
+      "meaning_en": "The quintessential Bolognese exclamation (surprise, admiration, annoyance, mockery, sometimes affection); the literal crude sense has faded.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "surprise",
+          "admiration",
+          "annoyance",
+          "affection"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel",
+        "src-bo-itwiki-dialetto",
+        "src-bo-socmel-it",
+        "src-bo-bulgnais-lessico",
+        "src-bo-slengo-socmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "examples": [
+        {
+          "text": "Socmel che noia!",
+          "translation_it": "Accidenti che noia!",
+          "provenance": "unverified"
+        },
+        {
+          "text": "Sòcc'mel, l é andè mèl!",
+          "translation_it": "Accidenti, è andata male!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "notes": "Mode identifier. Said by young and old (Wikipedia). Lengthened 'sooocmel' and the texting abbreviation 'SCM' are mentioned by socmel.it (low reliability). Menarini: 'shibboleth' of Bologna.",
+      "variants": [
+        "sòccmel",
+        "sócc'mel",
+        "socc'mel",
+        "socmel",
+        "soccmel"
+      ],
+      "appropriate_contexts": [
+        "bugs, rain, queues, good food, surprising news",
+        "among friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing, official contexts, with strangers or elders unless clearly joking"
+      ]
+    },
+    {
+      "id": "soccmla",
+      "original": "sòccmla",
+      "category": "exclamation",
+      "literal_meaning": "succhiamela",
+      "meaning_it": "Forma femminile di socc'mel, secondo Menarini quella che dovrebbe usare una donna.",
+      "meaning_en": "Feminine form of socc'mel, as Menarini says a woman should say.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "surprise"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Reported through a garbled web page quoting Menarini; spelling reconstructed.",
+      "variants": [
+        "sòcc'mla"
+      ]
+    },
+    {
+      "id": "soccia",
+      "original": "sóccia",
+      "category": "exclamation",
+      "literal_meaning": "succhia",
+      "meaning_it": "Variante attenuata, eufemistica di socc'mel; esprime stupore.",
+      "meaning_en": "Softened, euphemistic variant of socc'mel; surprise.",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "mild annoyance"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel",
+        "src-bo-bulgnais-lessico",
+        "src-bo-slengo-socmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "examples": [
+        {
+          "text": "Sóccia che storia!",
+          "translation_it": "Accidenti che storia!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "notes": "Wikipedia calls it an Italianized form; Menarini lists Sòccia among the euphemistic forms.",
+      "variants": [
+        "soccia",
+        "sòccia"
+      ],
+      "appropriate_contexts": [
+        "default when vulgarity is low but flavour is wanted"
+      ]
+    },
+    {
+      "id": "sorbole",
+      "original": "sòrbole",
+      "category": "exclamation",
+      "literal_meaning": "(esclamazione senza significato letterale)",
+      "meaning_it": "Esclamazione blanda di sorpresa (equivalente di accidenti).",
+      "meaning_en": "Mild exclamation of surprise (gosh).",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Listed by Wikipedia as one of the milder equivalents of socc'mel; also current in other Emilian areas, so not exclusively Bolognese.",
+      "appropriate_contexts": [
+        "vulgarity level 1"
+      ]
+    },
+    {
+      "id": "socc-mel-ban",
+      "original": "sòcc'mel bän",
+      "category": "vulgar-idiom",
+      "literal_meaning": "succhiamelo bene",
+      "meaning_it": "Variante più cruda di socc'mel.",
+      "meaning_en": "Cruder variant of socc'mel.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "derision"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reported as 'cruder' by Wikipedia.",
+      "variants": [
+        "sòccmel bän",
+        "socmel ban"
+      ],
+      "inappropriate_contexts": [
+        "any unfriendly or formal context"
+      ]
+    },
+    {
+      "id": "socc-mel-ban-in-ponta",
+      "original": "sòcc'mel bän in pónta",
+      "category": "vulgar-idiom",
+      "literal_meaning": "succhiamelo bene in punta",
+      "meaning_it": "Estensione ancora più esplicita di socc'mel bän.",
+      "meaning_en": "More explicit extension of socc'mel bän.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "derision"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-itwiki-soccmel"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikipedia: cruder still. Use only at vulgarity 5 and among friends.",
+      "variants": [
+        "socmel ban in ponta"
+      ],
+      "inappropriate_contexts": [
+        "any non-joking context"
+      ]
+    },
+    {
+      "id": "in-ponta",
+      "original": "In pónta!",
+      "category": "vulgar-idiom",
+      "literal_meaning": "in punta",
+      "meaning_it": "Risposta oscena a socc'mel, secondo Menarini.",
+      "meaning_en": "Obscene retort to socc'mel according to Menarini.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "derision"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Quoted through a garbled page; diacritics uncertain.",
+      "variants": [
+        "in ponta"
+      ]
+    },
+    {
+      "id": "mo-scosmel-ban",
+      "original": "Mo scòsmel bän!",
+      "category": "vulgar-idiom",
+      "literal_meaning": "scuotimelo bene (puliscimelo)",
+      "meaning_it": "Estensione scherzosa e oscena della formula ('scuotimelo, puliscimelo').",
+      "meaning_en": "Joking obscene extension of the formula.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "derision"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "From a garbled quote of Menarini's entry; spelling uncertain."
+    },
+    {
+      "id": "vut-ch-a-t-degga-una-s-in-furia",
+      "original": "Vût ch'a t dégga una S in fûria?",
+      "category": "threat-joking",
+      "literal_meaning": "vuoi che ti dica una S in fretta?",
+      "meaning_it": "Minaccia scherzosa: 'vuoi che ti dica la S (di socc'mel)?', usata al posto di dirlo esplicitamente.",
+      "meaning_en": "Joking threat: 'want me to say the S?' used instead of saying socc'mel outright.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "From Menarini via a garbled page; rebuilt with vlair 2sg vû + interrogative t, dîr 1sg dégg. Spelling low confidence."
+    },
+    {
+      "id": "insme",
+      "original": "inṡmé",
+      "category": "insult",
+      "literal_meaning": "tonto, intontito",
+      "meaning_it": "Intontito, un po' tonto; in italiano di Bologna ismito.",
+      "meaning_en": "Daft, dazed.",
+      "intensity": 1,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "annoyance"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "sumar",
+      "original": "sumâr",
+      "category": "insult",
+      "literal_meaning": "somaro",
+      "meaning_it": "Somaro; detto affettuosamente a chi sbaglia o non capisce.",
+      "meaning_en": "Donkey; affectionate for someone who errs.",
+      "intensity": 1,
+      "register": "affectionate",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "examples": [
+        {
+          "text": "Té t î un sumâr!",
+          "translation_it": "Sei un somaro!",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "esen",
+      "original": "èṡen",
+      "category": "insult",
+      "literal_meaning": "asino",
+      "meaning_it": "Asino, persona che si crede furba ma non lo è.",
+      "meaning_en": "Donkey, someone pretending to be clever.",
+      "intensity": 2,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "annoyance"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "examples": [
+        {
+          "text": "L é un èṡen es vôl fèr al fûrb",
+          "translation_it": "È un asino e vuole fare il furbo",
+          "provenance": "attested"
+        }
+      ],
+      "notes": "Only the sentence is attested; use as mild banter."
+    },
+    {
+      "id": "tentinbriga",
+      "original": "tentinbrîga",
+      "category": "insult",
+      "literal_meaning": "(chi tenta la briga)",
+      "meaning_it": "Scansafatiche, pigrone.",
+      "meaning_en": "Slacker.",
+      "intensity": 1,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "braghera",
+      "original": "braghéra",
+      "category": "insult",
+      "literal_meaning": "(donna che sparla)",
+      "meaning_it": "Pettegola.",
+      "meaning_en": "Gossip (woman).",
+      "intensity": 2,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-corso"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "notes": "Only a gloss in a word list; gendered: use rarely and only in banter."
+    },
+    {
+      "id": "trabiscon",
+      "original": "trabiscòn",
+      "category": "insult",
+      "literal_meaning": "trafficone",
+      "meaning_it": "Trafficone, piccolo imbroglione.",
+      "meaning_en": "Busybody, small-time schemer.",
+      "intensity": 1,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bologna",
+      "sources": [
+        "src-bo-bulgnais-corso"
+      ],
+      "provenance": "attested",
+      "verification_status": "unverified"
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "$schema": "../../../../../schemas/profanity.schema.json",
+  "dialect": "pataca",
+  "entries": [
+    {
+      "id": "pataca",
+      "original": "pataca",
+      "variants": [
+        "patacca",
+        "patàca"
+      ],
+      "category": "insult",
+      "literal_meaning": "sciocco, minchione",
+      "meaning_it": "sciocco, minchione; sbruffone ingenuo",
+      "meaning_en": "fool, simpleton; harmless show-off",
+      "intensity": 2,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "self-mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "self-mockery"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "family",
+        "strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "T' si un pataca!",
+          "translation_it": "Sei un pataca!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-areasosta-pataca"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mode name. Ercolani: patacca, sm. agg. 'minchione, sciocco', pl. patéca."
+    },
+    {
+      "id": "pataca-genitale-femminile",
+      "original": "pataca (genitale femminile)",
+      "variants": [
+        "patacca"
+      ],
+      "category": "anatomical",
+      "literal_meaning": "vulva",
+      "meaning_it": "vulva, termine volgare",
+      "meaning_en": "vulgar term for female genitalia",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "crudeness"
+        ]
+      },
+      "appropriate_contexts": [
+        "very crude banter among adults who use it"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "family",
+        "strangers",
+        "women",
+        "at work"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960",
+        "src-rgn-enwiktionary-patacca"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani (spatachéss) and Wiktionary document it. Never use the mode name pun by default. Do not generate unless the user asks for that sense."
+    },
+    {
+      "id": "cvajon",
+      "original": "cvajón",
+      "variants": [
+        "quajòn"
+      ],
+      "category": "insult",
+      "literal_meaning": "testicolo",
+      "meaning_it": "sciocco, coglione",
+      "meaning_en": "testicle; fool",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "family",
+        "strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mèrda d'un bug, che cvajón ch'a so!",
+          "translation_it": "Che coglione sono!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cvajuner",
+      "original": "cvajunèr",
+      "variants": [
+        "cvajunèda (sf.)"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "coglionare",
+      "meaning_it": "prendere in giro, sfottere",
+      "meaning_en": "to take for a fool, to mock",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "family",
+        "strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "U m' cvajuna.",
+          "translation_it": "Mi prende in giro.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "merda",
+      "original": "mèrda",
+      "category": "exclamation",
+      "literal_meaning": "merda",
+      "meaning_it": "merda; cosa schifosa",
+      "meaning_en": "shit; crap",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "bad day"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mèrda d'un bug!",
+          "translation_it": "Che bug di merda!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cui",
+      "original": "cui",
+      "variants": [
+        "Ave' de cui = essere fortunato"
+      ],
+      "category": "anatomical",
+      "literal_meaning": "culo",
+      "meaning_it": "culo",
+      "meaning_en": "arse",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "jokes"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ave' de cui!",
+          "translation_it": "Avere culo!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-de-cui",
+      "original": "Ave' de cui",
+      "category": "vulgar-idiom",
+      "literal_meaning": "avere culo",
+      "meaning_it": "essere fortunato",
+      "meaning_en": "to have a lucky arse = to be lucky",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "envy",
+          "admiration"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ave' de cui!",
+          "translation_it": "Avere culo!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'Ave' de cui, (F.) essere fortunato'."
+    },
+    {
+      "id": "va-a-caghe-int-e-remai",
+      "original": "Va' a caghé' int e' remai",
+      "category": "dismissal",
+      "literal_meaning": "vai a cacare nel roveto/ramaglia",
+      "meaning_it": "vai a fare lo sciocco, vattene",
+      "meaning_en": "go and shit in the thicket = get lost",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "venting at a thing"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "users"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "E' bug ch'e' va' a caghé' int e' remai!",
+          "translation_it": "Vattene al diavolo, bug!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani gives only the figurative meaning 'va' a fare lo sciocco'."
+    },
+    {
+      "id": "caghess-ados",
+      "original": "Caghéss adòs",
+      "category": "vulgar-idiom",
+      "literal_meaning": "farsela addosso",
+      "meaning_it": "farsela addosso; avere paura",
+      "meaning_en": "to soil oneself; to be terrified",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "fear"
+        ]
+      },
+      "appropriate_contexts": [
+        "deadlines",
+        "production panic"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Cun e' deploy a m' cagh adòs.",
+          "translation_it": "Col deploy me la faccio addosso.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ch-u-t-vegna-un-azident",
+      "original": "Ch'u t' vegna un azidént!",
+      "category": "imprecation",
+      "literal_meaning": "che ti prenda un accidente",
+      "meaning_it": "imprecazione amichevole",
+      "meaning_en": "friendly imprecation",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "affection",
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "bugs"
+      ],
+      "inappropriate_contexts": [
+        "strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ch'u t' vegna un azidént, bug!",
+          "translation_it": "Ti pigli un accidente, bug!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: 'tipica imprecazione amichevole romagnola che vale un complimento'."
+    },
+    {
+      "id": "anticor",
+      "original": "anticòr",
+      "category": "imprecation",
+      "literal_meaning": "colpo (apoplettico)",
+      "meaning_it": "accidente, imprecazione antica",
+      "meaning_en": "apoplexy; old imprecation",
+      "intensity": 2,
+      "register": "archaic",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "historical flavour"
+      ],
+      "inappropriate_contexts": [
+        "modern casual"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani: dates from at least the 1700s."
+    },
+    {
+      "id": "carogna",
+      "original": "carógna",
+      "category": "insult",
+      "literal_meaning": "carcassa",
+      "meaning_it": "persona cattiva e dispettosa",
+      "meaning_en": "wicked, spiteful person",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile talk about situations or villains"
+      ],
+      "inappropriate_contexts": [
+        "friends"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che carógna ch'l'è e' compilador!",
+          "translation_it": "Che carogna il compilatore!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porc",
+      "original": "pòrc",
+      "category": "insult",
+      "literal_meaning": "maiale",
+      "meaning_it": "persona immorale",
+      "meaning_en": "immoral person; pig",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "strong criticism"
+      ],
+      "inappropriate_contexts": [
+        "friends"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bdocc",
+      "original": "bdòcc",
+      "category": "insult",
+      "literal_meaning": "pidocchio",
+      "meaning_it": "uomo gretto, avaro",
+      "meaning_en": "stingy person; louse",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "miserly colleague"
+      ],
+      "inappropriate_contexts": [
+        "friends"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che bdòcc!",
+          "translation_it": "Che pidocchio!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zembal",
+      "original": "zèmbal",
+      "category": "insult",
+      "literal_meaning": "cembalo",
+      "meaning_it": "stupido",
+      "meaning_en": "stupid person",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "T' si un zèmbal.",
+          "translation_it": "Sei uno stupido.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested as 'T' si un zèmbal' (Ercolani)."
+    },
+    {
+      "id": "coc",
+      "original": "cóc",
+      "variants": [
+        "coc"
+      ],
+      "category": "insult",
+      "literal_meaning": "cuculo",
+      "meaning_it": "uomo sciocco",
+      "meaning_en": "fool",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mamaloc",
+      "original": "mamalóc",
+      "category": "insult",
+      "literal_meaning": "mammalucco",
+      "meaning_it": "stupido, sciocco",
+      "meaning_en": "dolt",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "culple",
+      "original": "culplé",
+      "category": "insult",
+      "literal_meaning": "culo pelato",
+      "meaning_it": "dispregiativo: cosa o persona da poco",
+      "meaning_en": "contemptuous: a worthless person",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "strong contempt"
+      ],
+      "inappropriate_contexts": [
+        "friends"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani lists 'culplé, agg. dispregiativo (culo pelato)'."
+    },
+    {
+      "id": "vaca",
+      "original": "vaca",
+      "category": "insult",
+      "literal_meaning": "vacca",
+      "meaning_it": "puttana",
+      "meaning_en": "whore",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only; never at a user"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "family",
+        "strangers",
+        "women"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani lists 'Puttana' as a sense of vaca. Do not target people; avoid generating at the user."
+    },
+    {
+      "id": "futir",
+      "original": "futir",
+      "variants": [
+        "futì"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "fottere",
+      "meaning_it": "fottere; ingannare, fregare",
+      "meaning_en": "to fuck; to cheat, to screw",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "venting"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "E' bug u m' à futì.",
+          "translation_it": "Il bug mi ha fregato.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "smaduner",
+      "original": "smadunèr",
+      "category": "blasphemy",
+      "literal_meaning": "bestemmiare la Madonna",
+      "meaning_it": "bestemmiare (la Madonna)",
+      "meaning_en": "to blaspheme (the Virgin)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "anger"
+      ],
+      "inappropriate_contexts": [
+        "religious people",
+        "formal"
+      ],
+      "blasphemy": true,
+      "generation_allowed": false,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ercolani documents only the verb 'smadunèr' and the noun biastèma; no verbatim formulas are attested, so none are generated. Use the verb only in third person narration if needed."
+    },
+    {
+      "id": "angv-ad-giana",
+      "original": "Angv ad Giana!",
+      "category": "exclamation",
+      "literal_meaning": "sangue di Diana",
+      "meaning_it": "giuramento attenuato",
+      "meaning_en": "mild oath",
+      "intensity": 1,
+      "register": "archaic",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "historical flavour"
+      ],
+      "inappropriate_contexts": [
+        "none"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Romagna",
+      "sources": [
+        "src-rgn-ercolani-1960"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

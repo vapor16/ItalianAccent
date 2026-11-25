@@ -1,0 +1,159 @@
+{
+  "sources": [
+    {
+      "id": "src-rgn-ercolani-1960",
+      "title": "Vocabolario romagnolo-italiano",
+      "url": "https://archive.org/details/vocabolarioromag00ercouoft",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol, Ravenna countryside (Bastia, San Pietro in Vincoli, Campiano etc.)",
+      "source_type": "historical-dictionary",
+      "license": "All rights reserved (1960); digitised copy on Internet Archive",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Large dictionary with proverbs and idioms, based on the Ravenna countryside, not Rimini. OCR text is noisy: voiced z is rendered § ? ^. Entries cited: patacca, spatachéss, cvajón, cui, mèrda, géval, vaca, piòc, bdòcc, zèmbal, azidént, anticòr, smadunèr, burdèl and many proverbs.",
+      "relevant_sections": "Headwords and phrase lists; many proverbs under months/saints",
+      "used_by": [
+        "pataca"
+      ],
+      "author": "Libero Ercolani",
+      "publisher": "Cassa di Risparmio/Monte di Ravenna",
+      "publication_date": "1960"
+    },
+    {
+      "id": "src-rgn-itwiki-lingua-romagnola",
+      "title": "Lingua romagnola (Wikipedia in italiano)",
+      "url": "https://it.wikipedia.org/wiki/Lingua_romagnola",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol, all of Romagna incl. Rimini, Forlì, Ravenna, Imola",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Gives vowel system, subject clitics, negation, articles, plurals, paradigms (essere, avere, magnè, pagh-é, vut-êr) with city labels and bibliography (Masotti, Pelliciardi, Vitali).",
+      "relevant_sections": "Fonetica, Pronomi, Articoli, Plurali, Verbi",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-rgn-enwiki-romagnol",
+      "title": "Romagnol dialect (Wikipedia, English)",
+      "url": "https://en.wikipedia.org/wiki/Romagnol_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Orthography follows Vitali 2008; vowel table with examples (bël/bèl, fêr, cã), four conjugations, obligatory subject pronouns, impersonal avèr.",
+      "relevant_sections": "Grammar: Orthography, Morphology, Syntax",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-rgn-itwiktionary-patacca",
+      "title": "patacca (Wikizionario)",
+      "url": "https://it.wiktionary.org/wiki/patacca",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Italian",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Standard Italian sense: silver coin, worthless object. No Romagnol sense. Used to separate the Italian sense from the Romagnol one.",
+      "relevant_sections": "patacca",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wikizionario"
+    },
+    {
+      "id": "src-rgn-enwiktionary-patacca",
+      "title": "patacca (Wiktionary)",
+      "url": "https://en.wiktionary.org/wiki/patacca",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Italian",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Italian senses: junk or fake, medal, stain, vulgar term for female genitalia. Etymology uncertain. Documents the vulgar sense.",
+      "relevant_sections": "patacca",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-rgn-itwiktionary-andeer",
+      "title": "andêr (Wikizionario, romagnolo)",
+      "url": "https://it.wiktionary.org/wiki/andêr",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Romagnol verb 'andêr' (to go), citing Giovannini 2025 course; confirms spelling with circumflex.",
+      "relevant_sections": "andêr",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wikizionario"
+    },
+    {
+      "id": "src-rgn-wikiquote-proverbs",
+      "title": "Romagnol proverbs (Wikiquote)",
+      "url": "https://en.wikiquote.org/wiki/Romagnol_proverbs",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol (19th-c. German collection, mixed orthography)",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "low",
+      "reliability_notes": "14 proverbs with English equivalents; spelling inconsistent and one entry misfiled (German). Used with normalisation.",
+      "relevant_sections": "proverbs",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Wikiquote"
+    },
+    {
+      "id": "src-rgn-donnaglamour-proverbi",
+      "title": "Proverbi romagnoli in dialetto con traduzione in italiano",
+      "url": "https://www.donnaglamour.it/proverbi-romagnoli/lifestyle/amp/",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagnol (mixed)",
+      "source_type": "popular-web",
+      "license": "Not stated; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "About 50 proverbs with Italian translation; unknown collector, spelling uneven. Used only for short, widely known sayings that are confirmed elsewhere or very common.",
+      "relevant_sections": "proverbs",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "Donna Glamour (magazine web page)"
+    },
+    {
+      "id": "src-rgn-areasosta-pataca",
+      "title": "Perché si dice patacca? / Chi pataca? (areasosta.com FAQ)",
+      "url": "https://areasosta.com/faq/perche-si-dice-patacca",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Romagna (Rimini press/FAQ, popular)",
+      "source_type": "popular-web",
+      "license": "Not stated; facts only",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular FAQ: 'pataca' as harmless show-off; quotes a San Marino RTV description as 'forse la più famosa delle parole romagnole' meaning 'minchione, sciocco'. No etymology.",
+      "relevant_sections": "pataca",
+      "used_by": [
+        "pataca"
+      ],
+      "publisher": "areasosta.com"
+    }
+  ]
+}

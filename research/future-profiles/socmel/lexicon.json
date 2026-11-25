@@ -1,0 +1,2129 @@
+{
+  "$schema": "../../../../../schemas/lexicon.schema.json",
+  "dialect": "socmel",
+  "entries": [
+    {
+      "id": "al",
+      "term": "al",
+      "category": "function-word",
+      "meaning_it": "il (articolo m. sing.); clitico soggetto di 3a persona m.",
+      "meaning_en": "the (m. sg. article); 3sg masculine subject clitic",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "article / subject clitic",
+      "notes": "Before a vowel l'. With the negation an it contracts: al + an gives an.",
+      "examples": [
+        {
+          "text": "Al gât al córr",
+          "translation_it": "Il gatto corre",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "category": "function-word",
+      "meaning_it": "la (articolo f. sing.); clitico soggetto f.",
+      "meaning_en": "the (f. sg. article); 3sg feminine subject clitic",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "article / subject clitic",
+      "examples": [
+        {
+          "text": "La rôda",
+          "translation_it": "La ruota",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "term": "i",
+      "category": "function-word",
+      "meaning_it": "i (articolo m. plurale); clitico soggetto di 3a plurale",
+      "meaning_en": "the (m. pl. article); 3pl subject clitic",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "article / subject clitic",
+      "notes": "Feminine plural is äl (äli before a vowel).",
+      "examples": [
+        {
+          "text": "I râm",
+          "translation_it": "I rami",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "al-2",
+      "term": "äl",
+      "category": "function-word",
+      "meaning_it": "le (articolo f. plurale)",
+      "meaning_en": "the (f. pl. article)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "article",
+      "variants": [
+        "äli"
+      ],
+      "examples": [
+        {
+          "text": "äl rôd",
+          "translation_it": "le ruote",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "un",
+      "term": "un",
+      "category": "function-word",
+      "meaning_it": "un, una (articolo indeterminativo)",
+      "meaning_en": "a, an",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "indefinite article",
+      "variants": [
+        "una",
+        "un'"
+      ],
+      "notes": "No plural; partitive di/däl or socuànt is used."
+    },
+    {
+      "id": "a",
+      "term": "a",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 1a sing., 1a e 2a plurale (a mâgn, a magnän, a magnè)",
+      "meaning_en": "subject clitic for 1sg, 1pl and 2pl",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "subject clitic",
+      "notes": "Drops before a verb starting with unstressed a.",
+      "examples": [
+        {
+          "text": "A mâgn",
+          "translation_it": "Io mangio",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "t",
+      "term": "t",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 2a sing. ((e) t)",
+      "meaning_en": "2sg subject clitic",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "subject clitic",
+      "variants": [
+        "et"
+      ],
+      "examples": [
+        {
+          "text": "T mâgn",
+          "translation_it": "Tu mangi",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "me",
+      "term": "mé",
+      "category": "function-word",
+      "meaning_it": "io (pronome tonico)",
+      "meaning_en": "I / me (stressed)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "Mé a sån manc vèc' che Pèvel",
+          "translation_it": "Io sono meno vecchio di Paolo",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "te",
+      "term": "té",
+      "category": "function-word",
+      "meaning_it": "tu (pronome tonico)",
+      "meaning_en": "you (sg., stressed)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "lo",
+      "term": "ló",
+      "category": "function-word",
+      "meaning_it": "lui; forma di cortesia maschile",
+      "meaning_en": "he / him; formal address (m.)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "li",
+      "term": "lî",
+      "category": "function-word",
+      "meaning_it": "lei; forma di cortesia femminile",
+      "meaning_en": "she / her; formal address (f.)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "nueter",
+      "term": "nuèter",
+      "category": "function-word",
+      "meaning_it": "noi",
+      "meaning_en": "we / us",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "vueter",
+      "term": "vuèter",
+      "category": "function-word",
+      "meaning_it": "voi",
+      "meaning_en": "you (pl.)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "laur",
+      "term": "låur",
+      "category": "function-word",
+      "meaning_it": "loro",
+      "meaning_en": "they / them",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "pronoun"
+    },
+    {
+      "id": "brisa",
+      "term": "brîṡa",
+      "category": "function-word",
+      "meaning_it": "mica, per niente; secondo elemento della doppia negazione (an ... brîṡa)",
+      "meaning_en": "not (second element of double negation)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect",
+        "src-bo-wiktionary",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "negative adverb",
+      "notes": "Wiktionary traces it to Vulgar Latin *brisare 'to break' (crumb). With a compound tense it stands between auxiliary and participle.",
+      "examples": [
+        {
+          "text": "Mé a n mâgn brîṡa",
+          "translation_it": "Non mangio",
+          "provenance": "attested"
+        },
+        {
+          "text": "Mé a n ò brîṡa magnè",
+          "translation_it": "Non ho mangiato",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "megga",
+      "term": "mégga",
+      "category": "function-word",
+      "meaning_it": "mica",
+      "meaning_en": "not (variant of mica)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "negative adverb"
+    },
+    {
+      "id": "mai",
+      "term": "mâi",
+      "category": "function-word",
+      "meaning_it": "mai",
+      "meaning_en": "never / ever",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "pio",
+      "term": "pió",
+      "category": "function-word",
+      "meaning_it": "più",
+      "meaning_en": "more",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "L é pió bèl che fûrb",
+          "translation_it": "È più bello che furbo",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "gninta",
+      "term": "gnínta",
+      "category": "function-word",
+      "meaning_it": "niente",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "indefinite pronoun",
+      "variants": [
+        "gnènta"
+      ],
+      "notes": "The gnènta spelling is the simplified form on the bulgnais.com phrasebook page."
+    },
+    {
+      "id": "incion",
+      "term": "inción",
+      "category": "function-word",
+      "meaning_it": "nessuno",
+      "meaning_en": "nobody",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "indefinite pronoun"
+    },
+    {
+      "id": "gnanc",
+      "term": "gnanc",
+      "category": "function-word",
+      "meaning_it": "neanche; non ancora",
+      "meaning_en": "not even; not yet",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "mo",
+      "term": "mò",
+      "category": "function-word",
+      "meaning_it": "particella esortativa: su, dai (anche 'ma' nella forma mo)",
+      "meaning_en": "exhortative particle: come on",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "particle",
+      "variants": [
+        "mo"
+      ],
+      "notes": "socmel.it glosses mo as intercalare 'ma, dai, su'.",
+      "examples": [
+        {
+          "text": "Ciâpa mò la mâchina!",
+          "translation_it": "Prendi la macchina!",
+          "provenance": "attested"
+        },
+        {
+          "text": "Stè mò da sénter!",
+          "translation_it": "State a sentire!",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "es",
+      "term": "es",
+      "category": "function-word",
+      "meaning_it": "e inoltre (coordina due verbi con lo stesso soggetto)",
+      "meaning_en": "and moreover (between two verbs with same subject)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "conjunction",
+      "examples": [
+        {
+          "text": "Al piôv es ai é al såul",
+          "translation_it": "Piove e c'è il sole",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "ed",
+      "term": "ed",
+      "category": "function-word",
+      "meaning_it": "di",
+      "meaning_en": "of / from",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect",
+        "src-bo-bulgnais-grafia"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "preposition",
+      "notes": "Contracts with articles: dal, dla, di, däl.",
+      "examples": [
+        {
+          "text": "A sån ed Bulåggna",
+          "translation_it": "Sono di Bologna",
+          "provenance": "documented-rule"
+        }
+      ]
+    },
+    {
+      "id": "aura",
+      "term": "åura",
+      "category": "word",
+      "meaning_it": "ora, adesso",
+      "meaning_en": "now",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "incu",
+      "term": "incû",
+      "category": "word",
+      "meaning_it": "oggi",
+      "meaning_en": "today",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "ajir",
+      "term": "ajîr",
+      "category": "word",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "dman",
+      "term": "dman",
+      "category": "word",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "dovv",
+      "term": "dóvv",
+      "category": "function-word",
+      "meaning_it": "dove",
+      "meaning_en": "where",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "interrogative"
+    },
+    {
+      "id": "comm",
+      "term": "cómm",
+      "category": "function-word",
+      "meaning_it": "come",
+      "meaning_en": "how",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "interrogative"
+    },
+    {
+      "id": "csa",
+      "term": "csa",
+      "category": "function-word",
+      "meaning_it": "che cosa",
+      "meaning_en": "what",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-grafia",
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "interrogative",
+      "notes": "Seen as csa vût? (cosa vuoi) on the orthography page, where encoding hid one letter."
+    },
+    {
+      "id": "sanper",
+      "term": "sänper",
+      "category": "word",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "adverb"
+    },
+    {
+      "id": "du",
+      "term": "dû",
+      "category": "word",
+      "meaning_it": "due (m.; f. dåu)",
+      "meaning_en": "two",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "numeral",
+      "variants": [
+        "dåu"
+      ],
+      "notes": "Gender kept only for 1-3: ón/óṅna, dû/dåu, trî/trai. From 4: quâter, zénncv, sî, sèt, òt, nôv, dîṡ."
+    },
+    {
+      "id": "eser",
+      "term": "èser",
+      "category": "word",
+      "meaning_it": "essere",
+      "meaning_en": "to be",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: a sån, t î, l é, a sän, a sî, i én. Interrogative: såggna?, ît?, êl?",
+      "examples": [
+        {
+          "text": "L é un èṡen",
+          "translation_it": "È un asino",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "avair",
+      "term": "avair",
+      "category": "word",
+      "meaning_it": "avere",
+      "meaning_en": "to have",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: a ò, t è, l à, avän, avî, i an."
+    },
+    {
+      "id": "magner",
+      "term": "magnèr",
+      "category": "word",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: a mâgn, t mâgn, al mâgna, a magnän, a magnè, i mâgnen. Participle magnè, gerund magnànd."
+    },
+    {
+      "id": "ander",
+      "term": "andèr",
+      "category": "word",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: vâg, vè, và, andän, andè, van; future andarò; participle andè; auxiliary èser."
+    },
+    {
+      "id": "fer",
+      "term": "fèr",
+      "category": "word",
+      "meaning_it": "fare",
+      "meaning_en": "to do, to make",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: fâg, fè, fà, fän, fè, fan; participle fât; future farò; auxiliary avair."
+    },
+    {
+      "id": "dir",
+      "term": "dîr",
+      "category": "word",
+      "meaning_it": "dire",
+      "meaning_en": "to say",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present (Bologna): dégg, dî, dîṡ, giän, gî, dîṡen; participle détt."
+    },
+    {
+      "id": "vlair",
+      "term": "vlair",
+      "category": "word",
+      "meaning_it": "volere",
+      "meaning_en": "to want",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: vói, vû, vôl, vlän, vlî, vôlen."
+    },
+    {
+      "id": "psair",
+      "term": "psair",
+      "category": "word",
+      "meaning_it": "potere",
+      "meaning_en": "can, to be able",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: pòs, pû, pôl, psän, psî, pôlen; participle psó."
+    },
+    {
+      "id": "savair",
+      "term": "savair",
+      "category": "word",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present: sò, sè, sà, savän, savî, san; participle savó.",
+      "examples": [
+        {
+          "text": "A n al sò brîṡa",
+          "translation_it": "Non lo so",
+          "provenance": "ai-illustrative"
+        }
+      ]
+    },
+    {
+      "id": "sucer",
+      "term": "sucèr",
+      "category": "word",
+      "meaning_it": "succhiare",
+      "meaning_en": "to suck",
+      "register": "vulgar",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-wiktionary",
+        "src-bo-itwiki-soccmel"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Source verb of socc'mel according to Wikipedia; present sócc', sóccia.",
+      "vulgarity": 3
+    },
+    {
+      "id": "bavver",
+      "term": "bàvver",
+      "category": "word",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "socmel.it gives a bavv for 'io bevo'."
+    },
+    {
+      "id": "dscarrer",
+      "term": "dscårrer",
+      "category": "word",
+      "meaning_it": "parlare, discorrere",
+      "meaning_en": "to speak, talk",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Also the title of the Vitali grammar 'M' a dscórr in bulgnaiṡ'; itwiki cites 'Dscårret in bulgnaiṡ?'."
+    },
+    {
+      "id": "mander",
+      "term": "mandèr",
+      "category": "word",
+      "meaning_it": "mandare (verbo modello 1a classe)",
+      "meaning_en": "to send (model verb, 1st class)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-verbix",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present mand, mand, manda, mandän, mandè, manden; imperfect mandèva; future mandarò."
+    },
+    {
+      "id": "finir",
+      "term": "finîr",
+      "category": "word",
+      "meaning_it": "finire (verbo modello 4a classe)",
+      "meaning_en": "to finish (model verb, 4th class)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-verbix"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb",
+      "notes": "Present finéss, finéss, finéss, finän, finî, finéssen; participle finé."
+    },
+    {
+      "id": "ranper",
+      "term": "rånper",
+      "category": "word",
+      "meaning_it": "rompere",
+      "meaning_en": "to break",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "part_of_speech": "verb"
+    },
+    {
+      "id": "bulaggna",
+      "term": "Bulåggna",
+      "category": "word",
+      "meaning_it": "Bologna",
+      "meaning_en": "Bologna",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "City name in the OLM spelling."
+    },
+    {
+      "id": "bulgnais",
+      "term": "bulgnaiṡ",
+      "category": "word",
+      "meaning_it": "bolognese (dialetto, abitante)",
+      "meaning_en": "Bolognese (dialect, person)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "gat",
+      "term": "gât",
+      "category": "word",
+      "meaning_it": "gatto",
+      "meaning_en": "cat",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "can",
+      "term": "can",
+      "category": "word",
+      "meaning_it": "cane",
+      "meaning_en": "dog",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Also in the proverb 'N dedar i can...' of Wikiquote."
+    },
+    {
+      "id": "galenna",
+      "term": "galéṅna",
+      "category": "word",
+      "meaning_it": "gallina",
+      "meaning_en": "hen",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "ṅ marks the velar nasal before n."
+    },
+    {
+      "id": "machina",
+      "term": "mâchina",
+      "category": "word",
+      "meaning_it": "macchina, auto",
+      "meaning_en": "car, machine",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "roda",
+      "term": "rôda",
+      "category": "word",
+      "meaning_it": "ruota",
+      "meaning_en": "wheel",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Plural äl rôd."
+    },
+    {
+      "id": "martel",
+      "term": "martèl",
+      "category": "word",
+      "meaning_it": "martello (pl. martî)",
+      "meaning_en": "hammer (pl. martî)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "fiol",
+      "term": "fiôl",
+      "category": "word",
+      "meaning_it": "figlio (pl. fiû)",
+      "meaning_en": "son, child (pl. fiû)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "omen",
+      "term": "òmen",
+      "category": "word",
+      "meaning_it": "uomo",
+      "meaning_en": "man",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Before a vowel l òmen."
+    },
+    {
+      "id": "esen",
+      "term": "èṡen",
+      "category": "word",
+      "meaning_it": "asino",
+      "meaning_en": "donkey",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Used as mild insult (e.g. l é un èṡen es vôl fèr al fûrb)."
+    },
+    {
+      "id": "znoc",
+      "term": "żnòc",
+      "category": "word",
+      "meaning_it": "ginocchio (pl. żnûc)",
+      "meaning_en": "knee (pl. żnûc)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "ven",
+      "term": "vén",
+      "category": "word",
+      "meaning_it": "vino",
+      "meaning_en": "wine",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Older spelling vein in Wikiquote proverbs."
+    },
+    {
+      "id": "pan",
+      "term": "pan",
+      "category": "word",
+      "meaning_it": "pane",
+      "meaning_en": "bread",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-bulgnais-libri"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "sacc",
+      "term": "sacc",
+      "category": "word",
+      "meaning_it": "secco (sâc = sacco)",
+      "meaning_en": "dry (sâc = sack)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-bulgnais-grafia"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Minimal pair showing vowel length: short vowel + long consonant."
+    },
+    {
+      "id": "vant",
+      "term": "vänt",
+      "category": "word",
+      "meaning_it": "vento",
+      "meaning_en": "wind",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "saul",
+      "term": "såul",
+      "category": "word",
+      "meaning_it": "sole",
+      "meaning_en": "sun",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "ganba",
+      "term": "ganba",
+      "category": "word",
+      "meaning_it": "gamba",
+      "meaning_en": "leg",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "don",
+      "term": "dòn",
+      "category": "word",
+      "meaning_it": "donne (pl. di dòna)",
+      "meaning_en": "women",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwikiquote-proverbi"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Plural äl dòn."
+    },
+    {
+      "id": "bocia",
+      "term": "bòcia",
+      "category": "word",
+      "meaning_it": "bottiglia",
+      "meaning_en": "bottle",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "socmel.it: more used than butégglia."
+    },
+    {
+      "id": "dutaur",
+      "term": "dutåur",
+      "category": "word",
+      "meaning_it": "dottore, medico (f. duturassa)",
+      "meaning_en": "doctor (f. duturassa)",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "funtena",
+      "term": "funtèna",
+      "category": "word",
+      "meaning_it": "fontana",
+      "meaning_en": "fountain",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "fam",
+      "term": "fâm",
+      "category": "word",
+      "meaning_it": "fame",
+      "meaning_en": "hunger",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "mur",
+      "term": "mûr",
+      "category": "word",
+      "meaning_it": "muro",
+      "meaning_en": "wall",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "piaza",
+      "term": "piâza",
+      "category": "word",
+      "meaning_it": "piazza; in piâza = Piazza Maggiore, il centro",
+      "meaning_en": "square; in piâza = Piazza Maggiore, the centre",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "rass",
+      "term": "råss",
+      "category": "word",
+      "meaning_it": "rosso",
+      "meaning_en": "red",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "salam",
+      "term": "salâm",
+      "category": "word",
+      "meaning_it": "salame, salume",
+      "meaning_en": "salami, cured meat",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "sfoja",
+      "term": "sfòja",
+      "category": "word",
+      "meaning_it": "sfoglia, pasta tirata col mattarello",
+      "meaning_en": "rolled pasta sheet",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "sira",
+      "term": "sîra",
+      "category": "word",
+      "meaning_it": "sera",
+      "meaning_en": "evening",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "tajadel",
+      "term": "tajadèl",
+      "category": "word",
+      "meaning_it": "tagliatelle",
+      "meaning_en": "tagliatelle",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "turtlen",
+      "term": "turtlén",
+      "category": "word",
+      "meaning_it": "tortellini",
+      "meaning_en": "tortellini",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "tevla",
+      "term": "tèvla",
+      "category": "word",
+      "meaning_it": "tavola, tavolo",
+      "meaning_en": "table",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "ustari",
+      "term": "ustarî",
+      "category": "word",
+      "meaning_it": "osteria",
+      "meaning_en": "inn, tavern",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "zivalla",
+      "term": "zivålla",
+      "category": "word",
+      "meaning_it": "cipolla",
+      "meaning_en": "onion",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "zdaura",
+      "term": "zdàura",
+      "category": "word",
+      "meaning_it": "la padrona di casa, regina della sfoglia",
+      "meaning_en": "mistress of the house, queen of the pasta sheet",
+      "register": "affectionate",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "oc",
+      "term": "òc'",
+      "category": "word",
+      "meaning_it": "occhio (pl. ûc')",
+      "meaning_en": "eye (pl. ûc')",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "malati",
+      "term": "malatî",
+      "category": "word",
+      "meaning_it": "malattia",
+      "meaning_en": "illness",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "umarel",
+      "term": "umarèl",
+      "category": "word",
+      "meaning_it": "ometto; pensionato che osserva i cantieri con le mani dietro la schiena",
+      "meaning_en": "little old man watching building sites",
+      "register": "affectionate",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Spread into Italian as umarell (the umarells of Bologna)."
+    },
+    {
+      "id": "sumar",
+      "term": "sumâr",
+      "category": "word",
+      "meaning_it": "somaro, asino; detto con affetto a chi sbaglia",
+      "meaning_en": "donkey; affectionate for someone who errs",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "tentinbriga",
+      "term": "tentinbrîga",
+      "category": "word",
+      "meaning_it": "scansafatiche, pigrone",
+      "meaning_en": "slacker",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "insme",
+      "term": "inṡmé",
+      "category": "word",
+      "meaning_it": "tonto, intontito (in italiano di Bologna: ismito)",
+      "meaning_en": "dazed, daft",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "furb",
+      "term": "fûrb",
+      "category": "word",
+      "meaning_it": "furbo",
+      "meaning_en": "clever, cunning",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "fèr al fûrb = to act smart."
+    },
+    {
+      "id": "vec",
+      "term": "vèc'",
+      "category": "word",
+      "meaning_it": "vecchio",
+      "meaning_en": "old",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect",
+        "src-bo-itwiki-dialetto"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "brott",
+      "term": "brótt",
+      "category": "word",
+      "meaning_it": "brutto",
+      "meaning_en": "ugly",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "grand",
+      "term": "grand",
+      "category": "word",
+      "meaning_it": "grande",
+      "meaning_en": "big",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "dimendi",
+      "term": "dimèndi",
+      "category": "word",
+      "meaning_it": "molto",
+      "meaning_en": "a lot",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "luntan",
+      "term": "luntàn",
+      "category": "word",
+      "meaning_it": "lontano",
+      "meaning_en": "far",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "svelt",
+      "term": "svèlt",
+      "category": "word",
+      "meaning_it": "veloce",
+      "meaning_en": "fast",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "cinen",
+      "term": "cinén",
+      "category": "word",
+      "meaning_it": "piccolo",
+      "meaning_en": "small",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "cativ",
+      "term": "cativ",
+      "category": "word",
+      "meaning_it": "cattivo",
+      "meaning_en": "bad",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "mujer",
+      "term": "mujèr",
+      "category": "word",
+      "meaning_it": "moglie",
+      "meaning_en": "wife",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "mari",
+      "term": "marì",
+      "category": "word",
+      "meaning_it": "marito",
+      "meaning_en": "husband",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "acua",
+      "term": "àcua",
+      "category": "word",
+      "meaning_it": "acqua",
+      "meaning_en": "water",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "caren",
+      "term": "carèn",
+      "category": "word",
+      "meaning_it": "carne",
+      "meaning_en": "meat",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "quel",
+      "term": "quèl",
+      "category": "word",
+      "meaning_it": "cosa",
+      "meaning_en": "thing",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Taken from the simplified-spelling column of the bulgnais.com lessico page; the OLM diacritics could not be checked because of encoding corruption on the fetched page."
+    },
+    {
+      "id": "adio",
+      "term": "adío",
+      "category": "greeting",
+      "meaning_it": "ciao (a chi si dà del tu, sia arrivando sia andando via)",
+      "meaning_en": "hi / bye (to someone addressed with tu)",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "variants": [
+        "adèo"
+      ],
+      "notes": "Spelling adèo on the bulgnais phrasebook, adío on socmel.it."
+    },
+    {
+      "id": "a-se-vdran",
+      "term": "a se vdrän",
+      "category": "greeting",
+      "meaning_it": "ci vediamo (per congedarsi)",
+      "meaning_en": "see you",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "cum-stet",
+      "term": "Cum stèt?",
+      "category": "greeting",
+      "meaning_it": "come stai?",
+      "meaning_en": "how are you?",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Phrasebook gives Cum stèt?; with the interrogative -t suffix."
+    },
+    {
+      "id": "socc-mel",
+      "term": "sòcc'mel",
+      "category": "interjection",
+      "meaning_it": "intercalare bolognese: stupore, ammirazione, disappunto, a volte affetto; letteralmente invito volgare",
+      "meaning_en": "Bolognese exclamation of surprise, admiration, annoyance, even affection; literally a crude invitation",
+      "register": "vulgar",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-soccmel",
+        "src-bo-itwiki-dialetto",
+        "src-bo-socmel-it",
+        "src-bo-bulgnais-lessico",
+        "src-bo-slengo-socmel",
+        "src-bo-bulgnais-libri"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "variants": [
+        "sòccmel",
+        "sócc'mel",
+        "socc'mel",
+        "socmel",
+        "soccmel",
+        "sòcmel"
+      ],
+      "notes": "Mode identifier. Wikipedia: Sócc'mel with soft c [tʃ], from sucèr, shibboleth of Bologna (Menarini). Dante rendering: dòvv as dìs sèmper sòccmel. Women's form per Menarini: sòccmla.",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Socmel che noia!",
+          "translation_it": "Accidenti che noia!",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "soccia",
+      "term": "sóccia",
+      "category": "interjection",
+      "meaning_it": "forma attenuata di socc'mel, usata come esclamazione di stupore",
+      "meaning_en": "softened form of socc'mel, exclamation of surprise",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-soccmel",
+        "src-bo-bulgnais-lessico",
+        "src-bo-slengo-socmel"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "variants": [
+        "soccia",
+        "sòccia"
+      ],
+      "notes": "Wikipedia: Italianized form of the verb 'sucks'.",
+      "vulgarity": 2
+    },
+    {
+      "id": "sorbole",
+      "term": "sòrbole",
+      "category": "interjection",
+      "meaning_it": "accidenti (equivalente blando di socc'mel)",
+      "meaning_en": "gosh (mild equivalent of socc'mel)",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-itwiki-soccmel"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Listed with accidenti, poffarbacco, càspita as equivalents of socc'mel in Wikipedia; it is also known in other Emilian areas.",
+      "vulgarity": 1
+    },
+    {
+      "id": "oi",
+      "term": "ói",
+      "category": "interjection",
+      "meaning_it": "sì, assenso",
+      "meaning_en": "yes, agreement",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Reported by a blog as an affirmative reply in Bologna."
+    },
+    {
+      "id": "bona-le",
+      "term": "bóna lé",
+      "category": "interjection",
+      "meaning_it": "basta così, ora basta",
+      "meaning_en": "enough already",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "variants": [
+        "bòna lé"
+      ]
+    },
+    {
+      "id": "bandessa",
+      "term": "bandéssa",
+      "category": "interjection",
+      "meaning_it": "salute! (a chi starnutisce)",
+      "meaning_en": "bless you",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "bella-vez",
+      "term": "bella vèz",
+      "category": "interjection",
+      "meaning_it": "saluto tra amici (soprattutto giovani), a prescindere dall'età",
+      "meaning_en": "greeting between friends",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "mo-2",
+      "term": "mo",
+      "category": "interjection",
+      "meaning_it": "intercalare: ma, dai, su",
+      "meaning_en": "filler: but, come on",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-socmel-it",
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Also written mò in the exhortative use."
+    },
+    {
+      "id": "aiuto",
+      "term": "Aiûto!",
+      "category": "interjection",
+      "meaning_it": "aiuto!",
+      "meaning_en": "help!",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Phrasebook has Aj?to! Dâm na man! with corrupted diacritics: accent mark unverified."
+    },
+    {
+      "id": "gninta-scarzaggna",
+      "term": "Gnínta; scarzaggna?",
+      "category": "interjection",
+      "meaning_it": "prego (risposta a grazie)",
+      "meaning_en": "you're welcome",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "From the bulgnais phrasebook; diacritics uncertain. scarzaggna is an interrogative-style form."
+    },
+    {
+      "id": "ster-in-uraccia",
+      "term": "stèr in uràccia",
+      "category": "colloquial-expression",
+      "meaning_it": "stare all'erta, stare sul chi vive",
+      "meaning_en": "to be on one's guard",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)"
+    },
+    {
+      "id": "fer-al-furb",
+      "term": "fèr al fûrb",
+      "category": "colloquial-expression",
+      "meaning_it": "fare il furbo",
+      "meaning_en": "to act clever",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "examples": [
+        {
+          "text": "L é un èṡen es vôl fèr al fûrb",
+          "translation_it": "È un asino e vuole fare il furbo",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "csa-vut",
+      "term": "Csa vût?",
+      "category": "colloquial-expression",
+      "meaning_it": "che cosa vuoi?",
+      "meaning_en": "what do you want?",
+      "register": "familiar",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-grafia",
+        "src-bo-wiktionary"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Interrogative with -t: vlair 2sg vû + t. The orthography page prints it with one letter lost to encoding."
+    },
+    {
+      "id": "a-san-ed-bulaggna",
+      "term": "a sån ed Bulåggna",
+      "category": "colloquial-expression",
+      "meaning_it": "sono di Bologna",
+      "meaning_en": "I am from Bologna",
+      "register": "neutral",
+      "provenance": "documented-rule",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-bulgnais-lessico",
+        "src-bo-enwiki-dialect",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "notes": "Built from èser (a sån), ed and Bulåggna; the phrasebook form has corrupted diacritics."
+    },
+    {
+      "id": "al-piov",
+      "term": "Al piôv",
+      "category": "colloquial-expression",
+      "meaning_it": "piove",
+      "meaning_en": "it's raining",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect",
+        "src-bo-socmel-it"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "examples": [
+        {
+          "text": "Al piôv es ai é al såul",
+          "translation_it": "Piove e c'è il sole",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "ai-e",
+      "term": "ai é",
+      "category": "colloquial-expression",
+      "meaning_it": "c'è, ci sono (esistenziale)",
+      "meaning_en": "there is",
+      "register": "neutral",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-enwiki-dialect"
+      ],
+      "geographical_area": "Bologna (city Bolognese)",
+      "examples": [
+        {
+          "text": "Ai é un òmen",
+          "translation_it": "C'è un uomo",
+          "provenance": "attested"
+        },
+        {
+          "text": "An i é brîṡa mî mèder",
+          "translation_it": "Mia madre non c'è",
+          "provenance": "attested"
+        }
+      ]
+    },
+    {
+      "id": "fare-balotta",
+      "term": "fare balotta",
+      "category": "colloquial-expression",
+      "meaning_it": "passare una serata in compagnia di amici",
+      "meaning_en": "to hang out with friends for an evening",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (regional Italian)",
+      "part_of_speech": "idiom (Bologna regional Italian)"
+    },
+    {
+      "id": "dare-il-tiro",
+      "term": "dare il tiro",
+      "category": "colloquial-expression",
+      "meaning_it": "aprire il portone col citofono",
+      "meaning_en": "to buzz someone in",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (regional Italian)",
+      "part_of_speech": "idiom (Bologna regional Italian)"
+    },
+    {
+      "id": "buttare-il-rusco",
+      "term": "buttare il rusco",
+      "category": "colloquial-expression",
+      "meaning_it": "buttare la spazzatura",
+      "meaning_en": "to take out the rubbish",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (regional Italian)",
+      "part_of_speech": "idiom (Bologna regional Italian)"
+    },
+    {
+      "id": "andare-a-busso",
+      "term": "andare a busso",
+      "category": "colloquial-expression",
+      "meaning_it": "andare a tutta velocità",
+      "meaning_en": "to go flat out",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "unverified",
+      "sources": [
+        "src-bo-succede-guida"
+      ],
+      "geographical_area": "Bologna (regional Italian)",
+      "part_of_speech": "idiom (Bologna regional Italian)"
+    },
+    {
+      "id": "sbolognare",
+      "term": "sbolognare",
+      "category": "colloquial-expression",
+      "meaning_it": "liberarsi di qualcosa o qualcuno di sgradito (voce furbesca da Bologna)",
+      "meaning_en": "to get rid of something or someone unwanted",
+      "register": "colloquial",
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "sources": [
+        "src-bo-treccani-sbolognare"
+      ],
+      "geographical_area": "Italian of Bologna origin",
+      "part_of_speech": "verb (Italian)",
+      "notes": "Italian word, not dialect: use only as a learned wink."
+    }
+  ]
+}
