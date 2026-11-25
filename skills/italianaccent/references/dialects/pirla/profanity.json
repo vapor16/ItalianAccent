@@ -1,0 +1,694 @@
+{
+  "$schema": "../../../../../schemas/profanity.schema.json",
+  "dialect": "pirla",
+  "entries": [
+    {
+      "id": "pirla",
+      "original": "pirla",
+      "variants": [
+        "pirlon",
+        "pirlone"
+      ],
+      "category": "insult",
+      "literal_meaning": "(trottola? membro maschile) imbecille",
+      "meaning_it": "Idiota, sciocco: l'insulto milanese per eccellenza, oggi anche scherzoso.",
+      "meaning_en": "Idiot, jerk: the archetypal Milanese insult, often teasing today.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends",
+        "a bug that makes no sense"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Te se propri un pirla!",
+          "translation_it": "Sei proprio un cretino!",
+          "translation_en": "You're a complete idiot!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-enwikt-pirla",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Wiktionary notes the Italian word is regional vulgar and also means penis; pirlon/pirlone are catalog aliases not checked in a Milanese source."
+    },
+    {
+      "id": "ciaparatt",
+      "original": "ciaparàtt",
+      "variants": [
+        "ciaparatt"
+      ],
+      "category": "insult",
+      "literal_meaning": "prendi-topi",
+      "meaning_it": "Buono a nulla.",
+      "meaning_en": "Good-for-nothing.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciuciamanuber",
+      "original": "ciuciamanuber",
+      "variants": [
+        "ciuciamanùber"
+      ],
+      "category": "insult",
+      "literal_meaning": "succhia-manubri (fannullone)",
+      "meaning_it": "Fannullone, scansafatiche.",
+      "meaning_en": "Layabout.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "lazy colleague"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "balabiott",
+      "original": "balabiott",
+      "category": "insult",
+      "literal_meaning": "mascalzone",
+      "meaning_it": "Mascalzone, persona alla deriva.",
+      "meaning_en": "Rascal, ne'er-do-well.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "teasing a rogue"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "barlafus",
+      "original": "barlafùs",
+      "variants": [
+        "barlafus"
+      ],
+      "category": "insult",
+      "literal_meaning": "inaffidabile",
+      "meaning_it": "Persona inaffidabile.",
+      "meaning_en": "Unreliable person, flake.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "flaky colleague"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "baloss",
+      "original": "baloss",
+      "category": "insult",
+      "literal_meaning": "furbastro",
+      "meaning_it": "Furbo scorretto, imbroglione.",
+      "meaning_en": "Cheat, shifty character.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "a sneaky workaround"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Fa minga el baloss!",
+          "translation_it": "Non fare il furbo!",
+          "translation_en": "Don't play the sly one!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-gergo",
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "louch",
+      "original": "louch",
+      "category": "insult",
+      "literal_meaning": "allocco",
+      "meaning_it": "Stupido, allocco.",
+      "meaning_en": "Dimwit, dope.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "malnatt",
+      "original": "malnatt",
+      "category": "affectionate",
+      "literal_meaning": "nato male",
+      "meaning_it": "Monello (detto soprattutto ai bambini che ne combinano di tutti i colori).",
+      "meaning_en": "Little rascal (said to kids who get into trouble).",
+      "intensity": 1,
+      "register": "affectionate",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "fond exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "children"
+      ],
+      "inappropriate_contexts": [
+        "adult enemies"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "leccacuu",
+      "original": "leccacuu",
+      "variants": [
+        "leccacü"
+      ],
+      "category": "insult",
+      "literal_meaning": "leccaculo",
+      "meaning_it": "Adulatore servile.",
+      "meaning_en": "Brown-noser.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "office flatterer"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Source spelling: Leccacuu."
+    },
+    {
+      "id": "mazzacur",
+      "original": "mazzacur",
+      "category": "insult",
+      "literal_meaning": "ammazza-cu...",
+      "meaning_it": "Persona rozza.",
+      "meaning_en": "Boor, uncouth person.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "rough behaviour"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uregia-panada",
+      "original": "uregia panada",
+      "category": "insult",
+      "literal_meaning": "orecchio panato",
+      "meaning_it": "Sciocco.",
+      "meaning_en": "Simpleton.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-se-bon-per-i-cai",
+      "original": "Te se bon per i cai!",
+      "category": "insult",
+      "literal_meaning": "sei buono per i calli",
+      "meaning_it": "Sei un buono a nulla.",
+      "meaning_en": "You're useless.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "incompetence"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-se-on-saccranomm",
+      "original": "Te se on saccranomm",
+      "category": "insult",
+      "literal_meaning": "sei un sacranome",
+      "meaning_it": "Sei testardo e fai sempre di testa tua.",
+      "meaning_en": "You're stubborn and do what you like.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "stubborn friend"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Source spelling; pun on a mild oath formula is not verified."
+    },
+    {
+      "id": "te-se-on-tarloeucch",
+      "original": "Te se on tarloeùcch",
+      "category": "insult",
+      "literal_meaning": "sei un tarlocco",
+      "meaning_it": "Sei un citrullo testardo.",
+      "meaning_en": "You're a stubborn dolt.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Source spelling mixes oeu and ù."
+    },
+    {
+      "id": "va-a-da-via-i-ciapp",
+      "original": "Va a dà via i ciapp!",
+      "variants": [
+        "Va da via i ciap",
+        "Và a dà via i ciapp"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vai a dar via le chiappe",
+      "meaning_it": "Vai a quel paese.",
+      "meaning_en": "Get lost (lit. go give away your buttocks).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "a flaky dependency"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Va da via i ciapp!",
+          "translation_it": "Vai a quel paese!",
+          "translation_en": "Get lost!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Spellings: ciapp/ciap/ciapp (source)."
+    },
+    {
+      "id": "va-a-da-via-el-cuu",
+      "original": "Va a dà via el cuu!",
+      "variants": [
+        "Va a dà via el cü"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vai a dar via il culo",
+      "meaning_it": "Vai a farti fottere (insulto sessuale esplicito).",
+      "meaning_en": "Go to hell (explicit sexual dismissal).",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "rage"
+        ]
+      },
+      "appropriate_contexts": [
+        "only hostile, never formal"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Source writes Va a dà via el cü / el cuu."
+    },
+    {
+      "id": "ma-va-a-ciapal-in-del-lisca",
+      "original": "Ma va a ciapàl in del lisca!",
+      "category": "dismissal",
+      "literal_meaning": "vai a prenderlo nel sedere",
+      "meaning_it": "Insulto esplicito, riferito al sedere.",
+      "meaning_en": "Explicit insult referring to the backside.",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "rage"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "colleagues"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Source spelling; 'lisca' unverified gloss."
+    },
+    {
+      "id": "te-ghe-ciapa-la-vacca-per-i-ball",
+      "original": "Te ghè ciapà la vacca per i ball",
+      "category": "vulgar-idiom",
+      "literal_meaning": "hai preso la vacca per i testicoli",
+      "meaning_it": "Stai sbagliando approccio (modo grezzo).",
+      "meaning_en": "You've got the wrong end of the stick (crude).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Literal image clearly crude; the idiom itself is documented only on one low-reliability page."
+    },
+    {
+      "id": "va-a-ciapa-i-ratt",
+      "original": "Va a ciapà i ratt!",
+      "category": "dismissal",
+      "literal_meaning": "vai a prendere i topi",
+      "meaning_it": "Levati di torno (eufemistico).",
+      "meaning_en": "Buzz off (euphemistic).",
+      "intensity": 1,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "jokey"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Also listed in lexicon as interjection."
+    },
+    {
+      "id": "logia",
+      "original": "lògia",
+      "variants": [
+        "logia"
+      ],
+      "category": "insult",
+      "literal_meaning": "(prostituta, voce antica)",
+      "meaning_it": "Insulto antico a una donna; la fonte lo dichiara da non usare.",
+      "meaning_en": "Old misogynistic insult for a woman; the source itself says not to use it.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true
+      },
+      "inappropriate_contexts": [
+        "any"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Documented only for the user's understanding. Misogynistic slur: never generate."
+    },
+    {
+      "id": "terun",
+      "original": "terun",
+      "category": "insult",
+      "literal_meaning": "terrone",
+      "meaning_it": "Insulto discriminatorio verso i meridionali.",
+      "meaning_en": "Discriminatory slur for southern Italians.",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true
+      },
+      "inappropriate_contexts": [
+        "any"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "unverified",
+      "verification_status": "source-checked",
+      "notes": "Documented only to recognise it; never generate."
+    }
+  ]
+}

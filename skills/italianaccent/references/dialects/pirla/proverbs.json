@@ -1,0 +1,625 @@
+{
+  "$schema": "../../../../../schemas/proverbs.schema.json",
+  "dialect": "pirla",
+  "entries": [
+    {
+      "id": "chi-va-adasi-va-san-e-va-luntan",
+      "type": "proverb",
+      "original": "Chi va adasi va san e va luntan",
+      "literal_it": "Chi va piano va sano e va lontano.",
+      "meaning_it": "Procedere con calma è più sicuro e porta più lontano.",
+      "meaning_en": "Slow and steady is safer and goes further.",
+      "usage_context": "haste, rushed deploys, deadlines",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mej-tas-che-parla-a-vanvera",
+      "type": "proverb",
+      "original": "L'è mej tàs che parlà a vanvera",
+      "literal_it": "È meglio tacere che parlare a vanvera.",
+      "meaning_it": "Meglio il silenzio che dire sciocchezze.",
+      "meaning_en": "Better silent than talking nonsense.",
+      "usage_context": "rash opinions, ranting",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "offellee-fa-el-to-mestee",
+      "type": "proverb",
+      "original": "Offellee fa el tò mestee",
+      "literal_it": "Pasticciere, fa' il tuo mestiere.",
+      "meaning_it": "Ognuno si occupi di ciò che sa fare.",
+      "meaning_en": "Stick to your own trade.",
+      "usage_context": "amateur advice, scope creep",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-mestieri"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-laura-gh-a-una-camisa-e-chi-fa-nagott-ghe-n-a-do",
+      "type": "proverb",
+      "original": "Chi laüra gh'à una camisa e chi fà nagott ghe n'à dò",
+      "literal_it": "Chi lavora ha una camicia e chi non fa niente ne ha due.",
+      "meaning_it": "Ironico: chi lavora si consuma, chi sta fermo sta meglio.",
+      "meaning_en": "Ironic: those who work wear out, idlers do better.",
+      "usage_context": "overwork, injustice at work",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling of the source (laüra mixes modern ü)."
+    },
+    {
+      "id": "padrun-cumanda-caval-el-trota",
+      "type": "proverb",
+      "original": "Padrun cumanda, caval el trota",
+      "literal_it": "Il padrone comanda, il cavallo trotta.",
+      "meaning_it": "Chi ha l'autorità decide e gli altri obbediscono.",
+      "meaning_en": "The boss commands, the horse trots.",
+      "usage_context": "hierarchy, orders from above",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-te-mangiet-la-minestra-o-te-saltet-dala-finestra",
+      "type": "proverb",
+      "original": "O te mangiet la minestra o te saltet dala finestra",
+      "literal_it": "O mangi la minestra o salti dalla finestra.",
+      "meaning_it": "Prendere o lasciare, senza alternative.",
+      "meaning_en": "Take it or leave it.",
+      "usage_context": "no alternative, ultimatum",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "batt-i-pagn-cumpar-la-stria",
+      "type": "proverb",
+      "original": "Batt i pagn, cumpar la stria",
+      "literal_it": "Batti i panni e compare la strega.",
+      "meaning_it": "Si dice quando arriva proprio la persona di cui si parlava.",
+      "meaning_en": "Speak of the devil.",
+      "usage_context": "someone appears as discussed",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "se-mia-nona-la-gheva-i-ball-saria-sta-me-nono",
+      "type": "proverb",
+      "original": "Se mia nona la gheva i ball saria sta me nono",
+      "literal_it": "Se mia nonna avesse avuto i testicoli sarebbe stata mio nonno.",
+      "meaning_it": "Inutile ragionare con i se.",
+      "meaning_en": "If my grandmother had balls she'd be my grandfather: no use with ifs.",
+      "usage_context": "pointless hypotheticals",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mildly crude; spelling of source."
+    },
+    {
+      "id": "quaant-se-gh-a-fam-la-puleenta-la-paar-salama",
+      "type": "proverb",
+      "original": "Quaant se gh'a fam, la puleenta la paar salama",
+      "literal_it": "Quando si ha fame la polenta sembra salame.",
+      "meaning_it": "Con la fame anche il cibo più semplice sembra prelibato.",
+      "meaning_en": "When hungry, polenta tastes like salami.",
+      "usage_context": "making do, pragmatism",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zucch-e-melon-a-la-sua-stagion",
+      "type": "proverb",
+      "original": "Zucch e melon a la sua stagion",
+      "literal_it": "Zucche e meloni nella loro stagione.",
+      "meaning_it": "Ogni cosa a suo tempo.",
+      "meaning_en": "Everything in its season.",
+      "usage_context": "timing, premature actions",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anca-al-pegiur-di-ladrun-al-ga-la-sua-devusiun",
+      "type": "proverb",
+      "original": "Anca al pegiur di ladrun al ga la sua devusiun",
+      "literal_it": "Anche il peggiore dei ladri ha la sua devozione.",
+      "meaning_it": "Anche il peggiore ha qualche lato buono.",
+      "meaning_en": "Even the worst thief has his devotion.",
+      "usage_context": "giving someone credit",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-apetit-el-ven-magnand",
+      "type": "proverb",
+      "original": "L'apetit el ven magnand",
+      "literal_it": "L'appetito viene mangiando.",
+      "meaning_it": "Più si ha, più si vuole.",
+      "meaning_en": "Appetite comes with eating.",
+      "usage_context": "getting carried away",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-pulenta-la-fa-bon-tutt",
+      "type": "proverb",
+      "original": "La pulenta la fa bon tutt",
+      "literal_it": "La polenta rende buono tutto.",
+      "meaning_it": "La polenta si abbina a tutto.",
+      "meaning_en": "Polenta makes everything good.",
+      "usage_context": "food, comfort",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-amur-la-fiama-e-la-tuss-se-fan-cugnuss",
+      "type": "proverb",
+      "original": "L'amur, la fiama e la tuss se fan cugnuss",
+      "literal_it": "L'amore, la fiamma e la tosse si fanno conoscere.",
+      "meaning_it": "L'amore, come il fuoco e la tosse, non si nasconde.",
+      "meaning_en": "Love, fire and cough give themselves away.",
+      "usage_context": "hidden feelings",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i-danee-hin-come-i-pules-i-salten-via",
+      "type": "proverb",
+      "original": "I danee hin come i pùles: i salten via",
+      "literal_it": "I soldi sono come le pulci: saltano via.",
+      "meaning_it": "Il denaro sfugge facilmente.",
+      "meaning_en": "Money is like fleas: it jumps away.",
+      "usage_context": "spending, budgets",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quel-che-costa-poch-el-val-poch",
+      "type": "proverb",
+      "original": "Quel che costa pòch el val pòch",
+      "literal_it": "Quel che costa poco vale poco.",
+      "meaning_it": "Ciò che costa poco ha poco valore.",
+      "meaning_en": "What costs little is worth little.",
+      "usage_context": "cheap tools, shortcuts",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mej-vess-invidiaa-che-cumpatii",
+      "type": "proverb",
+      "original": "L'è mej vèss invidiàa che cumpatìi",
+      "literal_it": "È meglio essere invidiati che compatiti.",
+      "meaning_it": "Meglio suscitare invidia che pietà.",
+      "meaning_en": "Better envied than pitied.",
+      "usage_context": "pride",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-fa-da-per-lu-fa-per-tri",
+      "type": "proverb",
+      "original": "Chi fa da per lù fa per trì",
+      "literal_it": "Chi fa da sé fa per tre.",
+      "meaning_it": "Chi fa da solo fa il lavoro di tre.",
+      "meaning_en": "He who does it himself does the work of three.",
+      "usage_context": "DIY, delegating",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-e-desfa-l-e-tt-un-laura",
+      "type": "proverb",
+      "original": "Fà e desfà l'è tt un laurà",
+      "literal_it": "Fare e disfare è tutto un lavorare.",
+      "meaning_it": "Anche disfare richiede fatica.",
+      "meaning_en": "Doing and undoing is all work.",
+      "usage_context": "rework, rewrites",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source spelling 'tt' is likely a typo for tutt; kept as given."
+    },
+    {
+      "id": "quand-la-merda-la-munta-a-scragn-o-la-spussa-o-la-fa-dann",
+      "type": "proverb",
+      "original": "Quand la mèrda la munta a scragn o la spüssa o la fà dann",
+      "literal_it": "Quando la merda sale sullo scranno o puzza o fa danni.",
+      "meaning_it": "Un incompetente al potere crea solo guai.",
+      "meaning_en": "When trash gets a seat of power it stinks or does damage.",
+      "usage_context": "bad management, incompetent leadership",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Contains 'mèrda'."
+    },
+    {
+      "id": "el-diavel-el-fa-i-pignatt-ma-minga-i-cuerc",
+      "type": "proverb",
+      "original": "El diavel el fa i pignatt ma minga i cuèrc",
+      "literal_it": "Il diavolo fa le pentole ma non i coperchi.",
+      "meaning_it": "Il male può creare ma non nascondere la verità.",
+      "meaning_en": "The devil makes the pots but not the lids.",
+      "usage_context": "lies come out, cover-ups",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-mej-un-usell-in-man-che-cent-che-vula",
+      "type": "proverb",
+      "original": "L'è mej un usell in man che cent che vula",
+      "literal_it": "È meglio un uccello in mano che cento che volano.",
+      "meaning_it": "Meglio il certo dell'incerto.",
+      "meaning_en": "A bird in the hand.",
+      "usage_context": "choosing between safe and risky",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "se-piov-de-mars-ogni-gotta-la-val-un-baril",
+      "type": "proverb",
+      "original": "Se piöv de Mars, ogni gotta la val un barìl",
+      "literal_it": "Se piove a marzo ogni goccia vale un barile.",
+      "meaning_it": "La pioggia di marzo è preziosa.",
+      "meaning_en": "March rain is precious.",
+      "usage_context": "seasons, patience",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pan-e-nos-mangia-da-spos",
+      "type": "proverb",
+      "original": "Pan e nòs, mangià da spòs",
+      "literal_it": "Pane e noci, mangiare da sposi.",
+      "meaning_it": "Cibi semplici possono essere un banchetto.",
+      "meaning_en": "Bread and walnuts, a wedding feast.",
+      "usage_context": "simple pleasures",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-quattrin-l-e-quell-che-fa-canta-l-orbin",
+      "type": "proverb",
+      "original": "El quattrin l'è quell che fa cantà l'orbin",
+      "literal_it": "Il quattrino è quello che fa cantare il cieco.",
+      "meaning_it": "Il denaro fa fare qualunque cosa.",
+      "meaning_en": "Money makes the blind man sing.",
+      "usage_context": "money motivation",
+      "register": "neutral",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-wikiquote-lombardi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wikiquote lists it under Lombard proverbs, not labelled Milanese."
+    },
+    {
+      "id": "se-l-e-minga-suppa-l-e-pan-bagnaa",
+      "type": "proverb",
+      "original": "Se l'è minga suppa l'è pan bagnàa",
+      "literal_it": "Se non è zuppa è pane bagnato.",
+      "meaning_it": "Cambiare forma non cambia la sostanza.",
+      "meaning_en": "If it isn't soup, it's wet bread.",
+      "usage_context": "same thing differently packaged",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-a-pollee",
+      "type": "idiom",
+      "original": "Andà a pollee",
+      "literal_it": "Andare al pollaio.",
+      "meaning_it": "Andare a letto molto presto.",
+      "meaning_en": "To go to bed very early.",
+      "usage_context": "early nights",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variant a sloffen in the source."
+    },
+    {
+      "id": "anda-a-fass-benedi",
+      "type": "idiom",
+      "original": "Andà a fass benedì",
+      "literal_it": "Andare a farsi benedire.",
+      "meaning_it": "Finire male, mandare qualcosa al diavolo.",
+      "meaning_en": "To go to blazes.",
+      "usage_context": "failure, giving up",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-tutt-in-d-on-acqua",
+      "type": "idiom",
+      "original": "Andà tutt in d'òn'acqua",
+      "literal_it": "Andare tutto in un'acqua.",
+      "meaning_it": "Essere completamente sudati.",
+      "meaning_en": "To be drenched in sweat.",
+      "usage_context": "heat, exertion",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-san-michee",
+      "type": "idiom",
+      "original": "Fà san Michee",
+      "literal_it": "Fare San Michele.",
+      "meaning_it": "Traslocare (le locazioni scadevano il 29 settembre).",
+      "meaning_en": "To move house.",
+      "usage_context": "moving",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "strapa-l-erba-cun-la-scena",
+      "type": "idiom",
+      "original": "Strapà l'erba cun la scèna",
+      "literal_it": "Strappare l'erba con la schiena.",
+      "meaning_it": "Fingere di lavorare perdendo tempo.",
+      "meaning_en": "To pretend to work while wasting time.",
+      "usage_context": "procrastination",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "aveg-el-coo-d-una-gajna",
+      "type": "idiom",
+      "original": "Aveg el coo d'una gajna",
+      "literal_it": "Avere la testa di una gallina.",
+      "meaning_it": "Essere svampito.",
+      "meaning_en": "To be scatterbrained.",
+      "usage_context": "teasing a forgetful person",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-scua-l-mar-cun-la-furcheta",
+      "type": "idiom",
+      "original": "Va scuà l mar cun la furchèta",
+      "literal_it": "Vai a spazzare il mare con la forchetta.",
+      "meaning_it": "Impresa assurda; per scherzo, vattene.",
+      "meaning_en": "Go sweep the sea with a fork.",
+      "usage_context": "absurd request, brush-off",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-longh-me-ona-quaresima",
+      "type": "idiom",
+      "original": "L'è longh 'me ona quaresima",
+      "literal_it": "È lungo come una quaresima.",
+      "meaning_it": "Qualcosa che non finisce mai.",
+      "meaning_en": "It's as long as Lent.",
+      "usage_context": "endless meeting, long build",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bel-me-el-so",
+      "type": "idiom",
+      "original": "Bel 'me el sô",
+      "literal_it": "Bello come il sole.",
+      "meaning_it": "Bellissimo, luminoso.",
+      "meaning_en": "Beautiful as the sun.",
+      "usage_context": "praise",
+      "register": "affectionate",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tutt-el-mond-l-e-paes",
+      "type": "idiom",
+      "original": "Tütt el mond l'è paes",
+      "literal_it": "Tutto il mondo è paese.",
+      "meaning_it": "Il mondo è piccolo e uguale ovunque.",
+      "meaning_en": "The whole world is a village.",
+      "usage_context": "universal experience",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    }
+  ]
+}

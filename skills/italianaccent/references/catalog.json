@@ -142,16 +142,13 @@
     {
       "id": "pirla",
       "display_name": "Pirla",
-      "aliases": [
-        "pirlòn",
-        "pirlone"
-      ],
+      "aliases": [],
       "variety": "Milanese",
       "region": "Lombardia",
       "classification": "Western Lombard (Gallo-Italic), Milanese",
       "identifier_meaning_en": "Milanese 'idiot, jerk'",
-      "maturity": "planned",
-      "available": false,
+      "maturity": "experimental",
+      "available": true,
       "path": "references/dialects/pirla/"
     },
     {

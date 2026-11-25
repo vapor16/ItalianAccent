@@ -1,0 +1,78 @@
+{
+  "$schema": "../../../../../schemas/metadata.schema.json",
+  "id": "pirla",
+  "display_name": "Pirla",
+  "aliases": [],
+  "region": "Lombardia",
+  "provinces": [
+    "Milano"
+  ],
+  "geographical_area": "City of Milan and its urban speech community (classical and contemporary Milanese). Hinterland Lombard varieties (Brianza, Comasco, Varesotto, Lodigiano, Ticinese) and Eastern Lombard (Bergamasco, mode pota) are not covered.",
+  "linguistic_classification": "Western Lombard (Gallo-Italic), Milanese; unstandardised, with a long literary tradition (Maggi, Porta, Cherubini).",
+  "language_family": "Indo-European > Romance > Gallo-Italic > Lombard > Western Lombard (Milanese)",
+  "orthographic_conventions": "Classical Milanese orthography (Cherubini/Porta tradition): oeu for the front rounded vowel (modern ö), u for /y/ (modern ü), doubled vowels for length (andaa, hoo, voo), doubled consonants for short stressed vowels, final vowels dropped except -a, infinitives without -r (andà, vedè, vess), ch/gh before e/i, apostrophes for elision (l'è, gh'è). Modern ö/ü spelling is documented but not mixed in.",
+  "description_en": "Milanese of Milan: subject clitics (mi a, te, el/la, i), post-verbal negation with minga, compound perfect with avè/vess + participle (no passato remoto), progressive with son dree a + infinitive, gh'è for existence, avè present hoo/hé/hà/hèmm/avìi/hann, and a dry, ironic voice with mock-absurd dismissals (va scuà 'l mar). Mode word: pirla.",
+  "description_it": "Milanese di Milano: clitici soggetto (mi a, te, el/la, i), negazione posposta con minga, passato prossimo con avè/vess + participio (niente passato remoto), progressivo con son dree a + infinito, gh'è per l'esistenza, presente di avè hoo/hé/hà/hèmm/avìi/hann e una voce asciutta e ironica con congedi assurdi (va scuà 'l mar). Parola identificativa: pirla.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "pirla",
+    "variants": [
+      "pirlòn",
+      "pirlone"
+    ],
+    "meaning_en": "Northern/Milanese vulgar word for 'idiot, jerk' (also a vulgar word for penis); the source-attested Milanese phrase is Te se propri un pirla!",
+    "meaning_it": "Voce settentrionale/milanese volgare per 'sciocco, imbecille' (anche 'pene'); la frase milanese attestata è Te se propri un pirla!",
+    "attestation": "Wiktionary (Italian entry) records pirla as regional, vulgar, 'fool, idiot' and 'penis', probably related to pirlare; MilanoFree lists Te se propri un pirla! among Milanese insults and elon.io calls it a vulgar Milanese term now fairly mild. The mode name is an Italian-regional spelling of a Milanese-origin word, not the academic name of the variety. No scholarly etymology was read; the 'spinning top' origin is plausible but unverified.",
+    "sources": [
+      "src-mil-enwikt-pirla",
+      "src-mil-milanofree-parolacce",
+      "src-mil-elon-milanese"
+    ]
+  },
+  "sources": [
+    "src-mil-elon-milanese",
+    "src-mil-enwiki-dialect",
+    "src-mil-enwiki-grammar",
+    "src-mil-enwiki-lombard",
+    "src-mil-enwikt-ave",
+    "src-mil-enwikt-fa",
+    "src-mil-enwikt-minga",
+    "src-mil-enwikt-pirla",
+    "src-mil-itwiki-dialetto",
+    "src-mil-itwiki-lombarda",
+    "src-mil-lmowiki-dialett",
+    "src-mil-lmowiki-occidental",
+    "src-mil-milanofree-andare",
+    "src-mil-milanofree-detti",
+    "src-mil-milanofree-gergo",
+    "src-mil-milanofree-glossario",
+    "src-mil-milanofree-lingua",
+    "src-mil-milanofree-mestieri",
+    "src-mil-milanofree-parolacce",
+    "src-mil-milanofree-proverbi",
+    "src-mil-milanofree-sapere",
+    "src-mil-milanofree-vocabolario",
+    "src-mil-wikiquote-lombardi"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review: all example sentences are AI-illustrative.",
+    "Open linguistic documentation of Milanese is thin. Grammar rests on Wikipedia/Wiktionary and low-reliability popular pages; the full present of vess (semm, sii, hinn) and several verb forms are general knowledge, flagged unverified in the profile.",
+    "Source spellings are inconsistent (classical oeu/u mixed with modern ü/ö and ad-hoc accents); proverbs keep the spelling of the page they came from.",
+    "The brief's 'interrogative inversion' is documented only as archaic (Voeurela? / Cantel?); modern Milanese keeps the clitic before the verb, so the profile does not use inversion.",
+    "No Milanese-specific blasphemies were documented, so none are generated; level 5 is reached only by stacking documented level 3-4 items.",
+    "Profanity items come from popular web pages (low reliability) and are marked unverified; lògia and terun are documented for recognition only (generation_allowed false).",
+    "The mode word pirla is pan-northern Italian slang as well as Milanese; the catalog aliases pirlòn/pirlone were not found in any source read."
+  ],
+  "last_updated": "2026-11-25"
+}

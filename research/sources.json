@@ -1208,6 +1208,397 @@
       "publisher": "Académia Ligùstica do Brénno"
     },
     {
+      "id": "src-mil-elon-milanese",
+      "title": "Milanese: The Voice of Milan (elon.io)",
+      "url": "https://elon.io/grammar/italian/regional/milanese-dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (educational site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Learner page; clitics te/el/al/la/i, negation minga after verb, hoo, voo, l'è, sample sentences, 'pirla' as a vulgar Milanese insult. Not scholarly.",
+      "relevant_sections": "Pronouns, Negation, Phrases",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "elon.io"
+    },
+    {
+      "id": "src-mil-enwiki-dialect",
+      "title": "Milanese dialect (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Milanese_dialect",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Overview only; carries maintenance tags (single-source). Used for orthography status: Classical Milanese orthography is the de facto standard, oeu = /ø/, doubled consonants mark short stressed vowels.",
+      "relevant_sections": "Orthography",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-enwiki-grammar",
+      "title": "Milanese grammar (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Milanese_grammar",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Page is partly garbled in extraction; articles, plural rules, suffixes, pronoun tables, possessives, prepositions, adverbs. Use with care: some cells blank.",
+      "relevant_sections": "Articles, Nouns, Pronouns, Possessives, Verbs, Adverbs, Prepositions",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-enwiki-lombard",
+      "title": "Lombard language (English Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lombard_language",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan within Lombard",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Only the first 100k characters read: Milanese in Western Lombard, contrastive vowel length (andà vs andaa).",
+      "relevant_sections": "Phonology",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-enwikt-ave",
+      "title": "avè (Wiktionary, Lombard section)",
+      "url": "https://en.wiktionary.org/wiki/av%C3%A8",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Full Western Lombard/Milanese conjugation table of avè (present hoo, hé/hét, hà, hèmm, avìi/hii, hann; imperfect; future; conditional; subjunctive).",
+      "relevant_sections": "Conjugation",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-mil-enwikt-fa",
+      "title": "fà (Wiktionary, Lombard section)",
+      "url": "https://en.wiktionary.org/wiki/f%C3%A0",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Present of fà in Western Lombard (fi, fet, fa, fom, fov/fee, fen); participle fàa; auxiliary avè. Summarised by the fetch tool, tables not read directly.",
+      "relevant_sections": "Conjugation",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-mil-enwikt-minga",
+      "title": "minga (Wiktionary, Lombard section)",
+      "url": "https://en.wiktionary.org/wiki/minga",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Adverb 'not'; from menga by hypercorrection; variants menga, mea, mia.",
+      "relevant_sections": "Lombard",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-mil-enwikt-pirla",
+      "title": "pirla (Wiktionary, Italian section)",
+      "url": "https://en.wiktionary.org/wiki/pirla",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan and northern Italian",
+      "source_type": "openly-licensed",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Only an Italian entry: regional, vulgar noun 'fool, idiot' and vulgar 'penis'; probably related to pirlare; plural pirli. No Lombard entry was found.",
+      "relevant_sections": "Italian",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wiktionary"
+    },
+    {
+      "id": "src-mil-itwiki-dialetto",
+      "title": "Dialetto milanese (Wikipedia italiana)",
+      "url": "https://it.wikipedia.org/wiki/Dialetto_milanese",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Phonology/orthography table (classic Cherubini vs modern Beretta ü/ö), loss of passato remoto, infinitives in -à, 1sg present in -i, minga after the verb.",
+      "relevant_sections": "Fonologia, Ortografia, Verbi",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-itwiki-lombarda",
+      "title": "Lingua lombarda (Wikipedia italiana)",
+      "url": "https://it.wikipedia.org/wiki/Lingua_lombarda",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan within Lombard",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Only the first ~200k characters read. Negation after verb or auxiliary (han no/minga/mia parlaa), subject clitics (luu) el dis, wh-questions with 'che', classical orthography oeu/u.",
+      "relevant_sections": "Morfologia e sintassi; Sistema di scrittura",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-lmowiki-dialett",
+      "title": "Dialett milanes (Lombard Wikipedia)",
+      "url": "https://lmo.wikipedia.org/wiki/Dialett_milanes",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Subject pronouns obligatory, te set / ti te set, negation minga/no post-verbal (older pre-verbal no in Porta), no gerund (son dree a / sta a + infinitive), participles staa/andaa/faa/daa, passato remoto lost, son dree a scriv.",
+      "relevant_sections": "Pronomi, Negazione, Verbi",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-lmowiki-occidental",
+      "title": "Lombard occidental (Lombard Wikipedia)",
+      "url": "https://lmo.wikipedia.org/wiki/Lombard_occidental",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Articles el/la/i, pronoun forms mi/ti/lu/lee/nun(ch)/vialter/lur, clitic objects; notes that question inversion is dropped in Milanese; two orthographic traditions.",
+      "relevant_sections": "Articoli, Pronomi, Verbi, Ortografia",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-milanofree-andare",
+      "title": "Modi di dire alla milanese: il verbo andare (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/modi-di-dire-alla-milanese-il-verbo-andare.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "About thirty expressions around andà; paraphrased selection read.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-detti",
+      "title": "Detti milanesi: espressioni, proverbi e modi di dire di Milano (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/detti-milanesi-espressioni-proverbi-e-modi-di-dire-di-milano.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular page with 63 sayings; non-uniform orthography (e.g. oeu/öeu, accents). Proverbs generally corroborated by shape and by other sources only for a few.",
+      "relevant_sections": "Detti 1-63",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-gergo",
+      "title": "Gergo milanese: parole ed espressioni del parlar furbesco (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/gergo-milanese-parole-ed-espressioni-del-parlar-furbesco.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Historical underworld slang (bauscia, ghisa, baloss...). Slang, not general Milanese.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-glossario",
+      "title": "Glossario di termini milanesi: significato ed esempi d'uso (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/glossario-di-termini-milanesi-significato-ed-esempi-duso.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular glossary of colourful words (balabiott, barlafus, ciula, malnatt...). Spelling as in source; no etymologies.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-lingua",
+      "title": "Lingua milanese: pronuncia, grammatica e esempi (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/lingua-milanese-pronuncia-grammatica-e-esempi.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Gives present of vardà (mì vardi, tì te vardet, luu el varda...), imperfect (vardavi), passato prossimo (hoo vardaa), older vs modern interrogative (Voeurela? / La voeur?).",
+      "relevant_sections": "Verbi, Interrogativi",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-mestieri",
+      "title": "Curiosita nascoste del dialetto milanese: mestieri e parole d'epoca (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/curiosita-nascoste-del-dialetto-milanese-un-viaggio-tra-mestieri-e-parole-d-epoca.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Trade names (nodar, careghee, magutt, offellee); proverbs L'è on laorà del moleta and Offellee fa el tò mestee.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-parolacce",
+      "title": "Parolacce in dialetto milanese: significato, traduzione e quando non usarle (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/parolacce-in-dialetto-milanese-significato-traduzione-e-quando-non-usarle.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular list of insults and dismissals with warnings; spellings not standardised; includes slur items flagged discriminatory by the page itself.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-proverbi",
+      "title": "Proverbi in dialetto milanese: significato e traduzione (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/proverbi-in-dialetto-milanese-significato-e-traduzione.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular web page; spelling mixes classical and ad-hoc conventions; some translations do not fit the text. Used only for short proverbs, with own paraphrase.",
+      "relevant_sections": "21 proverbs",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-sapere",
+      "title": "Modi di dire meneghini: il verbo sapere (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/modi-di-dire-meneghini-il-verbo-sapere.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "About forty expressions around savè; the fetch tool returned a paraphrased selection only.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-vocabolario",
+      "title": "Vocabolario inglese-milanese: parole utili, pronuncia e frasi lampo (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/vocabolario-inglese%E2%80%93milanese-parole-utili-pronuncia-e-frasi-lampo.html",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan",
+      "source_type": "popular-web",
+      "license": "All rights reserved (popular site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Word list and three sample sentences (Incoeu gh'è tant gent in via; Me pias bev on bicer de vin; Te voret andà al mercaa duman?). Orthography mostly classical.",
+      "relevant_sections": "Word list; sample phrases",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-wikiquote-lombardi",
+      "title": "Proverbi lombardi (Wikiquote)",
+      "url": "https://it.wikiquote.org/wiki/Proverbi_lombardi",
+      "access_date": "2026-11-25",
+      "linguistic_area": "Milanese (Western Lombard), Milan / Lombardy",
+      "source_type": "public-domain",
+      "license": "CC BY-SA 4.0 (Wikimedia)",
+      "redistribution": "open-license-attribution",
+      "reliability": "low",
+      "reliability_notes": "Only two entries, not labelled Milanese: El quattrin l'è quell che fa cantà l'orbin; Per la gotta è bon nagotta.",
+      "relevant_sections": "Whole page",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Wikiquote"
+    },
+    {
       "id": "src-nap-andreoli-1887",
       "title": "Vocabolario napoletano-italiano",
       "author": "Raffaele Andreoli",
