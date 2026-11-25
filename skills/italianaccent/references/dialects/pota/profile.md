@@ -32,7 +32,7 @@ No official standard exists. This profile follows the RID/Sanga convention of th
 | Final consonants devoiced | *gialt* (m) vs *gialda* (f) | src-bg-itwiki-dialetto |
 | Voiceless /s/ aspirated to /h/ in lowland, Valcalepio, Sebino | *sich > hich* (five), *sura > hura* (above); Scalve has *zich, zura* | src-bg-itwiki-dialetto, src-bg-enwiki-lombard |
 | Imperfect in -à-a (1pl, 3sg, 3pl) | *indà-a, cüntà-a, seghità-a* | src-bg-carrara-tesi |
-| No two adjacent stressed syllables: stress shifts onto the next word | *dòpo cóṡè, potà* (not *pòta*) | src-bg-carrara-tesi |
+| Positional variant of the marker: after a stressed syllable the stress may shift (*dòpo cóṡè, potà*); an observed tendency in the corpus, **not a rewriting rule** | *pòta* / *potà* both attested | src-bg-carrara-tesi |
 | Initial v silent after a pause, spoken after l/n | *ol vi* | src-bg-itwiki-dialetto |
 
 **About "h for f":** the documented aspiration is **s > h**, not f > h. Latin f stays *f* (*fà, fó, fìf, fradèi*). Do not write *h* for f.
@@ -144,7 +144,7 @@ The 2sg and 2pl of *ndà* are not documented in the sources (marked –); avoid 
 
 **Pòta / potà** (the mode word; src-bg-itwikt-pota, src-bg-carrara-tesi):
 - **What it is:** an all-purpose interjection and discourse marker, traditionally typical of Eastern Lombard. 14 of the 16 speakers of the corpus used it (87.5%), with high individual variability. It started as the vulgar word for the female genitals (Tiraboschi renders it *potta*; src-bg-carrara-tesi), became a desemanticized "intercalare" (Sanga 1987), and is now polyfunctional.
-- **Accent question (reported to the lead):** the lemma is **pòta**, stress on the first syllable (Wikizionario; the thesis title and headings). **Potà** is attested, too, as a positional allomorph: the stress shifts to the last syllable when the previous prosodic unit ends in a stressed syllable (*dòpo cóṡè, potà òstrega*; *scüṡìm potà ma*; *'ta* by aphaeresis). Wikizionario calls "Potà" rare as a spelling. The display name *Potà* is therefore attested but secondary; *Pòta* is the dictionary form. Write **pòta** by default and **potà** after a stressed final syllable.
+- **Accent question (reported to the lead):** the lemma is **pòta**, stress on the first syllable (Wikizionario; the thesis title and headings). **Potà** is attested, too, as a positional allomorph: the stress shifts to the last syllable when the previous prosodic unit ends in a stressed syllable (*dòpo cóṡè, potà òstrega*; *scüṡìm potà ma*; *'ta* by aphaeresis). Wikizionario calls "Potà" rare as a spelling. The display name *Potà* is therefore attested but secondary; *Pòta* is the dictionary form. **No automatic accent rewriting:** never convert *pòta* into *potà* (or the reverse) by a stress rule, and do not "correct" either form. Both are attested variants: use the attested ones freely and keep a quoted or documented form as it is (*potà òstrega*, *potà 'l éra sira*, *Pòta, per forsa!*, *Pòta a 'l dis ol frat*). When composing new text, *pòta* is the plain default and *potà* is a free variant; the choice is not rule-driven and need not be consistent. The reduced *'ta* is a further variant, used rarely.
 - **Functions** (Wikizionario plus corpus): surprise (*Pòta, ma l'è enorme!*), fatalism before the unavoidable (*Pòta...*), sarcastic yes (*Pòta, per forsa!*), reluctance, envious admiration (*Pòta, beato lui*), hesitation or "ehm", turn-taking, reformulation, connector (*potà l'éra sira*), emphasis of the obvious (*e lü pòta 'l parla 'l bergamàsch*). It also pairs with others: *èh pòta, potà òstrega, pòta nèh*.
 - **Form:** often shortened to *'ta, 'òta*; lengthened for emphasis (*Poòta*). Wikizionario's synonyms (*figa, potta, mona*) show its vulgar root: keep it informal.
 - **Register:** colloquial, mildly vulgar (vulgarity 2); never for formal letters.
@@ -195,6 +195,7 @@ Source: Tiraboschi (1875) via Wikisource (src-bg-tiraboschi-proverbi), whose spe
 - **Rhetorical questions and tags:** *nèh?, gh'ét preṡènt?, cóṡa ölet?*.
 - **Exaggerated filler:** stacking markers (*èh pòta nèh, potà òstrega*).
 - Do not make jokes about "what Bergamaschi are like": the humor is in the language.
+- **How to sound like a local:** dry, fatalistic, sarcastic, spontaneous; short sentences and a shrug. *Pòta/potà* and any other single interjection (*nèh, òstrega, dóm*) appear **at most about once per answer**: it is a discourse marker, not punctuation, and stacking it in every sentence is caricature. Vary the reactions and let understatement (*mìa mal, mìa tàt*) carry the irony. Keep *h* only for *s* (never *f*) and do not use phonetic caricature.
 
 ## 12. Intensity guide
 

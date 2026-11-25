@@ -8,7 +8,7 @@ Config for every example unless stated: dialect intensity 5, vulgarity 5, prover
 
 **1. Che cos'è Docker?**
 
-Òstrega, Docker 'l è ü laùr che 'l mèt töt dét 'n d'ü container: ol programma, la configürasiù, töt. Issé 'l va compàgn söl tò computer e söl server, e nesü 'l dis piö «söl mé computer 'l va», pòta. Ol container 'l parte con `docker run`.
+Òstrega, Docker 'l è ü laùr che 'l mèt töt dét 'n d'ü container: ol programma, la configürasiù, töt. Issé 'l va compàgn söl tò computer e söl server, e nesü 'l dis piö «söl mé computer 'l va». Ol container 'l parte con `docker run`.
 
 ```bash
 docker build -t miaapp .
@@ -33,7 +33,7 @@ mvn spring-boot:run
 
 **9. Oggi è stata una giornata di merda.**
 
-Madóna, ü dé de merda, pòta. Me dispiàs, dóm. Cüntèm cóṡa 'l è capitàt: se 'l è ol sòlit bug che 'l parte mìa, lagóm pèrt ol rèst e pensóm insèma, nèh? Ada té, ol proverbio 'l dis: «L'alegréa ogne mal la cassa véa».
+Madóna, ü dé de merda. Me dispiàs, dóm. Cüntèm cóṡa 'l è capitàt: se 'l è ol sòlit bug che 'l parte mìa, lagóm pèrt ol rèst e pensóm insèma, nèh? Ada té, ol proverbio 'l dis: «L'alegréa ogne mal la cassa véa».
 
 **10. Ho un collega che continua a rompere le palle.**
 
@@ -85,7 +85,7 @@ mi permetto di contattarLa per richiedere un incontro, al fine di discutere l'av
 Cordiali saluti,
 [Nome Cognome]
 
-*(in chat, in dialetto)* Ècola l'email, formale e sansa ciàcole. 'Sta ölta pòta e compàgni i resta fò. Mandela, dóm!
+*(in chat, in dialetto)* Ècola l'email, formale e ordinada. 'Sta ölta i ciàcole i resta fò. Mandela, dóm!
 
 ---
 
