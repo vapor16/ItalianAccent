@@ -4131,6 +4131,80 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "ce-film-si-viste",
+      "term": "Ce film sì viste?",
+      "variants": [
+        "C film si vist"
+      ],
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma che dici? ma che ti sei inventato? (incredulità sarcastica)",
+      "meaning_en": "what movie did you watch? (sarcastic disbelief)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ce film sì viste? Cinque minùte?",
+          "translation_it": "Ma che film hai visto? Cinque minuti?",
+          "translation_en": "What movie did you watch? Five minutes?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "contexts": [
+        "disbelief",
+        "sarcasm"
+      ],
+      "geographical_area": "Puglia (community-tagged); Bari assumed",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo spells it 'che film hai visto / c film si vist' (example: answering 'I got three girls at once'). Rendered here in the profile's final-e convention, which is a normalisation, not an attested spelling. Pairs with the documented 'Dòmane jè fèste!'."
+    },
+    {
+      "id": "mena",
+      "term": "Mena!",
+      "category": "interjection",
+      "part_of_speech": "imperative",
+      "meaning_it": "sbrigati! dai! muoviti!",
+      "meaning_en": "hurry up! come on!",
+      "register": "familiar",
+      "contexts": [
+        "urging",
+        "impatience"
+      ],
+      "geographical_area": "Puglia (community-tagged); Bari plausible",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: 'Mena! è tardi!' (Puglia 83%). Synonym of the documented 'Sciàme!'. Single community entry."
+    },
+    {
+      "id": "uagnu",
+      "term": "Uagnù!",
+      "variants": [
+        "vagnù"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "ragazzi! (rivolto a un gruppo di coetanei)",
+      "meaning_en": "guys! (addressing a group of peers)",
+      "register": "familiar",
+      "contexts": [
+        "greeting a group",
+        "banter"
+      ],
+      "geographical_area": "Puglia (community-tagged); Bari plausible",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: 'Uagnù, a che ora ci incontriamo?'. Plural/vocative of the documented 'uagnóne/uagliò' address terms. Single community entry."
     }
   ]
 }

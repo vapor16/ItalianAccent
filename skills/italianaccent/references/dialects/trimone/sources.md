@@ -25,5 +25,6 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-bar-visititaly` | Il dialetto Barese: le origini e una guida su come si parla e come si scrive | Stella Chirulli / Visit Italy | popular-web | low | All rights reserved (facts-only-citation) | <https://www.visititaly.eu/it/storie-e-tradizioni/il-dialetto-barese-le-origini-e-una-guida-su-come-si-parla-e-come-si-scrive> |
 | `src-bar-wikt-swadesh` | Appendix:Barese Swadesh list | Wiktionary (English) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/Appendix:Barese_Swadesh_list> |
 | `src-bar-wikt-trimone` | trimone (Neapolitan, chiefly Bari) | Wiktionary (English) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/trimone> |
+| `src-slengo-puglia-slang` | Slengo: Puglia slang entries (trimoneggiare, farsi un trimone, chi te muerto, chitemmuort, che film hai visto, mena, uagnù) | Slengo (user-contributed slang dictionary) | community-dictionary | low | All rights reserved (site terms) (facts-only-citation) | <https://slengo.it/browse/region/puglia> |
 
 Access date of all sources: see `research/sources.json` (`access_date`).

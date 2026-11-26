@@ -61,7 +61,8 @@
     "src-bar-patrimoni-trimone",
     "src-bar-visititaly",
     "src-bar-wikt-swadesh",
-    "src-bar-wikt-trimone"
+    "src-bar-wikt-trimone",
+    "src-slengo-puglia-slang"
   ],
   "resources": {
     "profile": "profile.md",

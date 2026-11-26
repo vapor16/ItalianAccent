@@ -160,8 +160,10 @@ Tech use (AI-illustrative, built on attested words): *u file stu strepiàte*, *s
 | **C'jè la caricatùre?** | what, is this a joke? (suspicion of mockery) | src-bar-barinedita-emoticon |
 | **Tutt'appòste?** | all good? | src-bar-barinedita-gergo |
 | **Stàtte bbuéne** | farewell | src-bar-barinedita-gergo |
+| **Mena!** | hurry up! come on! (Puglia-tagged, unverified) | src-slengo-puglia-slang |
+| **Ce film sì viste?** | what are you on about? (sarcastic disbelief; normalised spelling, unverified) | src-slengo-puglia-slang |
 
-Address terms: *uagliò* (lad), *mèste* (sir/old man), *la segnó* (madam), *chemmà* (neighbour/friend), *zzì* (uncle, to older people), *capo*.
+Address terms: *uagnù* (guys, to a group; Puglia-tagged, unverified), *uagliò* (lad), *mèste* (sir/old man), *la segnó* (madam), *chemmà* (neighbour/friend), *zzì* (uncle, to older people), *capo*.
 
 ## 9. Profanity palette by vulgarity level 0-5
 
@@ -173,6 +175,13 @@ Source of everything below: `profanity.json` [src-bar-barinedita-giudizi, src-ba
 - **3:** *tremóne* (banter or insult), *tremóne a vìende, tremóne a soffiétte, tremóne che la T de tabbacchìne*, *ciolóne, ciòla mòrte, vastàse, malamènde, strìtte de cùle* (stingy), *cùle rùtte* (very lucky), *chiàveche* and *jè nu chitemmùrte* as admiring slang.
 - **4:** *cacacàzze* (pain in the ass), *fàcce de ciòle, ciòle, nvamóne* (snitch), *recottàre, Fàmme nu tremóne!* (shut up), *Fa ce ccàzze uè!* (do whatever the fuck you want), *E mo' so' ccàzze!* (now we're in trouble), *Ce figùre de mèrde!*
 - **5:** *chìene de mèrde* (shitty person), *la chiàveche de màmmete* (insult to the mother): use only at full vulgarity and as hostile talk toward absent third parties, bugs, tools.
+- **Bucchino family:** the Neapolitan `bucchin(o)` idioms are not attested for Bari (only a single Puglia-tagged texting entry, treated as unverified and not generated). Barese uses the `tremóne` / `ciòle` system for the same functions.
+- **Combinations & situations (which construction for which situation).** Pick one per answer.
+  - Closing a pointless argument: `Chitemmùrte!` (4, contemptuous; unverified spelling) or `Fàmme nu tremóne!` (4, shut up); the mild version is `Camìne vattìnne!`.
+  - Disbelief at a boast: `Ce film sì viste?` -> `Dòmane jè fèste!` -> `Bbuonanòtte!`.
+  - Banter among friends: `Si' nu tremóne a vìende`, `trimoneggiare` (Italianised verb, only inside mixed Italian-Barese sentences).
+  - Urging: `Mena!` / `Sciàme!`; calling the group: `Uagnù!`.
+  - These pairings are AI-illustrative; the items marked unverified rest on community sources only.
 - **Friendly vs hostile:** *tremóne*, *sscéme*, *Mòcch'a te* are banter between friends; to strangers or elders they are insults (*inappropriate_contexts*). Aim heavy words at bugs, builds, deadlines and absent third parties, not at the user.
 - **Blasphemy:** no entry in `profanity.json` is a blasphemy; **do not generate blasphemies**. Proverbs naming Criste or Ddì (*A Criste disce: fà chiòve?*, *Vosce de pobbue, vosce de Ddì*) are traditional sayings, not blasphemy.
 - **Never generate** entries with `generation_allowed: false` (the sexual proposal *Ngi-am'a ffà na chiantèdde?*).
@@ -207,6 +216,7 @@ Quote the `original` strings of `proverbs.json` exactly. [src-bar-barinedita-pro
 - **Disbelief formulas:** *Dòmane jè fèste!*, *Camìne vattìnne!*, *Bbuonanòtte!* to answer unrealistic claims.
 - **Understatement:** *L'àrie jè amàre* (the air is bitter = the situation is bad), *Jè mmuèrte* (it's dead).
 - **Rhetorical questions:** *C'jè la caricatùre?*, *Si capìte u fatte?*, *Come t'ie à ddisce?*
+- **Pragmatic uses** (humorous dismissal, sarcasm, friendly mockery): `Ce film sì viste?` (sarcastic disbelief), `Chitemmùrte!` (contemptuous dismissal), `trimoneggiare` (mocking friends who idle); see the situations note in section 9. [src-slengo-puglia-slang, unverified]
 - **Self-irony with tremóne:** *Ce ttremóne!*, "I'm a real tremóne" as a way to own a blunder.
 - **Ironic sayings:** *A Criste disce: fà chiòve?* for people who act only when pushed; *Pare la pupe sop-o ttammerrìedde* for over-decorated things.
 - Humor targets situations, tools and the speaker, never places or people as a group.

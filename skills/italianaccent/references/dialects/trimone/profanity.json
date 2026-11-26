@@ -1290,6 +1290,100 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Comes with a hand gesture. Do not generate toward the user."
+    },
+    {
+      "id": "chitemmurte-dismissal",
+      "original": "Chitemmùrte!",
+      "variants": [
+        "Chi te muerto"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "chi ti è morto",
+      "figurative_meaning": "chiudere con disprezzo una conversazione",
+      "meaning_it": "e chi ti è morto: chiusura sprezzante di una discussione",
+      "meaning_en": "(your dead!) curt, contemptuous end of an argument",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "dismissal",
+          "anger",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "closing a pointless argument",
+        "answering a silly remark with contempt"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "with elders or strangers",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ce uè? Chitemmùrte!",
+          "translation_en": "What do you want? Screw you!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Puglia (community-tagged; Bari assumed only because it matches existing Barese entries)",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo 'chi te muerto' (Puglia): said alone to end a hostile conversation by dragging in the other's dead. Distinct from the admiring 'jè nu chitemmùrte' already in the palette (same root, opposite tone). Spelling normalised from 'chi te muerto' to the profile's 'chitemmùrte'; single community source."
+    },
+    {
+      "id": "trimoneggiare",
+      "original": "trimoneggiare",
+      "variants": [
+        "farsi i trimoni"
+      ],
+      "category": "insult",
+      "literal_meaning": "comportarsi da trimone",
+      "figurative_meaning": "cazzeggiare, fare lo scemo in giro",
+      "meaning_it": "fare il trimone: girare a cazzeggiare / comportarsi da scemo",
+      "meaning_en": "to hang around acting like a tremone",
+      "intensity": 3,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter about friends wasting time",
+        "self-mockery after a blunder"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Oh fra, andiamo a trimoneggiare in giro?",
+          "translation_en": "Hey mate, shall we go and mess about in town?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Puglia (community-tagged; Bari assumed only because it matches existing Barese entries)",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Italianised youth verb built on the documented 'tremóne' (Slengo Puglia 77%). Use it inside Italian-Barese mixed sentences, not as a Barese verb form (no native infinitive is documented). Slengo also lists 'farsi un trimone / farsi i trimoni' (habitual masturbation, a jibe). Single community source."
     }
   ]
 }
