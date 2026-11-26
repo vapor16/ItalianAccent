@@ -882,6 +882,42 @@
    ],
    "provenance": "attested",
    "verification_status": "source-checked"
+  },
+  {
+   "id": "u-sceccu-pi-minchia-ti-futti-no-pi-cirivieddu",
+   "type": "saying",
+   "original": "U sceccu pi minchia ti futti no pi cirivieddu",
+   "literal_it": "L'asino (ti fotti / ti piace) per la minchia, non per il cervello: il verbo futtiri non è glossato dalla fonte",
+   "meaning_it": "Il detto ribadisce che l'asino non brilla per cervello e lo lega alla sfera sessuale.",
+   "meaning_en": "The donkey is known for his dick, not his brain: the saying stresses the ass's lack of intelligence and its sexual reputation.",
+   "usage_context": "Mocking a stubborn or thick-headed person or piece of kit, with a vulgar wink.",
+   "register": "vulgar",
+   "vulgarity": 5,
+   "geographical_area": "Sicily (general)",
+   "sources": [
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Vermiglio (peer-reviewed, 2024) quotes it as confirming the man/donkey comparison; the exact sense of \"ti futti\" is not glossed, so the literal gloss is approximate."
+  },
+  {
+   "id": "ama-diu-e-futti-u-prossimu",
+   "type": "ironic-saying",
+   "original": "Ama Diu e futti u prossimu",
+   "literal_it": "Ama Dio e fotti il prossimo.",
+   "meaning_it": "Si dice dei bigotti devoti ma spietati e disonesti con gli altri.",
+   "meaning_en": "Love God and screw your neighbour: said of devout churchgoers who are ruthless with others.",
+   "usage_context": "Hypocrisy, sanctimonious colleagues, ironic verdict.",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Sicily (no area attribution in the source)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single popular source (Balarm 30 modi di dire); spelling partly western. Ironic, not blasphemous."
   }
  ]
 }

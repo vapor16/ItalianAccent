@@ -1973,6 +1973,27 @@
    "provenance": "unverified",
    "verification_status": "unverified",
    "notes": "Wiktionary lists both arancinu and arancina; the usual claim that Palermo says arancina (f.) and Catania arancinu (m.) was not source-checked here."
+  },
+  {
+   "id": "trunzu",
+   "term": "trunzu",
+   "variants": [
+    "paroli a trunzu",
+    "trunzu trunzu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cavolo (rapa); per estensione testa dura, discorso senza capo né coda",
+   "meaning_en": "cabbage/kohlrabi; figuratively thickhead, rambling talk",
+   "register": "popular",
+   "vulgarity": 2,
+   "geographical_area": "Sicily (pan-Sicilian; not specific to Palermo)",
+   "sources": [
+    "src-pa-sottile-parole-tempo-perduto"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Sottile: 'paroli a trunzu', 'trunzu trunzu' = said a bit foolishly or ungracefully; 'essere lassati a trunzu' = left in the lurch. See profanity 'testa i trunzu'."
   }
  ]
 }
