@@ -240,6 +240,55 @@
         "belin"
       ],
       "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-lij-autelli-konecny",
+      "title": "La fraseografia genovese e le più recenti innovazioni in GEPHRAS e GEPHRAS2",
+      "author": "Erica Autelli, Christine Konecny",
+      "url": "https://bop.unibe.ch/linguistik-online/article/download/10782/13931/49179",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "academic",
+      "license": "Open access (Linguistik online)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read in full. Records vulgar phrasemes found in social media, songs (only the phraseme is used here, no lyrics), dubbing and a dictionary (Agostino 2013): Gh'ho pinn-e e balle, Me ne batto o belin, pòrca bagascia, figgi de na bagascia frusta, te brûxa o cû, Belìn che take away!!.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Linguistik online"
+    },
+    {
+      "id": "src-lij-usenet-belin",
+      "title": "(OT LUNGO) Espressione dialettale: BELIN! (thread, it.sport.calcio.genoa)",
+      "url": "https://groups.google.com/g/it.sport.calcio.genoa/c/WK_6tY-qeFs",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "Usenet posts, rights with authors",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Forum thread by fans with a long list of belin idioms. Unsigned, uncorrected spelling, isolated social source: every item taken only from here is unverified. Obscene size jokes and a misogynistic item were not used.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Google Groups"
+    },
+    {
+      "id": "src-lij-instantlyitaly",
+      "title": "10 Words That You Can Only Hear in Liguria",
+      "url": "https://instantlyitaly.com/words-you-can-hear-only-in-liguria/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese / Ligurian",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Short learner article; gives rumenta (rubbish, figuratively a bad person). Single popular source.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Instantly Italy"
     }
   ]
 }

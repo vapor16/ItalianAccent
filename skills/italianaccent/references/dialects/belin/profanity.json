@@ -453,11 +453,16 @@
       "generation_allowed": true,
       "geographical_area": "Genoa (Genoese)",
       "sources": [
-        "src-lij-autelli-gephras"
+        "src-lij-autelli-gephras",
+        "src-lij-autelli-konecny"
       ],
       "provenance": "attested",
       "verification_status": "source-checked",
-      "literal_meaning": "porca di una puttana"
+      "literal_meaning": "porca di una puttana",
+      "variants": [
+        "pòrca bagascia"
+      ],
+      "notes": "Autelli & Konecny also record the short form 'pòrca bagascia' (Italian 'porca troia') in a dubbed film; use it as the quick exclamation at bugs and objects."
     },
     {
       "id": "figgio-bagascia",
@@ -478,18 +483,21 @@
       "generation_allowed": true,
       "geographical_area": "Genoa (Genoese)",
       "sources": [
-        "src-lij-autelli-gephras"
+        "src-lij-autelli-gephras",
+        "src-lij-autelli-konecny"
       ],
       "provenance": "attested",
       "verification_status": "source-checked",
       "literal_meaning": "figlio di puttana",
       "variants": [
-        "Figgio de unna bagascia!"
+        "Figgio de unna bagascia!",
+        "figgi de na bagascia frusta"
       ],
       "inappropriate_contexts": [
         "family settings",
         "people you respect"
-      ]
+      ],
+      "notes": "Plural 'figgi de na bagascia frusta' ('figli di una puttana troia') is reported from Facebook and X by Autelli & Konecny; hostile, only at bugs, tools and objects."
     },
     {
       "id": "manda-bagasce",
@@ -535,14 +543,17 @@
       "generation_allowed": true,
       "geographical_area": "Genoa (Genoese)",
       "sources": [
-        "src-lij-autelli-gephras"
+        "src-lij-autelli-gephras",
+        "src-lij-usenet-belin"
       ],
       "provenance": "attested",
       "verification_status": "source-checked",
       "literal_meaning": "un belino che ti strangoli",
       "variants": [
-        "Un belin ch'o te neghe!"
-      ]
+        "Un belin ch'o te neghe!",
+        "Ûn belin che te neghe"
+      ],
+      "notes": "Forum thread gives the variant 'Ûn belin che te neghe' as an oath-like exclamation (unverified spelling)."
     },
     {
       "id": "battisene-cu",
@@ -755,6 +766,345 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "literal_meaning": "tenere il naso nel culo"
+    },
+    {
+      "id": "gh-o-pinn-e-e-balle",
+      "original": "Gh'ho pinn-e e balle",
+      "category": "vulgar-idiom",
+      "literal_meaning": "ho piene le palle",
+      "figurative_meaning": "averne piene le palle: essere esasperato, stufo",
+      "meaning_it": "Ne ho piene le palle.",
+      "meaning_en": "I'm sick and tired of it (lit. my balls are full).",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "exasperation",
+          "boredom"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfogo con amici dopo il terzo tentativo fallito",
+        "stufo di un bug o di una riunione infinita"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone anziane che non si conoscono"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-konecny"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling as in Autelli & Konecny, who record it as a communicative phraseme from a contemporary Genoese song; only the phraseme is kept here, no lyrics. Pairs naturally with the documented 'Va tutto à bagasce!' as a frustration burst."
+    },
+    {
+      "id": "me-ne-batto-o-belin",
+      "original": "Me ne batto o belin",
+      "variants": [
+        "battisene o belin"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "me ne batto il cazzo",
+      "figurative_meaning": "me ne infischio, me ne sbatto (alto grado di indifferenza)",
+      "meaning_it": "Me ne sbatto (altamente).",
+      "meaning_en": "I couldn't care less (lit. I beat my cock about it).",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference",
+          "defiance",
+          "humorous dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "liquidare una polemica",
+        "sfottere una pretesa di importanza"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "con chi si rispetta"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-konecny",
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Belin version of the documented 'battisene o cû'; the forum lists 'Battisene o belin' with the same sense (not to worry), so two independent records. Used as a deadpan shrug rather than aggression."
+    },
+    {
+      "id": "te-bruxa-o-cu",
+      "original": "Te brûxa o cû",
+      "variants": [
+        "Cöse ti sbraggi, te brûxa o cû?"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "ti brucia il culo",
+      "figurative_meaning": "sarcasmo verso chi grida o si agita senza motivo",
+      "meaning_it": "Cosa ti agiti, ti brucia il culo?",
+      "meaning_en": "What are you yelling about, is your ass on fire?",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "friendly mockery",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "prendere in giro chi si agita o strilla",
+        "amici che sbraitano per poco"
+      ],
+      "inappropriate_contexts": [
+        "superiori",
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "cöse ti sbraggi, te brûxa o cû",
+          "translation_it": "Perché strilli, ti brucia il culo?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-konecny"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted by Autelli & Konecny from Agostino 2013 (entry 'ardere'): 'Cosa ti gridi, ti brucia il culo, cöse ti sbraggi, te brûxa o cû'. Use as a rhetorical question to someone fuming."
+    },
+    {
+      "id": "aveine-o-belin-pin",
+      "original": "Avèine o belin pin",
+      "category": "vulgar-idiom",
+      "literal_meaning": "averne il cazzo pieno",
+      "figurative_meaning": "averne abbastanza, essere al limite della pazienza",
+      "meaning_it": "Averne fin sopra i capelli.",
+      "meaning_en": "To be fed up to the back teeth.",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfogo con amici su una scadenza"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Forum thread only (isolated social source, low reliability); semantically close to the documented 'Gh'ho pinn-e e balle'. Prefer the documented phraseme."
+    },
+    {
+      "id": "avei-o-belin-inverso",
+      "original": "Avèi o belin inverso",
+      "variants": [
+        "avèi o belin imböso"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "avere il cazzo girato",
+      "figurative_meaning": "essere furioso o di pessimo umore",
+      "meaning_it": "Avere il diavolo per capello.",
+      "meaning_en": "To be in a foul mood.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "anger",
+          "bad mood"
+        ]
+      },
+      "appropriate_contexts": [
+        "descrivere il capo o un collega dopo una brutta giornata"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Forum thread only (low). Variant given there: 'ò imböso'. Close to the documented 'avei o belin amao'."
+    },
+    {
+      "id": "fa-di-discorsci-do-belin",
+      "original": "Fâ di discorsci do belin",
+      "category": "vulgar-idiom",
+      "literal_meaning": "fare discorsi del cazzo",
+      "figurative_meaning": "dire stupidaggini, fare ragionamenti sciocchi",
+      "meaning_it": "Fare discorsi del cazzo.",
+      "meaning_en": "To talk rubbish.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "dismissal",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "liquidare un argomento debole",
+        "sfottere un collega che divaga"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Forum thread only (low). The 'do belin' genitive frame (travaggio do belin, discorsci do belin) is a sarcastic pattern: the noun is dismissed as foolish or a pain. Use sparingly."
+    },
+    {
+      "id": "travaggio-do-belin",
+      "original": "Travaggio do belin",
+      "category": "vulgar-idiom",
+      "literal_meaning": "lavoro del cazzo",
+      "figurative_meaning": "lavoro faticoso o inutile (secondo il tono, durissimo o scemo)",
+      "meaning_it": "Un lavoro di merda / una cazzata di lavoro.",
+      "meaning_en": "A bloody awful (or pointless) job.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "commentare un task ingrato",
+        "una migrazione interminabile"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Forum thread only (low): the thread says it can mean very hard or, depending on context, very easy or foolish."
+    },
+    {
+      "id": "toccase-o-belin-co-a-camixa",
+      "original": "Toccâse o belin cö-a camixa",
+      "category": "vulgar-idiom",
+      "literal_meaning": "toccarsi il cazzo con la camicia",
+      "figurative_meaning": "darsi arie, fare il raffinato in modo affettato",
+      "meaning_it": "Fare il damerino, darsi delle arie.",
+      "meaning_en": "To act prim and affectedly refined.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "friendly mockery",
+          "derision"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere chi fa lo snob",
+        "amici che si danno arie"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "superiori"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-usenet-belin"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Forum thread only (low). Gloss in the thread: acting overly prim or affectedly refined. Mock-snob target only, no stereotypes about Genoese."
+    },
+    {
+      "id": "gondon",
+      "original": "Gondon",
+      "category": "insult",
+      "literal_meaning": "preservativo",
+      "figurative_meaning": "sciocco, babbeo (spesso bonario)",
+      "meaning_it": "Cretino (spesso in senso bonario).",
+      "meaning_en": "Dope, idiot (often friendly).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "friendly mockery",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere un amico che ha fatto una sciocchezza"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone anziane che non si conoscono"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Babbel only (popular, low): literally 'condom', used for someone not very smart. Isolated source; keep it to light banter."
     }
   ]
 }

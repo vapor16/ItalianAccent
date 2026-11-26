@@ -2420,6 +2420,100 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "part_of_speech": "phrase"
+    },
+    {
+      "id": "ciattella",
+      "term": "ciattella",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pettegolo/a; letteralmente la piattola (pidocchio del pube)",
+      "meaning_en": "gossipy person (literally the crab louse)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Babbel only (low); also used as a verb ('si ciattella' = they gossip). Insult, mild."
+    },
+    {
+      "id": "sciachelo",
+      "term": "sciachelo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona ingenua e facilmente raggirabile",
+      "meaning_en": "naive person who is easily taken advantage of",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Babbel only (low). Friendly or ironic jab at someone too trusting."
+    },
+    {
+      "id": "besugo-loasso",
+      "term": "besugo",
+      "variants": [
+        "loasso"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco (letteralmente orata); variante loasso (spigola)",
+      "meaning_en": "fool (literally sea bream; loasso = sea bass)",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-babbel-genoese"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Babbel only (low): fish-names used for a not-very-bright person. Playful rather than vulgar."
+    },
+    {
+      "id": "rumenta",
+      "term": "rumenta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "spazzatura; in senso figurato, persona cattiva",
+      "meaning_en": "rubbish; figuratively a bad person",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-instantlyitaly"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Instantly Italy only (low). Figurative use is an insult; for objects or situations (a bad framework) it works as 'what a heap of rubbish'."
+    },
+    {
+      "id": "belin-che-esclamazione",
+      "term": "Belìn che ...!",
+      "category": "colloquial-expression",
+      "meaning_it": "Accidenti che ...! (stupore, ammirazione)",
+      "meaning_en": "Damn, what a ...! (surprise or admiration)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Belìn che take away!!",
+          "translation_it": "Accipicchia che take away!!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Genoa (Genoese)",
+      "sources": [
+        "src-lij-autelli-konecny"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Exclamative frame recorded in Autelli & Konecny from a shop advertisement ('Belìn che take away!!', 'Accipicchia che take away!!'). Shows belin as an enthusiastic intensifier."
     }
   ]
 }
