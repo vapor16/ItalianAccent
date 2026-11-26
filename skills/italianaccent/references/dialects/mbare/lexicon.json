@@ -4042,6 +4042,101 @@
    ],
    "provenance": "attested",
    "verification_status": "source-checked"
+  },
+  {
+   "id": "sbindari",
+   "term": "sbindàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "prendere in giro, sbeffeggiare",
+   "meaning_en": "to mock, ridicule",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese ('to mock or ridicule someone'). Friendly mockery verb for banter."
+  },
+  {
+   "id": "ammuccuniari",
+   "term": "ammuccuniàri",
+   "variants": [
+    "vivirisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "bersela, credere a bufale e fake news",
+   "meaning_en": "to swallow hoaxes, fall for fake news",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese lists ammuccuniàri and vivirisi (to drink it in) for believing hoaxes. Sarcastic comment on a too-good-to-be-true claim."
+  },
+  {
+   "id": "scoppula-cuzzata",
+   "term": "scòppula",
+   "variants": [
+    "cuzzàta",
+    "tumbulàta",
+    "pammàta",
+    "jangàta",
+    "papàgnu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "schiaffo (sulla nuca); scappellotto",
+   "meaning_en": "slap (on the nape of the neck)",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese lists a family of slap words: scòppula (just above the nape), cuzzàta (back of the head), tumbulàta/tumbulùni (hard slap), pammàta (palm), jangàta (at molar height), papàgnu (blow to the head from above). Jocular threat register (cf. T'abbuttu!): never a real threat."
+  },
+  {
+   "id": "sminnari",
+   "term": "sminnàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sfigurare, lasciare una cicatrice permanente a qualcuno",
+   "meaning_en": "to disfigure someone, leave a lasting scar",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese. Do not confuse with Palermitano sminnare/sminnittiare = spoil something that was fine (Balarm, see profile minchia). Kept as a Catanese-specific, rather violent verb; use as exaggerated threat at objects only."
+  },
+  {
+   "id": "mpagghiazzari",
+   "term": "'mpagghiazzàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rimproverare duramente, strapazzare",
+   "meaning_en": "to scold harshly",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese. Good for exaggerated telling-off of a colleague or tool in jest."
   }
  ]
 }

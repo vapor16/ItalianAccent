@@ -2055,6 +2055,23 @@
       ]
     },
     {
+      "id": "src-pa-balarm-cabbasisi",
+      "title": "Mi hai rotto i cabbasisi: le espressioni siciliane più diffuse che derivano dall'arabo (Balarm)",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/mi-hai-rotto-i-cabbasisi-le-espressioni-siciliane-piu-diffuse-che-derivano-dall-arabo-113091",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Palermo (Balarm, western Sicily)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article on Arabic loans; says 'mi ha rotto i cabbasisi' is typical of Palermitano and spread through Camilleri's Montalbano. Corroborated for the idiom itself by Sottile and Wiktionary, so used with provenance 'attested'.",
+      "relevant_sections": "cabbasisi paragraph",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
       "id": "src-pa-balarm-chiu-longa",
       "title": "Chiù longa è a pinsata, chiù grossa è a minchiata: come nasce un modo di dire siciliano",
       "publisher": "Balarm",
@@ -2067,6 +2084,23 @@
       "reliability": "low",
       "reliability_notes": "Humorous column; documents the saying and the addumari/astutari 'turn on/off' pair. Read through a tool summary.",
       "relevant_sections": "Whole article",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-balarm-facci-signa",
+      "title": "In Sicilia è una strana offesa: perché si dice \"facci 'i signa\" (Balarm)",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/forse-non-lo-ricordi-ma-in-sicilia-e-una-strana-offesa-perche-si-dice-facci-i-signa-140954",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Sicilian (examples from Palermo and Ragusa)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Personal-anecdote article; tentative etymology (French singe). Documents the tease 'facci i signa' and 'talè facci i signa!' as friendly jab or taunt; single source.",
+      "relevant_sections": "whole article",
       "used_by": [
         "minchia"
       ]
@@ -2157,6 +2191,23 @@
       ]
     },
     {
+      "id": "src-pa-balarm-semu-a-mari",
+      "title": "Se semu a mari lo sai, va scupati u mari: 10 detti da sapere in Sicilia (Balarm)",
+      "publisher": "Balarm",
+      "url": "https://www.balarm.it/news/se-semu-a-mari-lo-sai-va-scupati-u-mari-e-per-pochi-10-detti-da-sapere-in-sicilia-158464",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Palermo (Balarm, western Sicily)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Popular article on sea sayings with Palermitan-style spellings (siemu, ra, u mari). Documents 'Minchia a mare siemu', 'ma va ieccati a mare', 'ma va scupati u mari'; single source, not corroborated.",
+      "relevant_sections": "sayings list",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
       "id": "src-pa-balarm-suca",
       "title": "Da tabù a poliedrico mito pop: il suca nasce, cresce e prospera, e non solo in Sicilia",
       "publisher": "Balarm",
@@ -2238,6 +2289,24 @@
       "reliability": "low",
       "reliability_notes": "Unsigned editorial page; spellings are in Palermo orthography (ru, ra, uocchi, duormi, buonu, malutiempu) and several items are explicitly tied to Palermo (cassaro, festino, vara di San Domenico). Printed typos noted in entries.",
       "relevant_sections": "Whole page",
+      "used_by": [
+        "minchia"
+      ]
+    },
+    {
+      "id": "src-pa-sottile-parole-tempo-perduto",
+      "title": "Le parole del tempo perduto. Ritrovate tra le pagine di Camilleri, Sciascia, Consolo e molti altri",
+      "author": "Roberto Sottile",
+      "publisher": "Università di Palermo (IRIS institutional repository, author copy)",
+      "url": "https://iris.unipa.it/retrieve/e3ad891a-53c2-da0e-e053-3705fe0a2b96/navarra_sottile_es01.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Sicilian (literary attestations, Palermo-based author)",
+      "source_type": "academic",
+      "license": "All rights reserved (open repository copy)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Lexicographic essays by a Palermo sociolinguist on Sicilian words in Camilleri, Sciascia, Consolo. Entries minchia, cabbasisi and trunzu document intensifier constructions (chi minchia facisti?), the family of 'minchi' insults and the cabbasisi idioms. Quotations are from literature (Camilleri's Italianised Sicilian), not spoken Palermitano; only facts and short forms cited.",
+      "relevant_sections": "entries minchia (p. 116), cabbasisi (p. 140), trunzu",
       "used_by": [
         "minchia"
       ]

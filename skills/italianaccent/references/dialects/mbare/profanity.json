@@ -1403,6 +1403,190 @@
    "provenance": "attested",
    "verification_status": "source-checked",
    "notes": "Homophobic slur (protected group): documented for recognition only."
+  },
+  {
+   "id": "mammaluccu",
+   "original": "mammalùccu",
+   "category": "insult",
+   "meaning_it": "persona perennemente stordita, imbambolata (sciocco)",
+   "meaning_en": "perpetually dumbfounded person, dope, fool",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "amusement",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "ribbing a friend who just zoned out"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "it.wikipedia (Dialetto catanese): mammalùcu/a = 'perennemente sbigottito'; Wiktionary lists mammaluccu (fool, also mameluke and slug). Mild, affectionate roast; less sharp than babbu or pacchiòttu."
+  },
+  {
+   "id": "pagghiolu",
+   "original": "pagghiòlu",
+   "category": "insult",
+   "meaning_it": "adulto che si comporta da bambino",
+   "meaning_en": "grown-up who acts like a child",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "teasing a colleague who sulks"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese (flagged 'senza fonti'). Light insult for childish adult behaviour."
+  },
+  {
+   "id": "passuluni",
+   "original": "passulùni",
+   "category": "insult",
+   "meaning_it": "persona spenta, poco sveglia",
+   "meaning_en": "dull, slow-witted person (lit. big raisin)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese. Mild 'big raisin' roast for someone not alert."
+  },
+  {
+   "id": "cacocciula-boriosu",
+   "original": "cacòcciula",
+   "category": "insult",
+   "meaning_it": "persona boriosa, che si dà arie (figurato, da \"carciofo\")",
+   "meaning_en": "boastful show-off (figurative, from \"artichoke\")",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "boasting",
+     "sarcasm"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "deflating someone bragging about their stack"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese (figurative sense). Wiktionary only records the plant sense, so keep it as light mockery."
+  },
+  {
+   "id": "cuccu-jettatore",
+   "original": "cùccu",
+   "category": "insult",
+   "meaning_it": "persona che porta sfortuna, jettatore (lett. gufo)",
+   "meaning_en": "jinx, person who brings bad luck (lit. owl)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "superstition",
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "blaming a friend for the outage they predicted"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "it.wikipedia Dialetto catanese and Wiktionary (cuccu: owl; a person supposed to bring bad luck). Playful superstition joke after a failure."
   }
  ]
 }

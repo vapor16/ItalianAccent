@@ -137,6 +137,17 @@ A gravità è a forza ca tira ogni cosa versu u centru râ Terra. Si jetti 'n sa
 
 Càlati juncu ca passa la china. Voli diri ca quannu 'a cosa è fotti, ti pieghi tanticchia e aspetti ca passa 'a burrasca. Si 'u capu s'arrabbia o 'a deadline è vicina, nun ti fari rumpiri: càlati, ca poi si ripigghia.
 
+**21. Un collega ha fatto il deploy di venerdì sera e ora è tutto rotto.** *(sfogo, vulgarity 5)*
+
+Mizzica, u solitu mammalùccu! U deploy u venniri sira è comu chiamari u cùccu: ora è tuttu rottu. Ma nun è u mumentu di sbindàri u cumpagnu: prima u rollback, doppu i cunti.
+
+```bash
+git revert HEAD
+git push
+```
+
+Quannu torna tuttu a postu, avaia, nun fari u pagghiòlu: u lunedì si parra di comu evitari n'àutra camurrìa.
+
 ---
 
 ## Technical examples
