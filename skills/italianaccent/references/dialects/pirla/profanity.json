@@ -689,6 +689,127 @@
       "provenance": "unverified",
       "verification_status": "source-checked",
       "notes": "Documented only to recognise it; never generate."
+    },
+    {
+      "id": "ciula",
+      "original": "ciula",
+      "category": "insult",
+      "figurative_meaning": "sciocco, stupido",
+      "meaning_it": "Stupido, sciocco.",
+      "meaning_en": "Fool, dummy.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "friendly mockery",
+          "contempt",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere un amico che ha fatto una sciocchezza",
+        "roast di un bug o di un pezzo di codice"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone che non si conoscono"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Te se on ciula",
+          "translation_it": "Sei uno stupido.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce",
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree parolacce lists 'Ciula!' (stupid, colloquial and offensive) and the glossary the example 'Te se on ciula'. Lighter and more everyday than 'pirla'."
+    },
+    {
+      "id": "bauscia",
+      "original": "bauscia",
+      "variants": [
+        "baùscia"
+      ],
+      "category": "insult",
+      "literal_meaning": "bava (di stizza o di rabbia)",
+      "figurative_meaning": "spaccone, fanfarone che si dà arie con le parole",
+      "meaning_it": "Sbruffone, chi se la tira.",
+      "meaning_en": "Show-off, loudmouth.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "friendly mockery",
+          "sarcasm",
+          "derision"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere chi si vanta",
+        "derby: tifoso Inter nello sfottò rossonero"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-treccani-bauscia",
+        "src-mil-milanofree-ganassa",
+        "src-mil-milanofree-gergo",
+        "src-mil-milanofree-derby"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani: a person who boasts or puts on airs; MilanoFree gergo and ganassa pages agree. In derby folklore (before the 1970s) Milan fans call Inter fans 'bauscia' and Inter fans reply 'casciavit': cultural labels, not insults to a group. Do not use for people from other cities."
+    },
+    {
+      "id": "sborone",
+      "original": "sborone",
+      "category": "insult",
+      "figurative_meaning": "chi si vanta in eccesso e mette in ombra gli altri",
+      "meaning_it": "Gran spaccone.",
+      "meaning_en": "Insufferable boaster.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "irritation",
+          "derision"
+        ]
+      },
+      "appropriate_contexts": [
+        "giudizio su un millantatore"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "amici (più duro di bauscia/ganassa)"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-ganassa"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree ganassa page only (low): stronger and clearly negative compared with the teasing 'ganàssa' and the verbal 'bauscia'. Single popular source."
     }
   ]
 }

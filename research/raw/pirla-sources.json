@@ -390,6 +390,70 @@
         "pirla"
       ],
       "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-mil-treccani-pirla",
+      "title": "pirla (Vocabolario Treccani)",
+      "url": "https://www.treccani.it/vocabolario/pirla/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese / Lombard, general Italian",
+      "source_type": "historical-dictionary",
+      "license": "Treccani, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Regional pirla = pirlo; vulgar slang for the male genitals; colloquial 'foolish or incompetent person, also an insult', with 'essere un p.', 'fare la figura del p.', 'comportarsi da pirla'; diminutive pirlétto (playful, usually a child).",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Treccani"
+    },
+    {
+      "id": "src-mil-treccani-bauscia",
+      "title": "baùscia (Vocabolario Treccani)",
+      "url": "https://www.treccani.it/vocabolario/bauscia/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese / Lombard, general Italian",
+      "source_type": "historical-dictionary",
+      "license": "Treccani, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Lombard word, invariable: a person who boasts or puts on airs (fanfarone, spaccone); etymology from bauscia 'bava' (spit of rage) and the verb bauscià 'to drool'.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Treccani"
+    },
+    {
+      "id": "src-mil-milanofree-ganassa",
+      "title": "Ganassa: significato, origine e differenze con bauscia e sborone (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/ganassa-significato-origine-e-differenze-con-bauscia-e-sborone.html",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read. Ganàssa = show-off, often said with a friendly teasing tone (literally jaw or cheek); bauscia = boasts mostly with words; sborone = stronger, negative. Example 'te set propri on ganàssa'.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree"
+    },
+    {
+      "id": "src-mil-milanofree-derby",
+      "title": "Derby di Milano: bauscia e casciavit (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/eventi/derby-di-milano-bauscia-e-casciavit.html",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read. Derby folklore: bauscia (used by Milan fans for Inter fans, 'chi si dà arie') and casciavit (screwdriver, the reply of Inter fans); labels date from before the 1970s and are cultural, a simplified social image.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree"
     }
   ]
 }

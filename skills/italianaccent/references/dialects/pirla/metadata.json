@@ -45,7 +45,9 @@
     "src-mil-lmowiki-dialett",
     "src-mil-lmowiki-occidental",
     "src-mil-milanofree-andare",
+    "src-mil-milanofree-derby",
     "src-mil-milanofree-detti",
+    "src-mil-milanofree-ganassa",
     "src-mil-milanofree-gergo",
     "src-mil-milanofree-glossario",
     "src-mil-milanofree-lingua",
@@ -54,6 +56,8 @@
     "src-mil-milanofree-proverbi",
     "src-mil-milanofree-sapere",
     "src-mil-milanofree-vocabolario",
+    "src-mil-treccani-bauscia",
+    "src-mil-treccani-pirla",
     "src-mil-wikiquote-lombardi"
   ],
   "resources": {

@@ -73,6 +73,10 @@ mi permetto di contattarLa per chiedere conferma della data dell'incontro previs
 Cordiali saluti,
 [Nome Cognome]
 
+**20. Il mio collega si vanta sempre dei suoi progetti.**
+
+Oh! Un bauscia, el solito: parla tanto e i bug li lascia a te. Se se la tira ancora, ridigli in faccia con un «te set propri on ganàssa» e chiedigli i numeri. Se insiste, «Va a ciapà i ratt!». E guarda che il prossimo deploy lo facciamo noi, senza fare la figura del pirla.
+
 ---
 
 ## Technical examples

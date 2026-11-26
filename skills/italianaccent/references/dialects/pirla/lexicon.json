@@ -2354,6 +2354,185 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Source: someone cheated you or you are stuck; spelling of source."
+    },
+    {
+      "id": "ganassa",
+      "term": "ganàssa",
+      "variants": [
+        "ganassa"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chi si dà arie, sbruffone (spesso detto con tono amichevole)",
+      "meaning_en": "show-off, braggart (often a friendly tease)",
+      "register": "familiar",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "te set propri on ganàssa",
+          "translation_it": "sei proprio uno sbruffone",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-ganassa"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree: literally jaw or cheek; example 'te set propri on ganàssa' (you really are a show-off). Friendly counterpart of bauscia and sborone."
+    },
+    {
+      "id": "pistola",
+      "term": "pistola",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco, sleale",
+      "meaning_en": "fool, a bit of a rascal",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-gergo"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree gergo (glossary of the old ligera): 'sciocco o sleale'. Mild; also in general Italian ('che figura da pistola')."
+    },
+    {
+      "id": "imbesui",
+      "term": "imbesüì",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "completamente rimbambito, stordito",
+      "meaning_en": "dazed, dopey",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree glossario: 'completely dazed or stupid'. Friendly jibe at someone who has just woken up or lost the thread."
+    },
+    {
+      "id": "fesceu",
+      "term": "fesceù",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona losca, poco affidabile",
+      "meaning_en": "shady, untrustworthy person",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Attént che l'è on fesceù",
+          "translation_it": "Attento che è un tipo losco.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree glossario: 'Attént che l'è on fesceù' (careful, he's shady). Warning rather than insult."
+    },
+    {
+      "id": "ha-becaa-loca",
+      "term": "L'ha becaa l'oca!",
+      "category": "colloquial-expression",
+      "meaning_it": "gli ha dato di volta il cervello (lett. l'oca l'ha beccato)",
+      "meaning_en": "he has lost it (lit. the goose pecked him)",
+      "register": "ironic",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "L'ha becaa l'oca!",
+          "translation_it": "È fuori di testa!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree parolacce lists it as an ironic phrase. Safe, humorous dismissal of someone's odd idea."
+    },
+    {
+      "id": "pirletto",
+      "term": "pirlétto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocchino (di solito un bambino), tono affettuoso",
+      "meaning_en": "little silly (usually a child), affectionate",
+      "register": "affectionate",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-treccani-pirla"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani: diminutive of pirla, a playful term for a silly person, usually a child, with an affectionate tone. Good for gently teasing a friend's slip."
+    },
+    {
+      "id": "fare-la-figura-del-pirla",
+      "term": "fare la figura del pirla",
+      "variants": [
+        "comportarsi da pirla",
+        "essere un pirla"
+      ],
+      "category": "colloquial-expression",
+      "meaning_it": "fare una figuraccia, passare per scemo",
+      "meaning_en": "to look like an idiot",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-treccani-pirla"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani lists 'fare la figura del p.' and 'comportarsi da pirla' under pirla (colloquial); this is the Italian regional idiom, the natural frame for self-mockery after a blunder."
+    },
+    {
+      "id": "casciavit",
+      "term": "casciavit",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cacciavite: nello sfottò del derby, il tifoso del Milan",
+      "meaning_en": "screwdriver: in derby banter, the Milan fan",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-derby"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree: the answer of Inter fans to 'bauscia'. A folkloric label (pre-1970s, working-class image of Milan vs bourgeois Inter, which the page calls simplified). Use only for derby banter, not as a social jibe."
+    },
+    {
+      "id": "tapascia",
+      "term": "tapascià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scappare, filarsela",
+      "meaning_en": "to scarper",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree gergo: tapascià = scappare, entered everyday speech."
     }
   ]
 }
