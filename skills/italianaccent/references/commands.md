@@ -72,7 +72,7 @@ Mode "<input>" not found. Did you mean: <id1>, <id2>, <id3>? Use /italianaccent 
 
 ```
 "<display_name>" (<variety>) is planned but not available yet. Available in <region>: <ids or "none yet">.
-Contributions welcome: see CONTRIBUTING.md in the repository.
+Contributions welcome: https://github.com/vapor16/ItalianAccent/blob/main/CONTRIBUTING.md
 ```
 
 **random**: pick uniformly among available modes different from the current one; announce it like an activation.

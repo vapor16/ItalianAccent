@@ -1,0 +1,4142 @@
+{
+ "dialect": "mbare",
+ "entries": [
+  {
+   "id": "taliari",
+   "term": "taliari",
+   "variants": [
+    "talìari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "guardare, osservare",
+   "meaning_en": "to look (at), to watch",
+   "register": "neutral",
+   "examples": [
+    {
+     "text": "Talìa ccà!",
+     "translation_it": "Guarda qui!",
+     "translation_en": "Look here!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Imperative talìa! / talè! (Martoglio: 'Talè = guarda, guarda')."
+  },
+  {
+   "id": "accattari",
+   "term": "accattari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "comprare",
+   "meaning_en": "to buy",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "travagghiari",
+   "term": "travagghiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "lavorare",
+   "meaning_en": "to work",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "manciari",
+   "term": "manciari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "mangiare",
+   "meaning_en": "to eat",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Reflexive manciàrisi = rodersi (il fegato), sprecare (il tempo)."
+  },
+  {
+   "id": "addumari",
+   "term": "addumari",
+   "variants": [
+    "aḍḍumari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "accendere",
+   "meaning_en": "to switch on, to light",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Useful in tech talk: addumari u server. Reflexive aḍḍumàrisi = arrabbiarsi."
+  },
+  {
+   "id": "astutari",
+   "term": "astutari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "spegnere",
+   "meaning_en": "to switch off, to put out",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Reflexive astutàrisi (fig.) = smettere di parlare."
+  },
+  {
+   "id": "ammucciari",
+   "term": "ammucciari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "nascondere",
+   "meaning_en": "to hide",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ammuttari",
+   "term": "ammuttari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "spingere",
+   "meaning_en": "to push",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Tech: ammuttari = push (git push) in playful use."
+  },
+  {
+   "id": "acchianari",
+   "term": "acchianari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "salire; (fig.) fare effetto (alcol)",
+   "meaning_en": "to go up, to climb",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scinniri",
+   "term": "scinniri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scendere",
+   "meaning_en": "to go down",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nesciri",
+   "term": "nesciri",
+   "variants": [
+    "nèsciri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "uscire; tirare fuori",
+   "meaning_en": "to go out; to take out",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: niscìu (uscì), niscemu (usciamo), nisceru (fecero uscire)."
+  },
+  {
+   "id": "trasiri",
+   "term": "trasiri",
+   "variants": [
+    "tràsiri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "entrare",
+   "meaning_en": "to go in, to enter",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: trasu (entro), trasìu (entrò), trasiti (entrate)."
+  },
+  {
+   "id": "sbagghiari",
+   "term": "sbagghiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sbagliare",
+   "meaning_en": "to make a mistake",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Noun sbagghiu = errore (Martoglio)."
+  },
+  {
+   "id": "scantarisi",
+   "term": "scantàrisi",
+   "variants": [
+    "scantarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "avere paura, spaventarsi",
+   "meaning_en": "to be afraid",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Noun scantu = paura (Martoglio); scantusu = pauroso."
+  },
+  {
+   "id": "sciddicari",
+   "term": "sciddicari",
+   "variants": [
+    "sciḍḍicari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scivolare",
+   "meaning_en": "to slip",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "arrinesciri",
+   "term": "arrinesciri",
+   "variants": [
+    "arrinèsciri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "riuscire",
+   "meaning_en": "to succeed, to manage",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: nun m'arriniscìu (non mi riuscì)."
+  },
+  {
+   "id": "allestiri",
+   "term": "allestiri",
+   "variants": [
+    "allèstiri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "finire, completare un lavoro",
+   "meaning_en": "to finish (a task)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "jittari",
+   "term": "jittari",
+   "variants": [
+    "jttari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "buttare, gettare; vomitare",
+   "meaning_en": "to throw (away)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "abbiari",
+   "term": "abbiari",
+   "variants": [
+    "abbiàri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "buttare, lanciare",
+   "meaning_en": "to throw, to fling",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: t'abbjiu (ti scaglio)."
+  },
+  {
+   "id": "abbissari",
+   "term": "abbissari",
+   "variants": [
+    "abbissàri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "aggiustare, sistemare, mettere in ordine",
+   "meaning_en": "to fix, to tidy, to sort out",
+   "register": "colloquial",
+   "examples": [
+    {
+     "text": "Abbissa stu còdici, 'mbare.",
+     "translation_it": "Sistema questo codice, amico.",
+     "translation_en": "Fix this code, mate.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "appizzari",
+   "term": "appizzari",
+   "variants": [
+    "appizzàri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rovinare, guastare; rimetterci",
+   "meaning_en": "to ruin, to spoil; to lose",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: ci l'appizzasti = ce l'hai rimesso."
+  },
+  {
+   "id": "strammari",
+   "term": "strammari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scombinare, mettere in disordine",
+   "meaning_en": "to mess up",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Adj. strammu = strambo (Martoglio)."
+  },
+  {
+   "id": "spicciarisi",
+   "term": "spicciàrisi",
+   "variants": [
+    "spicciarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sbrigarsi",
+   "meaning_en": "to hurry up",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "annacarisi",
+   "term": "annacàrisi",
+   "variants": [
+    "annacarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "dondolarsi; (fig.) sbrigarsi, muoversi",
+   "meaning_en": "to rock; (fig.) to get a move on",
+   "register": "colloquial",
+   "examples": [
+    {
+     "text": "Annàcati!",
+     "translation_it": "Muoviti!",
+     "translation_en": "Get a move on!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "LiveUnict: t'annachi is more urgent than Italian muoviti."
+  },
+  {
+   "id": "sghizzari",
+   "term": "sghizzari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scherzare",
+   "meaning_en": "to joke",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Noun sghèzzu = scherzo."
+  },
+  {
+   "id": "babbiari",
+   "term": "babbiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scherzare, dire sciocchezze",
+   "meaning_en": "to kid, to fool around",
+   "register": "colloquial",
+   "examples": [
+    {
+     "text": "Avaia, nun babbiari!",
+     "translation_it": "Dai, non scherzare!",
+     "translation_en": "Come on, stop kidding!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-liveunict-influenze"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nzirtari",
+   "term": "'nzirtari",
+   "variants": [
+    "'nzittari",
+    "nzirtari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "indovinare",
+   "meaning_en": "to guess (right)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese 'nzittàri shows r+C assimilation; Martoglio writes 'nzirtau (l'ha indovinato)."
+  },
+  {
+   "id": "rommiri",
+   "term": "ròmmiri",
+   "variants": [
+    "dòmmiri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "dormire",
+   "meaning_en": "to sleep",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Shows Catanese d>r and r+C assimilation (dormire > dommiri > rommiri)."
+  },
+  {
+   "id": "susirisi",
+   "term": "susìrisi",
+   "variants": [
+    "susirisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "alzarsi (dal letto)",
+   "meaning_en": "to get up",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "canusciri",
+   "term": "canùsciri",
+   "variants": [
+    "canusciri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "conoscere (persone)",
+   "meaning_en": "to know (people)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "viriri",
+   "term": "vìriri",
+   "variants": [
+    "virìri",
+    "viriri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "vedere",
+   "meaning_en": "to see",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-wikipedia-scn-parrata",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Intervocalic d>r. Martoglio: viju (vedo), 'a viru (la vedo), vitti (vide), viristru (vedeste)."
+  },
+  {
+   "id": "chianciri",
+   "term": "chiànciri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "piangere",
+   "meaning_en": "to cry",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "arririri",
+   "term": "arrìriri",
+   "variants": [
+    "arririri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "ridere",
+   "meaning_en": "to laugh",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "parrari",
+   "term": "parrari",
+   "variants": [
+    "parràri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "parlare",
+   "meaning_en": "to speak",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "rumpiri",
+   "term": "rùmpiri",
+   "variants": [
+    "rumpiri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rompere",
+   "meaning_en": "to break",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scassari",
+   "term": "scassari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rompere, distruggere",
+   "meaning_en": "to break, to wreck",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "jiri",
+   "term": "jiri",
+   "variants": [
+    "jìri",
+    "jri",
+    "iri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "andare",
+   "meaning_en": "to go",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Present vaju, vai, va, jemu, jiti, vannu (Martoglio: vaju, jemu, ci vanu)."
+  },
+  {
+   "id": "jirisinni",
+   "term": "jirisìnni",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "andarsene",
+   "meaning_en": "to go away",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: jemunìnni (andiamocene), jtavinni (andatevene), mi nni vaju."
+  },
+  {
+   "id": "viviri",
+   "term": "vìviri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "bere",
+   "meaning_en": "to drink",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "aspittari",
+   "term": "aspittari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "aspettare",
+   "meaning_en": "to wait",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ascutari",
+   "term": "ascutari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "ascoltare",
+   "meaning_en": "to listen",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: 'scutati (ascoltate)."
+  },
+  {
+   "id": "luvari",
+   "term": "luvari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "togliere, levare",
+   "meaning_en": "to remove",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "canciari",
+   "term": "canciari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "cambiare",
+   "meaning_en": "to change",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pigghiari",
+   "term": "pigghiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "prendere",
+   "meaning_en": "to take",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lassari",
+   "term": "lassari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "lasciare",
+   "meaning_en": "to leave, to let",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "speddiri",
+   "term": "spèddiri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "finire, esaurirsi",
+   "meaning_en": "to run out, to end",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "attruppicari",
+   "term": "attruppicari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "inciampare",
+   "meaning_en": "to trip",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: attruppicuni (inciampone)."
+  },
+  {
+   "id": "sparagnari",
+   "term": "sparagnari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "risparmiare; evitare (fatica, problemi)",
+   "meaning_en": "to save; to spare oneself",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mpicari",
+   "term": "'mpicari",
+   "variants": [
+    "mpicari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "incollare; restare bloccati; (fig.) schiantarsi",
+   "meaning_en": "to stick; to get stuck",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Tech: u prugramma s'impicau? Use 'mpicari for 'got stuck'."
+  },
+  {
+   "id": "mpinciri",
+   "term": "'mpìnciri",
+   "variants": [
+    "mpinciri"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "impigliarsi; restare bloccati dalle circostanze",
+   "meaning_en": "to get caught, to get stuck",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "addumarisi",
+   "term": "aḍḍumàrisi",
+   "variants": [
+    "addumarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "(fig.) arrabbiarsi; eccitarsi",
+   "meaning_en": "to flare up, to get angry",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quariarisi",
+   "term": "quariàrisi",
+   "variants": [
+    "quariarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "arrabbiarsi moltissimo",
+   "meaning_en": "to get furious",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Base quariari = riscaldare (Martoglio: quadiari, quarìu)."
+  },
+  {
+   "id": "unchiarisi",
+   "term": "unchiàrisi",
+   "variants": [
+    "vunchiàrisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "gonfiarsi; arrabbiarsi",
+   "meaning_en": "to swell; to get angry",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Initial (v) optional."
+  },
+  {
+   "id": "siddiarisi",
+   "term": "siddiàrisi",
+   "variants": [
+    "siddiarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "seccarsi, annoiarsi, indispettirsi",
+   "meaning_en": "to get annoyed, bored",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: siddiari = annoiare, seccare; si siddiò = s'indispettì."
+  },
+  {
+   "id": "addunarisi",
+   "term": "addunàrisi",
+   "variants": [
+    "addunarisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "accorgersi",
+   "meaning_en": "to notice, to realise",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: m'adduno / m'addugnu (mi accorgo), s'addunò (s'accorse)."
+  },
+  {
+   "id": "ncugnari",
+   "term": "'ncugnari",
+   "variants": [
+    "ncugnari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "avvicinarsi",
+   "meaning_en": "to come close",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "assicutari",
+   "term": "assicutari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "inseguire, dare la caccia",
+   "meaning_en": "to chase",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scippari",
+   "term": "scippari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "strappare, svellere",
+   "meaning_en": "to snatch, to tear off",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "abbuttari",
+   "term": "abbuttari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "gonfiare, rimpinzare; stufare",
+   "meaning_en": "to stuff; to fed up",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: t'abbuttu = ti gonfio (threat)."
+  },
+  {
+   "id": "carusu",
+   "term": "carusu",
+   "variants": [
+    "carusa (f.)",
+    "carusi (pl.)"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "ragazzo; (pl.) giovani",
+   "meaning_en": "boy, lad; (pl.) young people",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "picciottu",
+   "term": "picciottu",
+   "variants": [
+    "picciotta (f.)"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "giovanotto",
+   "meaning_en": "young man",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "picciriddu",
+   "term": "picciriddu",
+   "variants": [
+    "picciridda (f.)"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "bambino, piccolino",
+   "meaning_en": "small child",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nicu",
+   "term": "nicu",
+   "variants": [
+    "nica (f.)",
+    "nichi (pl.)"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "piccolo",
+   "meaning_en": "small, little",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ranni",
+   "term": "ranni",
+   "variants": [
+    "granni"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "grande",
+   "meaning_en": "big, large",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-cat-wikipedia-scn-parrata"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese drops g- in gr- (granni > ranni)."
+  },
+  {
+   "id": "beddu",
+   "term": "beddu",
+   "variants": [
+    "bedda (f.)",
+    "beḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "bello; buono, simpatico",
+   "meaning_en": "beautiful; nice, good",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tintu",
+   "term": "tintu",
+   "variants": [
+    "tinta (f.)"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "cattivo; misero, sfortunato",
+   "meaning_en": "bad; wretched",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lestu",
+   "term": "lestu",
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "veloce",
+   "meaning_en": "quick",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "moddu",
+   "term": "moddu",
+   "variants": [
+    "moḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "lento; morbido, molle",
+   "meaning_en": "slow; soft",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lagnusu",
+   "term": "lagnusu",
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "pigro",
+   "meaning_en": "lazy",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-balarm-raggia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "spertu",
+   "term": "spertu",
+   "variants": [
+    "spèttu"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "furbo, scaltro",
+   "meaning_en": "shrewd, clever",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "spèttu is the r-assimilated Catanese pronunciation."
+  },
+  {
+   "id": "saggiu",
+   "term": "saggiu",
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "calmo, quieto",
+   "meaning_en": "calm, quiet",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lordu",
+   "term": "lordu",
+   "variants": [
+    "loddu",
+    "lurdu"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "sporco",
+   "meaning_en": "dirty",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "lòddu = Catanese assimilated form."
+  },
+  {
+   "id": "chinu",
+   "term": "chinu",
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "pieno",
+   "meaning_en": "full",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vacanti",
+   "term": "vacanti",
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "vuoto",
+   "meaning_en": "empty",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Also lèggiu (W) = vuoto."
+  },
+  {
+   "id": "fotti",
+   "term": "fotti",
+   "variants": [
+    "forti"
+   ],
+   "category": "word",
+   "part_of_speech": "adjective",
+   "meaning_it": "forte",
+   "meaning_en": "strong; loud",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese r+C assimilation (forti > fotti)."
+  },
+  {
+   "id": "jornu",
+   "term": "jornu",
+   "variants": [
+    "jonnu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "giorno",
+   "meaning_en": "day",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "jònnu = Catanese pronunciation (it.wiki)."
+  },
+  {
+   "id": "sira",
+   "term": "sira",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "sera",
+   "meaning_en": "evening",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "matina",
+   "term": "matina",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "mattina",
+   "meaning_en": "morning",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "putia",
+   "term": "putìa",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "bottega, negozio",
+   "meaning_en": "shop",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "strata",
+   "term": "strata",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "strada",
+   "meaning_en": "street, road",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chianu",
+   "term": "chianu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "piazza",
+   "meaning_en": "town square",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "'nchianu = all'aperto (Martoglio)."
+  },
+  {
+   "id": "ciriveddu",
+   "term": "ciriveddu",
+   "variants": [
+    "cirivèḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cervello",
+   "meaning_en": "brain",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cori",
+   "term": "cori",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cuore; voglia",
+   "meaning_en": "heart; desire",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vucca",
+   "term": "vucca",
+   "variants": [
+    "ucca"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "bocca",
+   "meaning_en": "mouth",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-cat-wikipedia-scn-parrata"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "b>v; initial v may drop in Catanese speech ((v)ùcca)."
+  },
+  {
+   "id": "picciuli",
+   "term": "picciuli",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "soldi, quattrini",
+   "meaning_en": "money, cash",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: Pìcciuli = spiccioli, quattrini."
+  },
+  {
+   "id": "travagghiu",
+   "term": "travagghiu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "lavoro",
+   "meaning_en": "work, job",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "causi",
+   "term": "causi",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pantaloni",
+   "meaning_en": "trousers",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sghezzu",
+   "term": "sghezzu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "scherzo",
+   "meaning_en": "joke",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scaciuni",
+   "term": "scaciuni",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pretesto, scusa",
+   "meaning_en": "pretext, excuse",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: scacione = cagione."
+  },
+  {
+   "id": "malura",
+   "term": "malura",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "crisi, penuria",
+   "meaning_en": "hard times, scarcity",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "collira",
+   "term": "collira",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "dispiacere; collera",
+   "meaning_en": "grief; anger",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "preiu",
+   "term": "preiu",
+   "variants": [
+    "preju"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "gioia, contentezza",
+   "meaning_en": "joy, pride",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scantu",
+   "term": "scantu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "paura",
+   "meaning_en": "fear, fright",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "camurria",
+   "term": "camurrìa",
+   "variants": [
+    "camurria"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "seccatura continua, rottura",
+   "meaning_en": "nuisance, pain in the neck",
+   "register": "colloquial",
+   "examples": [
+    {
+     "text": "Chi camurrìa stu build!",
+     "translation_it": "Che seccatura questa build!",
+     "translation_en": "What a pain this build is!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-liveunict-camurria",
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sciarra",
+   "term": "sciarra",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "lite, rissa",
+   "meaning_en": "quarrel, brawl",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-cat-liveunict-influenze"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ciauru",
+   "term": "ciàuru",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "odore, profumo",
+   "meaning_en": "smell, scent",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fetu",
+   "term": "fetu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "puzza",
+   "meaning_en": "stench",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "buriddu",
+   "term": "burìddu",
+   "variants": [
+    "burìḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "tanfo di cibo andato a male",
+   "meaning_en": "stink of spoiled food",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "zitu",
+   "term": "zitu",
+   "variants": [
+    "zita (f.)"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "fidanzato",
+   "meaning_en": "fiancé, boyfriend",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "parrinu",
+   "term": "parrinu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "prete",
+   "meaning_en": "priest",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sceccu",
+   "term": "sceccu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "asino; (fig.) ignorante",
+   "meaning_en": "donkey; (fig.) dunce",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mmuccuni",
+   "term": "mmuccuni",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "boccone; sorso",
+   "meaning_en": "mouthful; sip",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "aricchia",
+   "term": "arìcchia",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "orecchio",
+   "meaning_en": "ear",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "casciolu",
+   "term": "casciolu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cassetto",
+   "meaning_en": "drawer",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "seggia",
+   "term": "seggia",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "sedia",
+   "meaning_en": "chair",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pignata",
+   "term": "pignata",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pentola",
+   "meaning_en": "cooking pot",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cuteddu",
+   "term": "cuteddu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "coltello",
+   "meaning_en": "knife",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "liotru",
+   "term": "liotru",
+   "variants": [
+    "Liotru"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "la statua dell'elefante di piazza Duomo, simbolo di Catania",
+   "meaning_en": "the lava-stone elephant, symbol of Catania",
+   "register": "neutral",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "arrusti-e-mancia",
+   "term": "arrùsti e mància",
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "grigliata; posto o invito dove si mangia carne arrostita",
+   "meaning_en": "barbecue; a grill joint",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ju",
+   "term": "ju",
+   "variants": [
+    "jù",
+    "iu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "io",
+   "meaning_en": "I",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio writes ju; it.wiki writes jù."
+  },
+  {
+   "id": "tu",
+   "term": "tu",
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "tu",
+   "meaning_en": "you (sing.)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "iddu",
+   "term": "iddu",
+   "variants": [
+    "iḍḍu",
+    "idda (f.)"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "lui; (f.) idda = lei",
+   "meaning_en": "he; (f.) she",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nuatri",
+   "term": "nuàtri",
+   "variants": [
+    "nuàttri",
+    "nuâtri"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "noi",
+   "meaning_en": "we",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese nuàttri/nuatri vs literary nuàutri."
+  },
+  {
+   "id": "vuatri",
+   "term": "vuàtri",
+   "variants": [
+    "vuàttri"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "voi",
+   "meaning_en": "you (pl.)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "iddi",
+   "term": "iddi",
+   "variants": [
+    "iḍḍi"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "loro",
+   "meaning_en": "they",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vossia",
+   "term": "vossìa",
+   "variants": [
+    "vassìa",
+    "voscenza",
+    "'ossia"
+   ],
+   "category": "address-term",
+   "part_of_speech": "pronoun",
+   "meaning_it": "Lei (forma di cortesia)",
+   "meaning_en": "you (formal)",
+   "register": "formal",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wikipedia-en",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Takes 3rd person (polite imperative in -assi: parrassi). Martoglio: Vassia, 'Ossia = vossignoria; Voscenza = vostra eccellenza."
+  },
+  {
+   "id": "chistu",
+   "term": "chistu",
+   "variants": [
+    "chista (f.)",
+    "chisti (pl.)",
+    "stu",
+    "sta"
+   ],
+   "category": "function-word",
+   "part_of_speech": "demonstrative",
+   "meaning_it": "questo",
+   "meaning_en": "this",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chissu",
+   "term": "chissu",
+   "variants": [
+    "chissa (f.)",
+    "chissi (pl.)",
+    "'ssu",
+    "'ssa"
+   ],
+   "category": "function-word",
+   "part_of_speech": "demonstrative",
+   "meaning_it": "codesto (vicino a chi ascolta)",
+   "meaning_en": "that (near you)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chiddu",
+   "term": "chiddu",
+   "variants": [
+    "chidda (f.)",
+    "chiddi (pl.)",
+    "'ddu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "demonstrative",
+   "meaning_it": "quello",
+   "meaning_en": "that (over there)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "u",
+   "term": "u",
+   "variants": [
+    "'u",
+    "lu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "article",
+   "meaning_it": "il, lo (articolo determinativo maschile)",
+   "meaning_en": "the (masc. sing.)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-scn-parrata",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese drops the l- of lu/la/li: u, a, i (scn.wiki)."
+  },
+  {
+   "id": "a",
+   "term": "a",
+   "variants": [
+    "'a",
+    "la"
+   ],
+   "category": "function-word",
+   "part_of_speech": "article",
+   "meaning_it": "la (articolo determinativo femminile)",
+   "meaning_en": "the (fem. sing.)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-scn-parrata",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "i",
+   "term": "i",
+   "variants": [
+    "'i",
+    "li"
+   ],
+   "category": "function-word",
+   "part_of_speech": "article",
+   "meaning_it": "i, gli, le (plurale)",
+   "meaning_en": "the (plural)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-scn-parrata"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cca",
+   "term": "cca",
+   "variants": [
+    "ccà",
+    "ccani"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "qui",
+   "meaning_en": "here",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "ccani is an emphatic form glossed by Martoglio."
+  },
+  {
+   "id": "dda",
+   "term": "ddà",
+   "variants": [
+    "dda",
+    "ḍḍa"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "là",
+   "meaning_en": "there",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ddocu",
+   "term": "ddocu",
+   "variants": [
+    "ḍḍocu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "lì (vicino a chi ascolta)",
+   "meaning_en": "there (near you)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wikipedia-en",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "unni",
+   "term": "unni",
+   "variants": [
+    "d'unni (da dove)",
+    "dunni"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "dove",
+   "meaning_en": "where",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quannu",
+   "term": "quannu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "quando",
+   "meaning_en": "when",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "comu",
+   "term": "comu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "come",
+   "meaning_en": "how, like",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pirchi",
+   "term": "pirchì",
+   "variants": [
+    "pirchi"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb/conjunction",
+   "meaning_it": "perché",
+   "meaning_en": "why; because",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chi",
+   "term": "chi",
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "che, che cosa",
+   "meaning_en": "what",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Chi vordiri? = che vuol dire? (Martoglio)."
+  },
+  {
+   "id": "cu",
+   "term": "cu'",
+   "variants": [
+    "cui",
+    "cu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "chi",
+   "meaning_en": "who",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Cleft: cu' è ca...? = chi è che...?"
+  },
+  {
+   "id": "accussi",
+   "term": "accussì",
+   "variants": [
+    "accuddì"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "così",
+   "meaning_en": "like this, so",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "accuddì is glossed by Martoglio (Catania)."
+  },
+  {
+   "id": "annunca",
+   "term": "annunca",
+   "variants": [
+    "'nnunca"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "altrimenti, se no; (anche) dunque",
+   "meaning_en": "otherwise, or else",
+   "register": "neutral",
+   "examples": [
+    {
+     "text": "Fai u backup, annunca pessi tuttu.",
+     "translation_it": "Fai il backup, altrimenti perdi tutto.",
+     "translation_en": "Make a backup, otherwise you lose everything.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona",
+    "src-cat-wikipedia-scn-parrata"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Cited by scn.wiki as a word that identifies Catanese speech."
+  },
+  {
+   "id": "siddu",
+   "term": "siddu",
+   "variants": [
+    "suddu",
+    "su"
+   ],
+   "category": "function-word",
+   "part_of_speech": "conjunction",
+   "meaning_it": "se",
+   "meaning_en": "if",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio glosses both siddu and suddu = se; the Catanese UDHR text (it.wiki) has comu su fùssunu = come se fossero."
+  },
+  {
+   "id": "ca",
+   "term": "ca",
+   "category": "function-word",
+   "part_of_speech": "conjunction",
+   "meaning_it": "che (complementatore)",
+   "meaning_en": "that (complementizer)",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-scn-wikipedia-en"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "macari",
+   "term": "macari",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "anche, pure; perfino",
+   "meaning_en": "also; even",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "picca",
+   "term": "picca",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "poco",
+   "meaning_en": "little, not much",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "a picca a picca = a poco a poco (Martoglio)."
+  },
+  {
+   "id": "assai",
+   "term": "assai",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "molto",
+   "meaning_en": "a lot",
+   "register": "neutral",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cchiu",
+   "term": "cchiù",
+   "variants": [
+    "chiù"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "più",
+   "meaning_en": "more",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mancu",
+   "term": "mancu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "neanche",
+   "meaning_en": "not even",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nenti",
+   "term": "nenti",
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "niente",
+   "meaning_en": "nothing",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nuddu",
+   "term": "nuddu",
+   "variants": [
+    "nudda (f.)"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "nessuno",
+   "meaning_en": "nobody",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tannu",
+   "term": "tannu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "allora, a quel tempo",
+   "meaning_en": "back then",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-scn-wikipedia-en",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "antura",
+   "term": "antura",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "poco fa",
+   "meaning_en": "a moment ago",
+   "register": "neutral",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-liveunict-influenze"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tanticchia",
+   "term": "tanticchia",
+   "variants": [
+    "anticchia",
+    "tanticchiedda"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "un pochino",
+   "meaning_en": "a little bit",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "alleggiu",
+   "term": "allèggiu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "piano, lentamente",
+   "meaning_en": "slowly, gently",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ammatula",
+   "term": "ammàtula",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "inutilmente, invano",
+   "meaning_en": "in vain",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "rumani",
+   "term": "rumani",
+   "variants": [
+    "dumani"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "domani",
+   "meaning_en": "tomorrow",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-scn-parrata",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese initial d>r (scn.wiki: dumani -> rumani)."
+  },
+  {
+   "id": "ajeri",
+   "term": "ajeri",
+   "variants": [
+    "aieri"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "ieri",
+   "meaning_en": "yesterday",
+   "register": "neutral",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "viatu",
+   "term": "viatu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "presto, subito",
+   "meaning_en": "quickly, soon",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "afforza",
+   "term": "afforza",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "per forza",
+   "meaning_en": "necessarily",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "allocu",
+   "term": "allocu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "invece",
+   "meaning_en": "instead",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "p-accomora",
+   "term": "p'accomora",
+   "variants": [
+    "p'accomòra"
+   ],
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "per ora",
+   "meaning_en": "for now",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "doppu",
+   "term": "doppu",
+   "category": "function-word",
+   "part_of_speech": "adverb",
+   "meaning_it": "dopo",
+   "meaning_en": "after, later",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ccu",
+   "term": "ccu",
+   "variants": [
+    "cu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "preposition",
+   "meaning_it": "con",
+   "meaning_en": "with",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio writes ccu (geminated) throughout."
+  },
+  {
+   "id": "ri",
+   "term": "ri",
+   "variants": [
+    "di",
+    "'i"
+   ],
+   "category": "function-word",
+   "part_of_speech": "preposition",
+   "meaning_it": "di",
+   "meaning_en": "of",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese d>r: ri l'àutri, râ stissa matri (it.wiki UDHR text)."
+  },
+  {
+   "id": "no",
+   "term": "nô",
+   "variants": [
+    "nâ",
+    "nê",
+    "ntô"
+   ],
+   "category": "function-word",
+   "part_of_speech": "preposition+article",
+   "meaning_it": "nel (contrazione di 'nta + u)",
+   "meaning_en": "in the",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-scn-parrata",
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "scn.wiki: Catanese ntô/ntâ/ntê > nô/nâ/nê."
+  },
+  {
+   "id": "agghiri",
+   "term": "agghiri",
+   "category": "function-word",
+   "part_of_speech": "preposition",
+   "meaning_it": "verso",
+   "meaning_en": "towards",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "agghiri ddà = verso lì."
+  },
+  {
+   "id": "occa",
+   "term": "occa",
+   "variants": [
+    "ôcche",
+    "occ'autru"
+   ],
+   "category": "function-word",
+   "part_of_speech": "determiner",
+   "meaning_it": "qualche",
+   "meaning_en": "some",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: Occ'autra = qualche altra."
+  },
+  {
+   "id": "zoccu",
+   "term": "zoccu",
+   "variants": [
+    "nzoccu"
+   ],
+   "category": "function-word",
+   "part_of_speech": "pronoun",
+   "meaning_it": "ciò che, quello che",
+   "meaning_en": "what, whatever",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio uses zoccu in Catanese texts (zoccu è ed è)."
+  },
+  {
+   "id": "mbare",
+   "term": "'mbare",
+   "variants": [
+    "'mbari",
+    "mbare",
+    "'mpari",
+    "mbà"
+   ],
+   "category": "address-term",
+   "part_of_speech": "noun (vocative)",
+   "meaning_it": "compare, amico (vocativo confidenziale)",
+   "meaning_en": "mate, buddy",
+   "register": "familiar",
+   "examples": [
+    {
+     "text": "Com'è, 'mbari, chi si dici?",
+     "translation_it": "Come va, amico, che si dice?",
+     "translation_en": "What's up, mate?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-sololibri-parole",
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "From compater. Wiktionary: also godfather/best man; slang 'close friend'. Martoglio writes 'mpari; it.wiki 'mbàri = amico, compagno. SoloLibri: typical of the north-east, often with a touch on the listener's arm."
+  },
+  {
+   "id": "cumpari",
+   "term": "cumpari",
+   "variants": [
+    "cumpà"
+   ],
+   "category": "address-term",
+   "part_of_speech": "noun",
+   "meaning_it": "compare, padrino; amico",
+   "meaning_en": "godfather; best man; buddy",
+   "register": "familiar",
+   "examples": [
+    {
+     "text": "Com'è cumpari, chi si dici?",
+     "translation_it": "Come va compare, che si dice?",
+     "translation_en": "What's up buddy?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cummari",
+   "term": "cummari",
+   "variants": [
+    "'mmari"
+   ],
+   "category": "address-term",
+   "part_of_speech": "noun",
+   "meaning_it": "comare, madrina; amica",
+   "meaning_en": "godmother; female friend",
+   "register": "familiar",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: 'Mmari = comare."
+  },
+  {
+   "id": "ciatu",
+   "term": "ciatu",
+   "variants": [
+    "ciatu meu"
+   ],
+   "category": "address-term",
+   "part_of_speech": "noun",
+   "meaning_it": "fiato; (fig.) tesoro, amore",
+   "meaning_en": "breath; (fig.) darling",
+   "register": "affectionate",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fratuzzu-beddu",
+   "term": "fratuzzu beddu",
+   "category": "address-term",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "fratello mio (affettuoso)",
+   "meaning_en": "my dear brother/friend",
+   "register": "affectionate",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "figghia-di-l-arma-mia",
+   "term": "figghia di l'arma mia",
+   "category": "address-term",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "cuore mio, angelo mio",
+   "meaning_en": "darling (lit. daughter of my soul)",
+   "register": "affectionate",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chi-si-dici",
+   "term": "chi si dici?",
+   "variants": [
+    "chi si rici?"
+   ],
+   "category": "greeting",
+   "part_of_speech": "phrase",
+   "meaning_it": "che si dice? come va?",
+   "meaning_en": "what's up?",
+   "register": "familiar",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "rici = Catanese d>r pronunciation."
+  },
+  {
+   "id": "a-prestu",
+   "term": "a prestu",
+   "category": "greeting",
+   "part_of_speech": "phrase",
+   "meaning_it": "a presto",
+   "meaning_en": "see you soon",
+   "register": "neutral",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "bon-arma",
+   "term": "bon'arma",
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "buon'anima (di un defunto)",
+   "meaning_en": "of blessed memory",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "avaia",
+   "term": "avaia",
+   "variants": [
+    "avà"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "ma dai, suvvia, ma che dici (con enfasi)",
+   "meaning_en": "come on!, get out of here!",
+   "register": "familiar",
+   "examples": [
+    {
+     "text": "Avaia, 'mbari, è 'na cosa ri nenti!",
+     "translation_it": "Ma dai, amico, è una cosa da niente!",
+     "translation_en": "Come on, mate, it's nothing!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-sololibri-parole",
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Attributed specifically to the Catania area by both sources."
+  },
+  {
+   "id": "mizzica",
+   "term": "mizzica",
+   "variants": [
+    "mìzzica"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "perbacco (versione educata di minchia)",
+   "meaning_en": "wow, gosh",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "minchia",
+   "term": "minchia",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di stupore, disappunto o ammirazione",
+   "meaning_en": "wow / damn",
+   "register": "vulgar",
+   "vulgarity": 4,
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-sololibri-parole",
+    "src-scn-wikipedia-en-profanity"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "See profanity.json for intensity and use."
+  },
+  {
+   "id": "vih",
+   "term": "vih",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di sorpresa o protesta",
+   "meaning_en": "oh!, hey!",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Very frequent in Martoglio (e.g. 'Vih, cc'haju a fari...')."
+  },
+  {
+   "id": "auh",
+   "term": "auh",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di risposta a un richiamo",
+   "meaning_en": "hey! (answering a call)",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: \"'Mpari!... - Auh!...\""
+  },
+  {
+   "id": "tale",
+   "term": "talè",
+   "variants": [
+    "talìa"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "guarda guarda!",
+   "meaning_en": "look!",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "accura",
+   "term": "accura!",
+   "variants": [
+    "sta' accura",
+    "stai accùra"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "attento!",
+   "meaning_en": "watch out!",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-cat-liveunict-camurria",
+    "src-scn-wikipedia-en"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "beddamatri",
+   "term": "beddamatri",
+   "variants": [
+    "bedda matri",
+    "beddamatruzza"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Madonna mia! (stupore, spavento)",
+   "meaning_en": "good heavens!",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: esclamazione comunissima (Catania); SoloLibri attributes 'bedda matri' to Palermo, but it is clearly attested in Catanese too."
+  },
+  {
+   "id": "sciarra-e-diavuluni",
+   "term": "sciarra e diavuluni",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di meraviglia",
+   "meaning_en": "good grief!",
+   "register": "popular",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: esclamazione di meraviglia comune nel popolo."
+  },
+  {
+   "id": "urfanazzi",
+   "term": "urfanazzi",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di meraviglia e dispetto per un contrattempo",
+   "meaning_en": "blast it!",
+   "register": "popular",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sciatira-e-matra",
+   "term": "sciàtira e matra",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "perbacco, capperi (ammirazione)",
+   "meaning_en": "goodness me!",
+   "register": "popular",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Dated (Martoglio era)."
+  },
+  {
+   "id": "mannaja",
+   "term": "mannaja",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "mannaggia",
+   "meaning_en": "dammit",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "malanova",
+   "term": "malanova",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "accidenti; (n.) cattiva notizia, malaugurio",
+   "meaning_en": "dammit; bad news",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sci",
+   "term": "scì",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di gioia",
+   "meaning_en": "yay!",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "va",
+   "term": "va",
+   "variants": [
+    "ora va"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "ecco, andiamo, su",
+   "meaning_en": "there!, come on",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: 'Ora va' = andiamo, sentiamo un po'."
+  },
+  {
+   "id": "chi-schifiu",
+   "term": "chi schifìu!",
+   "variants": [
+    "schifiu"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "che diamine, che porcheria",
+   "meaning_en": "what a mess!, what the heck",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "focu-ranni",
+   "term": "focu ranni!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "che spavento!",
+   "meaning_en": "what a fright!",
+   "register": "popular",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cusa",
+   "term": "cusà",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "chissà",
+   "meaning_en": "who knows",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ntzu",
+   "term": "ntzu",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "no (diniego, con schiocco di lingua e testa all'indietro)",
+   "meaning_en": "nope (tongue click + head tilt)",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "amuninni",
+   "term": "amuninni",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "andiamo! (anche rimprovero o incoraggiamento)",
+   "meaning_en": "let's go!, come on!",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "jemuninni",
+   "term": "jemunìnni",
+   "variants": [
+    "jemuninni"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "andiamocene",
+   "meaning_en": "let's go (away)",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Catanese form glossed by Martoglio."
+  },
+  {
+   "id": "ara",
+   "term": "arà",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "esclamazione di sorpresa, protesta o dispiacere",
+   "meaning_en": "hey! / oh no",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "bonu",
+   "term": "bonu!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "bene! basta così!",
+   "meaning_en": "good!, enough!",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ou",
+   "term": "ou",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "richiamo d'attenzione; protesta",
+   "meaning_en": "hey!",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "iri-peri-peri",
+   "term": "iri peri peri",
+   "variants": [
+    "jiri peri peri"
+   ],
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "andare in giro senza meta",
+   "meaning_en": "to wander about",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-liveunict-camurria",
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "LiveUnict ties this use to Catania; Martoglio: peri peri = abbandonata a sé stessa."
+  },
+  {
+   "id": "si-na-camurria",
+   "term": "sì 'na camurrìa",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "sei una seccatura",
+   "meaning_en": "you're a pain",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "stai-accura",
+   "term": "stai accura",
+   "variants": [
+    "sta' accura"
+   ],
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "stai attento",
+   "meaning_en": "be careful",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-liveunict-camurria",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "futtitinni",
+   "term": "futtitinni",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "fregatene, lascia perdere",
+   "meaning_en": "don't give a damn",
+   "register": "vulgar",
+   "vulgarity": 2,
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Imperative of futtirisinni; a whole life attitude per SoloLibri."
+  },
+  {
+   "id": "comu-e-ed-e",
+   "term": "comu è ed è",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "comunque sia",
+   "meaning_en": "whatever happens",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "zoccu-e-ed-e",
+   "term": "zoccu è ed è",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "qualunque cosa sia",
+   "meaning_en": "whatever it is",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fari-la-ncagna",
+   "term": "fari la 'ncagna",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "tenere il broncio",
+   "meaning_en": "to sulk",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "finiri-a-opira-di-pupi",
+   "term": "finìri a òpira di pupi",
+   "variants": [
+    "finiri ad opira di pupi"
+   ],
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "finire male, in tragedia",
+   "meaning_en": "to end in a bloodbath (like a puppet-theatre fight)",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tirari-la-curdedda",
+   "term": "tirari la curdedda",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "prendere in giro",
+   "meaning_en": "to pull someone's leg",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ci-levu-l-opira",
+   "term": "ci levu l'òpira",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "la smetto, mi ritiro",
+   "meaning_en": "I quit, I'm done",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mi-sentu-grossu",
+   "term": "mi sentu grossu",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "mi sento molto capace",
+   "meaning_en": "I feel up to it",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fari-sicilia",
+   "term": "fari Sicilia",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "marinare la scuola",
+   "meaning_en": "to skip school",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio gloss; it.wiki gives caliarisìlla for the same meaning."
+  },
+  {
+   "id": "caliarisilla",
+   "term": "caliarisìlla",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "marinare la scuola",
+   "meaning_en": "to skip school",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quagghiarisilla",
+   "term": "quagghiarisìlla",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "morire, tirare le cuoia",
+   "meaning_en": "to kick the bucket",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scapputtarisilla",
+   "term": "scapputtarisìlla",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "svignarsela da un impegno pesante",
+   "meaning_en": "to dodge a chore",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "squararisilla",
+   "term": "squararisìlla",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "immaginarsela, intuire",
+   "meaning_en": "to figure it out",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fuirisinni",
+   "term": "fuirisìnni",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "fare la fuitina (fuga d'amore)",
+   "meaning_en": "to elope",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scummigghiarisi",
+   "term": "scummigghiàrisi",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb",
+   "meaning_it": "(fig.) restare al verde",
+   "meaning_en": "(fig.) to be broke",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Literally to throw off the blanket."
+  },
+  {
+   "id": "fari-n-spitali",
+   "term": "fari 'n spitali",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "lamentarsi di continuo",
+   "meaning_en": "to moan constantly",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mala-cumparsa",
+   "term": "mala cumparsa",
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "brutta figura",
+   "meaning_en": "bad impression",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "essiri-mpagghia",
+   "term": "essiri 'mpagghia",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "avere soldi in tasca, stare tranquillo",
+   "meaning_en": "to be flush",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "unchia-comu-na-buffa",
+   "term": "unchia comu 'na buffa",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "gonfia come un rospo (di rabbia o superbia)",
+   "meaning_en": "puffed up like a toad",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-picca-a-picca",
+   "term": "a picca a picca",
+   "variants": [
+    "'n zuppìlu"
+   ],
+   "category": "colloquial-expression",
+   "part_of_speech": "adverbial phrase",
+   "meaning_it": "a poco a poco",
+   "meaning_en": "little by little",
+   "register": "neutral",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "n-zichitanza",
+   "term": "'n zichitànza",
+   "category": "colloquial-expression",
+   "part_of_speech": "adverbial phrase",
+   "meaning_it": "in continuazione, senza sosta",
+   "meaning_en": "non-stop",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-ntrasatta",
+   "term": "a 'ntrasàtta",
+   "category": "colloquial-expression",
+   "part_of_speech": "adverbial phrase",
+   "meaning_it": "all'improvviso",
+   "meaning_en": "all of a sudden",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-fora-forunu",
+   "term": "cu' fòra fòrunu",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "chiunque siano",
+   "meaning_en": "whoever they are",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nni-fazzu-passu",
+   "term": "nni fazzu passu",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "lo rifiuto, ci passo",
+   "meaning_en": "I'll pass",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "darla-ccu-la-cucchiaredda",
+   "term": "darla ccu la cucchiaredda",
+   "category": "colloquial-expression",
+   "part_of_speech": "verb phrase",
+   "meaning_it": "imboccare, rendere facile",
+   "meaning_en": "to spoon-feed",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vrazzu-di-mari",
+   "term": "vrazzu di mari",
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "persona capace, abile e lavoratrice",
+   "meaning_en": "a capable, hard-working person",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mulu-fausu",
+   "term": "mulu fausu",
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "furbacchione",
+   "meaning_en": "sly one",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chi-vordiri",
+   "term": "chi vordiri?",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "che vuol dire?",
+   "meaning_en": "what does it mean?",
+   "register": "colloquial",
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "t-annachi",
+   "term": "t'annachi?",
+   "category": "colloquial-expression",
+   "part_of_speech": "phrase",
+   "meaning_it": "ti muovi? (sollecito)",
+   "meaning_en": "are you moving or what?",
+   "register": "colloquial",
+   "geographical_area": "Sicily (also used in Catania)",
+   "sources": [
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "LiveUnict example of annacarisi."
+  },
+  {
+   "id": "pacchiuni",
+   "term": "pacchiuni",
+   "variants": [
+    "pacchione"
+   ],
+   "category": "word",
+   "part_of_speech": "noun/adjective",
+   "meaning_it": "(a Catania) persona molto attraente",
+   "meaning_en": "(in Catania) a very attractive person",
+   "register": "familiar",
+   "vulgarity": 2,
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-blogsicilia-pacchione",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "In Palermo it means a fat person (insult). Do not import the Palermo sense."
+  },
+  {
+   "id": "babb-i-l-ova",
+   "term": "babb'i l'ova",
+   "variants": [
+    "babbu ri l'ova"
+   ],
+   "category": "colloquial-expression",
+   "part_of_speech": "noun phrase",
+   "meaning_it": "credulone, sempliciotto",
+   "meaning_en": "gullible fool",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania and province",
+   "sources": [
+    "src-cat-balarm-babbu-ova"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sbindari",
+   "term": "sbindàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "prendere in giro, sbeffeggiare",
+   "meaning_en": "to mock, ridicule",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese ('to mock or ridicule someone'). Friendly mockery verb for banter."
+  },
+  {
+   "id": "ammuccuniari",
+   "term": "ammuccuniàri",
+   "variants": [
+    "vivirisi"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "bersela, credere a bufale e fake news",
+   "meaning_en": "to swallow hoaxes, fall for fake news",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese lists ammuccuniàri and vivirisi (to drink it in) for believing hoaxes. Sarcastic comment on a too-good-to-be-true claim."
+  },
+  {
+   "id": "scoppula-cuzzata",
+   "term": "scòppula",
+   "variants": [
+    "cuzzàta",
+    "tumbulàta",
+    "pammàta",
+    "jangàta",
+    "papàgnu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "schiaffo (sulla nuca); scappellotto",
+   "meaning_en": "slap (on the nape of the neck)",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese lists a family of slap words: scòppula (just above the nape), cuzzàta (back of the head), tumbulàta/tumbulùni (hard slap), pammàta (palm), jangàta (at molar height), papàgnu (blow to the head from above). Jocular threat register (cf. T'abbuttu!): never a real threat."
+  },
+  {
+   "id": "sminnari",
+   "term": "sminnàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sfigurare, lasciare una cicatrice permanente a qualcuno",
+   "meaning_en": "to disfigure someone, leave a lasting scar",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese. Do not confuse with Palermitano sminnare/sminnittiare = spoil something that was fine (Balarm, see profile minchia). Kept as a Catanese-specific, rather violent verb; use as exaggerated threat at objects only."
+  },
+  {
+   "id": "mpagghiazzari",
+   "term": "'mpagghiazzàri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rimproverare duramente, strapazzare",
+   "meaning_en": "to scold harshly",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "it.wikipedia Dialetto catanese. Good for exaggerated telling-off of a colleague or tool in jest."
+  }
+ ]
+}

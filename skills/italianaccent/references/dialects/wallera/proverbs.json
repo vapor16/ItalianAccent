@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../../../schemas/proverbs.schema.json",
   "dialect": "wallera",
   "entries": [
     {

@@ -1,6 +1,6 @@
 # Sources — Belin (Genoa and its immediate surroundings (urban Genoese, Liguria))
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -23,4 +23,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-lij-wikt-lij-categories` | Category: Ligurian lemmas / verbs / interjections / nouns (English Wiktionary) | Wiktionary | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/Category:Ligurian_verbs> |
 | `src-lij-zeneize-grafia` | Grafia ofiçiâ (zeneize.net, Académia Ligùstica do Brénno) | Académia Ligùstica do Brénno | institutional | medium | Not stated (facts-only-citation) | <https://www.zeneize.net/grafia/> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

@@ -1,0 +1,949 @@
+{
+  "dialect": "boiade",
+  "entries": [
+    {
+      "id": "botta-botta-fi-o-secco",
+      "type": "proverb",
+      "original": "Botta botta, fi'o secco!",
+      "literal_it": "Colpo su colpo, filo secco.",
+      "meaning_it": "Colpo su colpo, senza che nessuno prevalga; azione precisa e implacabile.",
+      "meaning_en": "Blow for blow; relentless exchange.",
+      "usage_context": "tit-for-tat, relentless iteration",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garbulla's list gives a similar sense for 'botta botta (fio secco)'."
+    },
+    {
+      "id": "chi-more-puzza-e-chi-vive-sgalluzza",
+      "type": "proverb",
+      "original": "Chi more puzza e chi vive sgalluzza.",
+      "variants": [
+        "Chi more puzza e chi vive sgalluzza"
+      ],
+      "literal_it": "Chi muore puzza e chi vive fa il galletto.",
+      "meaning_it": "Chi se ne va è presto dimenticato; chi resta pensa a godersi la vita.",
+      "meaning_en": "The dead stink and the living strut.",
+      "usage_context": "moving on after a loss, letting go of a dead project",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "chi-lavora-e-si-strapazza-malidetta-la-su-razza",
+      "type": "proverb",
+      "original": "Chi lavora e si strapazza... malidetta la su' razza.",
+      "literal_it": "Chi lavora e si strapazza, maledetta la sua razza.",
+      "meaning_it": "Chi si ammazza di lavoro ne ricava poco.",
+      "meaning_en": "Those who work themselves ragged get little for it.",
+      "usage_context": "overwork, burnout",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "porco-pulito-un-fu-mai-grasso",
+      "type": "proverb",
+      "original": "Porco pulito 'un fu mai grasso.",
+      "literal_it": "Porco pulito non fu mai grasso.",
+      "meaning_it": "Chi è troppo schizzinoso non prospera.",
+      "meaning_en": "A clean pig was never fat.",
+      "usage_context": "over-fussy people, perfectionism",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "minestra-riscardata-n-fu-ma-bona",
+      "type": "proverb",
+      "original": "Minestra riscardata 'n fu ma' bona.",
+      "literal_it": "Minestra riscaldata non fu mai buona.",
+      "meaning_it": "Le cose riciclate non valgono quelle fresche.",
+      "meaning_en": "Reheated soup was never good.",
+      "usage_context": "rewriting old code, recycled ideas",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "chi-un-c-ha-qua-ini-un-abbi-voglie",
+      "type": "proverb",
+      "original": "Chi 'un c'hà qua'ìni 'un abbi voglie.",
+      "literal_it": "Chi non ha soldi non abbia voglie.",
+      "meaning_it": "Senza soldi bisogna ridurre le pretese.",
+      "meaning_en": "Who has no money should have no wants.",
+      "usage_context": "budget limits",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "fava-ritta-n-vor-consigli",
+      "type": "proverb",
+      "original": "Fava ritta... 'n vor consigli!",
+      "literal_it": "Fava ritta non vuole consigli.",
+      "meaning_it": "Chi è troppo eccitato o ostinato non ascolta consigli.",
+      "meaning_en": "An aroused man heeds no advice.",
+      "usage_context": "stubborn rush, ignoring advice",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "ogni-testa-dura-trova-r-su-scoglio",
+      "type": "proverb",
+      "original": "Ogni testa dura trova 'r su' scoglio.",
+      "literal_it": "Ogni testa dura trova il suo scoglio.",
+      "meaning_it": "Chi è testardo prima o poi incontra il suo limite.",
+      "meaning_en": "Every hard head meets its rock.",
+      "usage_context": "stubborn colleague, headstrong decisions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "ogni-bella-scarpa-doventa-na-ciabatta",
+      "type": "proverb",
+      "original": "Ogni bella scarpa doventa 'na ciabatta.",
+      "literal_it": "Ogni bella scarpa diventa una ciabatta.",
+      "meaning_it": "Tutto ciò che è bello col tempo si consuma.",
+      "meaning_en": "Every fine shoe ends up a slipper.",
+      "usage_context": "legacy code, aging things",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "megli-esse-nvidiati-he-compatiti",
+      "type": "proverb",
+      "original": "Megli' esse 'nvidiati 'he compatiti.",
+      "literal_it": "Meglio essere invidiati che compatiti.",
+      "meaning_it": "Meglio suscitare invidia che pietà.",
+      "meaning_en": "Better envied than pitied.",
+      "usage_context": "pride after a success",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "le-novita-di-questo-porto-o-piove-o-tira-vento-o-s-ona-a-mor",
+      "type": "proverb",
+      "original": "Le novità di questo porto? O piove, o tira vento, o s'ona a morto.",
+      "literal_it": "Le novità di questo porto? O piove, o tira vento, o suonano a morto.",
+      "meaning_it": "Qui non cambia mai niente: pioggia, vento o campane a morto.",
+      "meaning_en": "Port news? Rain, wind, or the death knell.",
+      "usage_context": "nothing new, boring standup",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "se-vo-fa-come-ti-pare-a-livorno-devi-andare",
+      "type": "proverb",
+      "original": "Se vo' fa' come ti pare... a Livorno devi andare.",
+      "literal_it": "Se vuoi fare come ti pare, a Livorno devi andare.",
+      "meaning_it": "Livorno come luogo in cui si vive liberi, senza troppi vincoli.",
+      "meaning_en": "If you want to do as you please, go to Livorno.",
+      "usage_context": "local pride, freedom",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "e-meglio-ave-paura-he-toccanne",
+      "type": "proverb",
+      "original": "E' meglio ave' paura 'he toccanne.",
+      "literal_it": "È meglio avere paura che buscarne.",
+      "meaning_it": "La prudenza evita guai peggiori.",
+      "meaning_en": "Better to be afraid than to get beaten.",
+      "usage_context": "risky deploy, caution",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The verb toccanne (to get a beating) is documented in Catarsi (meglio avé paura 'e toccanne); the proverb sense is ours."
+    },
+    {
+      "id": "i-onti-tornano-i-vaini-no",
+      "type": "proverb",
+      "original": "I 'onti tornano... i vaini no.",
+      "literal_it": "I conti tornano, i soldi no.",
+      "meaning_it": "I conti quadrano ma i soldi non ci sono.",
+      "meaning_en": "The sums add up, the money doesn't.",
+      "usage_context": "budgets, failed estimates",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "cinque-e-cinque-pane-e-torta",
+      "type": "proverb",
+      "original": "Cinque e cinque... pane e torta.",
+      "literal_it": "Cinque e cinque: pane e torta.",
+      "meaning_it": "Il classico spuntino povero: cinque centesimi di pane e cinque di torta.",
+      "meaning_en": "Five and five: bread and chickpea flatbread.",
+      "usage_context": "simple frugal solution",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The price origin is explained in Catarsi's entry cinqueccìnque."
+    },
+    {
+      "id": "fa-pianino-he-r-bimbo-dorme",
+      "type": "proverb",
+      "original": "Fa' pianino 'he 'r bimbo dorme.",
+      "literal_it": "Fai piano che il bambino dorme.",
+      "meaning_it": "Fai attenzione e vai piano.",
+      "meaning_en": "Go easy, the baby is sleeping.",
+      "usage_context": "careful actions, quiet deploys",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Pianino is diminutive of piano (slow, quiet)."
+    },
+    {
+      "id": "l-amici-son-come-fagioli-ti-parlan-dietro",
+      "type": "proverb",
+      "original": "'l' amici son come ' fagioli: ti parlan dietro.",
+      "literal_it": "Gli amici sono come i fagioli: ti parlano dietro.",
+      "meaning_it": "Gli amici spesso parlano alle spalle (gioco di parole con i fagioli che danno flatulenza).",
+      "meaning_en": "Friends are like beans: they talk behind your back.",
+      "usage_context": "gossip, backbiting",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss. A pun on the effect of beans."
+    },
+    {
+      "id": "o-di-paglia-o-di-fieno-purche-r-corpo-sia-pieno",
+      "type": "proverb",
+      "original": "O di paglia o di fieno, purché 'r corpo sia pieno.",
+      "literal_it": "O di paglia o di fieno, purché il corpo sia pieno.",
+      "meaning_it": "Basta mangiare, il cibo non importa.",
+      "meaning_en": "Straw or hay, as long as the belly is full.",
+      "usage_context": "pragmatism, no frills",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "senza-lilleri-e-un-si-lallera",
+      "type": "proverb",
+      "original": "Senza lìlleri... e 'un si làllera.",
+      "literal_it": "Senza denari non si lallera.",
+      "meaning_it": "Senza soldi non ci si diverte.",
+      "meaning_en": "No money, no fun.",
+      "usage_context": "costs, funding",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Lilleri/lallera are rhymed words for money and for fun; sense is ours."
+    },
+    {
+      "id": "tra-scurregge-e-ruti-he-dio-t-aiuti",
+      "type": "proverb",
+      "original": "Tra scurregge e ruti... 'he Dio t'aiuti.",
+      "literal_it": "Tra scorregge e rutti, che Dio ti aiuti.",
+      "meaning_it": "Detto scherzoso dopo un rutto o una scorreggia.",
+      "meaning_en": "Between farts and burps, God help you.",
+      "usage_context": "after a faux pas, humour",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "trulli-trulli-hi-li-fa-se-li-trastulli",
+      "type": "proverb",
+      "original": "Trulli trulli... 'hi li fa se li trastulli.",
+      "literal_it": "Trulli trulli, chi li fa se li trastulla.",
+      "meaning_it": "Chi fa una cosa se la gode da sé (rima giocosa).",
+      "meaning_en": "Whoever makes them plays with them.",
+      "usage_context": "self-inflicted trouble, kidding",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "vento-di-ponente-acqua-fino-a-oglioni-e-pesci-niente",
+      "type": "proverb",
+      "original": "Vento di ponente: acqua fino a' 'oglioni e pesci niente.",
+      "literal_it": "Vento di ponente: acqua fino ai coglioni e pesci niente.",
+      "meaning_it": "Con il ponente si bagna tutto e non si pesca.",
+      "meaning_en": "West wind: water to the waist and no fish.",
+      "usage_context": "bad weather for fishing, bad luck",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "bella-osa-arzassi-presto-fa-un-po-d-acqua-e-torna-a-letto",
+      "type": "proverb",
+      "original": "Bella 'osa arzassi presto, fà un po d'acqua e tornà' a letto.",
+      "literal_it": "Bella cosa alzarsi presto, fare acqua e tornare a letto.",
+      "meaning_it": "Il piacere di alzarsi per un attimo e poi tornare a letto.",
+      "meaning_en": "Lovely thing: get up early, pee, go back to bed.",
+      "usage_context": "lazy morning",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "quaini-e-corna-chi-ce-l-ha-son-sua",
+      "type": "saying",
+      "original": "Quaini e corna... chi ce l'ha son sua.",
+      "literal_it": "Soldi e corna: chi ce li ha son suoi.",
+      "meaning_it": "Soldi e corna restano a chi li ha.",
+      "meaning_en": "Money and horns belong to whoever has them.",
+      "usage_context": "ironic acceptance",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "se-r-mondo-fosse-n-culo-livorno-sarebbe-r-bu-o",
+      "type": "saying",
+      "original": "Se 'r mondo fosse 'n culo, Livorno sarebbe 'r bu'o.",
+      "literal_it": "Se il mondo fosse un culo, Livorno sarebbe il buco.",
+      "meaning_it": "Orgoglio campanilistico scherzoso.",
+      "meaning_en": "If the world were an arse, Livorno would be the hole.",
+      "usage_context": "local banter",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss. Place-pride joke, not a claim about people."
+    },
+    {
+      "id": "si-sta-meglio-ui-che-sotto-r-filobusse",
+      "type": "saying",
+      "original": "Si sta meglio 'uì che sotto 'r filobusse.",
+      "literal_it": "Si sta meglio qui che sotto il filobus.",
+      "meaning_it": "Meglio qui che in una situazione peggiore.",
+      "meaning_en": "Better here than under the bus.",
+      "usage_context": "dark humour, comfort",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Meaning inferred by us from the wording: the source lists the saying without a gloss."
+    },
+    {
+      "id": "sei-duro-ome-le-pine-verdi",
+      "type": "saying",
+      "original": "Sei duro 'ome le pine verdi.",
+      "variants": [
+        "Se' più duro te delle pine verdi"
+      ],
+      "literal_it": "Sei duro come le pigne verdi.",
+      "meaning_it": "Hai la testa dura, non cedi.",
+      "meaning_en": "You're as hard as green pine cones.",
+      "usage_context": "stubborn person",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Appears as a short dictionary example in Catarsi and, in a longer form, on Livorno Magazine."
+    },
+    {
+      "id": "avecci-r-buo-strappato",
+      "type": "idiom",
+      "original": "avécci 'r bùo strappato",
+      "literal_it": "averci il buco strappato",
+      "meaning_it": "Avere molta fortuna.",
+      "meaning_en": "To be very lucky.",
+      "usage_context": "lucky escape, good break",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avecci-r-culo-sudicio",
+      "type": "idiom",
+      "original": "avécci 'r culo sudicio",
+      "literal_it": "averci il culo sudicio",
+      "meaning_it": "Avere la coscienza sporca.",
+      "meaning_en": "To have a guilty conscience.",
+      "usage_context": "guilt, suspicion",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scopri-r-buo-alla-onca",
+      "type": "idiom",
+      "original": "scoprì 'r bùo alla 'onca",
+      "literal_it": "scoprire il buco della conca",
+      "meaning_it": "Scoprire l'acqua calda: dire l'ovvio.",
+      "meaning_en": "To state the obvious.",
+      "usage_context": "obvious findings",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "leva-r-fumo-alle-stiacciate",
+      "type": "idiom",
+      "original": "levà 'r fumo alle stiacciate",
+      "literal_it": "levare il fumo alle schiacciate",
+      "meaning_it": "Essere svegli e rapidi.",
+      "meaning_en": "To be very quick-witted.",
+      "usage_context": "fast learner, quick fix",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-r-vaporino",
+      "type": "idiom",
+      "original": "fare 'r vaporino",
+      "literal_it": "fare il vaporino",
+      "meaning_it": "Dare buca a un appuntamento.",
+      "meaning_en": "To stand someone up.",
+      "usage_context": "missed meeting",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-r-cappottino",
+      "type": "idiom",
+      "original": "fare 'r cappottino",
+      "literal_it": "fare il cappottino",
+      "meaning_it": "Parlare male di qualcuno alle spalle.",
+      "meaning_en": "To badmouth someone.",
+      "usage_context": "gossip",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-brucia",
+      "type": "idiom",
+      "original": "fare brucia",
+      "literal_it": "fare brucia",
+      "meaning_it": "Marinare la scuola (a Firenze: fare forca).",
+      "meaning_en": "To skip school.",
+      "usage_context": "skipping a meeting",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mettisi-a-pane",
+      "type": "idiom",
+      "original": "mèttisi a pane",
+      "literal_it": "mettersi a pane",
+      "meaning_it": "Fidanzarsi stabilmente.",
+      "meaning_en": "To get engaged.",
+      "usage_context": "commitment",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "esse-der-gatto",
+      "type": "idiom",
+      "original": "èsse der gatto",
+      "literal_it": "essere del gatto",
+      "meaning_it": "Essere in trappola, fregati.",
+      "meaning_en": "To be trapped, done for.",
+      "usage_context": "caught out",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bua-dell-orate",
+      "type": "idiom",
+      "original": "bùa dell'orate",
+      "literal_it": "buca delle orate",
+      "meaning_it": "Luogo o situazione molto fortunata.",
+      "meaning_en": "A lucky spot or situation.",
+      "usage_context": "good luck",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-a-zighene",
+      "type": "idiom",
+      "original": "fare a zìghene",
+      "literal_it": "fare a zighene",
+      "meaning_it": "Dividere a metà una spesa o una vincita.",
+      "meaning_en": "To go halves.",
+      "usage_context": "splitting costs",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-franella",
+      "type": "idiom",
+      "original": "fare franèlla",
+      "literal_it": "fare flanella",
+      "meaning_it": "Pomiciare.",
+      "meaning_en": "To make out.",
+      "usage_context": "romance banter",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "battere-na-ghignata",
+      "type": "idiom",
+      "original": "battere 'na ghignata",
+      "literal_it": "battere una ghignata",
+      "meaning_it": "Chiedere di fidanzarsi e ricevere un rifiuto.",
+      "meaning_en": "To be turned down.",
+      "usage_context": "rejection",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pigliare-gambone",
+      "type": "idiom",
+      "original": "pigliare gambone",
+      "literal_it": "pigliare gambone",
+      "meaning_it": "Prendere troppa confidenza.",
+      "meaning_en": "To take liberties.",
+      "usage_context": "presumption",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mura-a-secco",
+      "type": "idiom",
+      "original": "murà a secco",
+      "literal_it": "murare a secco",
+      "meaning_it": "Mangiare senza bere.",
+      "meaning_en": "To eat without drinking.",
+      "usage_context": "thirst, asking for a drink",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "be-r-gelato",
+      "type": "idiom",
+      "original": "bé 'r gelato",
+      "literal_it": "bere il gelato",
+      "meaning_it": "Bere il gelato: scherzo sul gelato mangiato come liquido.",
+      "meaning_en": "To 'drink' ice cream (a local joke).",
+      "usage_context": "local humour",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dare-na-cenciata",
+      "type": "idiom",
+      "original": "dare 'na cenciàta",
+      "literal_it": "dare una cenciata (straccio bagnato)",
+      "meaning_it": "Pulire con lo straccio; inflitta una pesante sconfitta.",
+      "meaning_en": "To mop; to thrash someone.",
+      "usage_context": "big win, defeat",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ave-le-ruzze",
+      "type": "idiom",
+      "original": "avé le rùzze",
+      "literal_it": "avere le ruzze",
+      "meaning_it": "Avere voglia di scherzare.",
+      "meaning_en": "To be in a joking mood.",
+      "usage_context": "playful mood",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-scompari",
+      "type": "idiom",
+      "original": "fare scomparì",
+      "literal_it": "far scomparire",
+      "meaning_it": "Far vergognare, far fare brutta figura.",
+      "meaning_en": "To embarrass someone.",
+      "usage_context": "embarrassment",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porta-per-bocca",
+      "type": "idiom",
+      "original": "portà per bocca",
+      "literal_it": "portare per bocca",
+      "meaning_it": "Parlare male di qualcuno.",
+      "meaning_en": "To speak ill of someone.",
+      "usage_context": "gossip",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sentissi-strugge",
+      "type": "idiom",
+      "original": "sentissi strùgge",
+      "literal_it": "sentirsi struggere",
+      "meaning_it": "Struggersi dall'attesa.",
+      "meaning_en": "To be dying with impatience.",
+      "usage_context": "waiting for results",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-comparita",
+      "type": "idiom",
+      "original": "fare comparìta",
+      "literal_it": "fare comparita",
+      "meaning_it": "Fare bella figura, presentarsi al meglio.",
+      "meaning_en": "To look good.",
+      "usage_context": "presentation, demo",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bimbo-da-puppa",
+      "type": "idiom",
+      "original": "bìmbo da pùppa",
+      "literal_it": "bimbo da poppa",
+      "meaning_it": "Ironicamente, un gran numero di persone.",
+      "meaning_en": "Ironically a huge crowd.",
+      "usage_context": "crowded places",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "beviteli-di-ponci",
+      "type": "idiom",
+      "original": "bèviteli di pónci",
+      "literal_it": "bevili di punch",
+      "meaning_it": "Invito a spendere in divertimento (beviteli di ponci).",
+      "meaning_en": "Spend it on fun.",
+      "usage_context": "spending money",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arriva-dopo-la-porvere",
+      "type": "idiom",
+      "original": "arrivà dopo la pòrvere",
+      "literal_it": "arrivare dopo la polvere",
+      "meaning_it": "Arrivare ultimi o in ritardo.",
+      "meaning_en": "To arrive last or late.",
+      "usage_context": "being late",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "esse-ner-bottino",
+      "type": "idiom",
+      "original": "èsse ner bottino",
+      "variants": [
+        "Vai, siamo ner bottino",
+        "se' propio 'n bottino"
+      ],
+      "literal_it": "essere nella fogna",
+      "meaning_it": "essere nei guai, in una situazione senza via d'uscita",
+      "meaning_en": "to be in the soup, in a hopeless spot",
+      "usage_context": "frustrazione per una situazione senza uscita",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: bottino = sewer; 'Vai, siamo ner bottino' = we're in trouble. Friendly mockery of a glutton: 'se' propio 'n bottino' (a bottomless pit)."
+    }
+  ]
+}

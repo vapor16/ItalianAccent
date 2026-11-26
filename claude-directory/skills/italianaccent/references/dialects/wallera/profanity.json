@@ -1,0 +1,1630 @@
+{
+  "dialect": "wallera",
+  "entries": [
+    {
+      "id": "fesso",
+      "original": "fesso",
+      "category": "insult",
+      "meaning_it": "sciocco, gonzo",
+      "meaning_en": "fool, sucker",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Songo stato fesso, aggio scurdato 'o commit.",
+          "translation_en": "I was a fool, I forgot the commit.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scemo",
+      "original": "scemo",
+      "category": "insult",
+      "meaning_it": "sciocco",
+      "meaning_en": "idiot",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Uè, scemo, 'o server sta spento!",
+          "translation_en": "Hey, idiot, the server is off!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cafone",
+      "original": "cafone",
+      "category": "insult",
+      "meaning_it": "zotico, villano",
+      "meaning_en": "boor, uncouth person",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che cafone, ha scassato tutto 'o repository!",
+          "translation_en": "What a boor, he broke the whole repository!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-dambra-1873"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mannaggia",
+      "original": "mannaggia!",
+      "variants": [
+        "mannaggia bubbà",
+        "mannaggia 'a miseria"
+      ],
+      "category": "exclamation",
+      "meaning_it": "accidenti, maledizione",
+      "meaning_en": "damn! blast!",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mannaggia, 'o build è ghiuto 'n errore!",
+          "translation_en": "Damn, the build failed!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nzallanuto",
+      "original": "'nzallanuto",
+      "category": "insult",
+      "meaning_it": "rimbambito, stordito",
+      "meaning_en": "dazed, doddering",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si' proprio 'nzallanuto stammatina!",
+          "translation_en": "You're really dazed this morning!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-dambra-1873",
+        "src-nap-visitnaples-glossary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mappina",
+      "original": "mappina",
+      "category": "insult",
+      "meaning_it": "straccio; persona ridotta male o dappoco",
+      "meaning_en": "rag; a wreck or a good-for-nothing",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Stammatina song' na mappina, nun m'aggio durmuto.",
+          "translation_en": "This morning I'm a wreck, I didn't sleep.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in Andreoli as a headword; figurative use as in profile palette."
+    },
+    {
+      "id": "fetente",
+      "original": "fetente",
+      "category": "insult",
+      "meaning_it": "puzzolente; persona spregevole",
+      "meaning_en": "stinking; a rotten person",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo è nu fetente, ha ncolpato a me.",
+          "translation_en": "He's a rotter, he blamed me.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiaveca",
+      "original": "chiaveca",
+      "variants": [
+        "fà na chiaveca a uno"
+      ],
+      "category": "insult",
+      "meaning_it": "fogna; persona o cosa pessima",
+      "meaning_en": "sewer; a rotten person or thing",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chella è na chiaveca 'e libreria.",
+          "translation_en": "That library is a sewer.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire",
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Page also records 'fa' na chiaveca a uno' = to humiliate someone harshly."
+    },
+    {
+      "id": "curnuto",
+      "original": "curnuto",
+      "category": "insult",
+      "meaning_it": "cornuto; anche marito tradito",
+      "meaning_en": "cuckold; also generic insult",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Curnuto e mazziato: m'hanno pure dato 'a colpa.",
+          "translation_en": "Cuckolded and beaten: they blamed me too.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbuffa-uallera",
+      "original": "abbuffà 'a uallera",
+      "variants": [
+        "Me staje abbuffanno 'a guallera",
+        "M'hê fatto 'a uallera a pezzaiola"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "gonfiare l'ernia",
+      "meaning_it": "annoiare o scocciare a morte",
+      "meaning_en": "to bore/annoy to death",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "boredom",
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Me staje abbuffanno 'a uallera cu stu meeting!",
+          "translation_en": "You're boring me to death with this meeting!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-dambra-1873",
+        "src-nap-andreoli-1887",
+        "src-nap-wikiquote-modididire",
+        "src-nap-scattidigusto-uallera"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Identifier idiom of the mode."
+    },
+    {
+      "id": "strunzo",
+      "original": "strunzo",
+      "variants": [
+        "strunzone"
+      ],
+      "category": "insult",
+      "meaning_it": "stronzo; cretino",
+      "meaning_en": "asshole, jerk",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "among close friends",
+        "venting at a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si' proprio nu strunzo, 'o saje?",
+          "translation_en": "You're a real jerk, you know?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Verb strunzià is source-checked in lexicon; the noun strunzo is documented in the profile palette only."
+    },
+    {
+      "id": "strunzia",
+      "original": "strunzià",
+      "category": "vulgar-metaphor",
+      "meaning_it": "prendere in giro, fregare",
+      "meaning_en": "to mock, to fool",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Nun me strunzià, ca so' stanco.",
+          "translation_en": "Don't mess with me, I'm tired.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cuglione",
+      "original": "cuglione",
+      "variants": [
+        "cugliune"
+      ],
+      "category": "insult",
+      "meaning_it": "coglione; sciocco",
+      "meaning_en": "dickhead, idiot",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si' proprio nu cuglione, hê cancellato 'o branch!",
+          "translation_en": "You're a dickhead, you deleted the branch!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cacasotto",
+      "original": "cacasotto",
+      "category": "insult",
+      "meaning_it": "fifone",
+      "meaning_en": "scaredy-cat",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Nun fa 'o cacasotto, fa' 'o deploy!",
+          "translation_en": "Don't be a scaredy-cat, do the deploy!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "e-merda",
+      "original": "'e merda",
+      "category": "vulgar-idiom",
+      "meaning_it": "di merda; pessimo",
+      "meaning_en": "shitty",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chesta è na jurnata 'e merda.",
+          "translation_en": "This is a shitty day.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "cazzimma",
+      "original": "cazzimma",
+      "category": "vulgar-metaphor",
+      "meaning_it": "cinismo opportunista, cattiveria gratuita",
+      "meaning_en": "cynical opportunism, gratuitous malice",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "admiration",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo tene na cazzimma ca nun è bbona.",
+          "translation_en": "He has a cynical streak that's no good.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wiktionary",
+        "src-nap-visitnaples-glossary",
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-faccia-d-o-cazzo",
+      "original": "a faccia d''o cazzo!",
+      "variants": [
+        "'a faccia d''o cazzo"
+      ],
+      "category": "exclamation",
+      "meaning_it": "esclamazione di forte sorpresa",
+      "meaning_en": "exclamation of great surprise",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "A faccia d''o cazzo, 'o test è passato!",
+          "translation_en": "Holy hell, the test passed!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "coppole-e-cazzo",
+      "original": "coppole 'e cazzo",
+      "category": "dismissal",
+      "meaning_it": "niente",
+      "meaning_en": "nothing at all",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "defiance"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pe' stu bug? Coppole 'e cazzo!",
+          "translation_en": "For this bug? Nothing at all!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scassacazzo",
+      "original": "scassacazzo",
+      "category": "insult",
+      "meaning_it": "scocciatore",
+      "meaning_en": "pain in the ass",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo collega è n'ommo scassacazzo.",
+          "translation_en": "That colleague is a pain in the ass.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Documented in the profile palette; not re-found on the pages read."
+    },
+    {
+      "id": "o-frate-d-o-cazzo",
+      "original": "'o frate d''o cazzo",
+      "category": "insult",
+      "meaning_it": "persona lentissima a capire",
+      "meaning_en": "a very slow-witted person",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo è 'o frate d''o cazzo, nun capisce niente.",
+          "translation_en": "He's a dimwit, he understands nothing.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-fa-nculo",
+      "original": "va' fa' 'nculo",
+      "variants": [
+        "vaff'nculo"
+      ],
+      "category": "imprecation",
+      "meaning_it": "vattene al diavolo",
+      "meaning_en": "fuck off",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Va' fa' 'nculo, 'o bug è risolto!",
+          "translation_en": "Fuck off, the bug is fixed!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "scarda-e-cesso",
+      "original": "scarda 'e cesso",
+      "category": "insult",
+      "meaning_it": "scarto, persona spregevole",
+      "meaning_en": "scum, good-for-nothing",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo è na scarda 'e cesso.",
+          "translation_en": "He's scum.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "mettere-o-ppepe",
+      "original": "mettere 'o ppepe 'nculo 'a zoccola",
+      "category": "vulgar-idiom",
+      "meaning_it": "istigare qualcuno a litigare",
+      "meaning_en": "to egg someone on to a fight",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Nun mettere 'o ppepe 'nculo 'a zoccola.",
+          "translation_en": "Don't stir up a fight.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accirete",
+      "original": "accirete!",
+      "category": "imprecation",
+      "meaning_it": "crepa, vattene",
+      "meaning_en": "drop dead!",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Listed as an order to go away."
+    },
+    {
+      "id": "mannaggia-anema-toja",
+      "original": "mannaggia l'anema toja",
+      "category": "imprecation",
+      "meaning_it": "maledetta la tua anima",
+      "meaning_en": "damn your soul",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-andreoli-1887"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Listed in Andreoli."
+    },
+    {
+      "id": "mannaggia-a-marina",
+      "original": "mannaggia 'a Marina",
+      "category": "imprecation",
+      "meaning_it": "accidenti, per uno smacco",
+      "meaning_en": "damn the navy: exasperation",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "among friends, venting at a bug"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Mannaggia 'a Marina, 'o disco è chino!",
+          "translation_en": "Damn it, the disk is full!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sfaccimma",
+      "original": "sfaccimma",
+      "variants": [
+        "ommo 'e sfaccimma"
+      ],
+      "category": "insult",
+      "meaning_it": "persona spregevole; gran fastidio",
+      "meaning_en": "scum; a great annoyance",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che sfaccimma vaje truvanno?",
+          "translation_en": "What the hell are you looking for?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "In the profile palette; not found in the portion of Modi di dire read in this pass."
+    },
+    {
+      "id": "figlio-e-zoccola",
+      "original": "figlio 'e zoccola",
+      "variants": [
+        "figli'e zoccola"
+      ],
+      "category": "insult",
+      "meaning_it": "persona furba e senza scrupoli (lett. figlio della topa)",
+      "meaning_en": "a shrewd, unscrupulous person (lit. son of a rat)",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "admiration"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Chillo figlio 'e zoccola ha cagnato 'a password.",
+          "translation_en": "That son of a bitch changed the password.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Page glosses the literal reference to the rat; the common reading is the vulgar one."
+    },
+    {
+      "id": "pucchiacca",
+      "original": "pucchiacca",
+      "category": "anatomical",
+      "meaning_it": "vulva (termine volgare)",
+      "meaning_en": "vulva (vulgar term)",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-itwiki-misc"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "mannaggia-muorte-tuoje",
+      "original": "mannaggia 'e muorte tuoje",
+      "variants": [
+        "chi t'è muorto"
+      ],
+      "category": "imprecation",
+      "meaning_it": "maledizione sui morti altrui",
+      "meaning_en": "curse on someone's dead",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Gravest insult type; hostile only, never at the user."
+    },
+    {
+      "id": "mannaggia-a-maronna",
+      "original": "mannaggia 'a Maronna",
+      "category": "blasphemy",
+      "meaning_it": "bestemmia contro la Madonna",
+      "meaning_en": "blasphemy against the Madonna",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": true,
+      "generation_allowed": false,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Not attested in the sources read and not verified: never generated, not in the profile palette. Kept as data only until a source is found."
+    },
+    {
+      "id": "ricchione",
+      "original": "ricchione",
+      "category": "insult",
+      "meaning_it": "insulto omofobo",
+      "meaning_en": "homophobic slur",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "clearly requested venting about a third party"
+      ],
+      "inappropriate_contexts": [
+        "always"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Documented for completeness; generation not allowed (slur against a protected group)."
+    },
+    {
+      "id": "va-a-fa-quatt-bucchin",
+      "original": "Va' a fa' quatt bucchin!",
+      "variants": [
+        "Va' a fa' 'e bucchin",
+        "Va' a fa' 'e bucchin, strunz!"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vai a fare quattro bocchini (pompini)",
+      "figurative_meaning": "mandare al diavolo, in modo volgarissimo",
+      "meaning_it": "vai a quel paese (formula volgarissima di congedo)",
+      "meaning_en": "get lost (very crude send-off)",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "dismissal",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "telling off a person who is wasting your time",
+        "explosive banter among very close friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Va' a fa' quatt bucchin, ca 'o commit l'aggio fatto io primma 'e te!",
+          "translation_en": "Get lost, I committed before you did!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Not an invitation: the figurative sense is a rude dismissal. Slengo also lists the Italianised 'andare a fare i bucchini' (calque, not dialect) and 'va' a fa' é bucchin, strunz!' (Slengo example after a traffic accident). Single community source; keep to one use per answer."
+    },
+    {
+      "id": "famme-nu-bucchin",
+      "original": "Famm' nu bucchin!",
+      "variants": [
+        "Famm nu bucchin",
+        "Mi devi solo fare un bucchino (Italianised, Slengo)"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "fammi un bocchino",
+      "figurative_meaning": "affermazione di superiorità: ora devi riconoscermelo",
+      "meaning_it": "guarda e inchinati: ho vinto/ho fatto meglio di te (vanteria provocatoria)",
+      "meaning_en": "bow down: I beat you (boastful provocation)",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "boasting",
+          "provocation",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "after winning a game against friends (e.g. a PES match)",
+        "gloating over a finished task in banter"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Aggio chiuso 'o ticket primma 'e tutte: famm' nu bucchin!",
+          "translation_en": "I closed the ticket before anyone: bow down!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family",
+        "src-glosbe-nap-bocchino",
+        "src-wikt-nap-bucchino"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Literal sense is a request for fellatio, but Slengo documents the figurative use as a claim of superiority ('you should bow your head'). Glosbe lists the form 'famm nu bucchin' (aggregator, not independent proof). A related stadium formula 'Ciata fa' solo nu bucchin'' appears on a fan flag and in a social caption, but its first word could not be decoded, so it is NOT generated."
+    },
+    {
+      "id": "ce-fatt-nu-bucchin",
+      "original": "Ce fatt 'nu bucchin!",
+      "category": "vulgar-idiom",
+      "figurative_meaning": "hai rotto, mi hai stancato",
+      "meaning_it": "mi hai rotto (le scatole), mi hai stancato",
+      "meaning_en": "you're wearing me out, you're a pain",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "frustration",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "telling a friend who keeps pestering you",
+        "venting at someone repeating the same request"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Oh, ce fatt 'nu bucchin, 'o ticket l'aggio già chiuso!",
+          "translation_en": "Come on, you're killing me, I already closed the ticket!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo glosses it as 'hai rotto il cazzo, hai stancato' (cfr. abbuffare 'a uallera). The literal reading is deliberately not asserted: only the figurative annoyance sense is documented. Single community entry."
+    },
+    {
+      "id": "figlio-e-bucchino",
+      "original": "Figlio 'e bucchino!",
+      "variants": [
+        "Figlie e bucchin",
+        "Si' nu figlio 'e bucchin",
+        "bucchinaro"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "figlio di un pompino",
+      "figurative_meaning": "persona scaltra, che si destreggia in ogni situazione",
+      "meaning_it": "figlio di un bocchino: furbo, scaltro (ammirazione), anche intercalare",
+      "meaning_en": "sly devil, clever bastard (admiring); also filler address",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "admiration",
+          "teasing",
+          "surprise",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "admiring a friend's cunning or lucky move",
+        "opening a voice message or reply among close friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Figlio 'e bucchino, hê truvato 'o bug int'a cinche minute!",
+          "translation_en": "You sly devil, you found the bug in five minutes!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family",
+        "src-threads-figlio-e-bukki"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Figurative: cunning / resourceful person (Slengo 'figlie e bucchin', 'bucchinaro' positive sense; a second sense of 'bucchinaro' as useless/stronzo also exists, so tone depends on voice and context). A Threads post observes Neapolitans using 'Figlio 'e Bukkì' as an opener. Literal 'child of fellatio' is not the meaning. Not documented for Bari."
+    },
+    {
+      "id": "bucchin-e-mammeta",
+      "original": "Bucchin' 'e mammeta!",
+      "variants": [
+        "Bucchin e mammt",
+        "Chella bucchin' 'e mammeta"
+      ],
+      "category": "insult",
+      "literal_meaning": "bocchino di tua madre",
+      "figurative_meaning": "offesa alla madre",
+      "meaning_it": "offesa alla madre dell'interlocutore (forma di insulto materno)",
+      "meaning_en": "insult aimed at the other person's mother",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile venting at an absent third party in a rant"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers",
+        "never at the user"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Statte zitto, bucchin' 'e mammeta!",
+          "translation_en": "Shut up, you and your mother!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: offence to the interlocutor's mother ('bucchin e mammt', also 'kella bucchin e mammt' / 'e nonnt'). Same family as 'figlio 'e zoccola'. Single community source; hostile use only."
+    },
+    {
+      "id": "salutame-a-soreta",
+      "original": "Salutame 'a soreta!",
+      "category": "dismissal",
+      "literal_meaning": "salutami tua sorella",
+      "figurative_meaning": "mandare a quel paese con sarcasmo",
+      "meaning_it": "salutami tua sorella: congedo sarcastico e offensivo",
+      "meaning_en": "tell it to your sister: sarcastic brush-off",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "dismissal",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "rejecting an unreasonable request with a sneer",
+        "mock-offended banter with friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Vuò 'o deploy 'e sabato? Salutame 'a soreta!",
+          "translation_en": "You want a Saturday deploy? Tell it to your sister!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: 'salutami tua sorella', a way to send someone packing. Palette already lists 'puortame a soreta' (level 4), same pattern. Single community source."
+    },
+    {
+      "id": "mocc-a-mammeta",
+      "original": "Mocc' a mammeta!",
+      "variants": [
+        "Mocc a mamm't",
+        "Mocc' a pat'ta",
+        "Mocc' a sor'ta"
+      ],
+      "category": "imprecation",
+      "literal_meaning": "in bocca a tua madre",
+      "figurative_meaning": "imprecazione di biasimo",
+      "meaning_it": "in bocca a tua madre: imprecazione che incolpa l'altro",
+      "meaning_en": "curse blaming the other for a mistake",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "blaming someone for a mistake in a rant",
+        "venting after a ruined task"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "M'hê fatto sbagliá 'o merge, mocc' a mammeta!",
+          "translation_en": "You made me botch the merge, damn you!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo gives the family: mocc a mamm't, pat't, frat't, sor't. The same pattern is documented in the Barese profile as 'Mòcch'a te!' (separate profile, different form). Single community source."
+    },
+    {
+      "id": "scassambrella",
+      "original": "scassambrella",
+      "variants": [
+        "scassa 'mbrella"
+      ],
+      "category": "insult",
+      "figurative_meaning": "persona che rompe con insistenza",
+      "meaning_it": "rompiscatole insistente",
+      "meaning_en": "pest who keeps nagging",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friend who keeps pestering",
+        "banter at the office"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si' nu scassambrella, m'hê già chiesto 'a stessa cosa tre vote!",
+          "translation_en": "You're a pest, you've asked me the same thing three times!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Softer cousin of the documented 'scassacazzo'. Slengo: person who bothers insistently or on purpose. Single community source."
+    }
+  ]
+}

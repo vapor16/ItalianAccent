@@ -1,0 +1,2537 @@
+{
+  "dialect": "pirla",
+  "entries": [
+    {
+      "id": "el",
+      "term": "el",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile singolare (l' davanti a vocale)",
+      "meaning_en": "masculine singular definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-dialett"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "El can; l'omm."
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo femminile singolare",
+      "meaning_en": "feminine singular definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-dialett"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i",
+      "term": "i",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo plurale (maschile; femminile uguale nel profilo)",
+      "meaning_en": "plural definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-occidental"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Feminine plural 'le' is reported for some varieties; this profile uses i."
+    },
+    {
+      "id": "on",
+      "term": "on",
+      "category": "function-word",
+      "meaning_it": "articolo indeterminativo maschile (un)",
+      "meaning_en": "masculine indefinite article",
+      "register": "neutral",
+      "variants": [
+        "ona"
+      ],
+      "part_of_speech": "article",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Feminine ona; plural di."
+    },
+    {
+      "id": "mi",
+      "term": "mi",
+      "category": "function-word",
+      "meaning_it": "io (pronome tonico di 1a persona)",
+      "meaning_en": "I (stressed pronoun)",
+      "register": "neutral",
+      "variants": [
+        "mì"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-occidental"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "With a tonic pronoun the subject clitic stays: Mi a voo a scoeula."
+    },
+    {
+      "id": "ti",
+      "term": "ti",
+      "category": "function-word",
+      "meaning_it": "tu (tonico); accompagnato dal clitico te",
+      "meaning_en": "you (sg), stressed",
+      "register": "neutral",
+      "variants": [
+        "tì"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-dialett"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ti te set."
+    },
+    {
+      "id": "te",
+      "term": "te",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 2a persona singolare (te set, te voret)",
+      "meaning_en": "2sg subject clitic",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-dialett"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Obligatory before the verb; ti is optional emphasis."
+    },
+    {
+      "id": "lu",
+      "term": "lu",
+      "category": "function-word",
+      "meaning_it": "lui (tonico)",
+      "meaning_en": "he (stressed)",
+      "register": "neutral",
+      "variants": [
+        "lü",
+        "luu"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-occidental"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelled lü/luu/lù in sources."
+    },
+    {
+      "id": "lee",
+      "term": "lee",
+      "category": "function-word",
+      "meaning_it": "lei (tonico)",
+      "meaning_en": "she (stressed)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-lmowiki-occidental"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-clitico",
+      "term": "el (clitico)",
+      "category": "function-word",
+      "meaning_it": "clitico soggetto di 3a persona maschile singolare, davanti al verbo (al in alcune varietà)",
+      "meaning_en": "3sg masculine subject clitic",
+      "register": "neutral",
+      "variants": [
+        "al",
+        "l'"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-itwiki-lombarda",
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "(Luu) el dis; lü al màngia minga."
+    },
+    {
+      "id": "nunch",
+      "term": "nunch",
+      "category": "function-word",
+      "meaning_it": "noi",
+      "meaning_en": "we",
+      "register": "neutral",
+      "variants": [
+        "num",
+        "nun",
+        "numm"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also num / nun."
+    },
+    {
+      "id": "vialter",
+      "term": "vialter",
+      "category": "function-word",
+      "meaning_it": "voi (informale); vuu è la forma di cortesia",
+      "meaning_en": "you (pl), informal",
+      "register": "neutral",
+      "variants": [
+        "violter",
+        "vuu"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lor",
+      "term": "lor",
+      "category": "function-word",
+      "meaning_it": "loro",
+      "meaning_en": "they (stressed)",
+      "register": "neutral",
+      "variants": [
+        "lur"
+      ],
+      "part_of_speech": "pronoun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "minga",
+      "term": "minga",
+      "category": "function-word",
+      "meaning_it": "non (negazione posposta al verbo)",
+      "meaning_en": "not (post-verbal negation)",
+      "register": "neutral",
+      "variants": [
+        "no",
+        "nò"
+      ],
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "Mi a soo minga.",
+          "translation_it": "Io non lo so.",
+          "translation_en": "I don't know.",
+          "provenance": "documented-rule"
+        },
+        {
+          "text": "Mi voo minga.",
+          "translation_it": "Io non vado.",
+          "translation_en": "I'm not going.",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-enwikt-minga",
+        "src-mil-itwiki-dialetto",
+        "src-mil-itwiki-lombarda",
+        "src-mil-lmowiki-dialett"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Lü al màngia minga. Variants no / nò also post-verbal: Te seet minga/nò. Older texts (Porta) put no before the verb."
+    },
+    {
+      "id": "gh-e",
+      "term": "gh'è",
+      "category": "function-word",
+      "meaning_it": "c'è, ci sono (esistenziale)",
+      "meaning_en": "there is / there are",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "Incoeu gh'è tant gent in via.",
+          "translation_it": "Oggi c'è tanta gente in strada.",
+          "translation_en": "There are many people on the street today.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "de",
+      "term": "de",
+      "category": "function-word",
+      "meaning_it": "di, da",
+      "meaning_en": "of, from",
+      "register": "neutral",
+      "part_of_speech": "preposition",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Articulated: del, di, de la."
+    },
+    {
+      "id": "cunt",
+      "term": "cunt",
+      "category": "function-word",
+      "meaning_it": "con (cun davanti a consonante)",
+      "meaning_en": "with",
+      "register": "neutral",
+      "variants": [
+        "cun",
+        "cont"
+      ],
+      "part_of_speech": "preposition",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "in-del",
+      "term": "in del",
+      "category": "function-word",
+      "meaning_it": "nel (in + el)",
+      "meaning_en": "in the",
+      "register": "neutral",
+      "variants": [
+        "in d'on"
+      ],
+      "part_of_speech": "preposition",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also in de la, in di."
+    },
+    {
+      "id": "doma",
+      "term": "domà",
+      "category": "function-word",
+      "meaning_it": "soltanto, solo",
+      "meaning_en": "only",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "Me pias bev on bicer de vin, ma domà un!",
+          "translation_it": "Mi piace bere un bicchiere di vino, ma solo uno!",
+          "translation_en": "I like drinking a glass of wine, but only one!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "semper",
+      "term": "semper",
+      "category": "function-word",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "assee",
+      "term": "assee",
+      "category": "function-word",
+      "meaning_it": "abbastanza, basta",
+      "meaning_en": "enough",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "incoeu",
+      "term": "incoeu",
+      "category": "function-word",
+      "meaning_it": "oggi",
+      "meaning_en": "today",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "duman",
+      "term": "duman",
+      "category": "function-word",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "variants": [
+        "doman"
+      ],
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ier",
+      "term": "ier",
+      "category": "function-word",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "adess",
+      "term": "adess",
+      "category": "function-word",
+      "meaning_it": "adesso",
+      "meaning_en": "now",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "poeu",
+      "term": "poeu",
+      "category": "function-word",
+      "meaning_it": "poi, dopo",
+      "meaning_en": "then, afterwards",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mai",
+      "term": "mai",
+      "category": "function-word",
+      "meaning_it": "mai",
+      "meaning_en": "never, ever",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ancamo",
+      "term": "ancamò",
+      "category": "function-word",
+      "meaning_it": "ancora",
+      "meaning_en": "still, yet",
+      "register": "neutral",
+      "variants": [
+        "amò"
+      ],
+      "part_of_speech": "adverb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwiki-grammar"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tutt",
+      "term": "tutt",
+      "category": "function-word",
+      "meaning_it": "tutto, tutti",
+      "meaning_en": "all",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vess",
+      "term": "vess",
+      "category": "word",
+      "meaning_it": "essere",
+      "meaning_en": "to be",
+      "register": "neutral",
+      "variants": [
+        "vesser"
+      ],
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "L'è on consol roman.",
+          "translation_it": "È un console romano.",
+          "translation_en": "He is a Roman consul.",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-lmowiki-dialett",
+        "src-mil-lmowiki-occidental"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "3sg l'è for both genders (l'è). 1sg son, 2sg te set/te seet attested in sentences; other persons not documented in the sources read."
+    },
+    {
+      "id": "ave",
+      "term": "avè",
+      "category": "word",
+      "meaning_it": "avere",
+      "meaning_en": "to have",
+      "register": "neutral",
+      "variants": [
+        "avegh"
+      ],
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwikt-ave"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Present hoo, hé, hà, hèmm, avìi, hann (Wiktionary); possessive uses add gh-/-gh."
+    },
+    {
+      "id": "fa",
+      "term": "fà",
+      "category": "word",
+      "meaning_it": "fare",
+      "meaning_en": "to do, to make",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwikt-fa"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Present fi, fet, fa, fom, fov/fee, fen; participle faa."
+    },
+    {
+      "id": "anda",
+      "term": "andà",
+      "category": "word",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "Te voret andà al mercaa duman?",
+          "translation_it": "Vuoi andare al mercato domani?",
+          "translation_en": "Do you want to go to the market tomorrow?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-itwiki-dialetto",
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1sg voo (Elon); participle andaa; infinitive vs participle differ by length (andà / andaa)."
+    },
+    {
+      "id": "vede",
+      "term": "vedè",
+      "category": "word",
+      "meaning_it": "vedere",
+      "meaning_en": "to see",
+      "register": "neutral",
+      "variants": [
+        "vedé"
+      ],
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participle vedüü (classical: vedüü)."
+    },
+    {
+      "id": "durmi",
+      "term": "durmì",
+      "category": "word",
+      "meaning_it": "dormire",
+      "meaning_en": "to sleep",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Participle dormii."
+    },
+    {
+      "id": "varda",
+      "term": "vardà",
+      "category": "word",
+      "meaning_it": "guardare",
+      "meaning_en": "to look at",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Model -à verb: mì vardi, tì te vardet, luu el varda, nunch vardom, vialter vardee, lor varden."
+    },
+    {
+      "id": "bev",
+      "term": "bev",
+      "category": "word",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magna",
+      "term": "magnà",
+      "category": "word",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "variants": [
+        "mangià"
+      ],
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "compera",
+      "term": "comperà",
+      "category": "word",
+      "meaning_it": "comprare",
+      "meaning_en": "to buy",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scerni",
+      "term": "scernì",
+      "category": "word",
+      "meaning_it": "scegliere",
+      "meaning_en": "to choose",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sara-su",
+      "term": "sarà su",
+      "category": "word",
+      "meaning_it": "chiudere",
+      "meaning_en": "to close, to shut",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgagna",
+      "term": "sgagnà",
+      "category": "word",
+      "meaning_it": "masticare",
+      "meaning_en": "to chew",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pode",
+      "term": "podè",
+      "category": "word",
+      "meaning_it": "potere",
+      "meaning_en": "to be able to",
+      "register": "neutral",
+      "variants": [
+        "pödi"
+      ],
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1sg pödi / poss."
+    },
+    {
+      "id": "save",
+      "term": "savè",
+      "category": "word",
+      "meaning_it": "sapere",
+      "meaning_en": "to know",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mi a soo minga = non lo so."
+    },
+    {
+      "id": "pirla",
+      "term": "pirlà",
+      "category": "word",
+      "meaning_it": "girare a vuoto, bighellonare",
+      "meaning_en": "to spin around, to loaf",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-enwikt-pirla"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Attested in Wiktionary as the probable root of pirla (Italian pirlare). Milanese form of the verb not directly documented; treat with care."
+    },
+    {
+      "id": "el-can",
+      "term": "el can",
+      "category": "word",
+      "meaning_it": "il cane",
+      "meaning_en": "dog",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-gatt",
+      "term": "el gatt",
+      "category": "word",
+      "meaning_it": "il gatto",
+      "meaning_en": "cat",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-vaca",
+      "term": "la vaca",
+      "category": "word",
+      "meaning_it": "la mucca",
+      "meaning_en": "cow",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-usell",
+      "term": "l'usell",
+      "category": "word",
+      "meaning_it": "l'uccello",
+      "meaning_en": "bird",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-pollaster",
+      "term": "el pollaster",
+      "category": "word",
+      "meaning_it": "il pollo",
+      "meaning_en": "chicken",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-oeuv",
+      "term": "l'oeuv",
+      "category": "word",
+      "meaning_it": "l'uovo",
+      "meaning_en": "egg",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-pan",
+      "term": "el pan",
+      "category": "word",
+      "meaning_it": "il pane",
+      "meaning_en": "bread",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-vin",
+      "term": "el vin",
+      "category": "word",
+      "meaning_it": "il vino",
+      "meaning_en": "wine",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-lacc",
+      "term": "el lacc",
+      "category": "word",
+      "meaning_it": "il latte",
+      "meaning_en": "milk",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-acqua",
+      "term": "l'acqua",
+      "category": "word",
+      "meaning_it": "l'acqua",
+      "meaning_en": "water",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-ca",
+      "term": "la cà",
+      "category": "word",
+      "meaning_it": "la casa",
+      "meaning_en": "house, home",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-itwiki-dialetto",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Final vowel lost except -a: ca/cà."
+    },
+    {
+      "id": "la-cita",
+      "term": "la cità",
+      "category": "word",
+      "meaning_it": "la città",
+      "meaning_en": "city",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-porta",
+      "term": "la pòrta",
+      "category": "word",
+      "meaning_it": "la porta",
+      "meaning_en": "door",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-cadrega",
+      "term": "la cadrega",
+      "category": "word",
+      "meaning_it": "la sedia",
+      "meaning_en": "chair",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-lett",
+      "term": "el lett",
+      "category": "word",
+      "meaning_it": "il letto",
+      "meaning_en": "bed",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-botteja",
+      "term": "la botteja",
+      "category": "word",
+      "meaning_it": "la bottiglia",
+      "meaning_en": "bottle",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-bicer",
+      "term": "el bicer",
+      "category": "word",
+      "meaning_it": "il bicchiere",
+      "meaning_en": "glass",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-itwiki-dialetto",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Single c: degemination."
+    },
+    {
+      "id": "el-canton",
+      "term": "el canton",
+      "category": "word",
+      "meaning_it": "l'angolo",
+      "meaning_en": "corner",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-scova",
+      "term": "la scova",
+      "category": "word",
+      "meaning_it": "la scopa",
+      "meaning_en": "broom",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-liber",
+      "term": "el liber",
+      "category": "word",
+      "meaning_it": "il libro",
+      "meaning_en": "book",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-macchina",
+      "term": "la macchina",
+      "category": "word",
+      "meaning_it": "la macchina, l'auto",
+      "meaning_en": "car, machine",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-fabbrica",
+      "term": "la fabbrica",
+      "category": "word",
+      "meaning_it": "la fabbrica",
+      "meaning_en": "factory",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-indirizz",
+      "term": "l'indirizz",
+      "category": "word",
+      "meaning_it": "l'indirizzo",
+      "meaning_en": "address",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-dottor",
+      "term": "el dottor",
+      "category": "word",
+      "meaning_it": "il dottore",
+      "meaning_en": "doctor",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-pader",
+      "term": "el pader",
+      "category": "word",
+      "meaning_it": "il padre",
+      "meaning_en": "father",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-mader",
+      "term": "la mader",
+      "category": "word",
+      "meaning_it": "la madre",
+      "meaning_en": "mother",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-fradell",
+      "term": "el fradell",
+      "category": "word",
+      "meaning_it": "il fratello",
+      "meaning_en": "brother",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural fradej (-ll becomes -j)."
+    },
+    {
+      "id": "l-amis",
+      "term": "l'amis",
+      "category": "word",
+      "meaning_it": "l'amico",
+      "meaning_en": "friend",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-omm",
+      "term": "l'omm",
+      "category": "word",
+      "meaning_it": "l'uomo",
+      "meaning_en": "man",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-dona",
+      "term": "la dòna",
+      "category": "word",
+      "meaning_it": "la donna",
+      "meaning_en": "woman",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-fioeu",
+      "term": "el fioeu",
+      "category": "word",
+      "meaning_it": "il bambino, il ragazzo",
+      "meaning_en": "child, boy",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Illustrates oeu."
+    },
+    {
+      "id": "el-bagaj",
+      "term": "el bagaj",
+      "category": "word",
+      "meaning_it": "il ragazzo",
+      "meaning_en": "boy",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-tosa",
+      "term": "la tosa",
+      "category": "word",
+      "meaning_it": "la ragazza",
+      "meaning_en": "girl",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-gent",
+      "term": "la gent",
+      "category": "word",
+      "meaning_it": "la gente",
+      "meaning_en": "people, crowd",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i-danee",
+      "term": "i danee",
+      "category": "word",
+      "meaning_it": "i soldi",
+      "meaning_en": "money",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-di",
+      "term": "el dì",
+      "category": "word",
+      "meaning_it": "il giorno",
+      "meaning_en": "day",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-ann",
+      "term": "l'ann",
+      "category": "word",
+      "meaning_it": "l'anno",
+      "meaning_en": "year",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-nocc",
+      "term": "la nocc",
+      "category": "word",
+      "meaning_it": "la notte",
+      "meaning_en": "night",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-so",
+      "term": "el sô",
+      "category": "word",
+      "meaning_it": "il sole",
+      "meaning_en": "sun",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-pioeuva",
+      "term": "la pioeuva",
+      "category": "word",
+      "meaning_it": "la pioggia",
+      "meaning_en": "rain",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-nebbia",
+      "term": "la nebbia",
+      "category": "word",
+      "meaning_it": "la nebbia",
+      "meaning_en": "fog",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-nev",
+      "term": "la nev",
+      "category": "word",
+      "meaning_it": "la neve",
+      "meaning_en": "snow",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-vent",
+      "term": "el vent",
+      "category": "word",
+      "meaning_it": "il vento",
+      "meaning_en": "wind",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-coeur",
+      "term": "el coeur",
+      "category": "word",
+      "meaning_it": "il cuore",
+      "meaning_en": "heart",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-itwiki-lombarda"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Classical oeu; modern spelling cör."
+    },
+    {
+      "id": "l-oss",
+      "term": "l'òss",
+      "category": "word",
+      "meaning_it": "l'osso",
+      "meaning_en": "bone",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-sangu",
+      "term": "el sangu",
+      "category": "word",
+      "meaning_it": "il sangue",
+      "meaning_en": "blood",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-barbozz",
+      "term": "el barbòzz",
+      "category": "word",
+      "meaning_it": "il mento",
+      "meaning_en": "chin",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-coeugh",
+      "term": "el coeugh",
+      "category": "word",
+      "meaning_it": "il cuoco",
+      "meaning_en": "cook",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-mort",
+      "term": "la mòrt",
+      "category": "word",
+      "meaning_it": "la morte",
+      "meaning_en": "death",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-fin",
+      "term": "la fin",
+      "category": "word",
+      "meaning_it": "la fine",
+      "meaning_en": "end",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-villan",
+      "term": "el villan",
+      "category": "word",
+      "meaning_it": "il contadino",
+      "meaning_en": "farmer",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-magutt",
+      "term": "el magutt",
+      "category": "word",
+      "meaning_it": "il muratore",
+      "meaning_en": "bricklayer, mason",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese",
+        "src-mil-milanofree-mestieri"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-offellee",
+      "term": "l'offellee",
+      "category": "word",
+      "meaning_it": "il pasticcere",
+      "meaning_en": "pastry cook",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-mestieri"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bell",
+      "term": "bell",
+      "category": "word",
+      "meaning_it": "bello",
+      "meaning_en": "beautiful",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bon",
+      "term": "bon",
+      "category": "word",
+      "meaning_it": "buono",
+      "meaning_en": "good",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gross",
+      "term": "gròss",
+      "category": "word",
+      "meaning_it": "grosso",
+      "meaning_en": "big",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vecc",
+      "term": "vecc",
+      "category": "word",
+      "meaning_it": "vecchio",
+      "meaning_en": "old",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ross",
+      "term": "ross",
+      "category": "word",
+      "meaning_it": "rosso",
+      "meaning_en": "red",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bianch",
+      "term": "bianch",
+      "category": "word",
+      "meaning_it": "bianco",
+      "meaning_en": "white",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "giald",
+      "term": "giald",
+      "category": "word",
+      "meaning_it": "giallo",
+      "meaning_en": "yellow",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "verd",
+      "term": "verd",
+      "category": "word",
+      "meaning_it": "verde",
+      "meaning_en": "green",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bloeu",
+      "term": "bloeu",
+      "category": "word",
+      "meaning_it": "blu",
+      "meaning_en": "blue",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "matt",
+      "term": "matt",
+      "category": "word",
+      "meaning_it": "matto",
+      "meaning_en": "crazy",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vonc",
+      "term": "vonc",
+      "category": "word",
+      "meaning_it": "sporco",
+      "meaning_en": "dirty",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "voeuj",
+      "term": "voeuj",
+      "category": "word",
+      "meaning_it": "vuoto",
+      "meaning_en": "empty",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "succ",
+      "term": "succ",
+      "category": "word",
+      "meaning_it": "secco, asciutto",
+      "meaning_en": "dry",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gram",
+      "term": "gram",
+      "category": "word",
+      "meaning_it": "cattivo, brutto",
+      "meaning_en": "bad",
+      "register": "neutral",
+      "part_of_speech": "adjective",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "menegh",
+      "term": "Menegh",
+      "category": "address-term",
+      "meaning_it": "Domenico (da cui meneghin, 'milanese')",
+      "meaning_en": "Domenico; source of 'meneghino'",
+      "register": "neutral",
+      "variants": [
+        "Domenegh"
+      ],
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Name form Domenegh / Menegh."
+    },
+    {
+      "id": "fioeu",
+      "term": "fioeu",
+      "category": "address-term",
+      "meaning_it": "ragazzo, bambino (anche vocativo)",
+      "meaning_en": "kid, lad (also a vocative)",
+      "register": "familiar",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-vocabolario"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Vocative use is common in Italian-regional Milanese but not documented in the source read."
+    },
+    {
+      "id": "amis",
+      "term": "amis",
+      "category": "address-term",
+      "meaning_it": "amico (vocativo)",
+      "meaning_en": "friend (vocative)",
+      "register": "familiar",
+      "part_of_speech": "noun",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-lingua"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Dighel ai tò amis! (tell it to your friends) is the closing line on the source page."
+    },
+    {
+      "id": "te-devet-save-che",
+      "term": "Te devet savè che…",
+      "category": "colloquial-expression",
+      "meaning_it": "Devi sapere che… (apertura di pettegolezzo)",
+      "meaning_en": "You must know that… (gossip opener)",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tant-en-soo-come-en-saveva",
+      "term": "Tant en soo come en saveva",
+      "category": "colloquial-expression",
+      "meaning_it": "Ne so quanto ne sapevo prima, cioè niente",
+      "meaning_en": "I know as much as I did before, i.e. nothing",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "soo-pu-in-che-mond-me-trovi",
+      "term": "Soo pù in che mond me trovi",
+      "category": "colloquial-expression",
+      "meaning_it": "Non so più in che mondo mi trovo",
+      "meaning_en": "I no longer know what world I'm in",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "el-le-sa-mei-de-mi",
+      "term": "El le sà mèi de mì",
+      "category": "colloquial-expression",
+      "meaning_it": "Lo sa meglio di me",
+      "meaning_en": "He knows it better than I do",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "save-de-brus",
+      "term": "Savè de brus",
+      "category": "colloquial-expression",
+      "meaning_it": "Sapere di bruciato, fiutare guai",
+      "meaning_en": "To smell trouble (lit. to smell burnt)",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "save-mena-la-barca",
+      "term": "Savè menà la barca",
+      "category": "colloquial-expression",
+      "meaning_it": "Saper cavarsela",
+      "meaning_en": "To know how to manage",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "save-fa-a-viv",
+      "term": "Savè fà a viv",
+      "category": "colloquial-expression",
+      "meaning_it": "Saper vivere",
+      "meaning_en": "To know how to live well",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-sapere"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-in-magoga",
+      "term": "Andà in magoga",
+      "category": "colloquial-expression",
+      "meaning_it": "Entusiasmarsi fino all'estasi",
+      "meaning_en": "To get carried away with delight",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-a-pollee",
+      "term": "Andà a pollee",
+      "category": "colloquial-expression",
+      "meaning_it": "Andare a letto presto",
+      "meaning_en": "To go to bed early (lit. to the henhouse)",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-in-ton",
+      "term": "Andà in ton",
+      "category": "colloquial-expression",
+      "meaning_it": "Vestirsi con eleganza",
+      "meaning_en": "To dress smartly",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anda-sul-sicur",
+      "term": "Andà sul sicur",
+      "category": "colloquial-expression",
+      "meaning_it": "Andare sul sicuro",
+      "meaning_en": "To play it safe",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-i-mocch",
+      "term": "Fà i mocch",
+      "category": "colloquial-expression",
+      "meaning_it": "Fare le smorfie",
+      "meaning_en": "To pull faces",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-minga-el-baloss",
+      "term": "Fa minga el baloss",
+      "category": "colloquial-expression",
+      "meaning_it": "Non fare il furbo",
+      "meaning_en": "Don't play the smart aleck",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dagh-ona-petenada",
+      "term": "Dagh ona petenàda",
+      "category": "colloquial-expression",
+      "meaning_it": "Picchiare qualcuno (lett. dargli una pettinata)",
+      "meaning_en": "To give someone a thrashing",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-citu",
+      "term": "Fà citu",
+      "category": "colloquial-expression",
+      "meaning_it": "Stare zitto",
+      "meaning_en": "To keep quiet",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "teumm-minga-ul-fiaa",
+      "term": "Teumm minga ul fiaa",
+      "category": "colloquial-expression",
+      "meaning_it": "Non starmi addosso, non stressarmi",
+      "meaning_en": "Don't breathe down my neck",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling of the source; the form 'ul' is local, not classical Milanese 'el'."
+    },
+    {
+      "id": "mena-no-el-turun",
+      "term": "Mena no el turun",
+      "category": "colloquial-expression",
+      "meaning_it": "Smettila di blaterare / tirarla per le lunghe",
+      "meaning_en": "Stop dragging it out / waffling",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dimm-con-chi-te-vee-e-te-diroo-chi-te-see",
+      "term": "Dimm con chi te vee e te diroo chi te see",
+      "category": "colloquial-expression",
+      "meaning_it": "Dimmi con chi vai e ti dirò chi sei",
+      "meaning_en": "Tell me who you go with and I'll tell you who you are",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-andare"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source writes vee (vett); verb forms here show 2sg te vee."
+    },
+    {
+      "id": "l-e-on-laora-del-moleta",
+      "term": "L'è on laorà del moleta",
+      "category": "colloquial-expression",
+      "meaning_it": "È un lavoro da arrotino: faticoso e poco redditizio",
+      "meaning_en": "It's a knife-grinder's job: hard work, little pay",
+      "register": "colloquial",
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-mestieri"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "oh",
+      "term": "Oh!",
+      "category": "interjection",
+      "meaning_it": "Oh! (sorpresa lieve, enfasi)",
+      "meaning_en": "Oh! (mild surprise or emphasis)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-elon-milanese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Only a short attestation on a learner page."
+    },
+    {
+      "id": "va-a-ciapa-i-ratt",
+      "term": "Va a ciapà i ratt!",
+      "category": "interjection",
+      "meaning_it": "Vai a prendere i topi: levati di torno (blando)",
+      "meaning_en": "Go catch the rats: buzz off (mild)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-fora-di-pe",
+      "term": "Va föra di pè!",
+      "category": "interjection",
+      "meaning_it": "Togliti dai piedi",
+      "meaning_en": "Get out of my way",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source spells Va föra di pè; Va da via i pè in the other list."
+    },
+    {
+      "id": "va-da-via-i-pe",
+      "term": "Va da via i pè!",
+      "category": "interjection",
+      "meaning_it": "Togliti dai piedi",
+      "meaning_en": "Get out from under my feet",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sta-schisc",
+      "term": "Stà schisc!",
+      "category": "interjection",
+      "meaning_it": "Stai zitto e al tuo posto",
+      "meaning_en": "Hush, stay put",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-a-ca-a-petena-i-gaenn",
+      "term": "Va a cà a petenà i gaenn!",
+      "category": "interjection",
+      "meaning_it": "Vai a casa a pettinare le galline: togliti di mezzo (ironico)",
+      "meaning_en": "Go home and comb the hens: get lost (ironic)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source spellings: gaenn / gainn / gajna."
+    },
+    {
+      "id": "va-a-scua-l-mar",
+      "term": "Va a scuà 'l mar!",
+      "category": "interjection",
+      "meaning_it": "Vai a spazzare il mare: smettila di perdere tempo",
+      "meaning_en": "Go sweep the sea",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-detti",
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variants add cun la furchèta / cun vert l'umbrela."
+    },
+    {
+      "id": "va-a-bagg-a-sona-l-orghen",
+      "term": "Va a Bagg a sonà l'òrghen!",
+      "category": "interjection",
+      "meaning_it": "Vai a Baggio a suonare l'organo (liquidare qualcuno)",
+      "meaning_en": "Go play the organ at Baggio (brush-off)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Baggio is a Milan district."
+    },
+    {
+      "id": "va-a-ca-a-fa-rusti-el-lacc",
+      "term": "Va a cà a fa rustì el lacc!",
+      "category": "interjection",
+      "meaning_it": "Vai a casa a far arrostire il latte (invito a sparire)",
+      "meaning_en": "Go home and roast the milk (go away)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-a-mung-al-toor",
+      "term": "Va a mung al tòor!",
+      "category": "interjection",
+      "meaning_it": "Vai a mungere il toro: è assurdo",
+      "meaning_en": "Go milk the bull: that's absurd",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-a-fas-di-in-gesa",
+      "term": "Va a fas dì in gesa!",
+      "category": "interjection",
+      "meaning_it": "Togliti dai piedi (lett. fatti dire in chiesa)",
+      "meaning_en": "Get lost",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "m-hann-faa-su",
+      "term": "M'hann faa sù!",
+      "category": "interjection",
+      "meaning_it": "Mi hanno fregato / imbrogliato",
+      "meaning_en": "I've been had",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source: someone cheated you or you are stuck; spelling of source."
+    },
+    {
+      "id": "ganassa",
+      "term": "ganàssa",
+      "variants": [
+        "ganassa"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chi si dà arie, sbruffone (spesso detto con tono amichevole)",
+      "meaning_en": "show-off, braggart (often a friendly tease)",
+      "register": "familiar",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "te set propri on ganàssa",
+          "translation_it": "sei proprio uno sbruffone",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-ganassa"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree: literally jaw or cheek; example 'te set propri on ganàssa' (you really are a show-off). Friendly counterpart of bauscia and sborone."
+    },
+    {
+      "id": "pistola",
+      "term": "pistola",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco, sleale",
+      "meaning_en": "fool, a bit of a rascal",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-gergo"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree gergo (glossary of the old ligera): 'sciocco o sleale'. Mild; also in general Italian ('che figura da pistola')."
+    },
+    {
+      "id": "imbesui",
+      "term": "imbesüì",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "completamente rimbambito, stordito",
+      "meaning_en": "dazed, dopey",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree glossario: 'completely dazed or stupid'. Friendly jibe at someone who has just woken up or lost the thread."
+    },
+    {
+      "id": "fesceu",
+      "term": "fesceù",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona losca, poco affidabile",
+      "meaning_en": "shady, untrustworthy person",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Attént che l'è on fesceù",
+          "translation_it": "Attento che è un tipo losco.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-glossario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree glossario: 'Attént che l'è on fesceù' (careful, he's shady). Warning rather than insult."
+    },
+    {
+      "id": "ha-becaa-loca",
+      "term": "L'ha becaa l'oca!",
+      "category": "colloquial-expression",
+      "meaning_it": "gli ha dato di volta il cervello (lett. l'oca l'ha beccato)",
+      "meaning_en": "he has lost it (lit. the goose pecked him)",
+      "register": "ironic",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "L'ha becaa l'oca!",
+          "translation_it": "È fuori di testa!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-parolacce"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree parolacce lists it as an ironic phrase. Safe, humorous dismissal of someone's odd idea."
+    },
+    {
+      "id": "pirletto",
+      "term": "pirlétto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocchino (di solito un bambino), tono affettuoso",
+      "meaning_en": "little silly (usually a child), affectionate",
+      "register": "affectionate",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-treccani-pirla"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani: diminutive of pirla, a playful term for a silly person, usually a child, with an affectionate tone. Good for gently teasing a friend's slip."
+    },
+    {
+      "id": "fare-la-figura-del-pirla",
+      "term": "fare la figura del pirla",
+      "variants": [
+        "comportarsi da pirla",
+        "essere un pirla"
+      ],
+      "category": "colloquial-expression",
+      "meaning_it": "fare una figuraccia, passare per scemo",
+      "meaning_en": "to look like an idiot",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-treccani-pirla"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani lists 'fare la figura del p.' and 'comportarsi da pirla' under pirla (colloquial); this is the Italian regional idiom, the natural frame for self-mockery after a blunder."
+    },
+    {
+      "id": "casciavit",
+      "term": "casciavit",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cacciavite: nello sfottò del derby, il tifoso del Milan",
+      "meaning_en": "screwdriver: in derby banter, the Milan fan",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-derby"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "MilanoFree: the answer of Inter fans to 'bauscia'. A folkloric label (pre-1970s, working-class image of Milan vs bourgeois Inter, which the page calls simplified). Use only for derby banter, not as a social jibe."
+    },
+    {
+      "id": "tapascia",
+      "term": "tapascià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scappare, filarsela",
+      "meaning_en": "to scarper",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Milan (Milanese)",
+      "sources": [
+        "src-mil-milanofree-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "MilanoFree gergo: tapascià = scappare, entered everyday speech."
+    }
+  ]
+}

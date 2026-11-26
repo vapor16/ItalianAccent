@@ -1,6 +1,6 @@
 # Sources — Minchia (City of Palermo, its districts and part of its metropolitan area (western Sicily). Not the Catanese of eastern Sicily (see mode mbare), nor Trapanese or Agrigentino.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -27,4 +27,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-scn-wikiquote-proverbi` | Proverbi siciliani (Wikiquote in italiano) | Wikimedia Foundation | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_siciliani> |
 | `src-scn-wiktionary` | Wiktionary, Sicilian entries (via kaikki.org machine-readable extraction) | Wiktionary contributors; kaikki.org (T. Ylonen) | community-dictionary | medium | CC BY-SA 4.0 / GFDL (open-license-attribution) | <https://kaikki.org/dictionary/Sicilian/> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

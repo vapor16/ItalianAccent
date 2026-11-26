@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../../../schemas/metadata.schema.json",
   "id": "belin",
   "display_name": "Belin",
   "aliases": [

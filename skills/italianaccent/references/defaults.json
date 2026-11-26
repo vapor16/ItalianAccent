@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../schemas/defaults.schema.json",
   "dialect_intensity": 5,
   "vulgarity": 5,
   "proverbs": true,

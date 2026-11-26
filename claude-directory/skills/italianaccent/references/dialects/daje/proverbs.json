@@ -1,0 +1,1670 @@
+{
+  "dialect": "daje",
+  "entries": [
+    {
+      "id": "chi-vva-ppiano-va-ssano-e-vva-llontano",
+      "type": "proverb",
+      "original": "Chi vva ppiano va ssano e vva llontano.",
+      "variants": [
+        "Chi va piano va sano e va lontano"
+      ],
+      "literal_it": "Chi va piano va sano e va lontano.",
+      "meaning_it": "Andando con calma si arriva sani e lontano.",
+      "meaning_en": "Slow and steady goes safe and far.",
+      "usage_context": "haste, deadlines, rushed deploys",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo's spelling marks syntactic doubling (ppiù, bbene); the variant gives a plain modern spelling."
+    },
+    {
+      "id": "chi-vva-fforte-va-a-la-morte",
+      "type": "proverb",
+      "original": "Chi vva fforte va a la morte.",
+      "variants": [
+        "Chi va forte va a la morte"
+      ],
+      "literal_it": "Chi va forte va alla morte.",
+      "meaning_it": "Chi corre troppo si rovina.",
+      "meaning_en": "Who goes too fast goes to his death.",
+      "usage_context": "haste, speeding, reckless changes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-gatta-presciolosa-fa-li-fiji-cechi",
+      "type": "proverb",
+      "original": "La gatta presciolosa fa li fiji cèchi.",
+      "variants": [
+        "La gatta presciolosa fa li fiji ciechi"
+      ],
+      "literal_it": "La gatta frettolosa fa i figli ciechi.",
+      "meaning_it": "La fretta produce lavori malriusciti.",
+      "meaning_en": "The hasty cat gives birth to blind kittens.",
+      "usage_context": "haste producing broken results",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quanno-hai-prescia-er-diavolo-ce-se-mette",
+      "type": "proverb",
+      "original": "Quanno hai prescia er diavolo ce se mette.",
+      "variants": [
+        "Quanno c'hai prescia er diavolo ce se mette"
+      ],
+      "literal_it": "Quando hai fretta il diavolo ci si mette.",
+      "meaning_it": "Proprio quando si ha fretta tutto va storto.",
+      "meaning_en": "When you're in a hurry the devil gets involved.",
+      "usage_context": "haste, Murphy's law",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ha-pprescia-se-metti-a-ssede",
+      "type": "ironic-saying",
+      "original": "Chi ha pprescia se metti a ssede.",
+      "variants": [
+        "Chi c'ha prescia se mettesse a sede"
+      ],
+      "literal_it": "Chi ha fretta si metta a sedere.",
+      "meaning_it": "A chi ha fretta conviene fermarsi e riflettere.",
+      "meaning_en": "Whoever's in a hurry should sit down.",
+      "usage_context": "telling someone to slow down",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "presto-e-bbene-nun-conviene",
+      "type": "proverb",
+      "original": "Presto e bbene, nun conviene.",
+      "variants": [
+        "Presto e bene nun conviene"
+      ],
+      "literal_it": "Presto e bene non conviene.",
+      "meaning_it": "Veloce e fatto bene raramente vanno insieme.",
+      "meaning_en": "Fast and good don't go together.",
+      "usage_context": "estimates, rushed work",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "un-po-ppe-vvorta-fu-ffatta-roma",
+      "type": "proverb",
+      "original": "Un po' ppe' vvorta fu ffatta Roma.",
+      "variants": [
+        "Un po' pe' vorta fu fatta Roma"
+      ],
+      "literal_it": "Un po' per volta fu fatta Roma.",
+      "meaning_it": "Le grandi cose si costruiscono poco alla volta.",
+      "meaning_en": "Rome was built a bit at a time.",
+      "usage_context": "patience, incremental work, learning",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cento-misure-e-un-tajo",
+      "type": "proverb",
+      "original": "Cento misure e un tajo.",
+      "literal_it": "Cento misure e un taglio.",
+      "meaning_it": "Bisogna riflettere a lungo prima di agire.",
+      "meaning_en": "A hundred measurements and one cut.",
+      "usage_context": "measure twice, cut once; before irreversible actions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "strada-facenno-s-aggiusta-la-soma",
+      "type": "proverb",
+      "original": "Strada facenno s'aggiusta la soma.",
+      "literal_it": "Strada facendo si aggiusta il carico.",
+      "meaning_it": "Le cose si sistemano procedendo.",
+      "meaning_en": "The load settles as you walk.",
+      "usage_context": "starting imperfectly, iterating",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "da-ttempo-ar-tempo",
+      "type": "proverb",
+      "original": "Dà ttempo ar tempo.",
+      "variants": [
+        "Dà tempo ar tempo"
+      ],
+      "literal_it": "Dai tempo al tempo.",
+      "meaning_it": "Bisogna avere pazienza.",
+      "meaning_en": "Give time to time.",
+      "usage_context": "patience",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dormece-sopra-e-ppoi-porta-risposta",
+      "type": "proverb",
+      "original": "Dòrmece sopra e ppoi porta risposta.",
+      "variants": [
+        "Dormece sopra e poi porta risposta"
+      ],
+      "literal_it": "Dormici sopra e poi porta la risposta.",
+      "meaning_it": "Prima di decidere, lascia passare una notte.",
+      "meaning_en": "Sleep on it and then bring your answer.",
+      "usage_context": "big decisions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-mette-er-carro-davanti-a-li-bbovi",
+      "type": "proverb",
+      "original": "Nun mette er carro davanti a li bbovi.",
+      "literal_it": "Non mettere il carro davanti ai buoi.",
+      "meaning_it": "Non anticipare le cose saltando i passaggi.",
+      "meaning_en": "Don't put the cart before the oxen.",
+      "usage_context": "premature optimisation, skipping steps",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pensece-prima-pe-nun-pentitte-poi",
+      "type": "proverb",
+      "original": "Pensece prima pe' nun pentitte pòi.",
+      "literal_it": "Pensaci prima per non pentirti poi.",
+      "meaning_it": "Rifletti prima di agire.",
+      "meaning_en": "Think first so you won't regret it later.",
+      "usage_context": "before a bad choice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "er-tempo-porta-consijo",
+      "type": "proverb",
+      "original": "Er tempo porta consijo.",
+      "literal_it": "Il tempo porta consiglio.",
+      "meaning_it": "Col tempo si vede più chiaro.",
+      "meaning_en": "Time brings counsel.",
+      "usage_context": "patience before deciding",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "co-lo-sbaja-s-impara",
+      "type": "proverb",
+      "original": "Co' lo sbajà s'impara.",
+      "variants": [
+        "Sbajanno s'impara"
+      ],
+      "literal_it": "Con lo sbagliare s'impara.",
+      "meaning_it": "Si impara dagli errori.",
+      "meaning_en": "You learn by getting it wrong.",
+      "usage_context": "after a mistake",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gnisuno-semo-nati-imparati",
+      "type": "proverb",
+      "original": "Gnisuno semo nati imparati.",
+      "literal_it": "Nessuno di noi è nato istruito.",
+      "meaning_it": "Nessuno nasce sapendo già tutto.",
+      "meaning_en": "None of us was born already taught.",
+      "usage_context": "beginners, consoling a mistake",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ffa-li-conti-senza-l-oste-li-rifa-ddu-vorte",
+      "type": "proverb",
+      "original": "Chi ffa li conti senza l'oste li rifà ddu' vorte.",
+      "variants": [
+        "Chi fa li conti senza l'oste li rifà du' vorte"
+      ],
+      "literal_it": "Chi fa i conti senza l'oste li rifà due volte.",
+      "meaning_it": "Chi non considera tutti i fattori deve rifare tutto.",
+      "meaning_en": "Who does the sums without the innkeeper does them twice.",
+      "usage_context": "estimates that ignore a stakeholder/dependency",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-mmaneggia-roppe",
+      "type": "proverb",
+      "original": "Chi mmaneggia roppe.",
+      "variants": [
+        "Chi maneggia roppe"
+      ],
+      "literal_it": "Chi maneggia rompe.",
+      "meaning_it": "Chi lavora prima o poi rompe qualcosa.",
+      "meaning_en": "Who handles things breaks things.",
+      "usage_context": "consoling someone who broke something",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ccammina-casca",
+      "type": "proverb",
+      "original": "Chi ccammina casca.",
+      "variants": [
+        "Chi cammina casca"
+      ],
+      "literal_it": "Chi cammina cade.",
+      "meaning_it": "Solo chi fa sbaglia.",
+      "meaning_en": "Whoever walks falls.",
+      "usage_context": "consoling an error",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiude-la-stalla-doppo-che-je-so-scappati-li-bbovi",
+      "type": "proverb",
+      "original": "Chiude la stalla doppo che je so' scappati li bbovi.",
+      "variants": [
+        "Chiude la stalla quanno so' scappati li bovi"
+      ],
+      "literal_it": "Chiude la stalla dopo che gli sono scappati i buoi.",
+      "meaning_it": "Rimediare troppo tardi.",
+      "meaning_en": "Shutting the stable after the oxen have bolted.",
+      "usage_context": "backups made after the data loss",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-asino-indove-c-e-ccascato-una-vorta-nun-ce-casca",
+      "type": "proverb",
+      "original": "L'asino indove c'è ccascato una vorta nun ce casca ppiù.",
+      "literal_it": "L'asino dove è caduto una volta non ci cade più.",
+      "meaning_it": "Dagli errori si impara a non ripeterli.",
+      "meaning_en": "Where the donkey fell once it never falls again.",
+      "usage_context": "lessons learned, post-mortems",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vale-ppiu-la-pratica-che-la-grammatica",
+      "type": "proverb",
+      "original": "Vale ppiù la pratica che la grammatica.",
+      "variants": [
+        "Vale più la pratica che la grammatica"
+      ],
+      "literal_it": "Vale più la pratica che la grammatica.",
+      "meaning_it": "L'esperienza conta più della teoria.",
+      "meaning_en": "Practice is worth more than grammar.",
+      "usage_context": "learning by doing, improving at software",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ppiu-sse-campa-e-ppiu-s-impara",
+      "type": "proverb",
+      "original": "Ppiù sse campa e ppiù s'impara.",
+      "variants": [
+        "Più se campa più s'impara"
+      ],
+      "literal_it": "Più si vive e più si impara.",
+      "meaning_it": "Non si finisce mai di imparare.",
+      "meaning_en": "The longer you live the more you learn.",
+      "usage_context": "continuous learning",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "s-impara-ppiu-ccor-fa-che-ccor-di",
+      "type": "proverb",
+      "original": "S'impara ppiù ccor fa' che ccor dì'.",
+      "literal_it": "S'impara più col fare che col dire.",
+      "meaning_it": "Si impara facendo, non parlando.",
+      "meaning_en": "You learn more by doing than by talking.",
+      "usage_context": "learning by doing",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-mmejo-a-impara-a-spese-d-antri-ch-a-le-sue",
+      "type": "proverb",
+      "original": "È mmejo a impara' a spese d'antri ch'a le sue.",
+      "literal_it": "È meglio imparare a spese altrui che alle proprie.",
+      "meaning_it": "Conviene imparare dagli errori degli altri.",
+      "meaning_en": "Better to learn at others' expense than your own.",
+      "usage_context": "reading post-mortems, docs",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "omo-avvisato-mezzo-sarvato",
+      "type": "proverb",
+      "original": "Omo avvisato mezzo sarvato.",
+      "literal_it": "Uomo avvisato mezzo salvato.",
+      "meaning_it": "Chi è avvertito è già a metà protetto.",
+      "meaning_en": "A man warned is half saved.",
+      "usage_context": "warnings, deprecation notices",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-in-piazza-e-ppija-consijo-aritorna-a-ccasa-e-ff",
+      "type": "ironic-saying",
+      "original": "Va in piazza e ppija consijo; aritorna a ccasa e ffa ccome te pare.",
+      "literal_it": "Va' in piazza e prendi consiglio; torna a casa e fa' come ti pare.",
+      "meaning_it": "Ascolta tutti, ma poi decidi tu.",
+      "meaning_en": "Go to the square and take advice; come home and do as you please.",
+      "usage_context": "advice, ironic",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quattr-occhi-vedono-ppiu-dde-due",
+      "type": "proverb",
+      "original": "Quattr'occhi vedono ppiù dde due.",
+      "variants": [
+        "Quattr'occhi vedeno più de due"
+      ],
+      "literal_it": "Quattro occhi vedono più di due.",
+      "meaning_it": "Due persone notano più di una.",
+      "meaning_en": "Four eyes see more than two.",
+      "usage_context": "code review, pair programming",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-va-appresso-ar-cieco-casca-ner-fosso",
+      "type": "proverb",
+      "original": "Chi va appresso ar cieco casca ner fosso.",
+      "literal_it": "Chi va dietro al cieco cade nel fosso.",
+      "meaning_it": "Chi segue una guida incompetente finisce male.",
+      "meaning_en": "Who follows the blind falls in the ditch.",
+      "usage_context": "copy-paste from bad tutorials",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-nun-s-ajuta-s-affoga",
+      "type": "proverb",
+      "original": "Chi nun s'ajuta s'affoga.",
+      "literal_it": "Chi non si aiuta annega.",
+      "meaning_it": "Bisogna darsi da fare da soli.",
+      "meaning_en": "Who doesn't help himself drowns.",
+      "usage_context": "self-reliance",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ddorme-nun-pija-pesce",
+      "type": "proverb",
+      "original": "Chi ddorme nun pija pesce.",
+      "literal_it": "Chi dorme non piglia pesci.",
+      "meaning_it": "Chi non si dà da fare non ottiene nulla.",
+      "meaning_en": "Who sleeps catches no fish.",
+      "usage_context": "laziness, missed opportunities",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quello-che-sse-vo-se-po",
+      "type": "proverb",
+      "original": "Quello che sse vò se pò.",
+      "literal_it": "Quello che si vuole si può.",
+      "meaning_it": "Con la volontà si ottiene tutto.",
+      "meaning_en": "What you want, you can.",
+      "usage_context": "motivation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "voja-de-lavora-ssarteme-addosso",
+      "type": "ironic-saying",
+      "original": "Voja de lavora' ssàrteme addosso.",
+      "variants": [
+        "Voja de lavorà sartame addosso"
+      ],
+      "literal_it": "Voglia di lavorare saltami addosso.",
+      "meaning_it": "Detto di chi non ha nessuna voglia di lavorare.",
+      "meaning_en": "Will to work, jump on me!",
+      "usage_context": "mocking laziness, Monday mornings",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-ozio-e-er-padre-de-tutti-li-vizi",
+      "type": "proverb",
+      "original": "L'ozio è er padre de tutti li vizi.",
+      "literal_it": "L'ozio è il padre di tutti i vizi.",
+      "meaning_it": "L'inattività porta a cattive abitudini.",
+      "meaning_en": "Idleness is the father of all vices.",
+      "usage_context": "laziness",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ttutto-vo-ttutto-perde",
+      "type": "proverb",
+      "original": "Chi ttutto vò, ttutto perde.",
+      "variants": [
+        "Chi tutto vò tutto perde"
+      ],
+      "literal_it": "Chi tutto vuole tutto perde.",
+      "meaning_it": "Chi pretende troppo resta senza niente.",
+      "meaning_en": "Who wants everything loses everything.",
+      "usage_context": "scope creep, greed",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cor-poco-se-campa-ma-ccor-gnente-no",
+      "type": "proverb",
+      "original": "Cor poco se campa, ma ccor gnente no.",
+      "literal_it": "Col poco si vive, ma col niente no.",
+      "meaning_it": "Ci si accontenta di poco, non di nulla.",
+      "meaning_en": "You can live on little, but not on nothing.",
+      "usage_context": "budgets, minimal resources",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-se-po-ave-la-bbotte-piena-e-la-moje-imbriaga",
+      "type": "proverb",
+      "original": "Nun se pò avé la bbótte piena e la moje imbriaga.",
+      "variants": [
+        "Nun se pò avé la botte piena e la moje 'mbriaca"
+      ],
+      "literal_it": "Non si può avere la botte piena e la moglie ubriaca.",
+      "meaning_it": "Non si può avere tutto.",
+      "meaning_en": "You can't have the barrel full and the wife drunk.",
+      "usage_context": "trade-offs",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-ccome-poi-e-nno-ccome-voi",
+      "type": "proverb",
+      "original": "Fa ccome pòi e nno ccome vòi.",
+      "literal_it": "Fa' come puoi e non come vuoi.",
+      "meaning_it": "Adattati alle possibilità reali.",
+      "meaning_en": "Do as you can, not as you'd like.",
+      "usage_context": "realistic planning",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-sse-contenta-gode",
+      "type": "proverb",
+      "original": "Chi sse contenta gode.",
+      "literal_it": "Chi si accontenta gode.",
+      "meaning_it": "Chi si accontenta è felice.",
+      "meaning_en": "Who's content enjoys.",
+      "usage_context": "good enough is fine",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acqua-passata-nun-macina-piu",
+      "type": "proverb",
+      "original": "Acqua passata nun macina più.",
+      "literal_it": "Acqua passata non macina più.",
+      "meaning_it": "Il passato non conta più.",
+      "meaning_en": "Water that's flowed by grinds no more.",
+      "usage_context": "moving on after a bad choice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbisogna-bbatte-er-ferro-quann-e-ccallo",
+      "type": "proverb",
+      "original": "Bbisogna bbatte er ferro quann'è ccallo.",
+      "variants": [
+        "Batti er ferro quann'è callo"
+      ],
+      "literal_it": "Bisogna battere il ferro quando è caldo.",
+      "meaning_it": "Cogliere il momento favorevole.",
+      "meaning_en": "Strike the iron while it's hot.",
+      "usage_context": "seizing opportunities",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-nun-fa-quanno-po-nun-fa-quanno-vo",
+      "type": "proverb",
+      "original": "Chi nun fa quanno pò, nun fa quanno vò.",
+      "literal_it": "Chi non fa quando può non fa quando vuole.",
+      "meaning_it": "Chi spreca l'occasione poi non la ritrova.",
+      "meaning_en": "Who doesn't act when he can won't be able when he wants.",
+      "usage_context": "procrastination",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-mmejo-oggi-l-ovo-che-ddomani-la-gallina",
+      "type": "proverb",
+      "original": "È mmejo oggi l'ovo che ddomani la gallina.",
+      "variants": [
+        "Mejo l'ovo oggi che la gallina domani"
+      ],
+      "literal_it": "È meglio oggi l'uovo che domani la gallina.",
+      "meaning_it": "Meglio un piccolo vantaggio sicuro subito.",
+      "meaning_en": "Better the egg today than the hen tomorrow.",
+      "usage_context": "shipping an MVP",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-llassa-la-via-vecchia-pe-la-nova-mala-via-trov",
+      "type": "proverb",
+      "original": "Chi llassa la via vecchia pe' la nova, mala via trova.",
+      "literal_it": "Chi lascia la via vecchia per la nuova trova una cattiva strada.",
+      "meaning_it": "Abbandonare il sicuro per l'ignoto è rischioso.",
+      "meaning_en": "Who leaves the old road for the new finds a bad road.",
+      "usage_context": "risky rewrites, new frameworks",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "er-monno-e-ffatto-tonno-chi-nun-sa-nnaviga-se-ne-v",
+      "type": "proverb",
+      "original": "Er monno è ffatto tonno, chi nun sa nnavigà se ne va a fonno.",
+      "literal_it": "Il mondo è fatto tondo, chi non sa navigare va a fondo.",
+      "meaning_it": "Nella vita bisogna sapersi destreggiare.",
+      "meaning_en": "The world is round; who can't navigate sinks.",
+      "usage_context": "street smarts",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-stuzzica-li-cani-che-ddormeno",
+      "type": "proverb",
+      "original": "Nun stuzzicà li cani che ddormeno.",
+      "literal_it": "Non stuzzicare i cani che dormono.",
+      "meaning_it": "Non provocare problemi sopiti.",
+      "meaning_en": "Don't poke sleeping dogs.",
+      "usage_context": "don't touch working legacy code",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "de-du-mali-er-piu-ppiccolo",
+      "type": "proverb",
+      "original": "De' du' mali er più ppiccolo.",
+      "literal_it": "Dei due mali il più piccolo.",
+      "meaning_it": "Scegliere il male minore.",
+      "meaning_en": "Of two evils the lesser.",
+      "usage_context": "trade-offs",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-bbucia-cia-le-gamme-curte",
+      "type": "proverb",
+      "original": "La bbucìa cià le gamme curte.",
+      "variants": [
+        "La bucìa c'ha le gambe corte"
+      ],
+      "literal_it": "La bugia ha le gambe corte.",
+      "meaning_it": "Le bugie si scoprono presto.",
+      "meaning_en": "Lies have short legs.",
+      "usage_context": "lying",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-verita-e-ccome-l-ojo-vie-ssempre-a-ggalla",
+      "type": "proverb",
+      "original": "La verità è ccome l'ojo, viè ssempre a ggalla.",
+      "literal_it": "La verità è come l'olio, viene sempre a galla.",
+      "meaning_it": "La verità prima o poi emerge.",
+      "meaning_en": "Truth is like oil, it always floats up.",
+      "usage_context": "hidden bugs, lies",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-ppiu-pparla-ppiu-sgarra",
+      "type": "proverb",
+      "original": "Chi ppiù pparla ppiù sgarra.",
+      "literal_it": "Chi più parla più sbaglia.",
+      "meaning_it": "Chi parla troppo finisce per sbagliare.",
+      "meaning_en": "Who talks most errs most.",
+      "usage_context": "talking too much",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "in-bocca-chiusa-nun-c-entreno-mosche",
+      "type": "proverb",
+      "original": "In bocca chiusa nun c'entreno mosche.",
+      "literal_it": "In bocca chiusa non entrano mosche.",
+      "meaning_it": "Tacere evita guai.",
+      "meaning_en": "No flies enter a closed mouth.",
+      "usage_context": "keeping quiet",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "parola-detta-e-ssasso-tirato-nun-aritorneno-piu-in",
+      "type": "proverb",
+      "original": "Parola detta e ssasso tirato nun aritorneno più indietro.",
+      "literal_it": "Parola detta e sasso tirato non tornano indietro.",
+      "meaning_it": "Ciò che è detto non si può ritirare.",
+      "meaning_en": "A word said and a stone thrown never come back.",
+      "usage_context": "sent emails, force-push",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "le-parole-so-ccome-le-cerase-ne-piji-una-e-ne-vien",
+      "type": "proverb",
+      "original": "Le parole so' ccome le cerase: ne piji una e ne viengheno appresso cento.",
+      "literal_it": "Le parole sono come le ciliegie: ne prendi una e ne vengono dietro cento.",
+      "meaning_it": "Un discorso tira l'altro.",
+      "meaning_en": "Words are like cherries: take one and a hundred follow.",
+      "usage_context": "long chats, meetings",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-lingua-batte-indove-er-dente-dole",
+      "type": "proverb",
+      "original": "La lingua batte indove er dente dole.",
+      "literal_it": "La lingua batte dove il dente duole.",
+      "meaning_it": "Si torna sempre a parlare di ciò che fa soffrire.",
+      "meaning_en": "The tongue goes where the tooth aches.",
+      "usage_context": "obsessing over a problem",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "su-li-gusti-nun-ce-se-sputa",
+      "type": "proverb",
+      "original": "Su li gusti nun ce se sputa.",
+      "variants": [
+        "Tutti li gusti so' gusti"
+      ],
+      "literal_it": "Sui gusti non ci si sputa.",
+      "meaning_it": "I gusti non si discutono.",
+      "meaning_en": "You don't spit on tastes.",
+      "usage_context": "tabs vs spaces, tastes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gni-maravija-dura-tre-giorni",
+      "type": "proverb",
+      "original": "'Gni maravija dura tre giorni.",
+      "literal_it": "Ogni meraviglia dura tre giorni.",
+      "meaning_it": "Le novità stancano presto.",
+      "meaning_en": "Every marvel lasts three days.",
+      "usage_context": "hype cycles",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cent-anni-de-pianto-nun-pagheno-un-sordo-de-debbit",
+      "type": "proverb",
+      "original": "Cent'anni de pianto nun pàgheno un sórdo de dèbbito.",
+      "literal_it": "Cent'anni di pianto non pagano un soldo di debito.",
+      "meaning_it": "Lamentarsi non risolve nulla.",
+      "meaning_en": "A hundred years of tears don't pay a penny of debt.",
+      "usage_context": "bad day, complaining",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sparagna-sparagna-arriva-er-gatto-e-se-lo-magna",
+      "type": "proverb",
+      "original": "Sparagna, sparagna, arriva er gatto e se lo magna.",
+      "literal_it": "Risparmia, risparmia, arriva il gatto e se lo mangia.",
+      "meaning_it": "Risparmiare troppo può essere inutile.",
+      "meaning_en": "Save and save, then the cat comes and eats it.",
+      "usage_context": "over-saving",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "er-pane-de-casa-stufa",
+      "type": "proverb",
+      "original": "Er pane de casa stufa.",
+      "literal_it": "Il pane di casa stanca.",
+      "meaning_it": "Ciò che si ha sempre a disposizione stanca.",
+      "meaning_en": "Home bread gets boring.",
+      "usage_context": "routine",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cristo-vo-accusi-la-madonna-e-contenta-oggi-maccar",
+      "type": "ironic-saying",
+      "original": "Cristo vò accusì, la Madonna è contenta, oggi maccaroni e ddomani pulenta.",
+      "literal_it": "Cristo vuole così, la Madonna è contenta, oggi maccheroni e domani polenta.",
+      "meaning_it": "Rassegnazione allegra a ciò che viene.",
+      "meaning_en": "Christ wants it so, the Madonna is happy: macaroni today, polenta tomorrow.",
+      "usage_context": "resignation, ups and downs",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Religious references; not blasphemous in intent."
+    },
+    {
+      "id": "campa-un-ora-e-ccampela-bbona",
+      "type": "saying",
+      "original": "Campa un'ora e ccàmpela bbona.",
+      "literal_it": "Vivi un'ora e vivila bene.",
+      "meaning_it": "Meglio vivere poco ma bene.",
+      "meaning_en": "Live one hour and live it well.",
+      "usage_context": "enjoying life",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanazzo marks it 'di Albano Laziale' (Castelli Romani), not the city itself."
+    },
+    {
+      "id": "fermete-ricotta-che-mmo-tte-tajo",
+      "type": "ironic-saying",
+      "original": "Fermete, ricotta, che mmo' tte tajo!",
+      "variants": [
+        "Fermete, ricotta, sinnò te squaji"
+      ],
+      "literal_it": "Fermati, ricotta, che adesso ti taglio!",
+      "meaning_it": "Per schernire chi fa il gradasso senza esserlo.",
+      "meaning_en": "Stop, ricotta, or I'll cut you!",
+      "usage_context": "mocking a braggart",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-mmejo-a-ppuzza-de-mmerda-che-de-fregnone",
+      "type": "ironic-saying",
+      "original": "È mmejo a ppuzzà de mmerda che de fregnone.",
+      "literal_it": "È meglio puzzare di merda che di fesso.",
+      "meaning_it": "Meglio passare per sporco che per ingenuo.",
+      "meaning_en": "Better to stink of shit than of a sucker.",
+      "usage_context": "refusing to be taken for a fool",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "quanno-er-diavolo-nun-sa-cche-ffa-se-gratta-le-cor",
+      "type": "proverb",
+      "original": "Quanno er diavolo nun sa cche ffa' se gratta le corna.",
+      "literal_it": "Quando il diavolo non sa cosa fare si gratta le corna.",
+      "meaning_it": "Chi si annoia combina guai o dispetti.",
+      "meaning_en": "When the devil has nothing to do he scratches his horns.",
+      "usage_context": "boredom leading to mischief",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-zanazzo-proverbi",
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "er-diavolo-nun-e-sempre-brutto-come-se-dipigne",
+      "type": "proverb",
+      "original": "Er diavolo nun è sempre brutto come se dipigne.",
+      "literal_it": "Il diavolo non è sempre brutto come si dipinge.",
+      "meaning_it": "Una situazione negativa può avere lati positivi.",
+      "meaning_en": "The devil's not always as ugly as he's painted.",
+      "usage_context": "reassurance",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "er-diavolo-fa-le-pile-ma-no-li-coperchi",
+      "type": "proverb",
+      "original": "Er diavolo fa le pile ma no li coperchi.",
+      "literal_it": "Il diavolo fa le pentole ma non i coperchi.",
+      "meaning_it": "Le malefatte prima o poi si scoprono.",
+      "meaning_en": "The devil makes the pots but not the lids.",
+      "usage_context": "cheating gets found out",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "panza-piena-nun-crede-ar-diggiuno",
+      "type": "proverb",
+      "original": "Panza piena nun crede ar diggiuno.",
+      "literal_it": "Pancia piena non crede al digiuno.",
+      "meaning_it": "Chi sta bene non capisce chi è in difficoltà.",
+      "meaning_en": "A full belly doesn't believe in fasting.",
+      "usage_context": "privilege, empathy",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "debbiti-e-peccati-chi-li-fa-li-paga",
+      "type": "proverb",
+      "original": "Debbiti e peccati, chi li fa li paga.",
+      "literal_it": "Debiti e peccati, chi li fa li paga.",
+      "meaning_it": "Si risponde sempre delle proprie azioni.",
+      "meaning_en": "Debts and sins: who makes them pays them.",
+      "usage_context": "technical debt!",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC: among those collected by Zanazzo 1886, p. 83."
+    },
+    {
+      "id": "chi-campa-dritto-campa-affritto",
+      "type": "ironic-saying",
+      "original": "Chi campa dritto campa affritto.",
+      "literal_it": "Chi vive onestamente vive afflitto.",
+      "meaning_it": "Chi si comporta bene riceve solo delusioni.",
+      "meaning_en": "Who lives straight lives in sorrow.",
+      "usage_context": "cynical comment on honesty",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "domani-diggiuna-giovanni-meno-male-che-nun-e-oggi",
+      "type": "ironic-saying",
+      "original": "Domani diggiuna Giovanni (meno male che nun è oggi)!",
+      "literal_it": "Domani digiuna Giovanni (meno male che non è oggi)!",
+      "meaning_it": "Detto di promesse rinviate a domani che non verranno mantenute.",
+      "meaning_en": "Tomorrow John fasts (thank goodness it's not today)!",
+      "usage_context": "procrastination, 'I'll do it tomorrow'",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avecce-n-diavolo-pe-capello",
+      "type": "idiom",
+      "original": "avecce 'n diavolo pe' capello",
+      "literal_it": "avere un diavolo per capello",
+      "meaning_it": "essere molto arrabbiato",
+      "meaning_en": "to be furious",
+      "usage_context": "anger",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ce-balla-er-diavolo",
+      "type": "idiom",
+      "original": "ce balla er diavolo",
+      "literal_it": "ci balla il diavolo",
+      "meaning_it": "detto di un bicchiere non riempito fino all'orlo",
+      "meaning_en": "the devil dances in there (glass not filled up)",
+      "usage_context": "pouring wine; stinginess",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sape-indove-er-diavolo-tie-la-coda",
+      "type": "idiom",
+      "original": "sapé indove er diavolo tiè la coda",
+      "literal_it": "sapere dove il diavolo tiene la coda",
+      "meaning_it": "essere molto furbo, non farsi ingannare",
+      "meaning_en": "to know where the devil keeps his tail",
+      "usage_context": "street-smart people",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-er-finto-tonto-pe-nun-paga-dazio",
+      "type": "idiom",
+      "original": "fà er finto tonto pe' nun pagà dazio",
+      "variants": [
+        "fà er finto tonto pe' nun pagà l'oste"
+      ],
+      "literal_it": "fare il finto tonto per non pagare dazio",
+      "meaning_it": "fingere di non capire per evitare responsabilità",
+      "meaning_en": "to play dumb to avoid paying the toll",
+      "usage_context": "dodging responsibility",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d",
+        "src-rom-zanazzo-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "anna-a-dama",
+      "type": "idiom",
+      "original": "annà a dama",
+      "literal_it": "andare a dama",
+      "meaning_it": "raggiungere l'obiettivo",
+      "meaning_en": "to reach the goal (like a draughts piece)",
+      "usage_context": "finishing a project",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "esse-duro-de-reni",
+      "type": "idiom",
+      "original": "esse duro de reni",
+      "literal_it": "essere duro di reni",
+      "meaning_it": "essere avaro",
+      "meaning_en": "to be tight-fisted",
+      "usage_context": "stinginess",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sta-piu-della-che-deqqua",
+      "type": "idiom",
+      "original": "stà più dellà che deqqua",
+      "literal_it": "stare più di là che di qua",
+      "meaning_it": "essere moribondo; essere stremato",
+      "meaning_en": "to be more over there than here",
+      "usage_context": "exhaustion, a dying server",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scherza-co-li-fanti-ma-lassa-sta-li-santi",
+      "type": "proverb",
+      "original": "Scherza co' li fanti, ma lassa stà li santi.",
+      "variants": [
+        "Scherza ch'i fanti, ma lassa stà li santi"
+      ],
+      "literal_it": "Scherza coi fanti ma lascia stare i santi.",
+      "meaning_it": "Si può scherzare su tutto, non sul sacro.",
+      "meaning_en": "Joke with soldiers but leave the saints alone.",
+      "usage_context": "limits of jokes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piove-o-nun-piove-er-papa-magna",
+      "type": "ironic-saying",
+      "original": "Piove o nun piove, er Papa magna.",
+      "literal_it": "Piova o non piova il Papa mangia.",
+      "meaning_it": "I potenti stanno bene comunque.",
+      "meaning_en": "Rain or shine, the Pope eats.",
+      "usage_context": "the powerful never lose",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-roma-iddio-nun-e-trino-ma-quatrino",
+      "type": "ironic-saying",
+      "original": "A Roma Iddio nun è trino ma quatrino.",
+      "literal_it": "A Roma Dio non è trino ma quattrino.",
+      "meaning_it": "A Roma conta il denaro.",
+      "meaning_en": "In Rome God isn't triune but coin.",
+      "usage_context": "money rules",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pare-a-fabbrica-de-san-pietro",
+      "type": "idiom",
+      "original": "pare 'a fabbrica de San Pietro",
+      "variants": [
+        "pare la fabbrica de San Pietro"
+      ],
+      "literal_it": "sembra la fabbrica di San Pietro",
+      "meaning_it": "un lavoro che non finisce mai",
+      "meaning_en": "it's like the building of St Peter's",
+      "usage_context": "never-ending projects, eternal refactors",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dura-da-natale-a-santo-stefano",
+      "type": "idiom",
+      "original": "dura da Natale a Santo Stefano",
+      "literal_it": "dura da Natale a Santo Stefano",
+      "meaning_it": "dura pochissimo",
+      "meaning_en": "lasts from Christmas to Boxing Day",
+      "usage_context": "short-lived fixes, hype",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "san-paolo-quanno-casco-da-cavallo-disse-tanto-vole",
+      "type": "ironic-saying",
+      "original": "San Paolo quanno cascò da cavallo disse: «Tanto volevo scenne!»",
+      "literal_it": "San Paolo quando cadde da cavallo disse: «Tanto volevo scendere!»",
+      "meaning_it": "Detto di chi non ammette mai di aver sbagliato.",
+      "meaning_en": "When St Paul fell off his horse he said: 'I wanted to get off anyway!'",
+      "usage_context": "stubborn people who won't admit errors",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "costa-na-madonna",
+      "type": "idiom",
+      "original": "costa 'na Madonna",
+      "literal_it": "costa una Madonna",
+      "meaning_it": "costa moltissimo",
+      "meaning_en": "it costs a fortune",
+      "usage_context": "cloud bills",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Religious reference used as intensifier; not a curse, but avoid at vulgarity 0."
+    },
+    {
+      "id": "santa-lucia-che-nun-ce-vedi",
+      "type": "idiom",
+      "original": "Santa Lucia! Che nun ce vedi?",
+      "literal_it": "Santa Lucia! Non ci vedi?",
+      "meaning_it": "detto a una persona maldestra",
+      "meaning_en": "St Lucy! Can't you see?",
+      "usage_context": "clumsiness",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "volemose-bene",
+      "type": "ironic-saying",
+      "original": "volemose bene",
+      "literal_it": "vogliamoci bene",
+      "meaning_it": "invito a una riconciliazione di facciata",
+      "meaning_en": "let's all love each other",
+      "usage_context": "papering over conflicts",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nun-c-e-trippa-pe-gatti",
+      "type": "idiom",
+      "original": "nun c'è trippa pe' gatti",
+      "variants": [
+        "non c'è trippa per gatti"
+      ],
+      "literal_it": "non c'è trippa per gatti",
+      "meaning_it": "non ci sono risorse, non c'è niente da fare",
+      "meaning_en": "there's no tripe for cats",
+      "usage_context": "no budget, no chance",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-wiktionary"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "io-so-io-e-voi-nun-siete-un-cazzo",
+      "type": "saying",
+      "original": "Io so' io, e voi nun siete un cazzo.",
+      "variants": [
+        "Io so' io e vvoi nun zete un cazzo"
+      ],
+      "literal_it": "Io sono io e voi non siete un cazzo.",
+      "meaning_it": "Arroganza del potere (detto del re nel sonetto di Belli).",
+      "meaning_en": "I am me, and you lot are fuck-all.",
+      "usage_context": "arrogant bosses, ironic quoting",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-belli-wikisource"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Belli, 'Li soprani der monno vecchio' (1832): 'Io so' io, e vvoi nun zéte un c....' (word abbreviated in the 1886 edition). Popularised by the film Il marchese del Grillo."
+    },
+    {
+      "id": "l-ommini-de-sto-monno-so-ll-istesso-che-vvaghi-de",
+      "type": "metaphor",
+      "original": "L'ommini de sto monno so' ll'istesso che vvaghi de caffè nner mascinino.",
+      "literal_it": "Gli uomini di questo mondo sono come chicchi di caffè nel macinino.",
+      "meaning_it": "Tutti finiamo allo stesso modo, travolti dalla sorte.",
+      "meaning_en": "The men of this world are like coffee beans in the grinder.",
+      "usage_context": "fate, everyone ends up the same",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-belli-wikisource"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mica-pizza-e-fichi",
+      "type": "idiom",
+      "original": "mica pizza e fichi",
+      "literal_it": "mica pizza e fichi",
+      "meaning_it": "non è cosa da poco",
+      "meaning_en": "it's not pizza and figs",
+      "usage_context": "something impressive",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-intrepidguide"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "id": "dormi-a-culo-scoperto",
+      "type": "idiom",
+      "original": "dormì a culo scoperto",
+      "literal_it": "dormire a culo scoperto (svegliarsi nervoso e irritabile)",
+      "meaning_it": "Svegliarsi di cattivo umore.",
+      "meaning_en": "to wake up grumpy (lit. sleep with your backside bare)",
+      "usage_context": "Excuse for a bad morning mood or a prickly stand-up.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dormì: \"dormì a culo scoperto, svegliarsi nervoso e irritabile\". Humorous, aimed at oneself or a friend."
+    },
+    {
+      "id": "dormi-a-culo-sturato",
+      "type": "idiom",
+      "original": "dormì a culo sturato",
+      "literal_it": "dormire a culo sturato (dormire profondamente e con piacere)",
+      "meaning_it": "Dormire profondamente, di gusto.",
+      "meaning_en": "to sleep like a log, blissfully",
+      "usage_context": "Praising a restful night, humorous contrast with the previous idiom.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dormì: \"dormì a culo sturato, dormire profondamente e con piacere\". Good partner for dormì a culo scoperto."
+    }
+  ]
+}

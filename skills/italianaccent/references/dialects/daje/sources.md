@@ -1,6 +1,6 @@
 # Sources — Daje (City of Rome and its urban speech community (Romanesco). The profile follows contemporary urban Romanesco as described by the Vocabolario del romanesco contemporaneo; Belli-era forms are used only for proverbs and quotations. Other Lazio varieties (Castelli Romani, Ciociaria, Viterbese, Reatino) are not covered.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -17,4 +17,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-rom-wiktionary` | Wiktionary: Category:Romanesco Italian and individual entries (daje, aridaje, anvedi, ahó, ammazza, ammappa, mo, pischello, coatto, mortacci, me cojoni, sticazzi, etc.) | Wiktionary (en) | community-dictionary | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/Category:Romanesco_Italian> |
 | `src-rom-zanazzo-proverbi` | Proverbi romaneschi | Giggi Zanazzo / Agenzia giornalistica libraria Perino, Roma | public-domain | high | Public domain (author d. 1911; 1886 edition) (public-domain) | <https://archive.org/details/proverbiromanes00zanagoog> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

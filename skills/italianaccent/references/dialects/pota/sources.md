@@ -1,6 +1,6 @@
 # Sources — Potà (Province of Bergamo, Lombardy: the urban and lowland speech of Bergamo as documented in a recent spoken corpus and Wikipedia grammar. Valley varieties (Brembana, Seriana, Scalve), Cremasco and neighbouring Brescian are not covered.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -15,4 +15,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-bg-lmowiki-bergamasch` | Dialèt bergamàsch (Wikipedia in lombardo) | Wikipedia contributors / Wikimedia Foundation | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://lmo.wikipedia.org/wiki/Dialèt_bergamàsch> |
 | `src-bg-tiraboschi-proverbi` | Raccolta di proverbi bergamaschi (Wikisource, trascrizione) | Antonio Tiraboschi / Tipografia Fratelli Bolis, Bergamo (1875); Wikisource | public-domain | medium | Public domain (Tiraboschi, 1875); Wikisource transcription CC BY-SA (public-domain) | <https://it.wikisource.org/wiki/Raccolta_di_proverbi_bergamaschi> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

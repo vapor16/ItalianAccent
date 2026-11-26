@@ -1,0 +1,923 @@
+{
+ "dialect": "minchia",
+ "entries": [
+  {
+   "id": "addina-vecchia-fa-buon-broru",
+   "type": "proverb",
+   "original": "Addina vecchia fa buon broru",
+   "literal_it": "La gallina vecchia fa buon brodo.",
+   "meaning_it": "L'esperienza (e l'età) dà valore.",
+   "meaning_en": "Old hens make good broth: experience counts.",
+   "usage_context": "Defending an experienced colleague or older codebase.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "bannera-ri-cannavazzu",
+   "type": "idiom",
+   "original": "Bannera ri cannavazzu",
+   "literal_it": "Bandiera di stracci.",
+   "meaning_it": "Persona incoerente, che cambia opinione a seconda del vento.",
+   "meaning_en": "A flag of rags: someone with no consistent stance.",
+   "usage_context": "Teasing someone who flips positions.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "na-botta-a-la-utti-e-na-botta-a-lu-timpagnu",
+   "type": "proverb",
+   "original": "Na botta a la utti e na botta a lu timpagnu",
+   "literal_it": "Un colpo alla botte e uno al coperchio.",
+   "meaning_it": "Non scegliere una linea e accontentare tutti.",
+   "meaning_en": "A blow to the barrel and one to the lid: trying to please everyone.",
+   "usage_context": "Fence-sitting in a design debate.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "PalermoWeb prints 'Nabotta' (typo); corrected here."
+  },
+  {
+   "id": "sunnu-u-lazzu-e-a-strummula",
+   "type": "idiom",
+   "original": "Sunnu u lazzu e a strummula",
+   "literal_it": "Sono il laccio e la trottola.",
+   "meaning_it": "Due che stanno sempre insieme.",
+   "meaning_en": "They are the string and the top: inseparable.",
+   "usage_context": "Two colleagues always together.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source prints 'Sunnu “u lazzu e a strummula”'."
+  },
+  {
+   "id": "u-bonghiornu-si-viri-ra-matina",
+   "type": "proverb",
+   "original": "U bonghiornu si viri ra matina",
+   "literal_it": "Il buongiorno si vede dal mattino.",
+   "meaning_it": "Il buon inizio si capisce subito.",
+   "meaning_en": "You can tell a good day from its morning.",
+   "usage_context": "First results of a new project.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "conzala-comu-vuoi-ca-sempri-cucuzza-e",
+   "type": "proverb",
+   "original": "Cònzala comu vuoi ca sempri cucuzza è",
+   "literal_it": "Conditela come vuoi: è sempre zucca.",
+   "meaning_it": "Se la materia di base è scadente, nessun accorgimento la salva.",
+   "meaning_en": "Season it as you like, it is still a pumpkin.",
+   "usage_context": "Polishing bad code or a bad idea.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-avi-lingua-passa-u-mari",
+   "type": "proverb",
+   "original": "Cu avi lingua passa u mari",
+   "literal_it": "Chi ha lingua passa il mare.",
+   "meaning_it": "Chi sa parlare e chiedere arriva ovunque.",
+   "meaning_en": "Whoever has a tongue crosses the sea.",
+   "usage_context": "Encouraging someone to ask questions or the community.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "i-guai-ra-pignata-i-sapi-u-cucchiaru-ca-l-arrimina",
+   "type": "proverb",
+   "original": "I guai ra pignata i sapi u cucchiaru ca l'arrimina",
+   "literal_it": "I guai della pentola li conosce il cucchiaio che la mescola.",
+   "meaning_it": "Solo chi ci è dentro conosce i veri problemi.",
+   "meaning_en": "Only the spoon that stirs knows the pot's troubles.",
+   "usage_context": "Inside knowledge of a messy system.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nuddu-si-pigghia-si-nun-s-assumigghia",
+   "type": "proverb",
+   "original": "Nuddu si pigghia si nun s'assumigghia",
+   "literal_it": "Nessuno si prende se non si assomiglia.",
+   "meaning_it": "Ci si mette insieme a chi ci somiglia.",
+   "meaning_en": "Nobody pairs up with someone unlike themselves.",
+   "usage_context": "Two similar difficult people clashing or matching.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "addina-chi-camina-s-arricuogghi-ca-vuozza-china",
+   "type": "proverb",
+   "original": "Addina chi camina s'arricuogghi ca vuozza china",
+   "literal_it": "La gallina che gira torna col gozzo pieno.",
+   "meaning_it": "Chi si dà da fare, qualcosa ottiene.",
+   "meaning_en": "The hen that wanders comes home with a full crop.",
+   "usage_context": "Urging someone to stop waiting and act.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "acieddu-i-malutiempu",
+   "type": "saying",
+   "original": "Acieddu i malutiempu",
+   "literal_it": "Uccello del maltempo.",
+   "meaning_it": "Chi porta guai con la sua presenza (detto delle guardie).",
+   "meaning_en": "Bird of bad weather: a bringer of trouble.",
+   "usage_context": "Someone whose arrival means trouble.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "austu-e-riustu-e-capo-r-invernu",
+   "type": "proverb",
+   "original": "Austu e riustu è capo r'invernu",
+   "literal_it": "Agosto e settembre sono l'inizio dell'inverno.",
+   "meaning_it": "Alla fine dell'estate si preannuncia l'autunno.",
+   "meaning_en": "August and September herald winter.",
+   "usage_context": "Weather, end of summer.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source prints 'Austu e riustu' (g of agustu dropped)."
+  },
+  {
+   "id": "chiovi-assuppa-viddani",
+   "type": "saying",
+   "original": "Chiovi assuppa viddani",
+   "literal_it": "Piove, inzuppa i contadini.",
+   "meaning_it": "Pioggia sottile e insistente che bagna tutto.",
+   "meaning_en": "Rain that soaks the farmers: fine, steady rain.",
+   "usage_context": "Weather; slow creeping problems.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi",
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm gives 'chioviri a assuppaviddanu'."
+  },
+  {
+   "id": "a-pasqua-e-natali-puru-i-lagnusi-addivientanu-massari",
+   "type": "proverb",
+   "original": "A Pasqua e Natali puru i lagnusi addivientanu massari",
+   "literal_it": "A Pasqua e Natale anche i pigri diventano massaie.",
+   "meaning_it": "Prima delle feste tutti si danno da fare con le pulizie.",
+   "meaning_en": "At Easter and Christmas even the lazy become housekeepers.",
+   "usage_context": "Pre-release cleanups.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "megghiu-u-tintu-canusciutu-ca-u-buonu-a-canusciri",
+   "type": "proverb",
+   "original": "Megghiu u tintu canusciutu ca u buonu a canusciri",
+   "literal_it": "Meglio il cattivo conosciuto che il buono da conoscere.",
+   "meaning_it": "Meglio il male noto che l'incertezza del nuovo.",
+   "meaning_en": "Better the bad you know than the good you have yet to meet.",
+   "usage_context": "Legacy stack versus rewrite.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "l-occhiu-ru-patruni-ngrassa-u-cavaddu",
+   "type": "proverb",
+   "original": "L'occhiu ru patruni ngrassa u cavaddu",
+   "literal_it": "L'occhio del padrone ingrassa il cavallo.",
+   "meaning_it": "Solo il proprietario cura bene ciò che è suo.",
+   "meaning_en": "The owner's eye fattens the horse.",
+   "usage_context": "Ownership and code review.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "i-macchi-hannu-l-uocchi-e-i-mura-hannu-l-aricchi",
+   "type": "proverb",
+   "original": "I macchi hannu l'uocchi e i mura hannu l'aricchi",
+   "literal_it": "I cespugli hanno occhi e i muri hanno orecchie.",
+   "meaning_it": "Anche i segreti si sanno.",
+   "meaning_en": "Bushes have eyes and walls have ears.",
+   "usage_context": "A secret got out.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source prints 'hanno' once; normalised to hannu."
+  },
+  {
+   "id": "supra-a-carta-si-canta-a-musica",
+   "type": "proverb",
+   "original": "Supra a carta si canta a musica",
+   "literal_it": "Sopra la carta (lo spartito) si canta la musica.",
+   "meaning_it": "Senza soldi non si fa niente.",
+   "meaning_en": "The music is sung from the sheet: nothing happens without money.",
+   "usage_context": "Budget talks.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source's gloss: 'senza soldi non si fa nulla'."
+  },
+  {
+   "id": "u-picca-abbasta-assai-assuviecchia",
+   "type": "proverb",
+   "original": "U picca abbasta, assai assuviecchia",
+   "literal_it": "Il poco basta, il troppo è superfluo.",
+   "meaning_it": "La misura è meglio dell'eccesso.",
+   "meaning_en": "A little is enough; too much is surplus.",
+   "usage_context": "Over-engineering.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mancia-ru-to-mancia-e-ru-to-saziatinni",
+   "type": "proverb",
+   "original": "Mancia ru to mancia e ru to' saziatinni",
+   "literal_it": "Mangia del tuo e del tuo saziati.",
+   "meaning_it": "Usa le tue risorse.",
+   "meaning_en": "Eat from your own and be satisfied from your own.",
+   "usage_context": "Using own resources, not borrowed ones.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "u-cavaddu-bonu-si-viri-a-cursa-longa",
+   "type": "proverb",
+   "original": "U cavaddu bonu si viri a cursa longa",
+   "literal_it": "Il buon cavallo si vede alla lunga corsa.",
+   "meaning_it": "Il valore di una persona si vede col tempo.",
+   "meaning_en": "A good horse shows on the long run.",
+   "usage_context": "Judging a new hire.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-taci-accunsenti",
+   "type": "proverb",
+   "original": "Cu taci accunsenti",
+   "literal_it": "Chi tace acconsente.",
+   "meaning_it": "Il silenzio vale come assenso.",
+   "meaning_en": "Silence is consent.",
+   "usage_context": "A meeting where nobody objects.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "voli-a-utti-china-e-a-muggheri-mriaca",
+   "type": "proverb",
+   "original": "Voli a 'utti china e a muggheri 'mriaca",
+   "literal_it": "Vuole la botte piena e la moglie ubriaca.",
+   "meaning_it": "Pretendere tutto senza rinunciare a nulla.",
+   "meaning_en": "Wanting the barrel full and the wife drunk: having it both ways.",
+   "usage_context": "Scope creep.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Original sentence is sexist in image; used only as mild joke."
+  },
+  {
+   "id": "tantu-va-a-quartara-all-acqua-ca-si-rumpi-o-si-ciacca",
+   "type": "proverb",
+   "original": "Tantu va a quartara all'acqua ca si rumpi o si ciacca",
+   "literal_it": "Tanto va la brocca all'acqua che si rompe o si incrina.",
+   "meaning_it": "Lo sforzo continuo logora.",
+   "meaning_en": "The jug goes to the well so often that it breaks or cracks.",
+   "usage_context": "Burnout; pushing a system too hard.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nun-nquitari-u-cani-chi-duormi",
+   "type": "proverb",
+   "original": "Nun 'nquitari u cani chi duormi",
+   "literal_it": "Non molestare il cane che dorme.",
+   "meaning_it": "Non provocare chi sta tranquillo.",
+   "meaning_en": "Let sleeping dogs lie.",
+   "usage_context": "Touching legacy code that works.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "n-signati-l-arti-e-mettila-ra-parti",
+   "type": "proverb",
+   "original": "N'signati l'arti e mettila ra parti",
+   "literal_it": "Impara l'arte e mettila da parte.",
+   "meaning_it": "Un mestiere imparato serve sempre.",
+   "meaning_en": "Learn a trade and keep it aside.",
+   "usage_context": "Learning to code.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Source prints \"N'signati\" (initial 'm' dropped / elided)."
+  },
+  {
+   "id": "cu-lassa-a-vecchia-pi-la-nova-sapi-chiddu-chi-lassa-ma-un-sa",
+   "type": "proverb",
+   "original": "Cu lassa a vecchia pi la nova sapi chiddu chi lassa ma un sapi chiddu ca trova",
+   "literal_it": "Chi lascia la vecchia per la nuova sa cosa lascia, non cosa trova.",
+   "meaning_it": "Il cambiamento è un'incognita.",
+   "meaning_en": "Whoever leaves the old for the new knows what they leave, not what they find.",
+   "usage_context": "Migration decisions.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ti-manciasti-lu-sceccu-e-ti-cunfunni-pi-la-cura",
+   "type": "idiom",
+   "original": "Ti manciasti lu sceccu e ti cunfunni pi la cura",
+   "literal_it": "Ti sei mangiato l'asino e ti confondi per la coda.",
+   "meaning_it": "Stai cedendo proprio sull'ultima parte di un lavoro difficile.",
+   "meaning_en": "You ate the donkey and now stumble at the tail.",
+   "usage_context": "Final polishing of a hard project.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi",
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vai-circannu-scecchi-morti-pi-livarici-i-ferri",
+   "type": "idiom",
+   "original": "Vai circannu scecchi morti pi livarici i ferri",
+   "literal_it": "Vai cercando asini morti per togliere loro i ferri.",
+   "meaning_it": "Sei uno che cerca guai.",
+   "meaning_en": "You go looking for dead donkeys to remove their shoes: you seek trouble.",
+   "usage_context": "Someone digging for problems.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi",
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nun-mi-cuntari-li-tri-jorna-du-fistinu",
+   "type": "idiom",
+   "original": "Nun mi cuntari li tri jorna du fistinu",
+   "literal_it": "Non raccontarmi i tre giorni del festino.",
+   "meaning_it": "Non dirmi frottole né cose che so già.",
+   "meaning_en": "Don't tell me the three days of the festino (tall tales).",
+   "usage_context": "Cutting short a long excuse.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "jiri-ri-cassaru-e-cassaru",
+   "type": "idiom",
+   "original": "Jiri ri cassaru e cassaru",
+   "literal_it": "Andare di cassaro in cassaro.",
+   "meaning_it": "Andare dritto per la propria strada.",
+   "meaning_en": "To go straight from cassaro to cassaro: straight on, no detours.",
+   "usage_context": "Straight-line debugging.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "si-surdu-comu-una-campana",
+   "type": "idiom",
+   "original": "Sì surdu comu una campana",
+   "literal_it": "Sei sordo come una campana.",
+   "meaning_it": "Non ascolti consigli, ostinato.",
+   "meaning_en": "You're deaf as a bell: refusing advice.",
+   "usage_context": "Stubborn colleague.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "aprili-lu-duci-durmiri-ne-livari-ne-mittiri",
+   "type": "saying",
+   "original": "Aprili lu duci durmiri, nè livari nè mìttiri",
+   "literal_it": "Aprile il dolce dormire: né togliere né mettere.",
+   "meaning_it": "In aprile non cambiare i vestiti, il tempo è instabile.",
+   "meaning_en": "April is for sleeping sweetly; neither remove nor add layers.",
+   "usage_context": "Spring weather.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chiu-longa-e-a-pinsata-chiu-grossa-e-a-minchiata",
+   "type": "saying",
+   "original": "Chiù longa è a pinsata, chiù grossa è a minchiata",
+   "literal_it": "Più è lunga la pensata, più è grossa la minchiata.",
+   "meaning_it": "Più ci pensi troppo, più grosso è l'errore.",
+   "meaning_en": "The longer the pondering, the bigger the blunder.",
+   "usage_context": "Overthinking before acting.",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Sicilian (Palermo outlet)",
+   "sources": [
+    "src-pa-balarm-chiu-longa"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm also reports a joke variant 'chiù longa… chiù longa'."
+  },
+  {
+   "id": "muriu-u-cani",
+   "type": "idiom",
+   "original": "Muriu u cani",
+   "literal_it": "È morto il cane.",
+   "meaning_it": "È andata malissimo.",
+   "meaning_en": "The dog died: it went as badly as possible.",
+   "usage_context": "A failed deploy.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chi-nicchi-e-nacchi",
+   "type": "idiom",
+   "original": "Chi nicchi e nacchi",
+   "literal_it": "Che niente e che altro?",
+   "meaning_it": "Che c'entra? Che discorsi?",
+   "meaning_en": "What's that got to do with anything?",
+   "usage_context": "Rejecting a non sequitur.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm links it to Latin 'nec hic nec hoc' (the author's etymology)."
+  },
+  {
+   "id": "manciarisi-l-ossa-cu-sali",
+   "type": "idiom",
+   "original": "Manciarisi l'ossa cu sali",
+   "literal_it": "Mangiarsi le ossa col sale.",
+   "meaning_it": "Rodersi dall'invidia.",
+   "meaning_en": "To gnaw one's bones with salt: to be eaten up by envy.",
+   "usage_context": "Jealous colleague.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "canazzo-di-bancata",
+   "type": "metaphor",
+   "original": "Canazzo di bancata",
+   "literal_it": "Cagnaccio da banco.",
+   "meaning_it": "Chi vive a sbafo, scroccone.",
+   "meaning_en": "Stall-dog: a freeloader.",
+   "usage_context": "Someone who lives at others' expense.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "p-un-cuinnutu-un-cuinnutu-e-mienzu",
+   "type": "ironic-saying",
+   "original": "P'un cuinnutu, un cuinnutu e mienzu!",
+   "literal_it": "Per un cornuto, un cornuto e mezzo!",
+   "meaning_it": "Vendetta proporzionata: restituire con l'interesse.",
+   "meaning_en": "For one cuckold, one and a half cuckolds: tit-for-tat with interest.",
+   "usage_context": "Vowing proportionate payback.",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Spelling with diphthong ('mienzu') as in the source."
+  },
+  {
+   "id": "parrari-picca-e-miricamento",
+   "type": "saying",
+   "original": "Parrari picca è miricamento",
+   "literal_it": "Parlare poco è medicina.",
+   "meaning_it": "Parlare poco fa bene.",
+   "meaning_en": "Speaking little is medicine.",
+   "usage_context": "Advice to keep quiet in a meeting.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (Palermo outlet)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ogni-mpidimentu-e-giuvamentu",
+   "type": "proverb",
+   "original": "Ogni mpidimentu è giuvamentu",
+   "literal_it": "Ogni impedimento è giovamento.",
+   "meaning_it": "Anche un ostacolo può rivelarsi utile.",
+   "meaning_en": "Every obstacle can turn out beneficial.",
+   "usage_context": "Consolation after a blocked release.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (Palermo outlet)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chi-nesci-arrinesci",
+   "type": "proverb",
+   "original": "Chi nesci arrinesci",
+   "literal_it": "Chi esce riesce.",
+   "meaning_it": "Chi esce dalla propria comodità ha successo.",
+   "meaning_en": "He who goes out, succeeds.",
+   "usage_context": "Encouraging a move or a new skill.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (Palermo outlet)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nuttata-persa-e-figlia-fimmina",
+   "type": "idiom",
+   "original": "Nuttata persa e figlia fimmina",
+   "literal_it": "Nottata persa e figlia femmina.",
+   "meaning_it": "Tanta fatica per un risultato mediocre.",
+   "meaning_en": "A night lost and a daughter born: much effort for a poor result.",
+   "usage_context": "Overnight work with nothing to show.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (Palermo outlet)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Traditional phrase; the image reflects an old attitude, so use for effort/result only."
+  },
+  {
+   "id": "u-sceccu-unni-cari-si-susi",
+   "type": "proverb",
+   "original": "U sceccu unni cari si susi",
+   "literal_it": "L'asino dove cade si alza.",
+   "meaning_it": "Non drammatizzare: accetta la situazione e riparti.",
+   "meaning_en": "The donkey gets up where it falls.",
+   "usage_context": "After a failed build.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lu-sceccu-vecchju-nun-torna-pudditru",
+   "type": "proverb",
+   "original": "Lu sceccu vecchju nun torna pudditru",
+   "literal_it": "L'asino vecchio non torna puledro.",
+   "meaning_it": "Non si può tornare indietro.",
+   "meaning_en": "An old donkey never becomes a foal again.",
+   "usage_context": "Irreversible choices.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ogni-fruttu-voli-la-so-staggiuni",
+   "type": "proverb",
+   "original": "Ogni fruttu voli la so staggiuni",
+   "literal_it": "Ogni frutto vuole la sua stagione.",
+   "meaning_it": "Ogni cosa ha il suo tempo.",
+   "meaning_en": "Every fruit wants its season.",
+   "usage_context": "Rushing a release.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cui-scava-lu-fossu-lu-primu-ci-cadi",
+   "type": "proverb",
+   "original": "Cui scava lu fossu, lu primu ci cadi",
+   "literal_it": "Chi scava la fossa, ci cade per primo.",
+   "meaning_it": "Chi trama contro altri ne paga le conseguenze.",
+   "meaning_en": "Who digs the pit falls in first.",
+   "usage_context": "Sabotaging colleagues.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-simina-spini-nun-po-raccogghiri-rosi",
+   "type": "proverb",
+   "original": "Cu' simina spini nun pò raccogghiri rosi",
+   "literal_it": "Chi semina spine non raccoglie rose.",
+   "meaning_it": "Le azioni hanno conseguenze.",
+   "meaning_en": "Who sows thorns cannot reap roses.",
+   "usage_context": "Skipping tests.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-navi-rutta-ogni-ventu-e-cuntrariu",
+   "type": "proverb",
+   "original": "A navi rutta ogni ventu è cuntrariu",
+   "literal_it": "Alla nave rotta ogni vento è contrario.",
+   "meaning_it": "Quando le cose vanno male, tutto sembra contro.",
+   "meaning_en": "For a broken ship every wind is contrary.",
+   "usage_context": "A bad day.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nun-cc-e-megghiu-sarsa-di-la-fami",
+   "type": "proverb",
+   "original": "Nun cc'è megghiu sarsa di la fami",
+   "literal_it": "Non c'è salsa migliore della fame.",
+   "meaning_it": "Quando hai bisogno, ti accontenti.",
+   "meaning_en": "There is no better sauce than hunger.",
+   "usage_context": "Tired devs eat anything.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pigghia-cunsigghiu-di-prudenti-chi-mai-ti-nni-penti",
+   "type": "proverb",
+   "original": "Pigghia cunsigghiu di prudenti chi mai ti nni penti",
+   "literal_it": "Prendi consiglio dal prudente e non te ne pentirai.",
+   "meaning_it": "Ascolta chi è saggio.",
+   "meaning_en": "Take advice from the prudent and you'll never regret it.",
+   "usage_context": "Code review.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "u-sceccu-pi-minchia-ti-futti-no-pi-cirivieddu",
+   "type": "saying",
+   "original": "U sceccu pi minchia ti futti no pi cirivieddu",
+   "literal_it": "L'asino (ti fotti / ti piace) per la minchia, non per il cervello: il verbo futtiri non è glossato dalla fonte",
+   "meaning_it": "Il detto ribadisce che l'asino non brilla per cervello e lo lega alla sfera sessuale.",
+   "meaning_en": "The donkey is known for his dick, not his brain: the saying stresses the ass's lack of intelligence and its sexual reputation.",
+   "usage_context": "Mocking a stubborn or thick-headed person or piece of kit, with a vulgar wink.",
+   "register": "vulgar",
+   "vulgarity": 5,
+   "geographical_area": "Sicily (general)",
+   "sources": [
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Vermiglio (peer-reviewed, 2024) quotes it as confirming the man/donkey comparison; the exact sense of \"ti futti\" is not glossed, so the literal gloss is approximate."
+  },
+  {
+   "id": "ama-diu-e-futti-u-prossimu",
+   "type": "ironic-saying",
+   "original": "Ama Diu e futti u prossimu",
+   "literal_it": "Ama Dio e fotti il prossimo.",
+   "meaning_it": "Si dice dei bigotti devoti ma spietati e disonesti con gli altri.",
+   "meaning_en": "Love God and screw your neighbour: said of devout churchgoers who are ruthless with others.",
+   "usage_context": "Hypocrisy, sanctimonious colleagues, ironic verdict.",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Sicily (no area attribution in the source)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single popular source (Balarm 30 modi di dire); spelling partly western. Ironic, not blasphemous."
+  }
+ ]
+}

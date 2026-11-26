@@ -1,0 +1,1075 @@
+{
+  "dialect": "bischero",
+  "entries": [
+    {
+      "id": "bischero",
+      "original": "bischero",
+      "variants": [
+        "bischera",
+        "bischeraccio"
+      ],
+      "category": "insult",
+      "literal_meaning": "sciocco, ingenuo; (volgare) pene",
+      "meaning_it": "fool, sucker; vulgar: penis",
+      "meaning_en": "fool, sucker",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "own mistakes",
+        "bugs"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "people grieving"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Bravo bischero, hai cancellato i' branch!",
+          "translation_it": "Bravo scemo, hai cancellato il branch!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-treccani-bischero",
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Identifier word. Mild and mostly affectionate; hostile by tone."
+    },
+    {
+      "id": "bischerata",
+      "original": "bischerata",
+      "category": "insult",
+      "literal_meaning": "azione sciocca",
+      "meaning_it": "a silly act, blunder",
+      "meaning_en": "a blunder",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "regret",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "own mistakes",
+        "bad decisions"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che bischerata!",
+          "translation_it": "Che sciocchezza!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bischero-pene",
+      "original": "bischero (organo maschile)",
+      "category": "anatomical",
+      "literal_meaning": "sinonimo volgare di pene",
+      "meaning_it": "vulgar word for the male genitals",
+      "meaning_en": "penis",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": false,
+        "emotional": [
+          "crude humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "very crude banter"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "default"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-treccani-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Documented sense only; generate rarely. The default sense is 'fool'."
+    },
+    {
+      "id": "grullo",
+      "original": "grullo",
+      "category": "insult",
+      "literal_meaning": "sciocco, un po' ottuso",
+      "meaning_it": "silly, dim-witted",
+      "meaning_en": "silly person",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "self-deprecation"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Non fare i' grullo!",
+          "translation_it": "Non fare lo sciocco!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-itwikt-grullo",
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "citrullo",
+      "original": "citrullo",
+      "category": "insult",
+      "literal_meaning": "cetriolo (sciocco)",
+      "meaning_it": "simpleton",
+      "meaning_en": "simpleton",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che citrullo!",
+          "translation_it": "Che sciocco!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-treccani-bischero"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Seen only through a search summary; low use."
+    },
+    {
+      "id": "ciabattone",
+      "original": "ciabattone",
+      "category": "insult",
+      "literal_meaning": "persona sciatta, incapace",
+      "meaning_it": "slob, incompetent person",
+      "meaning_en": "slob",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "messy code",
+        "teasing friends"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Sei un ciabattone.",
+          "translation_it": "Sei un trasandato.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maremma-maiala",
+      "original": "Maremma maiala",
+      "variants": [
+        "Maremma maiala!"
+      ],
+      "category": "exclamation",
+      "literal_meaning": "Maremma sporca (da Madonna maiala)",
+      "meaning_it": "Tuscan oath of anger or surprise",
+      "meaning_en": "minced oath, damn it all",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "surprise",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "bad luck",
+        "bad day"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "religious persons present"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Maremma maiala, s'è piantato i' server!",
+          "translation_it": "Accidenti, il server si è bloccato!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi",
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Minced oath of 'Madonna maiala'; 'Maremma' replaces the sacred name, so it is not flagged as blasphemy. Shared Tuscan oath: keep it from reading as Livornese."
+    },
+    {
+      "id": "dio-bono",
+      "original": "Dio bono",
+      "variants": [
+        "Dio bonino"
+      ],
+      "category": "imprecation",
+      "literal_meaning": "Dio buono (attenuazione di una bestemmia)",
+      "meaning_it": "softened Tuscan blasphemous oath",
+      "meaning_en": "softened oath",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "bad luck"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "religious persons present"
+      ],
+      "blasphemy": true,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Dio bono, che giornata!",
+          "translation_it": "Che giornata, accidenti!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity",
+        "src-fi-itwiki-bestemmia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Minced form of a stronger oath; typical of Tuscany. Flagged blasphemy-adjacent: only at vulgarity 5."
+    },
+    {
+      "id": "porca-madonna",
+      "original": "porca Madonna",
+      "category": "blasphemy",
+      "literal_meaning": "(epiteto) + Madonna",
+      "meaning_it": "strong blasphemous oath",
+      "meaning_en": "strong blasphemous oath",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "extreme frustration"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "religious persons present",
+        "default"
+      ],
+      "blasphemy": true,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Porca Madonna, s'è cancellato tutto!",
+          "translation_it": "Maledizione, si è cancellato tutto!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity",
+        "src-fi-itwiki-bestemmia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Blasphemy. Only at vulgarity 5, aimed at situations. enwiki-profanity: blasphemy is common in Tuscany and Veneto."
+    },
+    {
+      "id": "porco-zio",
+      "original": "porco zio",
+      "category": "exclamation",
+      "literal_meaning": "porco zio (zio in luogo di Dio)",
+      "meaning_it": "minced version of porco Dio",
+      "meaning_en": "minced blasphemous oath",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": true,
+      "generation_allowed": false,
+      "examples": [
+        {
+          "text": "Porco zio, 'un parte!",
+          "translation_it": "Maledizione, non parte!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-itwiki-bestemmia"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Pattern 'porco + divine name' documented (itwiki-bestemmia); zio as substitute is known but not read in a source. Low confidence. Unverified blasphemy-adjacent form: generation disabled."
+    },
+    {
+      "id": "porca-miseria",
+      "original": "porca miseria",
+      "category": "exclamation",
+      "literal_meaning": "miseria sporca",
+      "meaning_it": "bloody hell",
+      "meaning_en": "damn it",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "bad day"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Porca miseria, ancora i' bug!",
+          "translation_it": "Accidenti, ancora il bug!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General Italian, not Florentine. Light use."
+    },
+    {
+      "id": "accidenti",
+      "original": "accidenti",
+      "category": "exclamation",
+      "literal_meaning": "accidenti",
+      "meaning_it": "damn!",
+      "meaning_en": "damn!",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "surprise",
+          "annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "surprises"
+      ],
+      "inappropriate_contexts": [
+        "none"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Accidenti a i' compilatore!",
+          "translation_it": "Accidenti al compilatore!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cazzo",
+      "original": "cazzo",
+      "variants": [
+        "cazzata"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "pene",
+      "meaning_it": "cock; general intensifier",
+      "meaning_en": "fuck / damn",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "surprise"
+        ]
+      },
+      "appropriate_contexts": [
+        "bugs",
+        "emphasis"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "default"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ma che cazzo è 'sto errore?",
+          "translation_it": "Ma che diavolo è questo errore?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "General Italian, not Florentine-specific."
+    },
+    {
+      "id": "culo",
+      "original": "culo",
+      "category": "anatomical",
+      "literal_meaning": "sedere",
+      "meaning_it": "arse; luck",
+      "meaning_en": "arse",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "crude humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing",
+        "luck"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "L'è sempre andaho 'n culo a tutti.",
+          "translation_it": "È sempre andata male a tutti.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested idioms: pigliare per i' culo; andare 'n culo."
+    },
+    {
+      "id": "pigliare-culo",
+      "original": "pigliare per i' culo",
+      "category": "vulgar-idiom",
+      "literal_meaning": "prendere per il culo",
+      "meaning_it": "to take the mickey",
+      "meaning_en": "to take the mickey",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "teasing",
+        "irritation"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ci pigliava per i' culo anche i' bidello.",
+          "translation_it": "Ci prendeva in giro anche il bidello.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fava",
+      "original": "fava",
+      "category": "anatomical",
+      "literal_meaning": "fava (legume)",
+      "meaning_it": "vulgar for penis",
+      "meaning_en": "dick",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "crude humour"
+        ]
+      },
+      "appropriate_contexts": [
+        "very crude banter"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "enwiki-profanity: common in Tuscany. Sparing use."
+    },
+    {
+      "id": "stronzo",
+      "original": "stronzo",
+      "category": "insult",
+      "literal_meaning": "stronzo (escremento)",
+      "meaning_it": "turd; arsehole",
+      "meaning_en": "arsehole",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only"
+      ],
+      "inappropriate_contexts": [
+        "friends",
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Quel collega è 'no stronzo.",
+          "translation_it": "Quel collega è uno stronzo.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "General Italian."
+    },
+    {
+      "id": "coglione",
+      "original": "coglione",
+      "category": "insult",
+      "literal_meaning": "testicolo",
+      "meaning_it": "idiot, fool",
+      "meaning_en": "dickhead",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friends",
+        "hostile"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Che coglione, ho scordato i' commit!",
+          "translation_it": "Che scemo, ho scordato il commit!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "General Italian; Florentine banter prefers bischero."
+    },
+    {
+      "id": "vaffanculo",
+      "original": "vaffanculo",
+      "category": "dismissal",
+      "literal_meaning": "va' a fare in culo",
+      "meaning_it": "fuck off",
+      "meaning_en": "fuck off",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only"
+      ],
+      "inappropriate_contexts": [
+        "formal",
+        "friends"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Vaffanculo, 'un lo fo!",
+          "translation_it": "Vaffanculo, non lo faccio!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "General Italian."
+    },
+    {
+      "id": "rompere-palle",
+      "original": "rompere le palle",
+      "category": "vulgar-idiom",
+      "literal_meaning": "rompere i testicoli",
+      "meaning_it": "to be a pain",
+      "meaning_en": "to be a pain",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "annoying colleagues"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Quel collega mi rompe le palle.",
+          "translation_it": "Quel collega mi dà fastidio.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General Italian; low specificity."
+    },
+    {
+      "id": "pelato-culo-scimmie",
+      "original": "pelato come il culo delle scimmie",
+      "category": "vulgar-metaphor",
+      "literal_meaning": "pelato come il sedere delle scimmie",
+      "meaning_it": "bald as a monkey's backside",
+      "meaning_en": "bald as a monkey's arse",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "comic insult"
+      ],
+      "inappropriate_contexts": [
+        "formal"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maiala",
+      "original": "maiala",
+      "category": "insult",
+      "literal_meaning": "scrofa",
+      "meaning_it": "vulgar insult toward a promiscuous woman",
+      "meaning_en": "slut",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "none"
+      ],
+      "inappropriate_contexts": [
+        "default"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gendered insult documented as common in Tuscany and Umbria. Not generated."
+    },
+    {
+      "id": "troiaio",
+      "original": "troiaio",
+      "category": "exclamation",
+      "figurative_meaning": "pasticcio, lavoro venuto male, situazione confusa",
+      "meaning_it": "Che casino, che pasticcio.",
+      "meaning_en": "What a mess / what a botch-up.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "disgust",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "commentare un deploy o un cantiere andato male",
+        "un evento organizzato in modo caotico"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "riferito a donne"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Two popular local glossaries (not independent). Kano66 notes it is not considered very vulgar in Tuscany; it is a noun for a mess, never a word for a person. Use as 'che troiaio!' at situations only."
+    },
+    {
+      "id": "non-me-ne-sbatte-un-cazzo",
+      "original": "non me ne sbatte un cazzo",
+      "variants": [
+        "sbattissene"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "non me ne sbatte un cazzo",
+      "figurative_meaning": "non me ne importa niente (indifferenza aggressiva)",
+      "meaning_it": "Non me ne frega niente.",
+      "meaning_en": "I couldn't give a damn.",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference",
+          "defiance",
+          "humorous dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "liquidare una polemica tra amici",
+        "sbuffare davanti a una richiesta assurda"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "con i superiori"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Both glossaries cite it under 'sbattissene' (fregarsene). The wording is common in general Italian, so Florentine flavour has to come from the surrounding grammar (i', un, icché)."
+    },
+    {
+      "id": "non-te-la-tirare",
+      "original": "Non te la tirare!",
+      "variants": [
+        "tirassela",
+        "Non te la menare!"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "non tirartela",
+      "figurative_meaning": "smettila di darti arie",
+      "meaning_it": "Non darti delle arie.",
+      "meaning_en": "Don't get on your high horse.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "friendly mockery",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "sgonfiare un amico che si vanta",
+        "rispondere a chi fa il superiore"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Glossary entries 'tirassela' (darsi arie) and 'menassela'; florencecity notes a vulgar double sense. Variants listed there: 'non te la menare!'."
+    },
+    {
+      "id": "pottino",
+      "original": "pottino",
+      "variants": [
+        "pottone"
+      ],
+      "category": "insult",
+      "literal_meaning": "derivato da potta (sesso femminile)",
+      "figurative_meaning": "chi fa il superiore senza averne le qualità, smargiasso",
+      "meaning_it": "Pallone gonfiato, sbruffone.",
+      "meaning_en": "Show-off, wannabe.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "derision",
+          "sarcasm",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere un millantatore",
+        "roast di un amico sbruffone"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "donne in generale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Glossaries list pottino/pottina/pottone for a show-off; kano66 adds the intensified 'pottino di merda'. Root is the vulgar word potta; it targets pretension, not women or any group."
+    },
+    {
+      "id": "merdaiolo",
+      "original": "merdaiolo",
+      "category": "insult",
+      "literal_meaning": "venditore di merda",
+      "figurative_meaning": "approfittatore, imbroglione",
+      "meaning_it": "Approfittatore, truffatore.",
+      "meaning_en": "Cheat, grifter.",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "giudizio duro su un truffatore"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "amici (non è affettuoso)"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Two popular glossaries (not independent): a nasty, cheating person. Hostile only."
+    }
+  ]
+}

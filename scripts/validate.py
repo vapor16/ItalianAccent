@@ -347,6 +347,61 @@ def update_readmes() -> None:
         f.write_text(t, encoding="utf-8")
 
 
+DIRECTORY = ROOT / "claude-directory"
+DIRECTORY_README = """# ItalianAccent
+
+**Artificial Intelligence. Authentic Italian Attitude.**
+
+Declarative Agent Skill (Markdown + JSON only, no executable code) that makes Claude speak one of eleven Italian
+local varieties with their grammar, vocabulary, proverbs, idioms, humor and **uncensored profanity**: Trimone
+(Barese), Mbare (Catanese), Wallera (Napoletano), Daje (Romanesco), Mena (Leccese), Minchia (Palermitano),
+Belin (Genovese), Bischero (Fiorentino), Boia dé (Livornese), Pirla (Milanese), Potà (Bergamasco).
+
+**Explicit language, opt-in only.** Nothing changes until you activate a mode; vulgarity can be lowered to 0 at any
+time. The host model's safety rules always apply. All modes are experimental (no native-speaker review yet).
+
+## Install
+
+```text
+/plugin install italianaccent --marketplace vapor16/italianaccent
+```
+
+## Usage
+
+```text
+/italianaccent:italianaccent              help and list of modes
+/italianaccent:italianaccent wallera      activate (intensity 5, vulgarity 5)
+/italianaccent:italianaccent vulgarity 2  tone it down
+/italianaccent:italianaccent off          back to normal
+```
+
+Natural language also works: "Activate ItalianAccent in Daje mode."
+
+Source, documentation and contributions: https://github.com/vapor16/ItalianAccent — MIT License (see LICENSE);
+third-party sources in THIRD_PARTY_NOTICES.md.
+"""
+
+
+def build_directory() -> Path:
+    """Generate the Claude Public Directory package from the single source of truth (never edit it by hand)."""
+    import shutil
+
+    if DIRECTORY.exists():
+        shutil.rmtree(DIRECTORY)
+    shutil.copytree(SKILL_DIR, DIRECTORY / "skills" / "italianaccent",
+                    ignore=shutil.ignore_patterns("__pycache__", "*.pyc", ".DS_Store"))
+    (DIRECTORY / ".claude-plugin").mkdir(parents=True)
+    shutil.copy2(ROOT / ".claude-plugin" / "plugin.json", DIRECTORY / ".claude-plugin" / "plugin.json")
+    shutil.copy2(ROOT / ".claude-plugin" / "icon.png", DIRECTORY / ".claude-plugin" / "icon.png")
+    shutil.copy2(ROOT / "LICENSE", DIRECTORY / "LICENSE")
+    notices = (ROOT / "THIRD_PARTY_NOTICES.md").read_text(encoding="utf-8").replace(
+        "`research/sources.json`",
+        "https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json")
+    (DIRECTORY / "THIRD_PARTY_NOTICES.md").write_text(notices, encoding="utf-8")
+    (DIRECTORY / "README.md").write_text(DIRECTORY_README, encoding="utf-8")
+    return DIRECTORY
+
+
 def build_zip() -> Path:
     fm = parse_frontmatter((SKILL_DIR / "SKILL.md").read_text(encoding="utf-8"))
     version = (fm.get("metadata") or {}).get("version", "0.0.0")
@@ -386,7 +441,8 @@ def integrate(pid: str) -> list[str]:
             for e in load_json(pdir / fname)["entries"]:
                 used |= set(e.get("sources", []))
     lines = [f"# Sources — {meta['display_name']} ({meta.get('geographical_area') or meta['region']})", "",
-             "Generated from `research/sources.json` by `scripts/validate.py --integrate`. "
+             "Generated from the project source registry "
+             "(https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). "
              "Meanings and annotations in this profile are original; sources are cited, not copied.", "",
              "| ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |",
              "|---|---|---|---|---|---|---|"]
@@ -398,7 +454,7 @@ def integrate(pid: str) -> list[str]:
         who = " / ".join(x for x in [s.get("author", ""), s.get("publisher", "")] if x)
         lines.append(f"| `{sid}` | {s['title']} | {who} | {s['source_type']} | {s['reliability']} | "
                      f"{s['license']} ({s['redistribution']}) | <{s['url']}> |")
-    lines += ["", f"Access date of all sources: see `research/sources.json` (`access_date`).", ""]
+    lines += ["", "Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json", ""]
     (pdir / "sources.md").write_text("\n".join(lines), encoding="utf-8")
     meta["sources"] = sorted(used & set(by_id))
     (pdir / "metadata.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -420,9 +476,13 @@ def main() -> int:
     ap.add_argument("--zip", action="store_true")
     ap.add_argument("--integrate", metavar="ID")
     ap.add_argument("--readme", action="store_true", help="regenerate the catalog tables in the READMEs")
+    ap.add_argument("--directory", action="store_true", help="regenerate claude-directory/ (Claude Public Directory package)")
     a = ap.parse_args()
     if a.stats:
         print(stats())
+        return 0
+    if a.directory:
+        print(build_directory())
         return 0
     if a.readme:
         update_readmes()

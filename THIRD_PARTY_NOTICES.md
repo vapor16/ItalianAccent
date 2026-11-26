@@ -5,7 +5,7 @@ Linguistic facts were researched from the sources below. **No dictionary text is
 rule, idiom or proverb is attested, with original descriptions written for this project. Traditional proverbs and
 idioms are anonymous popular heritage and are quoted only in their short attested form, with citation.
 
-Total registered sources: 160. Full metadata (URL, author, access date, license, reliability): `research/sources.json`.
+Total registered sources: 186. Full metadata (URL, author, access date, license, reliability): https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json.
 
 ## Openly licensed sources (attribution; facts used and rephrased, no verbatim copying)
 
@@ -81,6 +81,7 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - Italian profanity (English Wikipedia) — Wikimedia Foundation — CC BY-SA 4.0 — <https://en.wikipedia.org/wiki/Italian_profanity>
 - Proverbi siciliani (Wikiquote in italiano) — Wikimedia Foundation — CC BY-SA 4.0 — <https://it.wikiquote.org/wiki/Proverbi_siciliani>
 - Wiktionary, Sicilian entries (via kaikki.org machine-readable extraction) — Wiktionary contributors; kaikki.org (T. Ylonen) — CC BY-SA 4.0 / GFDL — <https://kaikki.org/dictionary/Sicilian/>
+- Wiktionary: bucchino (Neapolitan) — Wiktionary (en) — CC BY-SA 4.0 — <https://en.wiktionary.org/wiki/bucchino>
 
 ## Public-domain sources
 
@@ -113,6 +114,7 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - Il dialetto Barese: le origini e una guida su come si parla e come si scrive — Stella Chirulli, Visit Italy — All rights reserved — <https://www.visititaly.eu/it/storie-e-tradizioni/il-dialetto-barese-le-origini-e-una-guida-su-come-si-parla-e-come-si-scrive>
 - Pòta nèh: i segnali discorsivi del bergamasco contemporaneo (tesi magistrale) — Valentina Carrara, Università degli Studi di Pavia, Dipartimento di Studi Umanistici — Thesis deposited in the University of Pavia repository (copyright of the author); consulted for facts and short attested examples — <https://unitesi.unipv.it/retrieve/74eec36a-7eb5-425f-80a1-a64440b2d65f/Carrara_Valentina_Tesi.pdf>
 - Vocabolario bergamasco-italiano (Ducato di Piazza Pontida) — Ducato di Piazza Pontida — Site content (cultural association); consulted for facts only — <https://www.ducatodipiazzapontida.it/en/vocabolario-bergamasco-italiano>
+- Impieghi simbolici (e non solo) del dialetto bergamasco nel paesaggio linguistico locale — Federica Guerini, Studi Italiani di Linguistica Teorica e Applicata — Open access repository (SILTA 2025) — <https://aisberg.unibg.it/retrieve/d371cea5-c620-46e8-9eb5-34a6f6fb5456/GueriniSilta%20n.%203.2025.pdf>
 - Se a Catania ti dicono 'babb'i l'ova' non ti stanno facendo un complimento (Balarm) — All rights reserved — <https://www.balarm.it/news/se-a-catania-ti-dicono-babb-i-l-ova-non-ti-stanno-facendo-un-complimento-ecco-perche-126827>
 - In Sicilia c'e un proverbio per le cause perse: 'u porcu avi sulu tri pila' (Balarm) — All rights reserved — <https://www.balarm.it/news/in-sicilia-c-e-un-proverbio-per-le-cause-perse-perche-si-dice-che-u-porcu-avi-sulu-tri-pila-144452>
 - 'Pacchione', la parola che in Sicilia fa la differenza tra Catania e Palermo (BlogSicilia) — All rights reserved — <https://www.blogsicilia.it/palermo/pacchione-la-parola-che-in-sicilia-fa-la-differenza-tra-catania-e-palermo/347118/>
@@ -121,10 +123,18 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - Il dialetto siciliano e l'influenza delle altre culture (LiveUnict Catania) — All rights reserved — <https://catania.liveuniversity.it/2016/11/27/il-dialetto-siciliano-e-linfluenza-delle-altre-culture-ecco-da-dove-derivano-alcuni-termini/>
 - 10 proverbi siciliani e le loro spiegazioni (LiveUnict Catania) — All rights reserved — <https://catania.liveuniversity.it/2019/03/31/10-proverbi-siciliani-spiegazione/>
 - 10 parole siciliane da conoscere prima di andare in Sicilia (Sololibri) — All rights reserved — <https://sololibri.net/10-parole-conoscere-prima-andare-sicilia.html>
+- Detti, non parole! Quando il parlante riconosce la lingua — Neri Binazzi, Italiano digitale — Open access (Italiano digitale, 2021) — <https://flore.unifi.it/retrieve/e398c381-4171-179a-e053-3705fe0a4cff/Binazzi_italiano_digitale_2021_detti.pdf>
 - Note linguistiche sul cinema di Leonardo Pieraccioni (in Scritti per Nicoletta Maraschio, Accademia della Crusca, 2018) — Accademia della Crusca / Univ. Firenze (FLORE) — Open access repository (all rights reserved) — <https://flore.unifi.it/retrieve/e398c37e-0d18-179a-e053-3705fe0a4cff/Binazzi_miscellanea_Maraschio.pdf>
+- Parole di Firenze dal Vocabolario del fiorentino contemporaneo (presentazione) — Accademia della Crusca — Accademia della Crusca, not stated — <https://accademiadellacrusca.it/sites/www.accademiadellacrusca.it/files/page/2012/12/19/presentazione_parole_di_firenze.pdf>
+- Il significato delle parole fiorentine dalla A alla I (FlorenceCity) — FlorenceCity — All rights reserved — <https://florencecity.it/il-significato-delle-parole-fiorentine-dalla-a-alla-i>
+- Vocabolario fiorentino (Parole pensate) — WordPress blog — Blog, rights with author — <https://kano66.wordpress.com/vocabolario-fiorentino/>
 - Parole toscane (La Nazione, Firenze) — La Nazione — Journalism, all rights reserved — <https://www.lanazione.it/firenze/cronaca/parole-toscane-b9ff605c>
+- Proverbi e modi di dire fiorentini (LastraOnline) — LastraOnline — All rights reserved — <https://www.lastraonline.it/p/proverbi-modi-di-dire-fiorentini.php>
 - Thirteen dialect words you need to know in Florence (The Local Italy) — The Local Italy — Journalism, all rights reserved — <https://www.thelocal.it/20190513/thirteen-dialect-words-you-need-to-know-in-florence>
 - bischero (Vocabolario Treccani) — Istituto della Enciclopedia Italiana — Treccani, consultation only — <https://www.treccani.it/vocabolario/bischero/>
+- Forza Napoli Shop: product 'BANDIERA CIATA FA' SOLO NU BUCCHIN'' — Forza Napoli Shop (merchandise) — All rights reserved — <https://forzanapolishop.it/collections/bandiere-2>
+- Glosbe: bocchino in Neapolitan — Glosbe (community dictionary) — Mixed (aggregated; see site) — <https://it.glosbe.com/it/nap/bocchino>
+- Instagram post by ragnar.gk, caption 'Ciata eà sul nu BUCCHIN!' (23 May 2025) — Instagram — All rights reserved — <https://www.instagram.com/p/DKA4MKMClMb/>
 - Dizionario Livornese (A-Z of the Livorno vernacular) — Marco Catarsi, Altervista (self-published) — Copyright the author; no open license stated — <https://livornese.altervista.org/>
 - Dizionario Livornese - Scelte di trascrizione fonetica — Marco Catarsi, Altervista (self-published) — Copyright the author; no open license stated — <https://livornese.altervista.org/index.php?menu=grafia>
 - Vocabolario della lingua livornese - Pescheria Arbulla — Pescheria Arbulla — Copyright the site owner; no open license stated — <https://garbulla.jimdofree.com/vocabolario-livornese/>
@@ -133,14 +143,19 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - Livorno Magazine - Vernacolando — Livorno Magazine (editorial), Livorno Magazine — Copyright Livorno Magazine; no open license stated — <https://www.livornomagazine.it/Livornesita/Vernacolando.htm>
 - Dialetti toscani (Enciclopedia dell'Italiano) — Treccani (Enciclopedia dell'Italiano), Istituto della Enciclopedia Italiana — Treccani, all rights reserved — <https://www.treccani.it/enciclopedia/dialetti-toscani_(Enciclopedia-dell'Italiano)/>
 - Genoese-Italian 'vulgar' phraseology in GEPHRAS and GEPHRAS2 — Erica Autelli, Linguistik online — Open access (Linguistik online 118, 6/22) — <https://bop.unibe.ch/linguistik-online/article/download/9046/12017/40407>
+- La fraseografia genovese e le più recenti innovazioni in GEPHRAS e GEPHRAS2 — Erica Autelli, Christine Konecny, Linguistik online — Open access (Linguistik online) — <https://bop.unibe.ch/linguistik-online/article/download/10782/13931/49179>
 - The Most Famous Genoese Words And Phrases — Babbel Magazine — All rights reserved — <https://www.babbel.com/en/magazine/genoese-words-and-phrases>
 - Genoese dialect: from belin to bernarda — Guida di Genova — All rights reserved — <https://www.guidadigenova.it/en/?p=70>
+- 10 Words That You Can Only Hear in Liguria — Instantly Italy — All rights reserved — <https://instantlyitaly.com/words-you-can-hear-only-in-liguria/>
 - Come parlare ligure — Italy Segreta — All rights reserved — <https://italysegreta.com/come-parlare-ligure/>
 - 10 tipici modi di dire e proverbi genovesi — Mentelocale — All rights reserved — <https://www.mentelocale.it/genova/2556-10-tipici-modi-dire-proverbi-genovesi-superba-dialetto.htm>
+- (OT LUNGO) Espressione dialettale: BELIN! (thread, it.sport.calcio.genoa) — Google Groups — Usenet posts, rights with authors — <https://groups.google.com/g/it.sport.calcio.genoa/c/WK_6tY-qeFs>
 - Grafia ofiçiâ (zeneize.net, Académia Ligùstica do Brénno) — Académia Ligùstica do Brénno — Not stated — <https://www.zeneize.net/grafia/>
 - Milanese: The Voice of Milan (elon.io) — elon.io — All rights reserved (educational site) — <https://elon.io/grammar/italian/regional/milanese-dialect>
 - Modi di dire alla milanese: il verbo andare (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/modi-di-dire-alla-milanese-il-verbo-andare.html>
+- Derby di Milano: bauscia e casciavit (MilanoFree) — MilanoFree — All rights reserved — <https://www.milanofree.it/milano/eventi/derby-di-milano-bauscia-e-casciavit.html>
 - Detti milanesi: espressioni, proverbi e modi di dire di Milano (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/detti-milanesi-espressioni-proverbi-e-modi-di-dire-di-milano.html>
+- Ganassa: significato, origine e differenze con bauscia e sborone (MilanoFree) — MilanoFree — All rights reserved — <https://www.milanofree.it/milano/tradizioni/ganassa-significato-origine-e-differenze-con-bauscia-e-sborone.html>
 - Gergo milanese: parole ed espressioni del parlar furbesco (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/gergo-milanese-parole-ed-espressioni-del-parlar-furbesco.html>
 - Glossario di termini milanesi: significato ed esempi d'uso (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/glossario-di-termini-milanesi-significato-ed-esempi-duso.html>
 - Lingua milanese: pronuncia, grammatica e esempi (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/lingua-milanese-pronuncia-grammatica-e-esempi.html>
@@ -149,20 +164,26 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - Proverbi in dialetto milanese: significato e traduzione (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/proverbi-in-dialetto-milanese-significato-e-traduzione.html>
 - Modi di dire meneghini: il verbo sapere (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/modi-di-dire-meneghini-il-verbo-sapere.html>
 - Vocabolario inglese-milanese: parole utili, pronuncia e frasi lampo (MilanoFree) — MilanoFree.it — All rights reserved (popular site) — <https://www.milanofree.it/milano/tradizioni/vocabolario-inglese%E2%80%93milanese-parole-utili-pronuncia-e-frasi-lampo.html>
+- baùscia (Vocabolario Treccani) — Treccani — Treccani, all rights reserved — <https://www.treccani.it/vocabolario/bauscia/>
+- pirla (Vocabolario Treccani) — Treccani — Treccani, all rights reserved — <https://www.treccani.it/vocabolario/pirla/>
 - Appuniscë a parlesia? Uno studio sui posteggiatori napoletani e il loro gergo (tesi di laurea magistrale) — Anna Fortunato, Università degli Studi di Padova — All rights reserved (thesis repository, open access) — <https://thesis.unipd.it/bitstream/20.500.12608/24439/1/Anna_Fortunato_2017.pdf>
 - La frutta realistica ci ha fatto la uallera, video virale — Scatti di Gusto — All rights reserved — <https://www.scattidigusto.it/la-frutta-realistica-ci-ha-fatto-la-uallera-video-virale>
 - Glossary of Neapolitan: the most used and known words in Naples and beyond — visitnaples.eu — All rights reserved — <https://visitnaples.eu/en/neapolitanity/tales-of-naples/glossary-of-neapolitan-the-most-used-and-known-words-in-naples-and-beyond>
 - Un amminchiato si fissa, il crastu è un furbo: in viaggio tra i modi di dire in Sicilia — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/un-amminchiato-si-fissa-il-crastu-e-un-furbo-in-viaggio-tra-i-modi-dire-in-sicilia-146122>
+- Mi hai rotto i cabbasisi: le espressioni siciliane più diffuse che derivano dall'arabo (Balarm) — Balarm — All rights reserved — <https://www.balarm.it/news/mi-hai-rotto-i-cabbasisi-le-espressioni-siciliane-piu-diffuse-che-derivano-dall-arabo-113091>
 - Chiù longa è a pinsata, chiù grossa è a minchiata: come nasce un modo di dire siciliano — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/chiu-longa-e-a-pinsata-chiu-grossa-e-a-minchiata-come-nasce-un-modo-di-dire-siciliano-128420>
+- In Sicilia è una strana offesa: perché si dice "facci 'i signa" (Balarm) — Balarm — All rights reserved — <https://www.balarm.it/news/forse-non-lo-ricordi-ma-in-sicilia-e-una-strana-offesa-perche-si-dice-facci-i-signa-140954>
 - C'è chi si arrimina e chi è una camurria: alcune parole siciliane (quasi) intraducibili — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/c-e-chi-si-arrimina-e-chi-e-una-camurria-alcune-parole-siciliane-quasi-intraducibili-139050>
 - Insostituibile nel bene e nel male: elogio di una termine che racconta la storia, minchia — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/insostituibile-nel-bene-e-nel-male-elogio-di-una-termine-che-racconta-la-storia-minchia-59751>
 - In Sicilia con una parola puoi dire una cosa e il contrario: storia di un malaminnitta — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/in-sicilia-con-una-parola-puoi-dire-una-cosa-e-il-contrario-storia-di-un-malaminnitta-147363>
 - Cuinnutu, vaistunatu e pure attassato: se ti ci rivedi in Sicilia sei un mischino — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/cuinnutu-vaistunatu-e-pure-attassato-se-ti-ci-rivedi-in-sicilia-sei-un-mischino-149658>
 - Il siciliano è una babele: una spiegazione alla sanfasò di alcune famose frasi di uso comune — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/il-siciliano-e-una-babele-una-spiegazione-alla-sanfaso-di-alcune-famose-frasi-di-uso-comune-123595>
+- Se semu a mari lo sai, va scupati u mari: 10 detti da sapere in Sicilia (Balarm) — Balarm — All rights reserved — <https://www.balarm.it/news/se-semu-a-mari-lo-sai-va-scupati-u-mari-e-per-pochi-10-detti-da-sapere-in-sicilia-158464>
 - Da tabù a poliedrico mito pop: il suca nasce, cresce e prospera, e non solo in Sicilia — Balarm — Copyright Balarm (facts-only citation) — <https://www.balarm.it/news/da-tabu-a-poliedrico-mito-pop-il-suca-nasce-cresce-e-prospera-e-non-solo-in-sicilia-122740>
 - Proposta di normalizzazione ortografica comune della lingua siciliana, I edizione 2017 — Cademia Siciliana — Not stated (facts cited only) — <https://cademiasiciliana.org/wp-content/uploads/2017/10/Proposta-di-normalizzazione-ortografica-comune-della-lingua-siciliana-I-edizione-2017.pdf>
 - A trip in Sicily? The Palermitan words every Tourist needs to know — Saverio Schirò, Palermoviva — Copyright Palermoviva (facts-only citation) — <https://www.palermoviva.it/?p=101306>
 - Detti, proverbi e... scongiuri palermitani — PalermoWeb — Copyright PalermoWeb (facts-only citation) — <https://www.palermoweb.it/palermo/detti-proverbi-e-scongiuri-palermitani/>
+- Le parole del tempo perduto. Ritrovate tra le pagine di Camilleri, Sciascia, Consolo e molti altri — Roberto Sottile, Università di Palermo (IRIS institutional repository, author copy) — All rights reserved (open repository copy) — <https://iris.unipa.it/retrieve/e3ad891a-53c2-da0e-e053-3705fe0a2b96/navarra_sottile_es01.pdf>
 - «E fra le dita, sola / frìccica una parola». Un friccico di romanesco nell'italiano contemporaneo — Kevin De Vecchis, Edizioni Università per Stranieri di Siena — All rights reserved — <https://edizioni.unistrasi.it/public/articoli/641/files/27__de_vecchis.pdf>
 - Romanesco: The Voice of Rome (Italian grammar, regional section) — Elon.io — All rights reserved — <https://elon.io/grammar/italian/regional/roman-romanesco>
 - Romanesco: 25 Cool Roman Dialect Words You Should Use in Rome — Michele Frolla, The Intrepid Guide — All rights reserved — <https://www.theintrepidguide.com/?p=6006>
@@ -177,3 +198,8 @@ Wikipedia, Wiktionary/Wikizionario and Wikiquote content is © their contributor
 - 30 modi di dire siciliani (quasi) intraducibili (Balarm) — All rights reserved — <https://www.balarm.it/news/ci-sono-i-pidocchi-ripigghiati-e-i-cicirara-30-modi-di-dire-siciliani-quasi-intraducibili-144870>
 - Dalla A di Annacati alla Z di Ziccusu: l'alfabeto della 'raggia' (Balarm) — All rights reserved — <https://www.balarm.it/news/dalla-a-di-annacati-alla-z-di-ziccusu-in-sicilia-c-e-un-vero-e-proprio-alfabeto-della-raggia-142995>
 - Sicily (report, PRIN 2017 'Models of language variation and change'; suppl. material to Guardiano, Cambria & Stalfieri 2022, Languages 7:255) — Vincenzo Stalfieri — Not stated (academic report) — <https://www.parametricomparison.unimore.it/wp-content/uploads/2026/05/840000364nuova_relaz_Sici.pdf>
+- Slengo: bucchino and related entries (bucchino, bucchin e mammt, bucchinaro, figlie e bucchin, ce fatt 'nu bucchin, kella bucchin e mammt) — Slengo (user-contributed slang dictionary) — All rights reserved (site terms) — <https://slengo.it/define/bucchino>
+- Slengo: Campania slang entries (Tie, jamm checazz, mamm ro carmn, salutame a' soreta, mocc a mamm't, scassambrella, chiagni e fotti, né pe' bevere né pe' sciacqua', pesce pigliato ca' botta) — Slengo (user-contributed slang dictionary) — All rights reserved (site terms) — <https://slengo.it/browse/region/campania>
+- Slengo: Puglia slang entries (trimoneggiare, farsi un trimone, chi te muerto, chitemmuort, che film hai visto, mena, uagnù) — Slengo (user-contributed slang dictionary) — All rights reserved (site terms) — <https://slengo.it/browse/region/puglia>
+- Threads post by @puokemed on Neapolitans opening comments with 'Figlio 'e Bukkì' (17 Dec 2023) — Threads — All rights reserved — <https://www.threads.com/@puokemed/post/C0-fqPnorNh>
+- Volgarmente: bucchino — Volgarmente (user dictionary of vulgar terms) — All rights reserved — <https://www.volgarmente.com/termini/bucchino>

@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../../../schemas/profanity.schema.json",
   "dialect": "pirla",
   "entries": [
     {

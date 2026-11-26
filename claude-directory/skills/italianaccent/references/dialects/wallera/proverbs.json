@@ -1,0 +1,1236 @@
+{
+  "dialect": "wallera",
+  "entries": [
+    {
+      "id": "a-buscia-esce-ncopp-o-naso",
+      "type": "proverb",
+      "original": "'A buscia esce 'ncopp' 'o naso.",
+      "literal_it": "La bugia esce sul naso.",
+      "meaning_it": "Le bugie si scoprono.",
+      "meaning_en": "Lies get found out.",
+      "usage_context": "lies, excuses for a failed build",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-bona-campana-se-sente-a-luntano",
+      "type": "proverb",
+      "original": "'A bona campana se sente 'a luntano.",
+      "literal_it": "La buona campana si sente da lontano.",
+      "meaning_it": "Una buona reputazione si diffonde da sola.",
+      "meaning_en": "A good bell is heard from afar: good reputation travels.",
+      "usage_context": "reputation, good work",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-casa-d-o-mpiso-nun-parla-e-corda",
+      "type": "proverb",
+      "original": "'A casa d''o 'mpiso nun parlà 'e corda.",
+      "literal_it": "A casa dell'impiccato non parlare di corda.",
+      "meaning_it": "Non toccare argomenti che feriscono chi ascolta.",
+      "meaning_en": "Don't mention rope in the hanged man's house: avoid tactless topics.",
+      "usage_context": "tact, awkward topics",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-cavallo-e-razza-nun-serve-o-scurriato",
+      "type": "proverb",
+      "original": "A cavallo 'e razza nun serve 'o scurriato.",
+      "literal_it": "A un cavallo di razza non serve la frusta.",
+      "meaning_it": "Chi vale non ha bisogno di essere spronato.",
+      "meaning_en": "A thoroughbred needs no whip: capable people need no pushing.",
+      "usage_context": "good colleagues, motivation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-chi-pazzea-cu-o-ciuccio-nun-le-mancano-e-cauce",
+      "type": "proverb",
+      "original": "A chi pazzèa cu' 'o ciuccio nun le mancano 'e càuce.",
+      "literal_it": "A chi scherza con l'asino non mancano i calci.",
+      "meaning_it": "Chi si mette con gente sciocca o testarda ne paga le conseguenze.",
+      "meaning_en": "Whoever plays with the donkey will not lack kicks.",
+      "usage_context": "bad company, arguing with fools",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-cicala-canta-canta-e-po-schiatta",
+      "type": "proverb",
+      "original": "'A cicala canta, canta e po' schiàtta.",
+      "literal_it": "La cicala canta, canta e poi scoppia.",
+      "meaning_it": "Chi si vanta o spreca senza misura finisce male.",
+      "meaning_en": "The cicada sings and sings until it bursts.",
+      "usage_context": "boasting, burnout, overwork",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-crianza-e-bona-tridece-mise-all-anno",
+      "type": "proverb",
+      "original": "'A crianza è bona tridece mise all'anno.",
+      "literal_it": "La cortesia è buona tredici mesi all'anno.",
+      "meaning_it": "Le buone maniere servono sempre.",
+      "meaning_en": "Good manners are good thirteen months a year.",
+      "usage_context": "politeness, code review tone",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-famma-nun-tene-suonno",
+      "type": "proverb",
+      "original": "'A famma nun tene suonno.",
+      "literal_it": "La fame non ha sonno.",
+      "meaning_it": "Chi ha bisogno non si ferma.",
+      "meaning_en": "Hunger has no sleep.",
+      "usage_context": "need, long nights",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-fissazi-ne-e-peggio-d-a-malatia",
+      "type": "proverb",
+      "original": "'A fissazióne è pèggio d''a malatìa.",
+      "literal_it": "La fissazione è peggio della malattia.",
+      "meaning_it": "Ostinarsi su un'idea fa più danni del male stesso.",
+      "meaning_en": "An obsession is worse than the illness.",
+      "usage_context": "premature optimization, stubbornness",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-gatta-pe-ghi-e-pressa-facette-e-figlie-cecate",
+      "type": "proverb",
+      "original": "'A gatta pe' ghi' 'e pressa facette 'e figlie cecate.",
+      "variants": [
+        "A gatta pe' ghi' 'e pressa facette 'e figlie cecate."
+      ],
+      "literal_it": "La gatta, per andare di fretta, fece i figli ciechi.",
+      "meaning_it": "La fretta produce lavori mal riusciti.",
+      "meaning_en": "The cat, hurrying, bore blind kittens: haste spoils the job.",
+      "usage_context": "haste, hotfix in production, deadlines",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-gatta-quanno-nun-po-arriva-o-lardo-dice-ca-fete",
+      "type": "proverb",
+      "original": "'A gatta quanno nun po' arrivà ô lardo, dice ca fete.",
+      "variants": [
+        "A gatta quanno nu' po' arrevà' ô lardo, rice ca fete."
+      ],
+      "literal_it": "La gatta, quando non arriva al lardo, dice che puzza.",
+      "meaning_it": "Si disprezza ciò che non si riesce ad avere.",
+      "meaning_en": "When the cat can't reach the lard, she says it stinks: sour grapes.",
+      "usage_context": "envy, sour grapes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-legge-e-fatta-p-e-fesse",
+      "type": "proverb",
+      "original": "'A légge è fatta p''e fesse.",
+      "literal_it": "La legge è fatta per i fessi.",
+      "meaning_it": "Detto con ironia amara: chi rispetta le regole ci rimette.",
+      "meaning_en": "The law is made for suckers (bitterly ironic).",
+      "usage_context": "rules, bureaucracy, compliance",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-lucerna-senz-uoglie-se-stuta",
+      "type": "proverb",
+      "original": "'A lucerna senz'uoglie se stuta.",
+      "literal_it": "La lampada senza olio si spegne.",
+      "meaning_it": "Senza risorse nulla va avanti.",
+      "meaning_en": "A lamp without oil goes out.",
+      "usage_context": "resources, budget, burnout",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-meglia-parola-e-chella-ca-nun-se-dice",
+      "type": "proverb",
+      "original": "'A meglia parola è chella ca nun se dice.",
+      "literal_it": "La migliore parola è quella che non si dice.",
+      "meaning_it": "A volte tacere è meglio.",
+      "meaning_en": "The best word is the one left unsaid.",
+      "usage_context": "silence, heated discussions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-preta-piccerella-mmerteca-o-carro",
+      "type": "proverb",
+      "original": "'A preta piccerella 'mmèrteca 'o carro.",
+      "literal_it": "La pietra piccola ribalta il carro.",
+      "meaning_it": "Un piccolo dettaglio può causare un grande danno.",
+      "meaning_en": "A small stone overturns the cart.",
+      "usage_context": "tiny bugs, details, typos",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-votta-da-chello-che-tene",
+      "type": "proverb",
+      "original": "'A votta dà chello che tene.",
+      "literal_it": "La botte dà quello che contiene.",
+      "meaning_it": "Ognuno può dare solo ciò che ha.",
+      "meaning_en": "The barrel gives what it holds.",
+      "usage_context": "limits, expectations of people",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "areto-o-monte-nce-sta-a-scesa",
+      "type": "proverb",
+      "original": "Areto ô monte nce sta 'a scesa.",
+      "literal_it": "Dietro il monte c'è la discesa.",
+      "meaning_it": "Dopo la salita arriva la discesa: le cose cambiano.",
+      "meaning_en": "Behind the mountain there is the descent.",
+      "usage_context": "encouragement, change of fortune",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "astipate-o-piezzo-janco-pe-quanno-veneno-e-tiempe-nire",
+      "type": "proverb",
+      "original": "Astipate 'o piezzo janco pe' quanno veneno 'e tiempe nire.",
+      "literal_it": "Conserva il pezzo bianco per quando verranno i tempi neri.",
+      "meaning_it": "Metti da parte qualcosa per i momenti difficili.",
+      "meaning_en": "Save the white piece for when black times come.",
+      "usage_context": "backups, savings, prudence",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cantanno-se-smesa-o-dulore",
+      "type": "proverb",
+      "original": "Cantanno se smèsa 'o dulore.",
+      "literal_it": "Cantando si dimezza il dolore.",
+      "meaning_it": "Distrarsi alleggerisce il male.",
+      "meaning_en": "Singing halves the pain.",
+      "usage_context": "bad day, consolation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chisto-e-o-munno-chi-naveca-e-chi-va-a-funno",
+      "type": "proverb",
+      "original": "Chisto è 'o munno: chi naveca e chi va a funno.",
+      "literal_it": "Questo è il mondo: chi naviga e chi va a fondo.",
+      "meaning_it": "La sorte è diversa per ciascuno.",
+      "meaning_en": "This is the world: some sail, some sink.",
+      "usage_context": "unfairness, fate",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "corsa-e-ciuccio-poco-dura",
+      "type": "proverb",
+      "original": "Corsa 'e ciuccio poco dura.",
+      "literal_it": "Corsa d'asino dura poco.",
+      "meaning_it": "Lo slancio di chi non è tagliato per la cosa finisce presto.",
+      "meaning_en": "A donkey's race doesn't last long.",
+      "usage_context": "bursts of enthusiasm, sprints",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-a-verita-nun-se-pazzea",
+      "type": "proverb",
+      "original": "Cu 'a verità nun se pazzea.",
+      "literal_it": "Con la verità non si scherza.",
+      "meaning_it": "Sulla verità non si fanno giochi.",
+      "meaning_en": "One does not play with the truth.",
+      "usage_context": "honesty, incidents, postmortems",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "da-ca-a-dimane-nasceno-ciente-pape",
+      "type": "proverb",
+      "original": "Da cà a dimane nasceno ciente pape.",
+      "literal_it": "Da qui a domani nascono cento papi.",
+      "meaning_it": "Domani tutto può cambiare.",
+      "meaning_en": "From now to tomorrow a hundred popes are born.",
+      "usage_context": "uncertainty, long plans",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-ciucce-s-appiccecano-e-e-varrile-se-scassano",
+      "type": "proverb",
+      "original": "E ciucce s'appiccecano e 'e varrile se scassano.",
+      "literal_it": "Gli asini litigano e i barili si rompono.",
+      "meaning_it": "Quando i potenti litigano, ne pagano gli altri.",
+      "meaning_en": "The donkeys quarrel and the barrels break.",
+      "usage_context": "office politics, collateral damage",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-denare-fanno-veni-a-vist-e-cecate",
+      "type": "proverb",
+      "original": "E denare fanno veni' a vist'ê cecate.",
+      "literal_it": "I soldi fanno tornare la vista ai ciechi.",
+      "meaning_it": "Il denaro rende tutti improvvisamente attenti.",
+      "meaning_en": "Money makes the blind see.",
+      "usage_context": "money, sudden interest",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-mosche-corrono-addo-sta-o-doce-o-ncopp-a-merda",
+      "type": "proverb",
+      "original": "E mosche corrono addò sta 'o doce o 'ncopp' 'a merda.",
+      "literal_it": "Le mosche corrono dove c'è il dolce o sulle deiezioni.",
+      "meaning_it": "Gli opportunisti si buttano su ciò che conviene o su ciò che è marcio.",
+      "meaning_en": "Flies run to the sweet or to the filth.",
+      "usage_context": "opportunists, gossip",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nisciuno-e-nato-mparato",
+      "type": "proverb",
+      "original": "Nisciuno è nato 'mparato.",
+      "literal_it": "Nessuno è nato istruito.",
+      "meaning_it": "Si impara sbagliando; nessuno nasce esperto.",
+      "meaning_en": "Nobody is born knowing.",
+      "usage_context": "learning, mistakes, juniors",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "storta-va-deritta-vene",
+      "type": "proverb",
+      "original": "Storta va, deritta vene.",
+      "variants": [
+        "Storta va deritta vene, sempre storta nun pò gghì."
+      ],
+      "literal_it": "Va storta, viene diritta.",
+      "meaning_it": "Dopo un fallimento le cose si raddrizzano.",
+      "meaning_en": "It goes crooked, it comes straight.",
+      "usage_context": "bad day, failure",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pe-ffa-o-papa-s-ha-dda-sape-fa-o-sacrestano",
+      "type": "proverb",
+      "original": "Pe' ffà 'o Papa s'ha dda sapè fà 'o sacrestano.",
+      "literal_it": "Per fare il Papa bisogna saper fare il sacrestano.",
+      "meaning_it": "Si parte dalle basi per arrivare in alto.",
+      "meaning_en": "To be Pope you must first know how to be a sacristan.",
+      "usage_context": "career, fundamentals, juniors",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pe-n-aceno-e-sale-se-perde-a-menesta",
+      "type": "proverb",
+      "original": "Pe' n'aceno 'e sale se perde 'a menesta.",
+      "literal_it": "Per un grano di sale si perde la minestra.",
+      "meaning_it": "Un piccolo errore rovina tutto.",
+      "meaning_en": "For one grain of salt the soup is lost.",
+      "usage_context": "off-by-one, typo, config error",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-pesce-fete-d-a-capa",
+      "type": "proverb",
+      "original": "'O pesce fete d''a capa.",
+      "literal_it": "Il pesce puzza dalla testa.",
+      "meaning_it": "I guai partono dai capi.",
+      "meaning_en": "The fish stinks from the head.",
+      "usage_context": "bad management",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ogne-scarraf-ne-e-bbello-a-mamma-s-ia",
+      "type": "proverb",
+      "original": "Ogne scarrafóne è bbèllo 'a màmma sóia.",
+      "variants": [
+        "Ogne scarrafone è bbello a mamma soja."
+      ],
+      "literal_it": "Ogni scarafaggio è bello per la madre.",
+      "meaning_it": "Ognuno trova bella la propria creatura.",
+      "meaning_en": "Every cockroach is beautiful to its mother.",
+      "usage_context": "own code, code review",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-parla-chiaro-e-fatto-pe-ll-amice",
+      "type": "proverb",
+      "original": "'O parlà chiaro è fatto pe' ll'amice.",
+      "variants": [
+        "'O parla' chiaro è fatto pe 'll'amice."
+      ],
+      "literal_it": "Il parlar chiaro è fatto per gli amici.",
+      "meaning_it": "Con gli amici si è franchi.",
+      "meaning_en": "Plain talk is for friends.",
+      "usage_context": "feedback, conflict",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "va-chiano-ca-vaco-e-pressa",
+      "type": "proverb",
+      "original": "Va' chiano, ca vaco 'e pressa.",
+      "literal_it": "Va' piano, che vado di fretta.",
+      "meaning_it": "Se hai fretta, procedi con calma.",
+      "meaning_en": "Go slowly, for I am in a hurry.",
+      "usage_context": "deadlines, haste",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attributed on the page to a monsignor speaking to his coachman."
+    },
+    {
+      "id": "o-cane-mozzeca-o-stracciato",
+      "type": "proverb",
+      "original": "'O cane mozzeca 'o stracciato.",
+      "variants": [
+        "O cane mozzeca 'o stracciato."
+      ],
+      "literal_it": "Il cane morde lo straccione.",
+      "meaning_it": "La sfortuna si accanisce su chi è già sfortunato.",
+      "meaning_en": "The dog bites the ragged man.",
+      "usage_context": "bad luck, piling on",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-core-nun-se-fa-maje-viecchio",
+      "type": "proverb",
+      "original": "'O core nun se fa màje viècchio.",
+      "variants": [
+        "O core nun se fa màje viècchio."
+      ],
+      "literal_it": "Il cuore non invecchia mai.",
+      "meaning_it": "I sentimenti restano giovani.",
+      "meaning_en": "The heart never grows old.",
+      "usage_context": "affection, age",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-mare-chiu-tene-e-chiu-vo-tene",
+      "type": "proverb",
+      "original": "'O mare chiù tene e chiù vo' tené.",
+      "variants": [
+        "O mare chiù tene e chiù vo' tené."
+      ],
+      "literal_it": "Il mare più ha e più vuole avere.",
+      "meaning_it": "L'avidità non è mai sazia.",
+      "meaning_en": "The sea wants more the more it has.",
+      "usage_context": "greed, scope creep",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-puorco-chiatto-se-c-cca-sempe-ncuoll-a-o-sicco",
+      "type": "proverb",
+      "original": "'O puorco chiatto se cócca sempe 'ncuoll'a 'o sicco.",
+      "variants": [
+        "O puorco chiatto se cócca sempe 'ncuoll'a 'o sicco."
+      ],
+      "literal_it": "Il maiale grasso si sdraia sempre sul magro.",
+      "meaning_it": "I forti pesano sui deboli.",
+      "meaning_en": "The fat pig always lies on the thin one.",
+      "usage_context": "power imbalance",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-tiempo-e-ggalantommo",
+      "type": "proverb",
+      "original": "'O tiémpo è ggalantòmmo.",
+      "variants": [
+        "O tiémpo è ggalantòmmo."
+      ],
+      "literal_it": "Il tempo è galantuomo.",
+      "meaning_it": "Col tempo la verità e la giustizia emergono.",
+      "meaning_en": "Time is a gentleman.",
+      "usage_context": "patience, vindication",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-stommaco-nun-o-faie-fesso",
+      "type": "proverb",
+      "original": "'O stommaco nun 'o faie fesso.",
+      "variants": [
+        "O stommaco nun 'o faie fesso."
+      ],
+      "literal_it": "Lo stomaco non lo fai fesso.",
+      "meaning_it": "La fame non si inganna.",
+      "meaning_en": "You can't fool the stomach.",
+      "usage_context": "hunger, lunch break",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dicette-a-mosca-ncapo-o-voje",
+      "type": "saying",
+      "original": "Dicètte 'a mosca 'ncapo ô vòje: Aràmmo!",
+      "literal_it": "Disse la mosca sulla testa del bue: Arammo!",
+      "meaning_it": "Chi si prende il merito del lavoro fatto da altri.",
+      "meaning_en": "Said the fly on the ox's head: let's plough!",
+      "usage_context": "taking credit for others' work",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-staje-abbuffanno-a-uallera",
+      "type": "idiom",
+      "original": "Me staje abbuffanno 'a uallera.",
+      "variants": [
+        "Me staje abbuffanno 'a guallera."
+      ],
+      "literal_it": "Mi stai gonfiando l'ernia.",
+      "meaning_it": "Mi stai annoiando o infastidendo a morte.",
+      "meaning_en": "You're boring/annoying me to death.",
+      "usage_context": "annoying people, endless meetings",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Core idiom of the mode: uallera = hernia/scrotum."
+    },
+    {
+      "id": "m-he-fatto-a-uallera-a-pezzaiola",
+      "type": "idiom",
+      "original": "M'hê fatto 'a uallera a pezzaiola.",
+      "variants": [
+        "M'he fatto 'a guallara a pezzaiuola."
+      ],
+      "literal_it": "Mi hai fatto l'ernia alla pizzaiola.",
+      "meaning_it": "Mi hai stancato oltre ogni misura (iperbole culinaria).",
+      "meaning_en": "You've worn me out beyond measure (culinary hyperbole).",
+      "usage_context": "hyperbolic complaint",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "curnuto-e-mazziato",
+      "type": "idiom",
+      "original": "Curnuto e mazziato.",
+      "literal_it": "Cornuto e picchiato.",
+      "meaning_it": "Danneggiato e anche deriso o accusato.",
+      "meaning_en": "Cuckolded and beaten: injured and also blamed.",
+      "usage_context": "unfair blame",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fernesce-tutto-a-tarallucce-e-vino",
+      "type": "idiom",
+      "original": "Fernesce tutto a tarallucce e vino.",
+      "literal_it": "Finisce tutto a taralli e vino.",
+      "meaning_it": "Tutto si chiude in allegria, senza conseguenze.",
+      "meaning_en": "It all ends with biscuits and wine: nothing serious comes of it.",
+      "usage_context": "pointless meetings, quarrels that fizzle",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "carta-canta-ncannuolo",
+      "type": "idiom",
+      "original": "Carta canta 'ncannuolo.",
+      "variants": [
+        "Carta canta ncannuolo"
+      ],
+      "literal_it": "Carta canta in candela.",
+      "meaning_it": "Le prove scritte parlano chiaro.",
+      "meaning_en": "The paper speaks: written proof is conclusive.",
+      "usage_context": "contracts, logs, evidence",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-botta-e-stiente",
+      "type": "idiom",
+      "original": "A botta 'e stiente.",
+      "literal_it": "A forza di stenti.",
+      "meaning_it": "Con enorme fatica.",
+      "meaning_en": "With enormous effort.",
+      "usage_context": "hard work",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "campa-justo-justo",
+      "type": "idiom",
+      "original": "Campà justo justo.",
+      "literal_it": "Campare giusto giusto.",
+      "meaning_it": "Arrivare a malapena a fine mese.",
+      "meaning_en": "To barely get by.",
+      "usage_context": "money",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acquitamme-a-criatura",
+      "type": "idiom",
+      "original": "Acquitamme 'a criatura!",
+      "literal_it": "Calmiamo il bambino!",
+      "meaning_it": "Calmati, pazienza.",
+      "meaning_en": "Calm down, be patient.",
+      "usage_context": "urging patience",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammesurate-a-palla",
+      "type": "idiom",
+      "original": "Ammesùrate 'a palla!",
+      "literal_it": "Misurati la palla!",
+      "meaning_it": "Pensa prima di agire.",
+      "meaning_en": "Think before you act.",
+      "usage_context": "rash decisions",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dicette-pulecenella-pe-mmare-nun-c-e-taverna",
+      "type": "saying",
+      "original": "Dicette Pulecenella: pe' mmare nun c'è taverna.",
+      "literal_it": "Disse Pulcinella: per mare non c'è taverna.",
+      "meaning_it": "Ogni cosa ha il suo posto; non si può pretendere tutto ovunque.",
+      "meaning_en": "Said Pulcinella: there's no tavern at sea.",
+      "usage_context": "unrealistic demands, missing tools",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Wellerism."
+    },
+    {
+      "id": "dimane-o-gallo-canta-matina",
+      "type": "idiom",
+      "original": "Dimane 'o gallo canta matina.",
+      "literal_it": "Domani il gallo canta mattina.",
+      "meaning_it": "Domani sarà una giornata piena.",
+      "meaning_en": "Tomorrow the rooster crows early: a busy day ahead.",
+      "usage_context": "busy day tomorrow",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-vene-appriesso-s-u-chiagne",
+      "type": "idiom",
+      "original": "Chi vene appriesso s'u chiagne.",
+      "literal_it": "Chi viene dopo se lo piange.",
+      "meaning_it": "I problemi li lasciamo a chi arriva dopo di noi.",
+      "meaning_en": "Let those who come after weep over it.",
+      "usage_context": "tech debt, leaving a mess",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-e-ppacche-dint-a-ll-acqua",
+      "type": "idiom",
+      "original": "Cu 'e ppacche dint'a ll'acqua.",
+      "literal_it": "Con i pacchi nell'acqua.",
+      "meaning_it": "In estrema povertà.",
+      "meaning_en": "In dire poverty.",
+      "usage_context": "poverty",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cunta-e-pile-d-o-culo",
+      "type": "idiom",
+      "original": "Cuntà 'e pìle d''o cùlo.",
+      "literal_it": "Contare i peli del culo.",
+      "meaning_it": "Fare il pignolo.",
+      "meaning_en": "To count the hairs on one's backside: to nitpick.",
+      "usage_context": "nitpicking review",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "a-nu-palmo-d-o-culo-mio-chi-fotte-fotte",
+      "type": "idiom",
+      "original": "A nu palmo d''o culo mio chi fotte, fotte.",
+      "literal_it": "A un palmo dal mio culo chi scopa, scopa.",
+      "meaning_it": "Faccia pure ciò che vuole, purché non mi riguardi.",
+      "meaning_en": "As long as it's a hand's breadth away from my backside, let people do as they please.",
+      "usage_context": "indifference",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-pperete-nnant-a-banda",
+      "type": "idiom",
+      "original": "'E ppérete 'nnant'â bànda.",
+      "literal_it": "Le scoregge davanti alla banda.",
+      "meaning_it": "Gesti vuoti e vanagloriosi.",
+      "meaning_en": "Farts in front of the band: pointless showing off.",
+      "usage_context": "empty show",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "coppole-e-cazzo",
+      "type": "idiom",
+      "original": "Coppole 'e cazzo.",
+      "literal_it": "Coppole di cazzo.",
+      "meaning_it": "Niente: se non lavori non mangi.",
+      "meaning_en": "Nothing at all.",
+      "usage_context": "nothing in return",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cu-o-culo-a-fossa",
+      "type": "idiom",
+      "original": "Cu 'o culo 'a fossa.",
+      "literal_it": "Con il culo nella fossa.",
+      "meaning_it": "Vicino alla morte.",
+      "meaning_en": "With one's backside in the grave: close to death.",
+      "usage_context": "near death",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mannaggia-a-marina",
+      "type": "saying",
+      "original": "Mannaggia 'a Marina.",
+      "literal_it": "Maledetta la Marina.",
+      "meaning_it": "Imprecazione di disappunto per uno smacco.",
+      "meaning_en": "Damn the navy: exasperation at a setback.",
+      "usage_context": "setback",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magnarse-a-rezza-d-o-core",
+      "type": "idiom",
+      "original": "Magnarse 'a rézza d''o còre.",
+      "literal_it": "Mangiarsi la rete del cuore.",
+      "meaning_it": "Rodersi dalla rabbia.",
+      "meaning_en": "To eat one's heart's net: to fume with anger.",
+      "usage_context": "anger",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mpignarse-o-cazzo-e-straccia-a-cartella",
+      "type": "idiom",
+      "original": "'Mpignarse 'o càzzo e straccià 'a cartella.",
+      "literal_it": "Impegnarsi il cazzo e strappare la ricevuta.",
+      "meaning_it": "Esprimere certezza assoluta.",
+      "meaning_en": "To pawn one's cock and tear up the ticket: absolute certainty.",
+      "usage_context": "certainty",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mettere-o-ppepe-nculo-a-zoccola",
+      "type": "idiom",
+      "original": "Mettere 'o ppepe 'nculo 'a zoccola.",
+      "literal_it": "Mettere il pepe nel culo alla topa.",
+      "meaning_it": "Istigare qualcuno a litigare.",
+      "meaning_en": "To put pepper up the rat's backside: to egg someone on to a fight.",
+      "usage_context": "instigating",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-modididire"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "guallere-e-denare-nisciuno-sape-si-ne-tene",
+      "type": "proverb",
+      "original": "Guallere e denare nisciuno sape si ne tene.",
+      "literal_it": "Ernie e denari nessuno sa se ne ha.",
+      "meaning_it": "Non si sa mai quanto uno possieda, in guai o in soldi.",
+      "meaning_en": "Nobody knows if he has hernias and money.",
+      "usage_context": "hidden troubles/wealth",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Cited from the earlier research pass; not found in the Wikiquote excerpts re-read in this pass."
+    },
+    {
+      "id": "e-dalle-e-dalle-o-cucuzziello-addeventa-tallo",
+      "type": "proverb",
+      "original": "E dalle e dalle, 'o cucuzziello addeventa tallo.",
+      "literal_it": "E dagli e dagli, la zucchina diventa torsolo.",
+      "meaning_it": "Con insistenza le cose cambiano.",
+      "meaning_en": "Keep at it and the little squash turns into a stalk.",
+      "usage_context": "persistence",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Listed in profile.md section 10; not re-found in this pass."
+    },
+    {
+      "id": "steveme-scarze-a-chiaveche",
+      "type": "idiom",
+      "original": "Steveme scarze a chiaveche.",
+      "literal_it": "Eravamo scarsi di mascalzoni.",
+      "meaning_it": "Ironico benvenuto: mancavi solo tu.",
+      "meaning_en": "We were short of scoundrels: ironic welcome.",
+      "usage_context": "ironic welcome",
+      "register": "ironic",
+      "vulgarity": 2,
+      "geographical_area": "Napoli (città)",
+      "sources": [
+        "src-nap-wikiquote-proverbi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Listed in profile.md section 11; not re-found in this pass."
+    },
+    {
+      "id": "chiagne-e-fotte",
+      "type": "ironic-saying",
+      "original": "Chiagne e fotte.",
+      "variants": [
+        "Chiagn e fott",
+        "Chiagni e fotti"
+      ],
+      "literal_it": "Piangi e fotti.",
+      "meaning_it": "Chi si lamenta in pubblico mentre in realtà gli va bene: vittimismo ipocrita.",
+      "meaning_en": "Whiner who is really doing fine; opportunistic victimhood.",
+      "usage_context": "sarcastic jab at hypocritical complaining, e.g. football fans moaning about referees",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli / Campania (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo marks it as a proverbial Neapolitan expression, with a football-referee example. Humorous provocation, hostile or banter depending on the target. Single community source."
+    },
+    {
+      "id": "ne-pe-bevere-ne-pe-sciacquare",
+      "type": "idiom",
+      "original": "Nun si' bbuono né pe' bevere né pe' sciacquà.",
+      "literal_it": "Non sei buono né per bere né per sciacquare.",
+      "meaning_it": "Persona o cosa del tutto inutile (come l'acqua sporca).",
+      "meaning_en": "Utterly useless (like dirty water, no good to drink or to rinse).",
+      "usage_context": "humorous dismissal of a useless person or tool",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: said in Naples of a useless person, from dirty water good neither for drinking nor for washing clothes. Single community source."
+    },
+    {
+      "id": "pesce-pigliato-ca-botta",
+      "type": "idiom",
+      "original": "Si' nu pesce pigliato ca' botta.",
+      "variants": [
+        "Pesce pigliato ca' botta"
+      ],
+      "literal_it": "Sei un pesce preso con la botta.",
+      "meaning_it": "Persona senza carattere, che si fa mettere i piedi in testa.",
+      "meaning_en": "Spineless person who lets everyone push them around.",
+      "usage_context": "friendly mockery of someone who always caves",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: from the (illegal) practice of stunning fish with explosives, leaving them limp. Single community source."
+    }
+  ]
+}

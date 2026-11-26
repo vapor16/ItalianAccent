@@ -1,0 +1,1088 @@
+{
+ "dialect": "mbare",
+ "entries": [
+  {
+   "id": "cu-mancia-fa-muddichi",
+   "type": "proverb",
+   "original": "Cu mancia fa muddichi.",
+   "variants": [
+    "Cu mangia fa muddichi."
+   ],
+   "literal_it": "Chi mangia fa briciole.",
+   "literal_en": "Whoever eats makes crumbs.",
+   "meaning_it": "Chi agisce può sbagliare; ogni azione lascia tracce.",
+   "meaning_en": "Whoever does things makes mistakes.",
+   "usage_context": "Consolation after a bug or an error; defending someone who tried.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi",
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-un-fa-nenti-un-sbaglia-nenti",
+   "type": "proverb",
+   "original": "Cu 'un fa nenti 'un sbaglia nenti.",
+   "literal_it": "Chi non fa niente non sbaglia niente.",
+   "literal_en": "Who does nothing gets nothing wrong.",
+   "meaning_it": "Solo chi non fa niente non sbaglia mai.",
+   "meaning_en": "Only those who do nothing never err.",
+   "usage_context": "Mistakes, failed deploys, learning.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-nesci-arrinesci",
+   "type": "proverb",
+   "original": "Cu nesci, arrinesci.",
+   "literal_it": "Chi esce, riesce.",
+   "literal_en": "Who goes out, succeeds.",
+   "meaning_it": "Chi esce dal proprio guscio (o parte) ha successo.",
+   "meaning_en": "Those who venture out succeed.",
+   "usage_context": "Encouraging someone to change job, learn something new, leave comfort zone.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-ha-lingua-passa-u-mari",
+   "type": "proverb",
+   "original": "Cu' ha lingua passa 'u mari.",
+   "variants": [
+    "Cù avi lingua, passa 'u mari."
+   ],
+   "literal_it": "Chi ha lingua passa il mare.",
+   "literal_en": "Who has a tongue crosses the sea.",
+   "meaning_it": "Chi sa parlare e chiedere arriva lontano.",
+   "meaning_en": "Those who can speak up (and ask) go far.",
+   "usage_context": "Advice to ask questions, communicate, document.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi",
+    "src-cat-liveunict-influenze"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "comu-la-mpastasti-scanatilla",
+   "type": "proverb",
+   "original": "Comu la 'mpastasti, scanatilla.",
+   "literal_it": "Come l'hai impastata, spianatela.",
+   "literal_en": "As you kneaded it, roll it out.",
+   "meaning_it": "Devi affrontare le conseguenze delle tue scelte.",
+   "meaning_en": "You made your bed, now lie in it.",
+   "usage_context": "Wrong choices, own architecture decisions, tech debt you created.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "calati-juncu-ca-passa-la-china",
+   "type": "proverb",
+   "original": "Càlati juncu ca passa la china.",
+   "literal_it": "Piegati giunco che passa la piena.",
+   "literal_en": "Bend, reed, the flood is passing.",
+   "meaning_it": "Nei momenti duri conviene piegarsi e aspettare che passino.",
+   "meaning_en": "Bend with the storm until it passes.",
+   "usage_context": "Bad days, crunch time, angry managers, incidents.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "l-arvulu-s-addrizza-mentri-e-virdi",
+   "type": "proverb",
+   "original": "L'arvulu s'addrizza mentri è virdi.",
+   "literal_it": "L'albero si raddrizza mentre è verde.",
+   "literal_en": "A tree is straightened while it is green.",
+   "meaning_it": "Le abitudini si correggono presto.",
+   "meaning_en": "Fix habits early.",
+   "usage_context": "Teaching juniors, linting early, code review from day one.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "un-arvulu-a-primu-corpu-nun-si-tagghia",
+   "type": "proverb",
+   "original": "Un arvulu a primu corpu nun si tagghia.",
+   "literal_it": "Un albero non si abbatte al primo colpo.",
+   "literal_en": "A tree is not felled at the first blow.",
+   "meaning_it": "Le cose grandi richiedono tempo e pazienza.",
+   "meaning_en": "Big things take patience.",
+   "usage_context": "Why not to rush; long refactors; learning.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cosi-longhi-addiventanu-serpi",
+   "type": "proverb",
+   "original": "Cosi longhi addiventanu serpi.",
+   "literal_it": "Le cose lunghe diventano serpi.",
+   "literal_en": "Long things turn into snakes.",
+   "meaning_it": "Le cose rimandate troppo si complicano.",
+   "meaning_en": "Things dragged on turn nasty.",
+   "usage_context": "Procrastination, endless tickets, never-merged branches.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-sputa-n-celu-n-facci-cci-torna",
+   "type": "proverb",
+   "original": "Cu' sputa 'n celu 'n facci cci torna.",
+   "variants": [
+    "Cu' sputa all'aria 'n facci cci torna."
+   ],
+   "literal_it": "Chi sputa in cielo gli torna in faccia.",
+   "literal_en": "Who spits at the sky gets it back in the face.",
+   "meaning_it": "Chi offende o fa danni se li ritrova addosso.",
+   "meaning_en": "What goes around comes around.",
+   "usage_context": "Arrogant colleagues, karma for bad code.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cui-scava-lu-fossu-lu-primu-ci-cadi",
+   "type": "proverb",
+   "original": "Cui scava lu fossu, lu primu ci cadi.",
+   "literal_it": "Chi scava il fosso ci cade per primo.",
+   "literal_en": "Who digs the pit falls in first.",
+   "meaning_it": "Chi prepara trappole agli altri ci cade.",
+   "meaning_en": "Those who set traps fall into them.",
+   "usage_context": "Colleague who sabotages; hacks that backfire.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "megghiu-lu-tintu-conusciutu-ca-lu-bonu-a-conusciri",
+   "type": "proverb",
+   "original": "Megghiu lu tintu conusciutu, ca lu bonu a conusciri.",
+   "literal_it": "Meglio il cattivo conosciuto che il buono da conoscere.",
+   "literal_en": "Better the bad you know than the good still to be known.",
+   "meaning_it": "Meglio ciò che si conosce, anche se imperfetto, dell'ignoto.",
+   "meaning_en": "Better the devil you know.",
+   "usage_context": "Choosing between a legacy stack and a shiny new framework.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "megghiu-accordiu-magru-ca-sintenzia-grassa",
+   "type": "proverb",
+   "original": "Megghiu accordiu magru ca sintenzia grassa.",
+   "literal_it": "Meglio un accordo magro che una sentenza grassa.",
+   "literal_en": "Better a lean agreement than a fat verdict.",
+   "meaning_it": "Meglio un compromesso che una lite vinta a caro prezzo.",
+   "meaning_en": "A lean settlement beats a fat lawsuit.",
+   "usage_context": "Conflicts with colleagues, negotiation.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "supra-o-vagnatu-cci-chiovi",
+   "type": "proverb",
+   "original": "Supra 'o vagnatu, cci chiovi.",
+   "literal_it": "Sul bagnato ci piove.",
+   "literal_en": "It rains on what is already wet.",
+   "meaning_it": "Le disgrazie colpiscono chi è già sfortunato.",
+   "meaning_en": "When it rains, it pours.",
+   "usage_context": "Bad days, cascading failures.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-li-poviri-e-a-li-sbinturati-ci-chiovi-nta-lu-cul",
+   "type": "proverb",
+   "original": "A li poviri e a li sbinturati, ci chiovi 'nta lu culu macari assittati.",
+   "literal_it": "Ai poveri e agli sventurati piove nel sedere anche da seduti.",
+   "literal_en": "On the poor and unlucky it rains on their backside even when they are sitting.",
+   "meaning_it": "Ai sfortunati va male qualunque cosa facciano.",
+   "meaning_en": "Nothing goes right for the unlucky.",
+   "usage_context": "Terrible days (vulgarity >= 2).",
+   "register": "vulgar",
+   "vulgarity": 2,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-navi-rutta-ogni-ventu-e-cuntrariu",
+   "type": "proverb",
+   "original": "A navi rutta ogni ventu è cuntrariu.",
+   "literal_it": "A nave rotta ogni vento è contrario.",
+   "literal_en": "To a broken ship every wind is against.",
+   "meaning_it": "Quando le cose vanno male tutto sembra contro.",
+   "meaning_en": "When things are broken, everything is against you.",
+   "usage_context": "Bad days, broken pipelines.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "un-pumu-fradiciu-nni-guasta-na-cartedda",
+   "type": "proverb",
+   "original": "Un pumu fradiciu nni guasta 'na cartedda.",
+   "literal_it": "Una mela fradicia ne guasta una cesta.",
+   "literal_en": "One rotten apple spoils a basket.",
+   "meaning_it": "Un elemento negativo rovina tutto il gruppo.",
+   "meaning_en": "One bad apple spoils the bunch.",
+   "usage_context": "Toxic colleague, one bad dependency.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ci-voli-assai-pi-sapiri-picca",
+   "type": "proverb",
+   "original": "Ci voli assai pi sapiri picca.",
+   "literal_it": "Ci vuole molto per sapere poco.",
+   "literal_en": "It takes a lot to know a little.",
+   "meaning_it": "Imparare costa fatica.",
+   "meaning_en": "Learning takes great effort.",
+   "usage_context": "Improving at software development.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "e-megghiu-sapiri-picca-chi-parrari-assai",
+   "type": "proverb",
+   "original": "È megghiu sapiri picca, chi parrari assai.",
+   "literal_it": "È meglio sapere poco che parlare molto.",
+   "literal_en": "Better to know little than to talk a lot.",
+   "meaning_it": "Meglio tacere che parlare a vanvera.",
+   "meaning_en": "Better to know a little than to talk too much.",
+   "usage_context": "Meetings, know-it-alls.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-po-nun-vo-cu-vo-nun-po-cu-fa-nun-sa-cu-sa-nun-f",
+   "type": "proverb",
+   "original": "Cu' pò nun vò, cu' vò nun pò, cu' fa nun sa, cu' sa nun fa, e 'cussì tuttu lu munnu va.",
+   "literal_it": "Chi può non vuole, chi vuole non può, chi fa non sa, chi sa non fa, e così va il mondo.",
+   "literal_en": "Who can won't, who will can't, who does doesn't know, who knows doesn't do: so the world goes.",
+   "meaning_it": "Il mondo va storto perché capacità e volontà non coincidono.",
+   "meaning_en": "That's how the world (and the company) works.",
+   "usage_context": "Ironic comment on organisations and projects.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "duru-cu-duru-nun-fabbrica-muru",
+   "type": "proverb",
+   "original": "Duru cu duru nun fabbrica muru.",
+   "literal_it": "Duro con duro non fabbrica muro.",
+   "literal_en": "Hard with hard builds no wall.",
+   "meaning_it": "Due testardi non concludono niente.",
+   "meaning_en": "Two stubborn people build nothing.",
+   "usage_context": "Conflict with a colleague, code review fights.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quannu-u-diavulu-t-accarizza-voli-l-arma",
+   "type": "proverb",
+   "original": "Quannu 'u diavulu t'accarizza, voli l'arma.",
+   "literal_it": "Quando il diavolo ti accarezza, vuole l'anima.",
+   "literal_en": "When the devil caresses you, he wants your soul.",
+   "meaning_it": "Diffida di chi ti lusinga troppo.",
+   "meaning_en": "Beware of flatterers.",
+   "usage_context": "Too-good-to-be-true offers, vendors, free tiers.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "la-gaddina-fa-l-ovu-e-lu-gaddu-grida",
+   "type": "proverb",
+   "original": "La gaddina fa l'ovu e lu gaddu grida.",
+   "literal_it": "La gallina fa l'uovo e il gallo grida.",
+   "literal_en": "The hen lays the egg and the rooster crows.",
+   "meaning_it": "Uno lavora e un altro se ne prende il merito.",
+   "meaning_en": "One does the work, another takes the credit.",
+   "usage_context": "Colleague who takes credit for your work.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "u-sceccu-a-potta-u-sceccu-sa-mangia",
+   "type": "proverb",
+   "original": "'U sceccu 'a potta, 'u sceccu sa mangia.",
+   "variants": [
+    "L'asinu porta la pagghia, e l'asinu si la mancia."
+   ],
+   "literal_it": "L'asino la porta, l'asino se la mangia.",
+   "literal_en": "The donkey carries it, the donkey eats it.",
+   "meaning_it": "Chi fatica è poi chi ne paga o ne gode le conseguenze.",
+   "meaning_en": "You carry it, you eat it.",
+   "usage_context": "Doing your own grunt work.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian, attested in a form with Catanese phonology",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "potta = Catanese r+C assimilation of porta."
+  },
+  {
+   "id": "u-voi-ci-dici-curnutu-o-sceccu",
+   "type": "proverb",
+   "original": "'U voi ci dici curnutu 'o sceccu.",
+   "literal_it": "Il bue dice cornuto all'asino.",
+   "literal_en": "The ox calls the donkey a cuckold.",
+   "meaning_it": "Si critica negli altri un difetto che si ha.",
+   "meaning_en": "The pot calling the kettle black.",
+   "usage_context": "Colleague criticising code as messy as his own.",
+   "register": "vulgar",
+   "vulgarity": 2,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "In Catanese pronunciation curnutu is often realised cunnutu."
+  },
+  {
+   "id": "a-vita-ie-comu-a-scala-do-puddaru-ie-cutta-e-china",
+   "type": "proverb",
+   "original": "A vita iè comu a scala do puddaru... iè cutta e china 'i medda!",
+   "literal_it": "La vita è come la scala del pollaio: corta e piena di merda.",
+   "literal_en": "Life is like a henhouse ladder: short and full of shit.",
+   "meaning_it": "La vita è breve e piena di fastidi.",
+   "meaning_en": "Life is short and full of crap.",
+   "usage_context": "Bitter humour on bad days (vulgarity >= 3).",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Sicilian, attested in a form with Catanese phonology",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "cutta, medda show Catanese r+C assimilation (curta, merda)."
+  },
+  {
+   "id": "quannu-l-amicu-nun-parra-a-prima-vuci-voddiri-ca-u",
+   "type": "proverb",
+   "original": "Quannu l'amicu nun parra a prima vuci, voddiri ca 'u riscussu nun ci piaci.",
+   "literal_it": "Quando l'amico non risponde subito, vuol dire che il discorso non gli piace.",
+   "literal_en": "When a friend doesn't answer at first call, the topic doesn't please him.",
+   "meaning_it": "Il silenzio è già una risposta.",
+   "meaning_en": "Silence is an answer.",
+   "usage_context": "Unanswered emails/PR comments.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian, attested in a form with Catanese phonology",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "voddiri, riscussu show Catanese assimilation and d>r."
+  },
+  {
+   "id": "jurnata-rutta-perdila-tutta",
+   "type": "proverb",
+   "original": "Jurnata rutta perdila tutta.",
+   "literal_it": "Giornata interrotta, perdila tutta.",
+   "literal_en": "A broken day, lose it all.",
+   "meaning_it": "Una giornata compromessa è meglio lasciarla perdere.",
+   "meaning_en": "A ruined day is a lost day.",
+   "usage_context": "Bad day, call it a day.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ogni-fruttu-voli-la-so-staggiuni",
+   "type": "proverb",
+   "original": "Ogni fruttu voli la so staggiuni.",
+   "literal_it": "Ogni frutto vuole la sua stagione.",
+   "literal_en": "Every fruit wants its season.",
+   "meaning_it": "Ogni cosa ha i suoi tempi.",
+   "meaning_en": "Everything in its own time.",
+   "usage_context": "Why not to rush; releases.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "truniannu-truniannu-chioviri-voli",
+   "type": "proverb",
+   "original": "Truniannu truniannu chioviri voli.",
+   "literal_it": "Tuonando tuonando vuol piovere.",
+   "literal_en": "Thundering and thundering, it wants to rain.",
+   "meaning_it": "I segnali premonitori annunciano il guaio.",
+   "meaning_en": "Repeated warnings precede trouble.",
+   "usage_context": "Ignored warnings in logs, flaky tests.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vutti-chi-nun-e-attuppata-sventa",
+   "type": "proverb",
+   "original": "Vutti chi nun è attuppata, sventa.",
+   "literal_it": "La botte non tappata sfiata.",
+   "literal_en": "A barrel not stoppered loses its gas.",
+   "meaning_it": "Ciò che non è chiuso bene si perde (anche segreti).",
+   "meaning_en": "What isn't sealed leaks.",
+   "usage_context": "Secrets in repos, security, open ports.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chiddu-chi-si-schifa-veni-tempu-chi-s-addisia",
+   "type": "proverb",
+   "original": "Chiddu chi si schifa, veni tempu chi s'addisia.",
+   "variants": [
+    "Zoccu si schifìa veni tempu ca s'addisìa."
+   ],
+   "literal_it": "Ciò che si disprezza, verrà il tempo che si desidera.",
+   "literal_en": "What you scorn, the time will come when you crave it.",
+   "meaning_it": "Non disprezzare oggi ciò che domani ti servirà.",
+   "meaning_en": "Don't scorn what you may need later.",
+   "usage_context": "Documentation, tests, backups.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ammatula-ca-t-allisci-e-fai-cannola-u-santu-e-di-m",
+   "type": "proverb",
+   "original": "Ammatula ca t'allisci e fai cannola, 'u santu è di mammuru e nun sura.",
+   "literal_it": "È inutile che ti fai bella e prepari dolci, il santo è di marmo e non suda.",
+   "literal_en": "It's useless to primp and make cannoli: the saint is marble and doesn't sweat.",
+   "meaning_it": "È inutile insistere con chi non si lascia smuovere.",
+   "meaning_en": "No use trying to move the unmovable.",
+   "usage_context": "Trying to convince a stubborn manager or a broken tool.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Popularised by Franco Battiato (from Riposto, Catania area)."
+  },
+  {
+   "id": "cunti-senza-l-osti-si-fanno-dui-voti",
+   "type": "proverb",
+   "original": "Cunti senza l'osti si fanno dui voti.",
+   "literal_it": "I conti senza l'oste si fanno due volte.",
+   "literal_en": "Bills made without the innkeeper are made twice.",
+   "meaning_it": "Le stime fatte senza chi decide vanno rifatte.",
+   "meaning_en": "Plans made without the stakeholder get redone.",
+   "usage_context": "Estimates, planning without the client.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "testa-chi-nun-parra-si-chiama-cucuzza",
+   "type": "proverb",
+   "original": "Testa chi nun parra si chiama cucuzza.",
+   "literal_it": "Testa che non parla si chiama zucca.",
+   "literal_en": "A head that doesn't speak is called a pumpkin.",
+   "meaning_it": "Chi non chiede e non si esprime resta ignorante.",
+   "meaning_en": "A head that never asks is a pumpkin.",
+   "usage_context": "Encouraging juniors to ask questions.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-simina-spini-nun-po-raccogghiri-rosi",
+   "type": "proverb",
+   "original": "Cu' simina spini nun pò raccogghiri rosi.",
+   "variants": [
+    "Cui simina spini, nun ricogghi rosi."
+   ],
+   "literal_it": "Chi semina spine non può raccogliere rose.",
+   "literal_en": "Who sows thorns can't reap roses.",
+   "meaning_it": "Chi fa male raccoglie male.",
+   "meaning_en": "You reap what you sow.",
+   "usage_context": "Technical debt, sloppy code.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "bisogna-masticari-amaru-cui-voli-a-tempu-agghiutti",
+   "type": "proverb",
+   "original": "Bisogna masticari amaru, cui voli a tempu agghiuttiri duci.",
+   "literal_it": "Deve masticare amaro chi vuole a tempo debito inghiottire dolce.",
+   "literal_en": "Chew bitter now to swallow sweet later.",
+   "meaning_it": "Per ottenere risultati bisogna fare sacrifici.",
+   "meaning_en": "No pain, no gain.",
+   "usage_context": "Learning, studying, improving.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cui-sceccu-fa-cavaddu-lu-primu-cauci-e-so",
+   "type": "proverb",
+   "original": "Cui sceccu fa cavaddu, lu primu cauci è so.",
+   "variants": [
+    "Cu du sceccu, ni fa mulu u primu cauci è u so."
+   ],
+   "literal_it": "Chi fa di un asino un cavallo, il primo calcio è suo.",
+   "literal_en": "Whoever makes a horse of a donkey gets the first kick.",
+   "meaning_it": "Chi favorisce gli immeritevoli ne riceve ingratitudine.",
+   "meaning_en": "Promote a donkey and you get the first kick.",
+   "usage_context": "Ungrateful colleagues, bad promotions.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi",
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cu-paja-prima-mancia-li-pisci-fitusi",
+   "type": "proverb",
+   "original": "Cu paja prima, mancia li pisci fitùsi.",
+   "literal_it": "Chi paga prima mangia i pesci puzzolenti.",
+   "literal_en": "Who pays first eats the stinking fish.",
+   "meaning_it": "Chi paga prima di vedere la merce viene fregato.",
+   "meaning_en": "Pay up front and get cheated.",
+   "usage_context": "Paying vendors/licences before a trial.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-wikipedia-en"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "munnu-ha-statu-e-munnu-e",
+   "type": "proverb",
+   "original": "Munnu ha statu e munnu è.",
+   "literal_it": "Il mondo è stato ed è (sempre lo stesso).",
+   "literal_en": "The world has been and the world is.",
+   "meaning_it": "Le cose si ripetono, è difficile cambiarle.",
+   "meaning_en": "Nothing new under the sun.",
+   "usage_context": "Same bugs, same meetings.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "azzappa-all-acqua-e-simina-o-ventu",
+   "type": "proverb",
+   "original": "Azzappa all'acqua e simina o ventu.",
+   "literal_it": "Zappa l'acqua e semina al vento.",
+   "literal_en": "He hoes water and sows in the wind.",
+   "meaning_it": "Fatica sprecata, risultato nullo.",
+   "meaning_en": "Wasted effort.",
+   "usage_context": "Useless work, writing code nobody uses.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-megghiu-parola-e-chidda-ca-nun-si-dici",
+   "type": "proverb",
+   "original": "'A megghiu parola è chidda ca nun si dici.",
+   "literal_it": "La parola migliore è quella che non si dice.",
+   "literal_en": "The best word is the one not said.",
+   "meaning_it": "A volte tacere è la scelta più saggia.",
+   "meaning_en": "Sometimes silence is wisest.",
+   "usage_context": "Heated chats, flame wars, angry emails.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ogni-figateddu-i-musca-je-sustanza",
+   "type": "proverb",
+   "original": "Ogni figateddu 'i musca jè sustanza.",
+   "literal_it": "Ogni fegatino di mosca è sostanza.",
+   "literal_en": "Every fly's liver is nourishment.",
+   "meaning_it": "Anche il contributo più piccolo conta.",
+   "meaning_en": "Every little bit helps.",
+   "usage_context": "Small PRs, small improvements.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "niuru-cu-niuru-non-tingi",
+   "type": "proverb",
+   "original": "Nìuru cu nìuru non tingi.",
+   "literal_it": "Nero con nero non tinge.",
+   "literal_en": "Black on black doesn't stain.",
+   "meaning_it": "Tra due pari nessuno prevale: meglio accordarsi.",
+   "meaning_en": "Equals can't beat each other.",
+   "usage_context": "Stalemate in conflicts.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quannu-l-amuri-voli-trova-locu",
+   "type": "proverb",
+   "original": "Quannu l'amuri voli trova locu.",
+   "literal_it": "Quando l'amore vuole trova posto.",
+   "literal_en": "When love wants, it finds a place.",
+   "meaning_it": "Chi vuole davvero trova il modo.",
+   "meaning_en": "Where there's a will there's a way.",
+   "usage_context": "Motivation, side projects.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "larga-un-ci-veni-e-stritta-un-ci-trasi",
+   "type": "saying",
+   "original": "Larga un ci veni e stritta un ci trasi.",
+   "literal_it": "Larga non gli viene e stretta non gli entra.",
+   "literal_en": "Too wide doesn't fit him, too tight won't go in.",
+   "meaning_it": "Si dice di chi non è mai contento.",
+   "meaning_en": "Said of someone never satisfied.",
+   "usage_context": "Clients who are never happy.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "unni-cci-chiovi-cci-sciddica",
+   "type": "saying",
+   "original": "Unni cci chiovi cci sciddica.",
+   "literal_it": "Dove gli piove gli scivola.",
+   "literal_en": "Where it rains on him, it slides off.",
+   "meaning_it": "Si dice di chi non si preoccupa di nulla e cade sempre in piedi.",
+   "meaning_en": "Said of someone things just slide off.",
+   "usage_context": "Colleague who never worries.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-camurria"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quandu-si-cunta-e-nenti",
+   "type": "proverb",
+   "original": "Quandu si cunta è nenti.",
+   "variants": [
+    "Quannu si cunta è nenti."
+   ],
+   "literal_it": "Quando si racconta è niente.",
+   "literal_en": "When you can tell it, it's nothing.",
+   "meaning_it": "Finché sei vivo per raccontarlo, nessun guaio è troppo grave.",
+   "meaning_en": "If you live to tell it, it's nothing.",
+   "usage_context": "Consolation after a bad day or an incident.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Catania (attributed as Catanese by the source)",
+   "sources": [
+    "src-cat-balarm-tri-pila"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tri-pila-avi-u-poccu",
+   "type": "saying",
+   "original": "Tri pila avi u poccu.",
+   "variants": [
+    "U porcu avi sulu tri pila."
+   ],
+   "literal_it": "Il porco ha solo tre peli.",
+   "literal_en": "The pig has only three bristles.",
+   "meaning_it": "Situazione o persona che non cambia mai; causa persa.",
+   "meaning_en": "A lost cause; someone who never changes.",
+   "usage_context": "Colleague who never changes habits; legacy code.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "Catania (attributed as Catanese by the source)",
+   "sources": [
+    "src-cat-balarm-tri-pila"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "poccu = Catanese assimilated form of porcu."
+  },
+  {
+   "id": "essiri-a-vintitri-uri-e-tri-quarti",
+   "type": "idiom",
+   "original": "Essiri a vintitri uri e tri quarti.",
+   "literal_it": "Essere alle ventitré e tre quarti.",
+   "literal_en": "To be at 23:45.",
+   "meaning_it": "Essere agli sgoccioli (della vita, di una scadenza).",
+   "meaning_en": "To be at the eleventh hour.",
+   "usage_context": "Deadlines, last-minute releases.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Catania (attributed as Catanese by the source)",
+   "sources": [
+    "src-cat-balarm-tri-pila"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tirari-acqua-cu-lu-panaru",
+   "type": "idiom",
+   "original": "Tirari acqua cu lu panaru.",
+   "literal_it": "Tirare acqua con il paniere.",
+   "literal_en": "To draw water with a basket.",
+   "meaning_it": "Usare uno strumento inadatto, fatica inutile.",
+   "meaning_en": "Using the wrong tool; futile effort.",
+   "usage_context": "Wrong tool for the job (e.g. regex for HTML).",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-cat-liveunict-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "a-lingua-non-avi-ossa-e-rumpi-ossa",
+   "type": "proverb",
+   "original": "A lingua non avi ossa e rumpi ossa.",
+   "literal_it": "La lingua non ha ossa e rompe le ossa.",
+   "literal_en": "The tongue has no bones but breaks bones.",
+   "meaning_it": "Le chiacchiere fanno grandi danni.",
+   "meaning_en": "Words can do great harm.",
+   "usage_context": "Gossip at work.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scacciari-na-mennula-ca-frunti",
+   "type": "idiom",
+   "original": "Scacciari na mennula ca frunti.",
+   "literal_it": "Schiacciare una mandorla con la fronte.",
+   "literal_en": "To crack an almond with your forehead.",
+   "meaning_it": "Sottovalutare un grosso rischio.",
+   "meaning_en": "To underestimate a big risk.",
+   "usage_context": "Deploying on Friday, skipping backups.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "u-malu-tempu-e-u-bon-tempu-non-durunu-tuttu-u-temp",
+   "type": "proverb",
+   "original": "U malu tempu e u bon tempu non durunu tuttu u tempu.",
+   "literal_it": "Il brutto e il bel tempo non durano per sempre.",
+   "literal_en": "Bad weather and good weather don't last forever.",
+   "meaning_it": "Periodi buoni e cattivi si alternano.",
+   "meaning_en": "Good and bad times alternate.",
+   "usage_context": "Consolation on bad days.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "chistu-e-un-muzzicuni-di-pulici",
+   "type": "idiom",
+   "original": "Chistu è un muzzicuni di pulici.",
+   "literal_it": "Questo è un morso di pulce.",
+   "literal_en": "This is a flea bite.",
+   "meaning_it": "È un problema da poco.",
+   "meaning_en": "It's just a scratch.",
+   "usage_context": "Minimising a small bug.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "spassu-di-fora-e-triulu-ncasa",
+   "type": "saying",
+   "original": "Spassu di fora e triulu 'ncasa.",
+   "literal_it": "Spasso fuori e tribolo in casa.",
+   "literal_en": "Fun outside, trouble at home.",
+   "meaning_it": "Simpatico con gli altri, insopportabile in casa.",
+   "meaning_en": "Charming outside, a pain at home.",
+   "usage_context": "Colleague nice in public, nasty in private.",
+   "register": "ironic",
+   "vulgarity": 0,
+   "geographical_area": "pan-Sicilian (attested form; also current in Catania)",
+   "sources": [
+    "src-scn-balarm-modi-di-dire"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sperdiri-a-trunzu",
+   "type": "idiom",
+   "original": "Sperdiri a trunzu.",
+   "variants": [
+    "sperdì a trunzu"
+   ],
+   "literal_it": "Finire a torsolo.",
+   "literal_en": "To end as a core (stump).",
+   "meaning_it": "Finire male.",
+   "meaning_en": "To end badly.",
+   "usage_context": "Projects that end badly.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Catania (Martoglio)",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fici-comu-a-chiddu",
+   "type": "idiom",
+   "original": "Fici comu a chiddu.",
+   "literal_it": "Feci come quello.",
+   "literal_en": "I did like that one.",
+   "meaning_it": "Fare di necessità virtù.",
+   "meaning_en": "To make a virtue of necessity.",
+   "usage_context": "Workarounds.",
+   "register": "popular",
+   "vulgarity": 0,
+   "geographical_area": "Catania (Martoglio)",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  }
+ ]
+}

@@ -79,6 +79,12 @@ Useful flags (from the [skills CLI docs](https://github.com/vercel-labs/skills))
 
 Plugin skills are namespaced: invoke with `/italianaccent:italianaccent <mode>`.
 
+### Claude Public Directory package
+
+[`claude-directory/`](claude-directory/) is a minimal, text-only plugin package (manifest, icon, the skill, license,
+notices) generated from `skills/italianaccent/` with `python scripts/validate.py --directory` — never edited by hand;
+a test fails if it drifts from the source. It is the folder submitted to the Claude Public Directory.
+
 ### Manual / git clone
 
 macOS / Linux:

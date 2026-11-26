@@ -1,6 +1,6 @@
 # Sources — Pirla (City of Milan and its urban speech community (classical and contemporary Milanese). Hinterland Lombard varieties (Brianza, Comasco, Varesotto, Lodigiano, Ticinese) and Eastern Lombard (Bergamasco, mode pota) are not covered.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -32,4 +32,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-mil-treccani-pirla` | pirla (Vocabolario Treccani) | Treccani | historical-dictionary | high | Treccani, all rights reserved (facts-only-citation) | <https://www.treccani.it/vocabolario/pirla/> |
 | `src-mil-wikiquote-lombardi` | Proverbi lombardi (Wikiquote) | Wikiquote | public-domain | low | CC BY-SA 4.0 (Wikimedia) (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_lombardi> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

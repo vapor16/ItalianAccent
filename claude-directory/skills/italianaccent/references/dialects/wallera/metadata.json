@@ -1,0 +1,80 @@
+{
+  "id": "wallera",
+  "display_name": "Wallera",
+  "aliases": [
+    "uallera",
+    "guallera",
+    "wallerà"
+  ],
+  "region": "Campania",
+  "provinces": [
+    "Napoli"
+  ],
+  "geographical_area": "City of Naples (Napoli). The profile follows the urban Neapolitan norm used in literature, theatre and song; the surrounding metropolitan area and other Campanian varieties (Irpinian, Cilentan, Beneventan, Casertan, island varieties with 'u) differ and are not covered.",
+  "linguistic_classification": "Neapolitan (napoletano), upper-southern / intermediate-southern Italo-Romance (Pellegrini group 'alto-meridionale'); a Romance language variety of the Neapolitan group (ISO 639-3 nap), traditionally called a dialect in Italy.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Southern Italian (Neapolitan group)",
+  "orthographic_conventions": "Modern conventional Neapolitan spelling as used in 20th-century literature and reference grammars (Wikipedia/Wikiquote practice): apostrophe for dropped l- in articles and pronouns ('o, 'a, 'e), for aphaeresis ('ncoppa, 'mmiezo, 'nzerrà) and apocope (so', pe', cu', vo'); infinitives truncated with final accent (magnà, vedé, sentì, fà); unstressed final vowels written with their etymological letter although pronounced as schwa (no ə/ë in running text); circumflex for crasis (ô = a + 'o, â = a + 'a, ê = a + 'e, dô/dâ); j for the glide (jammo, aje, maje); syntactic doubling written in the high-frequency cases ('e ffemmene, 'o ppane, a mme, pe' tte, cchiù). 19th-century spellings (lo/la/li articles, -are infinitives) are treated as archaic.",
+  "description_en": "Neapolitan as spoken in the city of Naples: schwa-reduced final vowels, metaphony marking gender and number, the neuter article 'o with doubling, tené for possession and avé as the only active auxiliary, avé 'a for obligation, enclitic kinship possessives (mammeta, fràtemo), prepositional accusative, ca as complementizer. Voice: theatrical irony, hyperbole, wellerisms and a deep stock of proverbs.",
+  "description_it": "Il napoletano della città di Napoli: vocali finali ridotte a schwa, metafonia che distingue genere e numero, articolo neutro 'o con raddoppiamento, tené per il possesso e avé come unico ausiliare attivo, avé 'a per il dovere, possessivi enclitici con i nomi di parentela (mammeta, fràtemo), accusativo preposizionale, ca come complementatore. Tono: ironia teatrale, iperbole, wellerismi e un vastissimo repertorio di proverbi.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "uallera",
+    "variants": [
+      "guallera",
+      "guallara",
+      "uallara",
+      "wallera (commercial spelling used as the mode id)"
+    ],
+    "meaning_en": "Literally hernia (especially inguinal-scrotal hernia), by extension the scrotum; figuratively boredom/annoyance, in idioms such as abbuffà 'a uallera ('to swell someone's hernia' = to bore or annoy someone to death).",
+    "meaning_it": "Letteralmente ernia (soprattutto inguino-scrotale), per estensione lo scroto; in senso figurato noia, fastidio, in locuzioni come abbuffà 'a uallera (= annoiare, scocciare a morte).",
+    "attestation": "Attested as 'Guallara, Guallera sf. Ernia' in D'Ambra (1873), with the phrases 'Abbottare la guallara' (to be envious) and 'Abboffare la guallera' (to annoy, to bore); Andreoli (1887) has the derivative guallaruso 'ernioso'. Modern idioms 'Me staje abbuffanno 'a guallera' and 'M'hê fatto 'a guallara a pezzaiola' are collected in it.wikiquote Modi di dire napoletani; the proverb 'Guallere e denare nisciuno sape si ne tene' in it.wikiquote Proverbi napoletani. The aphaeretic spelling 'uallera' (initial g- dropped, as is normal before /w/ in Neapolitan) is attested in contemporary press ('ci ha fatto la uallera'). 'Wallera' with w is NOT a traditional Neapolitan spelling (the alphabet has no w): it is the commercial/brand spelling chosen for the mode name, rendering the pronunciation /wal'lerə/.",
+    "sources": [
+      "src-nap-dambra-1873",
+      "src-nap-andreoli-1887",
+      "src-nap-wikiquote-modididire",
+      "src-nap-wikiquote-proverbi",
+      "src-nap-scattidigusto-uallera"
+    ]
+  },
+  "sources": [
+    "src-glosbe-nap-bocchino",
+    "src-nap-andreoli-1887",
+    "src-nap-dambra-1873",
+    "src-nap-enwiki-language",
+    "src-nap-fortunato-2017",
+    "src-nap-itwiki-grammatica",
+    "src-nap-itwiki-lingua",
+    "src-nap-itwiki-misc",
+    "src-nap-scattidigusto-uallera",
+    "src-nap-visitnaples-glossary",
+    "src-nap-volpe-1869",
+    "src-nap-wikiquote-modididire",
+    "src-nap-wikiquote-proverbi",
+    "src-nap-wiktionary",
+    "src-slengo-bucchino-family",
+    "src-slengo-campania-slang",
+    "src-threads-figlio-e-bukki",
+    "src-wikt-nap-bucchino"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "The mode id 'wallera' is a commercial spelling of the attested word uallera/guallera (product decision); the dialect text itself always writes uallera or guallera.",
+    "Modern reference grammars (Iandolo 2001, De Blasi & Imperatore 2001, Ledgeway 2009) and modern dictionaries (D'Ascoli, Altamura) are copyrighted and were not consulted directly; grammar relies on Wikipedia articles that summarize them, a university thesis summarizing Radtke/Loporcaro/Cortelazzo, and 19th-century public-domain dictionaries.",
+    "Orthography of Neapolitan is not standardized: spellings of the same word vary across sources (cchiù/chiù, 'nu/nu, guallera/uallera); this profile picks one form and lists variants.",
+    "Several modern vulgar items (e.g. 'Mannaggia 'a Maronna', 'puozze sculà') are not attested in the sources read and are marked unverified; explicit religious blasphemies are rare in the sources and must stay at vulgarity 5 only.",
+    "Proverbs are quoted in the spelling of the source collection (Wikiquote), which is not uniform; a few use older forms (lo/la).",
+    "Catalog check: region (Campania) and variety (Napoletano, city of Naples) in the catalog entry are correct; no area correction needed."
+  ],
+  "last_updated": "2026-11-25"
+}

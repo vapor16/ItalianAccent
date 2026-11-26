@@ -1,0 +1,1592 @@
+{
+ "dialect": "mbare",
+ "entries": [
+  {
+   "id": "minchia",
+   "original": "minchia!",
+   "category": "exclamation",
+   "literal_meaning": "pene",
+   "meaning_it": "Esclamazione: stupore, rabbia, ammirazione (secondo l'intonazione).",
+   "meaning_en": "Wow / damn / holy shit, depending on intonation.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "surprise",
+     "frustration",
+     "admiration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Minchia! Mi futteru a màchina!",
+     "translation_it": "Cazzo! Mi hanno rubato la macchina!",
+     "translation_en": "Fuck, somebody stole my car!",
+     "provenance": "attested"
+    },
+    {
+     "text": "Minchia, 'mbari, u build passau!",
+     "translation_it": "Cavolo, amico, la build è passata!",
+     "translation_en": "Damn, mate, the build passed!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-sololibri-parole",
+    "src-scn-wikipedia-en-profanity"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "The single most common Sicilian swear; meaning carried by intonation. Euphemism: mizzica."
+  },
+  {
+   "id": "minchiata",
+   "original": "minchiata",
+   "category": "vulgar-metaphor",
+   "meaning_it": "Stupidaggine, cazzata.",
+   "meaning_en": "Bullshit, nonsense.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "contempt",
+     "amusement"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Chista è 'na minchiata, 'un funziona.",
+     "translation_it": "Questa è una cazzata, non funziona.",
+     "translation_en": "This is bullshit, it doesn't work.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-scn-wikipedia-en-profanity"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "minchiuni",
+   "original": "minchiuni",
+   "variants": [
+    "minnali"
+   ],
+   "category": "insult",
+   "meaning_it": "Minchione, stupido credulone.",
+   "meaning_en": "Dumbass, sucker.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "contempt",
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: minnali = minchione; 'pensu quantu su' minchiuni'."
+  },
+  {
+   "id": "testa-di-minchia",
+   "original": "testa di minchia",
+   "category": "insult",
+   "meaning_it": "Testa di cazzo, imbecille.",
+   "meaning_en": "Dickhead.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "anger",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "hostile venting about a third party"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "insulting the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wikipedia-en-profanity",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Listed in English Wikipedia (Italian profanity) as of Sicilian origin."
+  },
+  {
+   "id": "suca",
+   "original": "suca",
+   "category": "dismissal",
+   "meaning_it": "Succhia! (gesto/espressione di sfida: 'non mi tocca nulla').",
+   "meaning_en": "Suck it!",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "defiance",
+     "mockery"
+    ]
+   },
+   "appropriate_contexts": [
+    "joking defiance among friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "U bug? Suca!",
+     "translation_it": "Il bug? Succhiamelo!",
+     "translation_en": "The bug? Suck it!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-ilfoglio-suca"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Il Foglio: expresses that nothing and nobody has power over the speaker. Derived forms on Wiktionary: m'hâ sucari, mâ suchi."
+  },
+  {
+   "id": "sucuni",
+   "original": "sucuni",
+   "category": "dismissal",
+   "meaning_it": "Accrescitivo di suca, attribuito ai catanesi.",
+   "meaning_en": "Augmentative of suca (Catania).",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "defiance",
+     "mockery"
+    ]
+   },
+   "appropriate_contexts": [
+    "joking defiance among friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-ilfoglio-suca"
+   ],
+   "provenance": "unverified",
+   "verification_status": "source-checked",
+   "notes": "Il Foglio (humorous column) says Catanians invented the augmentative sucuni. Low-reliability source."
+  },
+  {
+   "id": "chi-spacchiu-voi",
+   "original": "chi spacchiu voi?",
+   "variants": [
+    "chi spacchiu ni sacciu?",
+    "ma chi spacchiu..."
+   ],
+   "category": "vulgar-idiom",
+   "literal_meaning": "che sperma vuoi",
+   "meaning_it": "Che cazzo vuoi?",
+   "meaning_en": "What the fuck do you want?",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "anger",
+     "irritation"
+    ]
+   },
+   "appropriate_contexts": [
+    "hostile venting (vulgarity 5)"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "addressing the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Ma chi spacchiu ni sacciu?!",
+     "translation_it": "Ma che cazzo ne so?!",
+     "translation_en": "What the fuck do I know?!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "it.wiki: spàcchiu used like Italian 'che/chi/come/dove/perché/quando cazzo', when very angry."
+  },
+  {
+   "id": "spacchiusu",
+   "original": "spacchiusu",
+   "variants": [
+    "spacchiamentu",
+    "spacchiarisìlla"
+   ],
+   "category": "vulgar-metaphor",
+   "meaning_it": "Spocchioso, gradasso; (anche) figo.",
+   "meaning_en": "Show-off; (also) cool.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "mockery",
+     "admiration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Derived from spacchiu (Wiktionary); it.wiki: spacchiamentu = arroganza, spacchiarisìlla = fare l'arrogante. 'Nun fari spacchiu!' = don't show off (Wiktionary)."
+  },
+  {
+   "id": "va-fa-n-culu",
+   "original": "va' fa' 'n culu",
+   "variants": [
+    "vâ fa' 'n culu",
+    "vafanculu"
+   ],
+   "category": "dismissal",
+   "meaning_it": "Vaffanculo.",
+   "meaning_en": "Fuck off.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "anger",
+     "exasperation"
+    ]
+   },
+   "appropriate_contexts": [
+    "friendly exasperation",
+    "hostile venting"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "addressing the user hostilely"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "culu",
+   "original": "culu",
+   "category": "anatomical",
+   "meaning_it": "Culo; (fig.) fortuna.",
+   "meaning_en": "Ass; (fig.) luck.",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "amusement"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Chi culu, passaru tutti i test!",
+     "translation_it": "Che culo, sono passati tutti i test!",
+     "translation_en": "What luck, all tests passed!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cugghiuni",
+   "original": "cugghiuni",
+   "variants": [
+    "cugghiuna (pl.)"
+   ],
+   "category": "anatomical",
+   "meaning_it": "Coglione (testicolo); (fig.) fesso.",
+   "meaning_en": "Ball(s); (fig.) sucker.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "contempt",
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "buttana",
+   "original": "buttana",
+   "variants": [
+    "buttanazza"
+   ],
+   "category": "insult",
+   "meaning_it": "Puttana; persona senza scrupoli.",
+   "meaning_en": "Whore; unscrupulous person.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "anger"
+    ]
+   },
+   "appropriate_contexts": [
+    "exclamations (porca buttana) about things, not people"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "insulting women or the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary derived terms: porca buttana, morti buttana, facc' 'i buttana, buttana 'i to ma'."
+  },
+  {
+   "id": "porca-buttana",
+   "original": "porca buttana!",
+   "variants": [
+    "morti buttana"
+   ],
+   "category": "exclamation",
+   "meaning_it": "Porca puttana! (imprecazione contro le cose).",
+   "meaning_en": "Bloody hell! (lit. pig whore).",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "cursing at a failing build"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "buttana-i-to-ma",
+   "original": "buttana 'i to ma'",
+   "category": "insult",
+   "meaning_it": "Insulto alla madre dell'interlocutore.",
+   "meaning_en": "Insult to the listener's mother.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "rage"
+    ]
+   },
+   "appropriate_contexts": [
+    "only quoted, never aimed at the user"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "addressing the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Kept for recognition; do not generate against anyone."
+  },
+  {
+   "id": "curnutu",
+   "original": "curnutu",
+   "variants": [
+    "cunnutu"
+   ],
+   "category": "insult",
+   "meaning_it": "Cornuto; (genericamente) bastardo.",
+   "meaning_en": "Cuckold; (generic) bastard.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "anger",
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "insulting objects or absent third parties; teasing among friends"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wikiquote-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Attested in proverbs as curnutu; cunnutu is the expected Catanese realisation by r+C assimilation (rule documented on scn.wiki)."
+  },
+  {
+   "id": "sticchiu",
+   "original": "sticchiu",
+   "category": "anatomical",
+   "meaning_it": "Vagina (volgare).",
+   "meaning_en": "Pussy.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": false
+   },
+   "appropriate_contexts": [
+    "only if explicitly requested at vulgarity 5"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "tech answers"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pacchiu",
+   "original": "pacchiu",
+   "category": "anatomical",
+   "meaning_it": "Vulva (volgare); donna attraente.",
+   "meaning_en": "Pussy; attractive woman.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": false
+   },
+   "appropriate_contexts": [
+    "only if explicitly requested at vulgarity 5"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pacchiuni",
+   "original": "pacchiuni",
+   "category": "affectionate",
+   "meaning_it": "(Catania) complimento: persona molto attraente.",
+   "meaning_en": "(Catania) compliment: hot person.",
+   "intensity": 2,
+   "register": "familiar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "admiration"
+    ]
+   },
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "comments on the user's body"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-blogsicilia-pacchione",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "In Palermo = fat person (insult). Never use the Palermo sense in this profile."
+  },
+  {
+   "id": "babbu",
+   "original": "babbu",
+   "variants": [
+    "babba (f.)",
+    "babbanu"
+   ],
+   "category": "insult",
+   "meaning_it": "Stupido, sciocco.",
+   "meaning_en": "Idiot, fool.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Si' nu pezzu di cosa babba.",
+     "translation_it": "Sei proprio un idiota.",
+     "translation_en": "You're such an idiot.",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "babb-i-l-ova",
+   "original": "babb'i l'ova",
+   "variants": [
+    "babbu ri l'ova"
+   ],
+   "category": "insult",
+   "meaning_it": "Credulone, sempliciotto (tipicamente catanese).",
+   "meaning_en": "Gullible simpleton.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-balarm-babbu-ova"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sceccu",
+   "original": "sceccu",
+   "category": "insult",
+   "meaning_it": "Asino, ignorante.",
+   "meaning_en": "Donkey, dunce.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pacchiottu",
+   "original": "pacchiòttu",
+   "variants": [
+    "pacchiotta (f.)"
+   ],
+   "category": "insult",
+   "meaning_it": "Cretino, stupido.",
+   "meaning_en": "Idiot.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scunchiurutu",
+   "original": "scunchiurùtu",
+   "category": "insult",
+   "meaning_it": "Chi dice o ha appena detto una stupidaggine.",
+   "meaning_en": "Someone talking nonsense.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Verb scunchiùriri = dire una stupidaggine."
+  },
+  {
+   "id": "vastasu",
+   "original": "vastasu",
+   "variants": [
+    "vastasa (f.)"
+   ],
+   "category": "insult",
+   "meaning_it": "Maleducato, sboccato, cafone.",
+   "meaning_en": "Boor, foul-mouthed lout.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "contempt",
+     "teasing"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-balarm-raggia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Literally a port porter (it.wiki)."
+  },
+  {
+   "id": "zauddu",
+   "original": "zaùddu",
+   "variants": [
+    "zaurdu",
+    "zagurdu"
+   ],
+   "category": "insult",
+   "meaning_it": "Rozzo, cafone, villano.",
+   "meaning_en": "Lout, boor.",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing rude people"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-cat-martoglio-centona",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "zaùddu is the Catanese assimilated form (it.wiki); Martoglio writes zaùrdu."
+  },
+  {
+   "id": "mammorianu",
+   "original": "mammoriànu",
+   "variants": [
+    "mammurianu"
+   ],
+   "category": "insult",
+   "meaning_it": "Bullo di città rozzo e volgare.",
+   "meaning_en": "Uncouth city braggart.",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing arrogant louts"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary labels it 'Catania, slang'."
+  },
+  {
+   "id": "caioddu",
+   "original": "caiòddu",
+   "variants": [
+    "caiodda (f.)"
+   ],
+   "category": "insult",
+   "meaning_it": "Persona rozza e sporca.",
+   "meaning_en": "Crude, filthy person.",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing slobs"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mmunnizza",
+   "original": "mmunnizza",
+   "category": "insult",
+   "meaning_it": "Spazzatura; persona spregevole.",
+   "meaning_en": "Garbage; scumbag.",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "about bad code or a scumbag third party"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "addressing the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Stu còdici è mmunnizza.",
+     "translation_it": "Questo codice è spazzatura.",
+     "translation_en": "This code is garbage.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fitusu",
+   "original": "fitusu",
+   "category": "insult",
+   "meaning_it": "Schifoso, sudicio, disgustoso.",
+   "meaning_en": "Filthy, disgusting.",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "disgust"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-cat-martoglio-centona",
+    "src-scn-balarm-raggia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cascittuni",
+   "original": "cascittuni",
+   "category": "insult",
+   "meaning_it": "Vigliacco; (gergo) spione.",
+   "meaning_en": "Coward; snitch.",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing cowards"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio glosses it as jargon for 'vigliacco'."
+  },
+  {
+   "id": "gianfuttiri",
+   "original": "gianfuttiri",
+   "category": "insult",
+   "meaning_it": "Uomo tristo, mascalzone.",
+   "meaning_en": "Scoundrel.",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "describing scoundrels"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tappinara",
+   "original": "tappinàra",
+   "category": "insult",
+   "meaning_it": "Donna frivola o di facili costumi.",
+   "meaning_en": "Floozy (misogynist).",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "contempt"
+    ]
+   },
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "any generated text"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Misogynist slur; documented for recognition only."
+  },
+  {
+   "id": "morti-subitania",
+   "original": "morti subitania!",
+   "category": "imprecation",
+   "meaning_it": "Imprecazione: che ti venga un accidente (morte improvvisa).",
+   "meaning_en": "Drop dead! (lit. sudden death)",
+   "intensity": 3,
+   "register": "popular",
+   "usage": {
+    "friendly": false,
+    "hostile": true,
+    "emotional": [
+     "anger"
+    ]
+   },
+   "appropriate_contexts": [
+    "cursing at a machine or a situation"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2",
+    "aimed at the user"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio: imprecazione comunissima nel basso popolo, come 'accidenti'."
+  },
+  {
+   "id": "buttazza-di-vilenu",
+   "original": "buttazza di vilenu!",
+   "category": "imprecation",
+   "meaning_it": "Imprecazione: accidenti, colpo di veleno.",
+   "meaning_en": "Damn it! (lit. a blow of poison)",
+   "intensity": 2,
+   "register": "popular",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "cursing at a bug"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pipita-masculina",
+   "original": "pipìta masculina!",
+   "category": "imprecation",
+   "meaning_it": "Taci, che ti si possa seccare la lingua.",
+   "meaning_en": "Shut it! (curse on someone's tongue)",
+   "intensity": 2,
+   "register": "popular",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "irritation"
+    ]
+   },
+   "appropriate_contexts": [
+    "joking at someone who jinxes things"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania",
+   "sources": [
+    "src-cat-martoglio-centona"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Martoglio gloss. Dated."
+  },
+  {
+   "id": "malanova",
+   "original": "malanova!",
+   "category": "imprecation",
+   "meaning_it": "Accidenti; malaugurio.",
+   "meaning_en": "Dammit; curse.",
+   "intensity": 1,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "vulgarity 1-2"
+   ],
+   "inappropriate_contexts": [
+    "formal emails"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "futtirisinni",
+   "original": "futtirisinni",
+   "variants": [
+    "futtitinni (imper.)"
+   ],
+   "category": "vulgar-idiom",
+   "meaning_it": "Fregarsene.",
+   "meaning_en": "Not to give a damn.",
+   "intensity": 2,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "detachment"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-cat-sololibri-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "purpu",
+   "original": "purpu",
+   "category": "insult",
+   "meaning_it": "Polpo; (offensivo) omosessuale effeminato.",
+   "meaning_en": "Octopus; (offensive) homophobic slur.",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "inappropriate_contexts": [
+    "any generated text"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Homophobic slur (protected group): documented for recognition only."
+  },
+  {
+   "id": "jarrusu",
+   "original": "jarrusu",
+   "category": "insult",
+   "meaning_it": "(Offensivo) omosessuale.",
+   "meaning_en": "(Offensive) homophobic slur.",
+   "intensity": 5,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": false,
+    "hostile": true
+   },
+   "inappropriate_contexts": [
+    "any generated text"
+   ],
+   "blasphemy": false,
+   "generation_allowed": false,
+   "geographical_area": "Sicily (current in Catania)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Homophobic slur (protected group): documented for recognition only."
+  },
+  {
+   "id": "mammaluccu",
+   "original": "mammalùccu",
+   "category": "insult",
+   "meaning_it": "persona perennemente stordita, imbambolata (sciocco)",
+   "meaning_en": "perpetually dumbfounded person, dope, fool",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "amusement",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "ribbing a friend who just zoned out"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "it.wikipedia (Dialetto catanese): mammalùcu/a = 'perennemente sbigottito'; Wiktionary lists mammaluccu (fool, also mameluke and slug). Mild, affectionate roast; less sharp than babbu or pacchiòttu."
+  },
+  {
+   "id": "pagghiolu",
+   "original": "pagghiòlu",
+   "category": "insult",
+   "meaning_it": "adulto che si comporta da bambino",
+   "meaning_en": "grown-up who acts like a child",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "teasing a colleague who sulks"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese (flagged 'senza fonti'). Light insult for childish adult behaviour."
+  },
+  {
+   "id": "passuluni",
+   "original": "passulùni",
+   "category": "insult",
+   "meaning_it": "persona spenta, poco sveglia",
+   "meaning_en": "dull, slow-witted person (lit. big raisin)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "contempt"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese. Mild 'big raisin' roast for someone not alert."
+  },
+  {
+   "id": "cacocciula-boriosu",
+   "original": "cacòcciula",
+   "category": "insult",
+   "meaning_it": "persona boriosa, che si dà arie (figurato, da \"carciofo\")",
+   "meaning_en": "boastful show-off (figurative, from \"artichoke\")",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "boasting",
+     "sarcasm"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "deflating someone bragging about their stack"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Single source: it.wikipedia Dialetto catanese (figurative sense). Wiktionary only records the plant sense, so keep it as light mockery."
+  },
+  {
+   "id": "cuccu-jettatore",
+   "original": "cùccu",
+   "category": "insult",
+   "meaning_it": "persona che porta sfortuna, jettatore (lett. gufo)",
+   "meaning_en": "jinx, person who brings bad luck (lit. owl)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "friendly mockery",
+     "superstition",
+     "frustration"
+    ]
+   },
+   "appropriate_contexts": [
+    "banter between friends",
+    "venting about bugs or a bad day",
+    "blaming a friend for the outage they predicted"
+   ],
+   "inappropriate_contexts": [
+    "formal emails",
+    "customer support",
+    "vulgarity 0-2"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Catania (Catanese)",
+   "sources": [
+    "src-cat-wikipedia-it",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "it.wikipedia Dialetto catanese and Wiktionary (cuccu: owl; a person supposed to bring bad luck). Playful superstition joke after a failure."
+  }
+ ]
+}

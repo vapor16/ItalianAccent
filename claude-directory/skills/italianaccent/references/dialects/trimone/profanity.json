@@ -1,0 +1,1388 @@
+{
+  "dialect": "trimone",
+  "entries": [
+    {
+      "id": "tremone",
+      "original": "tremóne",
+      "variants": [
+        "trimone",
+        "trmòn",
+        "trmone",
+        "ttremóne",
+        "tremone",
+        "trimona (f.)"
+      ],
+      "category": "insult",
+      "literal_meaning": "masturbazione (maschile)",
+      "figurative_meaning": "persona stupida o inetta",
+      "meaning_it": "coglione, idiota, imbranato; letteralmente 'masturbazione'",
+      "meaning_en": "idiot, dumbass, wanker; literally 'wank'",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "exasperation",
+          "mockery",
+          "affection between friends"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony",
+        "reacting to a blunder"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "to strangers or elders"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Sì nu tremóne!",
+          "translation_it": "Sei un coglione!",
+          "translation_en": "You're such a dumbass!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-wikt-trimone",
+        "src-bar-patrimoni-trimone",
+        "src-bar-barinedita-termini",
+        "src-bar-barinedita-giudizi",
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "THE Barese insult and the mode's identifier. Italianised 'trimone' is the usual written/commercial form; Bari pronunciation [trɪˈmoːnə]. Between friends it is banter; to a stranger it is a real insult. Comparable to Milanese pirla or Tuscan bischero."
+    },
+    {
+      "id": "tremone-a-viende",
+      "original": "tremóne a vìende",
+      "variants": [
+        "trimone a vento",
+        "trmon a vind"
+      ],
+      "category": "insult",
+      "meaning_it": "chiacchierone che dice sciocchezze; superlativo di tremone",
+      "meaning_en": "windbag who talks nonsense; superlative of tremone",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "inappropriate_contexts": [
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-patrimoni-trimone",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Glossed both as 'talks nonsense' (Patrimoni Linguistici) and 'so easily satisfied he's stupid' (Barinedita)."
+    },
+    {
+      "id": "tremone-a-soffiette",
+      "original": "tremóne a soffiétte",
+      "variants": [
+        "trimone a soffietto"
+      ],
+      "category": "insult",
+      "meaning_it": "uno che a volte è sveglio e a volte stupido",
+      "meaning_en": "someone who is sharp one minute and dim the next",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-patrimoni-trimone"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tremone-che-la-t-de-tabbacchine",
+      "original": "tremóne che la T de tabbacchìne",
+      "variants": [
+        "trimone con la T di Tabacchino"
+      ],
+      "category": "insult",
+      "meaning_it": "coglione con la T maiuscola, stupido patentato",
+      "meaning_en": "a dumbass with a capital D",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "emphasis"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-patrimoni-trimone"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Source gives it in regional Italian ('con la T di Tabacchino'); the dialect rendering is ours, so prefer the Italian form when quoting."
+    },
+    {
+      "id": "famme-nu-tremone",
+      "original": "Fàmme nu tremóne!",
+      "variants": [
+        "Famm' nu trmon!"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "fammi una masturbazione",
+      "meaning_it": "fammi una sega! (per zittire uno che rompe)",
+      "meaning_en": "toss me off! (shuts up a pest)",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "silencing a pest"
+      ],
+      "inappropriate_contexts": [
+        "friendly chat",
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-patrimoni-trimone"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The obscene sense of tremone prevails here."
+    },
+    {
+      "id": "ssceme",
+      "original": "sscéme",
+      "variants": [
+        "scéme",
+        "sscème",
+        "u sscéme"
+      ],
+      "category": "insult",
+      "meaning_it": "scemo",
+      "meaning_en": "idiot, fool",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "affection"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony",
+        "light teasing"
+      ],
+      "inappropriate_contexts": [
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Quànte si sscéme!",
+          "translation_it": "Quanto sei scemo!",
+          "translation_en": "What an idiot you are!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bbrav-u-ssceme",
+      "original": "Bbràv'u sscéme!",
+      "variants": [
+        "brav u scem"
+      ],
+      "category": "insult",
+      "meaning_it": "bravo scemo! (lode ironica a chi ha fatto una bravata finita male)",
+      "meaning_en": "well done, genius! (ironic)",
+      "intensity": 2,
+      "register": "ironic",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony",
+        "commenting on a failure"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "te-te",
+      "original": "tè-tè",
+      "variants": [
+        "ce ssi tè-tè"
+      ],
+      "category": "insult",
+      "meaning_it": "idiota, chiacchierone",
+      "meaning_en": "idiot, chatterbox",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ce ssi tè-tè!",
+          "translation_it": "Che scemo che sei! / quanto parli!",
+          "translation_en": "What an idiot! / you talk too much!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-enwiki-barese"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "du-iune",
+      "original": "du iùne",
+      "variants": [
+        "du iune",
+        "du iu'ne",
+        "du iun"
+      ],
+      "category": "insult",
+      "literal_meaning": "'dell'uno', i nati nel 1901",
+      "figurative_meaning": "sprovveduto a cui va tutto storto",
+      "meaning_it": "fesso, ingenuo e sfortunato, buono a nulla",
+      "meaning_en": "sucker, hapless fool",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si probbie du iùne!",
+          "translation_it": "Sei proprio un fesso!",
+          "translation_en": "You're a hopeless case!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-idiomi",
+        "src-bar-barinedita-giudizi",
+        "src-bar-doppiozero-lemmi",
+        "src-bar-barinedita-dimenticato"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Folk explanation: the class of 1901, too young for WWI glory, too old for WWII."
+    },
+    {
+      "id": "cacacazze",
+      "original": "cacacàzze",
+      "variants": [
+        "cacacazz"
+      ],
+      "category": "insult",
+      "literal_meaning": "caga-cazzi",
+      "meaning_it": "rompiscatole, rompicoglioni",
+      "meaning_en": "pain in the arse",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "complaining about a pest",
+        "banter"
+      ],
+      "inappropriate_contexts": [
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chiene-de-merde",
+      "original": "chìene de mèrde",
+      "variants": [
+        "kin d'merd"
+      ],
+      "category": "insult",
+      "literal_meaning": "pieno di merda",
+      "meaning_it": "persona moralmente spregevole, pezzo di merda",
+      "meaning_en": "piece of shit, despicable person",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile insult only"
+      ],
+      "inappropriate_contexts": [
+        "banter",
+        "formal writing",
+        "technical answers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Called the harshest term by the source (spelled 'kin d'merd'); reading as chìene 'full' follows the Swadesh form kìənə 'full'."
+    },
+    {
+      "id": "facce-de-ciole",
+      "original": "fàcce de ciòle",
+      "variants": [
+        "facc d'ciol"
+      ],
+      "category": "insult",
+      "meaning_it": "faccia da cazzo, persona antipatica",
+      "meaning_en": "dickface, obnoxious person",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile insult"
+      ],
+      "inappropriate_contexts": [
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciole",
+      "original": "ciòle",
+      "variants": [
+        "ciola"
+      ],
+      "category": "anatomical",
+      "meaning_it": "pene",
+      "meaning_en": "penis (vulgar)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Base of several insults: ciolóne, ciòla mòrte, fàcce de ciòle."
+    },
+    {
+      "id": "ciolone",
+      "original": "ciolóne",
+      "variants": [
+        "ciolone"
+      ],
+      "category": "insult",
+      "meaning_it": "fiacco, smidollato, fesso",
+      "meaning_en": "dope, spineless lump",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciola-morte",
+      "original": "ciòla mòrte",
+      "variants": [
+        "ciola morta"
+      ],
+      "category": "insult",
+      "literal_meaning": "pene morto",
+      "meaning_it": "persona moscia, senza energia",
+      "meaning_en": "limp, listless person",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nvamone",
+      "original": "nvamóne",
+      "variants": [
+        "nvamòne",
+        "nvamon"
+      ],
+      "category": "insult",
+      "meaning_it": "infame, spia, traditore",
+      "meaning_en": "snitch, traitor",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt"
+        ]
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi",
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Accompanied by widening the eyes with both index fingers."
+    },
+    {
+      "id": "malamende",
+      "original": "malamènde",
+      "variants": [
+        "malamind",
+        "malamèndə"
+      ],
+      "category": "insult",
+      "meaning_it": "delinquente, persona da cui aspettarsi solo il male",
+      "meaning_en": "lowlife, criminal type",
+      "intensity": 3,
+      "register": "popular",
+      "usage": {
+        "friendly": false,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi",
+        "src-bar-wikt-swadesh"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "As an adjective also simply 'bad' (Swadesh)."
+    },
+    {
+      "id": "recottare",
+      "original": "recottàre",
+      "variants": [
+        "ricottaro"
+      ],
+      "category": "insult",
+      "meaning_it": "magnaccia; chi vive sulle spalle degli altri",
+      "meaning_en": "pimp; freeloader living off others",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vastase",
+      "original": "vastàse",
+      "variants": [
+        "vastase"
+      ],
+      "category": "insult",
+      "meaning_it": "cafone attaccabrighe",
+      "meaning_en": "loutish troublemaker",
+      "intensity": 3,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gloss disputed by some readers."
+    },
+    {
+      "id": "chiaveche",
+      "original": "chiàveche",
+      "variants": [
+        "chiavico",
+        "chiavica"
+      ],
+      "category": "affectionate",
+      "literal_meaning": "fogna",
+      "meaning_it": "(di un uomo) un fenomeno, uno bravissimo in qualcosa",
+      "meaning_en": "(of a man) an ace, a phenomenon",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "appropriate_contexts": [
+        "praise between friends"
+      ],
+      "inappropriate_contexts": [
+        "to women (see next entry)",
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "la-chiaveche-de-mammete",
+      "original": "la chiàveche de màmmete",
+      "variants": [
+        "la chiavica di mamt"
+      ],
+      "category": "insult",
+      "meaning_it": "tua madre è una poco di buono (insulto alla madre)",
+      "meaning_en": "your mother's a slut",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile only"
+      ],
+      "inappropriate_contexts": [
+        "banter",
+        "technical answers",
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Feminine chiàveche refers to a loose woman; aimed at someone's mother it is a grave offence. Uses the enclitic kinship possessive -te."
+    },
+    {
+      "id": "je-nu-chitemmurte",
+      "original": "jè nu chitemmùrte",
+      "variants": [
+        "iè nu kitemmurt"
+      ],
+      "category": "affectionate",
+      "meaning_it": "è un fenomeno, uno che eccelle",
+      "meaning_en": "he's an absolute ace",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Same as chiàveche in the positive sense. The source gives no etymology; it is probably built on 'chi t'è mmuèrte' ('your dead ones'), a curse-formula, but this is our hypothesis."
+    },
+    {
+      "id": "cornute",
+      "original": "cornùte",
+      "variants": [
+        "krnut",
+        "cornuto"
+      ],
+      "category": "affectionate",
+      "meaning_it": "furbo, sveglio (non 'tradito')",
+      "meaning_en": "sly, clever (not 'cuckold')",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Gesture: index and little finger raised. Outside Bari it means cuckold, so avoid with non-Baresi."
+    },
+    {
+      "id": "le-corne-ca-tiine",
+      "original": "Le corne ca tìine!",
+      "variants": [
+        "le corn ca tiin"
+      ],
+      "category": "affectionate",
+      "literal_meaning": "le corna che hai",
+      "meaning_it": "che furbacchione che sei!",
+      "meaning_en": "you sly devil!",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mocch-a-te",
+      "original": "Mòcch'a te!",
+      "variants": [
+        "mocch a te",
+        "mocche a tte"
+      ],
+      "category": "imprecation",
+      "meaning_it": "accidenti a te! (anche scherzoso)",
+      "meaning_en": "damn you! (often playful)",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mild irritation",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "something went wrong",
+        "teasing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Literal meaning not explained by the sources."
+    },
+    {
+      "id": "mocch-a-me",
+      "original": "Mòcch'a me!",
+      "variants": [
+        "mocch a me"
+      ],
+      "category": "imprecation",
+      "meaning_it": "accidenti a me!",
+      "meaning_en": "damn me! / damn it!",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "self-reproach",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "own mistakes"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gergo"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-ce-ccazze-ue",
+      "original": "Fa ce ccàzze uè!",
+      "variants": [
+        "fa c cazz uè"
+      ],
+      "category": "dismissal",
+      "meaning_it": "fa' il cazzo che vuoi!",
+      "meaning_en": "do whatever the fuck you want!",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "giving up on someone stubborn"
+      ],
+      "inappropriate_contexts": [
+        "formal writing"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-mo-so-ccazze",
+      "original": "E mo' so' ccàzze!",
+      "variants": [
+        "e mo' so cazz"
+      ],
+      "category": "exclamation",
+      "meaning_it": "e adesso sono cazzi! (arrivano i guai)",
+      "meaning_en": "now we're fucked! (trouble ahead)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "alarm"
+        ]
+      },
+      "appropriate_contexts": [
+        "prod incident",
+        "bad news"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ce-figure-de-merde",
+      "original": "Ce figùre de mèrde!",
+      "variants": [
+        "c figur d merd"
+      ],
+      "category": "exclamation",
+      "meaning_it": "che figura di merda!",
+      "meaning_en": "what a shitty embarrassment!",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "embarrassment"
+        ]
+      },
+      "appropriate_contexts": [
+        "admitting a gaffe"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Said under one's breath."
+    },
+    {
+      "id": "capa-toste",
+      "original": "capa tòste",
+      "variants": [
+        "capatost",
+        "cape tòste"
+      ],
+      "category": "insult",
+      "meaning_it": "testone, duro di comprendonio",
+      "meaning_en": "thickhead, stubborn",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cape-de-chiumme",
+      "original": "cape de chiùmme",
+      "variants": [
+        "cap d'chiumm"
+      ],
+      "category": "insult",
+      "meaning_it": "testa di piombo, tardo",
+      "meaning_en": "leaden-headed, slow",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "self-irony"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "recchie-de-gomme",
+      "original": "rècchie de gòmme",
+      "variants": [
+        "recchie d gomm",
+        "recchje d gomm"
+      ],
+      "category": "insult",
+      "literal_meaning": "orecchie di gomma",
+      "meaning_it": "ingenuo o vigliacco",
+      "meaning_en": "naive or chicken-hearted person",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi",
+        "src-bar-barinedita-emoticon"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "malate-de-cape",
+      "original": "malàte de cape",
+      "variants": [
+        "capa matt",
+        "malato di capa"
+      ],
+      "category": "insult",
+      "meaning_it": "sconsiderato, uno che ha esagerato",
+      "meaning_en": "reckless nutcase",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cule-rutte",
+      "original": "cùle rùtte",
+      "variants": [
+        "cul rutt"
+      ],
+      "category": "vulgar-metaphor",
+      "literal_meaning": "culo rotto",
+      "meaning_it": "fortunatissimo",
+      "meaning_en": "jammy, incredibly lucky",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "appropriate_contexts": [
+        "envious banter"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stritte-de-cule",
+      "original": "strìtte de cùle",
+      "variants": [
+        "stretto di culo"
+      ],
+      "category": "insult",
+      "meaning_it": "tirchio",
+      "meaning_en": "tight-arsed, stingy",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scherzone",
+      "original": "scherzóne",
+      "variants": [
+        "skrzon",
+        "scherzone"
+      ],
+      "category": "insult",
+      "meaning_it": "avaro, tirchio",
+      "meaning_en": "miser",
+      "intensity": 1,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Non zì scènne a cercà nudde a ccudde, jè nu scherzóne.",
+          "translation_it": "Non andare a chiedergli niente, è un tirchio.",
+          "translation_en": "Don't go asking him for anything, he's a skinflint.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "velacchione",
+      "original": "velacchióne",
+      "variants": [
+        "vilacchione",
+        "velacchiòne"
+      ],
+      "category": "insult",
+      "meaning_it": "vigliacco, fifone",
+      "meaning_en": "coward",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Sì nu velacchióne.",
+          "translation_it": "Sei un vigliacco.",
+          "translation_en": "You're a coward.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-termini",
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tart-vagghie",
+      "original": "tart'vàgghie",
+      "variants": [
+        "tartvagghie"
+      ],
+      "category": "insult",
+      "meaning_it": "donna pettegola e maldicente",
+      "meaning_en": "gossiping, backbiting woman",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-doppiozero-lemmi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bezzoche",
+      "original": "bezzòche",
+      "variants": [
+        "bizzoca"
+      ],
+      "category": "insult",
+      "meaning_it": "bigotta ipocrita che sparla di tutti",
+      "meaning_en": "sanctimonious gossip (woman)",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "debbosciate",
+      "original": "debbosciàte",
+      "variants": [
+        "debosciat"
+      ],
+      "category": "insult",
+      "meaning_it": "sciatto, trasandato, smidollato",
+      "meaning_en": "slob, good-for-nothing",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true
+      },
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-giudizi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ngi-am-a-ffa-na-chiantedde",
+      "original": "Ngi-am'a ffà na chiantèdde?",
+      "variants": [
+        "ngi-am'a fà na chiantèdde"
+      ],
+      "category": "double-entendre",
+      "meaning_it": "lo facciamo? (proposta di fare sesso, colorita)",
+      "meaning_en": "shall we do it? (crude proposition)",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false
+      },
+      "appropriate_contexts": [
+        "joking between partners/friends"
+      ],
+      "inappropriate_contexts": [
+        "technical answers",
+        "formal writing",
+        "to strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": false,
+      "geographical_area": "Bari (city)",
+      "sources": [
+        "src-bar-barinedita-gesti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Comes with a hand gesture. Do not generate toward the user."
+    },
+    {
+      "id": "chitemmurte-dismissal",
+      "original": "Chitemmùrte!",
+      "variants": [
+        "Chi te muerto"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "chi ti è morto",
+      "figurative_meaning": "chiudere con disprezzo una conversazione",
+      "meaning_it": "e chi ti è morto: chiusura sprezzante di una discussione",
+      "meaning_en": "(your dead!) curt, contemptuous end of an argument",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "dismissal",
+          "anger",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "closing a pointless argument",
+        "answering a silly remark with contempt"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "with elders or strangers",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Ce uè? Chitemmùrte!",
+          "translation_en": "What do you want? Screw you!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Puglia (community-tagged; Bari assumed only because it matches existing Barese entries)",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo 'chi te muerto' (Puglia): said alone to end a hostile conversation by dragging in the other's dead. Distinct from the admiring 'jè nu chitemmùrte' already in the palette (same root, opposite tone). Spelling normalised from 'chi te muerto' to the profile's 'chitemmùrte'; single community source."
+    },
+    {
+      "id": "trimoneggiare",
+      "original": "trimoneggiare",
+      "variants": [
+        "farsi i trimoni"
+      ],
+      "category": "insult",
+      "literal_meaning": "comportarsi da trimone",
+      "figurative_meaning": "cazzeggiare, fare lo scemo in giro",
+      "meaning_it": "fare il trimone: girare a cazzeggiare / comportarsi da scemo",
+      "meaning_en": "to hang around acting like a tremone",
+      "intensity": 3,
+      "register": "familiar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "teasing",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter about friends wasting time",
+        "self-mockery after a blunder"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Oh fra, andiamo a trimoneggiare in giro?",
+          "translation_en": "Hey mate, shall we go and mess about in town?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Puglia (community-tagged; Bari assumed only because it matches existing Barese entries)",
+      "sources": [
+        "src-slengo-puglia-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Italianised youth verb built on the documented 'tremóne' (Slengo Puglia 77%). Use it inside Italian-Barese mixed sentences, not as a Barese verb form (no native infinitive is documented). Slengo also lists 'farsi un trimone / farsi i trimoni' (habitual masturbation, a jibe). Single community source."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dialect_intensity": 5,
+  "vulgarity": 5,
+  "proverbs": true,
+  "idioms": true,
+  "humor": true,
+  "sarcasm": true,
+  "italian_translation": false,
+  "stylistic_censorship": false
+}

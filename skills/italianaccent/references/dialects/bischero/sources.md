@@ -1,6 +1,6 @@
 # Sources — Bischero (City of Florence and its urban speech community (Florentine vernacular). Other Tuscan varieties (Pisano-Livornese, Senese, Aretino, Pistoiese, Lucchese) are not covered; the Livornese mode is 'boiade'.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -24,4 +24,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-fi-wikiquote-modi` | Modi di dire toscani (Wikiquote it) | Wikimedia | public-domain | medium | CC BY-SA 4.0; traditional sayings (open-license-attribution) | <https://it.wikiquote.org/wiki/Modi_di_dire_toscani> |
 | `src-fi-wikiquote-proverbi` | Proverbi toscani (Wikiquote it) | Wikimedia | public-domain | medium | CC BY-SA 4.0; the proverbs are traditional/public-domain (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_toscani> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

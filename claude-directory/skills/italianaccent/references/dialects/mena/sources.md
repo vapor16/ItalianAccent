@@ -1,0 +1,18 @@
+# Sources — Mena (Spoken variety of the city of Lecce and its surroundings (the 'perileccese' towns, e.g. Cavallino, Carmiano, Novoli, Caprarica di Lecce) in central Salento; public name "Leccese — Salentino centrale". Northern Salentino (Brindisi/Taranto side) and southern Salentino (Otranto-Leuca) varieties differ and are not covered; items collected in other towns (e.g. Scorrano) are labelled with their own locality.)
+
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
+
+| ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
+|---|---|---|---|---|---|---|
+| `src-sal-garrisi-dizionario` | Dizionario leccese-italiano (online edition) | Antonio Garrisi / antoniogarrisiopere.it (author's website) | community-dictionary | high | All rights reserved (author's work published online) (facts-only-citation) | <https://www.antoniogarrisiopere.it/31_000_DizioLecceItali_FrameSet.html> |
+| `src-sal-presicce-turre` | Il dialetto salentino come si parla a Scorrano (pagina 'Turre') | Giuseppe Presicce / dialettosalentino.it | popular-web | medium | All rights reserved (author's work published online) (facts-only-citation) | <https://www.dialettosalentino.it/turre_1.html> |
+| `src-sal-rohlfs-vds3` | Vocabolario dei dialetti salentini (Terra d'Otranto), vol. III: Supplemento, Repertorio italiano-salentino, Indici | Gerhard Rohlfs / Bayerische Akademie der Wissenschaften (open PDF on tll-open.badw.de) | historical-dictionary | high | Copyright 1961 Bayerische Akademie der Wissenschaften; made openly available online by the Academy (facts-only-citation) | <https://tll-open.badw.de/en/000916000/000916000.pdf> |
+| `src-sal-romano-perileccesi` | I dialetti perileccesi | Antonio Romano / In P. Pascali & D. Capone (eds.), L'ombra di Tancredi, Giorgiani (author's manuscript on AperTO, Università di Torino) | academic | high | Open access author's manuscript (rights with author/publisher) (facts-only-citation) | <https://iris.unito.it/retrieve/6c003f90-f5c8-40b7-af0b-c1b09d5efa4c/AR2024_dialetti_perileccesi_pdf_postprint.pdf> |
+| `src-sal-treccani-avolio` | Siciliani, calabresi e salentini, dialetti (Enciclopedia dell'Italiano) | Francesco Avolio / Istituto della Enciclopedia Italiana Treccani | academic | high | All rights reserved (facts-only-citation) | <https://www.treccani.it/enciclopedia/siciliani-calabresi-e-salentini-dialetti_(Enciclopedia-dell'Italiano)/> |
+| `src-sal-wikipedia-en-salentino` | Salentino dialect | Wikipedia (English) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wikipedia.org/wiki/Salentino_dialect> |
+| `src-sal-wikipedia-it-dialetti-salentini` | Dialetti salentini | Wikipedia in italiano | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Dialetti_salentini> |
+| `src-sal-wikipedia-it-dialetto-leccese` | Dialetto leccese | Wikipedia in italiano | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Dialetto_leccese> |
+| `src-sal-wikipedia-it-salentino-meridionale` | Dialetto salentino meridionale | Wikipedia in italiano | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Dialetto_salentino_meridionale> |
+| `src-sal-wikiquote-proverbi-salentini` | Proverbi salentini | Wikiquote in italiano | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_salentini> |
+
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

@@ -1,0 +1,3452 @@
+{
+  "dialect": "boiade",
+  "entries": [
+    {
+      "id": "de",
+      "term": "dé",
+      "category": "interjection",
+      "variants": [
+        "de'",
+        "de"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Interiezione onnipresente il cui senso dipende da intonazione, mimica e contesto (incredulità, sollecito, enfasi, esasperazione, ovvietà).",
+      "meaning_en": "Ubiquitous interjection whose sense depends on intonation, facial expression and context (disbelief, urging, emphasis, exasperation, 'obviously').",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Dé, ma arrivi ora?",
+          "translation_it": "Ma come, arrivi solo adesso?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando",
+        "src-li-treccani-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling: dé (acute) or de'. Never dè and never deh, which is an old Italian exhortation unrelated to it (Catarsi). Treccani cites its vitality among young Livornese as a local flag feature. Old variant dì survives mostly in vernacular theatre."
+    },
+    {
+      "id": "boia",
+      "term": "boia",
+      "category": "interjection",
+      "variants": [
+        "bòia"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Esclamazione rozza di sorpresa, ammirazione o stizza: accidenti, perbacco, caspita. Un tempo considerata vera volgarità, oggi peccato veniale.",
+      "meaning_en": "Coarse exclamation of surprise, admiration or annoyance: damn, wow, blimey. Once treated as truly vulgar, today a venial sin.",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Boia, che freddo!",
+          "translation_it": "Accidenti, che freddo!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Literally 'executioner'. Often followed by 'che', 'come' or 'come sei' and closed by dé. Also an intensifier in front of adjectives and nouns."
+    },
+    {
+      "id": "boia-de",
+      "term": "boia dé",
+      "category": "interjection",
+      "variants": [
+        "boia de",
+        "boia de'"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Formula esclamativa livornese: boia in apertura e dé in chiusura, per sorpresa, ammirazione, fastidio o ironia secondo il tono.",
+      "meaning_en": "The Livornese exclamation frame: boia opens and dé closes; surprise, admiration, annoyance or irony depending on tone.",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Boia dé, c'è già l'una!",
+          "translation_it": "Accidenti, è già l'una!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The pattern 'Boia ... dé!' is attested in the dictionary examples (Boia 'ome sei stucco dé!, Boia che bodda lei lì, dé!). Boia and dé are also used apart. The fixed two-word form is the mode name."
+    },
+    {
+      "id": "ajo",
+      "term": "ajò",
+      "category": "interjection",
+      "variants": [
+        "aiò",
+        "ajòle",
+        "aiòle",
+        "ahiò"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Grido per richiamare l'attenzione o avvertire di un pericolo; spesso precede uno scapaccione sulla nuca.",
+      "meaning_en": "Shout to grab attention or warn of danger; often comes before a slap on the back of the neck.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variants ajòle, aiò, ahiò. The dictionary glosses aiò as 'watch out!'."
+    },
+    {
+      "id": "ao",
+      "term": "aò",
+      "category": "interjection",
+      "variants": [
+        "aó"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Vocativo esclamativo a distanza, usato soprattutto in battute e insulti scherzosi.",
+      "meaning_en": "Vocative shout used at a distance, mostly for banter and playful insults.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi calls it a separate Livornese form, not the Roman ahò."
+    },
+    {
+      "id": "ibo",
+      "term": "ibò",
+      "category": "interjection",
+      "variants": [
+        "aibò"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Interiezione di disgusto.",
+      "meaning_en": "Interjection of disgust.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also aibò."
+    },
+    {
+      "id": "onco",
+      "term": "ónco",
+      "category": "interjection",
+      "variants": [
+        "onco"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Interiezione onomatopeica del conato di vomito: schifo, voltastomaco.",
+      "meaning_en": "Onomatopoeic interjection of retching: disgust.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "oimmei",
+      "term": "oimmèi",
+      "category": "interjection",
+      "variants": [
+        "oimmèna",
+        "oimmène",
+        "uimmèi",
+        "aimmèi",
+        "immèi"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Interiezione di insofferenza o dolore, corruzione di ohimè.",
+      "meaning_en": "Interjection of impatience or pain, a corruption of ohimè.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Many variants: oimmèna, oimmène, uimmèi, aimmène, immèi..."
+    },
+    {
+      "id": "ela",
+      "term": "éla",
+      "category": "interjection",
+      "variants": [
+        "óppela"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Esclamazione per sottolineare l'inciampo o il passo falso di qualcuno.",
+      "meaning_en": "Exclamation said when someone stumbles or makes a small slip.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary. Probably a remnant of oplà (hop là). Variant óppela."
+    },
+    {
+      "id": "aridagnene",
+      "term": "aridàgnene",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Esclamazione di esasperazione davanti a un evento sgradevole che si ripete.",
+      "meaning_en": "Exclamation of exasperation when something unpleasant happens again.",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Aridàgnene, è caduta un'altra volta la rete!",
+          "translation_it": "Ancora, di nuovo: è caduta un'altra volta la rete!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ariecco",
+      "term": "ariècco",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Eccolo di nuovo: si dice quando qualcosa o qualcuno ritorna.",
+      "meaning_en": "There it is again: said when something or someone returns.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "adio",
+      "term": "adìo",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Saluto che esprime rassegnazione o preoccupazione (e non solo congedo).",
+      "meaning_en": "Interjection of resignation or worry, beyond a mere goodbye.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Once pronounced with a single d."
+    },
+    {
+      "id": "bo",
+      "term": "bó",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Basta (specie a tavola, quando qualcuno versa da bere); probabile contrazione di bòno.",
+      "meaning_en": "Enough (especially at table when someone pours a drink); probably a contraction of bòno.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bona",
+      "term": "bòna",
+      "category": "greeting",
+      "part_of_speech": "interjection",
+      "meaning_it": "Saluto di congedo molto confidenziale, spesso seguito da Ugo.",
+      "meaning_en": "Very familiar farewell, often followed by Ugo.",
+      "register": "familiar",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Used only on parting, unlike ciao. Examples: Bona bimbi!, Bona Ugo!"
+    },
+    {
+      "id": "alla-grazia",
+      "term": "alla grazia",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Esclamazione di stupore o saluto allegro.",
+      "meaning_en": "Exclamation of astonishment or a cheerful greeting.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-diatti",
+      "term": "e diàtti",
+      "category": "interjection",
+      "variants": [
+        "addiàtti",
+        "eddiàtti"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "È già tanto se...: mi accontento, mi va bene così (spesso dopo un pericolo scampato).",
+      "meaning_en": "'It's already a lot if...': I'll settle for that, often after a near miss.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variants addiàtti, eddiàtti."
+    },
+    {
+      "id": "che",
+      "term": "chè",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Interiezione che nega: ma no, è come dico io e non come dici tu.",
+      "meaning_en": "Interjection of denial: of course not, it is as I say.",
+      "register": "archaic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete; written with a grave accent."
+    },
+    {
+      "id": "puppa",
+      "term": "pùppa",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Esclamazione multiuso, per lo più nel senso di 'attaccati al tram!'.",
+      "meaning_en": "Multi-purpose exclamation, mostly meaning 'get lost, tough luck'.",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tonfa",
+      "term": "tónfa",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Incitamento a mettere forza in un tiro, un pugno, un colpo energico.",
+      "meaning_en": "Urging to put full force into a shot or a blow.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fido",
+      "term": "fìdo",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Grido nei giochi di gruppo per sospendere un attimo la partita.",
+      "meaning_en": "Shout in group games to freeze play for a moment.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "facci-la-presa",
+      "term": "facci la presa",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Sfottò sportivo a chi subisce un tiro imprendibile: prova a prenderla ora!",
+      "meaning_en": "Sporting taunt at someone facing an unstoppable shot: try catching that.",
+      "register": "familiar",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gua",
+      "term": "gua'",
+      "category": "greeting",
+      "variants": [
+        "guà"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Saluto confidenziale all'incontro (da guarda): gua', chi si vede!",
+      "meaning_en": "Familiar greeting on meeting someone (from 'guarda').",
+      "register": "familiar",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "nniamo",
+      "term": "'nniamo",
+      "category": "interjection",
+      "variants": [
+        "nniamo"
+      ],
+      "part_of_speech": "interjection",
+      "meaning_it": "Su, andiamo, forza (da andiamo).",
+      "meaning_en": "Come on, let's go.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the example 'nniamo, un fà 'r fióso."
+    },
+    {
+      "id": "lesco",
+      "term": "lescò",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "Via, sciò (da let's go): per scacciare animali o bambini.",
+      "meaning_en": "Shoo, scram (from English 'let's go').",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-lenzi-vernacolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "A WWII-era loanword. Lenzi also lists comò (come on) for 'come closer'."
+    },
+    {
+      "id": "ir",
+      "term": "ir",
+      "category": "function-word",
+      "variants": [
+        "'r",
+        "er"
+      ],
+      "part_of_speech": "article",
+      "meaning_it": "Articolo determinativo maschile singolare davanti a consonante (il); dopo vocale o preposizione si riduce a 'r (ar, ner, der, cor).",
+      "meaning_en": "Masculine singular definite article before a consonant; reduced to 'r after prepositions.",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Ir bimbo è ar mercato.",
+          "translation_it": "Il bambino è al mercato.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani",
+        "src-li-treccani-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Rhotacism of il on the coast. The older er has disappeared (Catarsi). Not Florentine i'."
+    },
+    {
+      "id": "un",
+      "term": "un",
+      "category": "function-word",
+      "variants": [
+        "'un"
+      ],
+      "part_of_speech": "adverb",
+      "meaning_it": "Negazione davanti al verbo: non (da non > nun > un).",
+      "meaning_en": "Negation before the verb: 'not' (non > nun > un).",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Un mi garba.",
+          "translation_it": "Non mi piace.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani",
+        "src-li-catarsi-grafia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi writes un without apostrophe; 'un is the popular alternative (Livorno Magazine, itwiki)."
+    },
+    {
+      "id": "mi-garba",
+      "term": "mi garba",
+      "category": "function-word",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "Mi piace (garbare, verbo toscano).",
+      "meaning_en": "I like it (Tuscan verb garbare).",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In Livornese attested in A me 'r cavolo nero un mi garba and with double dative a me mi garba (a general Tuscan feature, itwiki)."
+    },
+    {
+      "id": "mi",
+      "term": "mi'",
+      "category": "function-word",
+      "variants": [
+        "tu'",
+        "su'"
+      ],
+      "part_of_speech": "possessive",
+      "meaning_it": "Aggettivo possessivo breve davanti ai nomi di parentela: mi', tu', su' (mi' ma', tu' ma', ir mi' figliolo).",
+      "meaning_en": "Short possessives mi', tu', su', typical with kinship nouns.",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Documented forms: tu' ma' (in insults), ir mi' figliolo, mi' padre."
+    },
+    {
+      "id": "te",
+      "term": "te",
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "Pronome di seconda persona usato anche come soggetto (te, a carte, riesci solo a...).",
+      "meaning_en": "Second-person pronoun used also as subject.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Documented in the Tuscan morphosyntax (itwiki) and in Catarsi's examples (Te, a carte...)."
+    },
+    {
+      "id": "se",
+      "term": "se'",
+      "category": "function-word",
+      "variants": [
+        "sei"
+      ],
+      "part_of_speech": "verb",
+      "meaning_it": "Sei (2a persona di essere): se' propio 'na fava.",
+      "meaning_en": "You are (2sg of essere).",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vo",
+      "term": "vo'",
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "Voi (nella forma vo' due: voi due).",
+      "meaning_en": "You (pl.), as in vo' due.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ni",
+      "term": "ni",
+      "category": "function-word",
+      "variants": [
+        "nì"
+      ],
+      "part_of_speech": "pronoun",
+      "meaning_it": "Pronome clitico dativo: a lui, a lei, a loro.",
+      "meaning_en": "Dative clitic: to him, to her, to them.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary; Ni voglio dà 'r bongiorno."
+    },
+    {
+      "id": "gnene",
+      "term": "gnene",
+      "category": "function-word",
+      "variants": [
+        "gnelo",
+        "nielo",
+        "niene"
+      ],
+      "part_of_speech": "pronoun",
+      "meaning_it": "Deformazione uniforme di glielo, gliela, glieli, gliele.",
+      "meaning_en": "Uniform form for glielo/gliela/glieli/gliele.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Variants gnelo, nielo, niene. Marked obsolete in the dictionary."
+    },
+    {
+      "id": "mia",
+      "term": "mìa",
+      "category": "function-word",
+      "variants": [
+        "mia"
+      ],
+      "part_of_speech": "adverb",
+      "meaning_it": "Rafforzativo della negazione: mica (ero ar Grand Hotel, mìa ar Bubbo Cine).",
+      "meaning_en": "Negative reinforcer 'mica'.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-vernacolando",
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The two sayings on Livorno Magazine show mia as 'mica'."
+    },
+    {
+      "id": "ndove",
+      "term": "'ndove",
+      "category": "function-word",
+      "variants": [
+        "ndove",
+        "'n dove"
+      ],
+      "part_of_speech": "adverb",
+      "meaning_it": "Dove.",
+      "meaning_en": "Where.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "caa",
+      "term": "caa",
+      "category": "function-word",
+      "variants": [
+        "câ",
+        "'osa",
+        "cosa"
+      ],
+      "part_of_speech": "pronoun",
+      "meaning_it": "Che cosa (caa ti 'redi?, câ dici?).",
+      "meaning_en": "What (as in 'what do you think...').",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Spelling follows the dictionary examples."
+    },
+    {
+      "id": "sinno",
+      "term": "sinnò",
+      "category": "function-word",
+      "variants": [
+        "sennò"
+      ],
+      "part_of_speech": "conjunction",
+      "meaning_it": "Altrimenti.",
+      "meaning_en": "Otherwise.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi notes here Livornese resembles Roman more than Florentine."
+    },
+    {
+      "id": "punto",
+      "term": "punto",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "Per niente: un mi piaci punto.",
+      "meaning_en": "Not at all.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "poo",
+      "term": "pòo",
+      "category": "function-word",
+      "variants": [
+        "poo"
+      ],
+      "part_of_speech": "adverb",
+      "meaning_it": "Poco (c intervocalica caduta): manca pòo = per poco non.",
+      "meaning_en": "A little / few; manca pòo = nearly.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The elided c shows in writing as a missing consonant."
+    },
+    {
+      "id": "capace",
+      "term": "capace",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "È possibile, è probabile (spesso in senso negativo): capace piove.",
+      "meaning_en": "Perhaps, it is likely that (often negative): capace piove.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "popo-di",
+      "term": "popò di",
+      "category": "function-word",
+      "variants": [
+        "popo di"
+      ],
+      "part_of_speech": "construction",
+      "meaning_it": "Struttura intensiva: che razza di, che grande (popò di pucioso lui lì, dé!).",
+      "meaning_en": "Intensifying frame: what a ...",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sempre-a",
+      "term": "sempre a",
+      "category": "function-word",
+      "part_of_speech": "construction",
+      "meaning_it": "Perifrasi durativa: essere sempre a + infinito (sei sempre a totterà).",
+      "meaning_en": "Durative construction: be always + a + infinitive.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "on",
+      "term": "'on",
+      "category": "function-word",
+      "part_of_speech": "preposition",
+      "meaning_it": "Con, con c intervocalica elisa: vieni 'on noi.",
+      "meaning_en": "With (c elided after a vowel).",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-vernacolando"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "branco",
+      "term": "branco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Intensificatore: grande quantità (un branco di tempo).",
+      "meaning_en": "Intensifier: a huge amount.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fottio",
+      "term": "fottìo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Moltitudine, grande quantità (un fottio di gente).",
+      "meaning_en": "Crowd, large quantity.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "una-frana",
+      "term": "una frana",
+      "category": "word",
+      "part_of_speech": "adverb",
+      "meaning_it": "Moltissimo.",
+      "meaning_en": "A great deal.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "monte",
+      "term": "monte",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Grande quantità (un monte di vaini).",
+      "meaning_en": "A heap of.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vaini",
+      "term": "vaìni",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Denaro, soldi.",
+      "meaning_en": "Money.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Synonyms quaìni, citti (obsolete small coin), dìndi (children's money)."
+    },
+    {
+      "id": "quaini",
+      "term": "quaìni",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Soldi.",
+      "meaning_en": "Money.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bimbo",
+      "term": "bìmbo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Bambino, figlio, ragazzo; usato anche per figli adulti.",
+      "meaning_en": "Child, son, boy; used even for adult children.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi notes older Livornese had bimbo/bimba and not bambino."
+    },
+    {
+      "id": "ghigna",
+      "term": "ghìgna",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Viso, faccia: bella ghigna è un complimento ai bambini.",
+      "meaning_en": "Face; bella ghigna is a compliment to children.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bazza",
+      "term": "bàzza",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Mento.",
+      "meaning_en": "Chin.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ganascia",
+      "term": "ganàscia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Mandibola o guancia; per estensione chi mangia di gusto.",
+      "meaning_en": "Jaw or cheek; also a hearty eater.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tavolino",
+      "term": "tavolìno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "La tavola da pranzo (mettiti ar tavolino).",
+      "meaning_en": "The dining table.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Whatever the table's size."
+    },
+    {
+      "id": "filobusse",
+      "term": "filobùsse",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Filobus e, per estensione, l'autobus.",
+      "meaning_en": "Trolleybus, and by extension the bus.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Typical epithetic final -e on a consonant-ending loanword."
+    },
+    {
+      "id": "torta",
+      "term": "tórta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Torta di ceci (altrove cecina).",
+      "meaning_en": "Chickpea flatbread (cecina elsewhere).",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cinqueccinque",
+      "term": "cinqueccìnque",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Panino con torta di ceci (dal prezzo di cinque + cinque centesimi).",
+      "meaning_en": "Bread with chickpea flatbread (from 5+5 cents).",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-livornomagazine-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scagliozzi",
+      "term": "scagliòzzi",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Fette di polenta fritta.",
+      "meaning_en": "Slices of fried polenta.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "frate",
+      "term": "frate",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Ciambella fritta passata nello zucchero.",
+      "meaning_en": "Fried ring doughnut rolled in sugar.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cacciucco",
+      "term": "cacciùcco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Celebre zuppa di pesce livornese, dall'invenduto del pescato.",
+      "meaning_en": "Livorno's famous fish stew.",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pezzo",
+      "term": "pèzzo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Dolce (o salato) piccolo da bar: cappuccino e pezzo.",
+      "meaning_en": "Any small pastry at the bar.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sema",
+      "term": "sèma",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Seme di zucca tostato e salato; sostituto eufemistico di sega.",
+      "meaning_en": "Roasted salted pumpkin seed; euphemistic stand-in for something vulgar.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Lui lì mi fa 'na sema = non mi importa."
+    },
+    {
+      "id": "camerino",
+      "term": "camerìno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Bagno, gabinetto.",
+      "meaning_en": "Bathroom.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "bussolo",
+      "term": "bussolo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Contenitore grande per rifiuti, il vecchio cassonetto.",
+      "meaning_en": "Large rubbish bin.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sudicio",
+      "term": "sùdicio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Immondizia; anche cesta dei panni sporchi.",
+      "meaning_en": "Rubbish; also the dirty-laundry basket.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "granata",
+      "term": "granàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Scopa.",
+      "meaning_en": "Broom.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "treninghe",
+      "term": "trèninghe",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Tuta da ginnastica (training).",
+      "meaning_en": "Tracksuit.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Florentines say toni."
+    },
+    {
+      "id": "giacchetta",
+      "term": "giacchétta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Giacca da uomo (in famiglia la giacca è sempre giacchetta).",
+      "meaning_en": "Man's jacket.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gonnella",
+      "term": "gonnélla",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Gonna.",
+      "meaning_en": "Skirt.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pula",
+      "term": "pùla",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "La polizia, quando conviene starne alla larga.",
+      "meaning_en": "The police.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sisa",
+      "term": "sìsa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Schedina del totocalcio (da Sisal).",
+      "meaning_en": "Football-pools coupon.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ganzo",
+      "term": "ganzo",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Furbo, in gamba; anche di cosa originale e ingegnosa.",
+      "meaning_en": "Sharp, clever, impressive.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rediolo",
+      "term": "redìolo",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Buffo e simpatico (non negativo).",
+      "meaning_en": "Funny, endearing (not negative).",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Sei rediolo da morì is a compliment."
+    },
+    {
+      "id": "esagerato",
+      "term": "esageràto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Buonissimo, bellissimo (un mare esagerato).",
+      "meaning_en": "Excellent, wonderful.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "figura",
+      "term": "figùra",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Persona che piace per come si presenta: un bel tipo.",
+      "meaning_en": "A likeable character.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "guappo",
+      "term": "guàppo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "In tono bonario: chi si dà arie col vestito buono.",
+      "meaning_en": "Teasing: someone showing off in his best clothes.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nini",
+      "term": "nìni",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "Nomignolo tenero per bambini; tra adulti dipende dal tono.",
+      "meaning_en": "Tender nickname for children.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nottolo",
+      "term": "nòttolo",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "Nomignolo con cui si chiama ad alta voce un conoscente in strada.",
+      "meaning_en": "Nickname to hail an acquaintance.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "In Florence it indicates a tall robust person."
+    },
+    {
+      "id": "tommicche",
+      "term": "tommìcche",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "Nomignolo affettuoso per bambini.",
+      "meaning_en": "Affectionate nickname for children.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "palle",
+      "term": "pàlle",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "Nomignolo affettuoso al ragazzino.",
+      "meaning_en": "Affectionate nickname for a boy.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "coso",
+      "term": "coso",
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "Vocativo generico (O coso!).",
+      "meaning_en": "Generic vocative: 'hey you'.",
+      "register": "familiar",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciaffone",
+      "term": "ciaffóne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Schiaffo.",
+      "meaning_en": "Slap.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "puntata",
+      "term": "puntàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Forte pugno.",
+      "meaning_en": "Punch.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "picchio",
+      "term": "pìcchio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Pugno.",
+      "meaning_en": "Punch.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "storciodiollo",
+      "term": "storciodiòllo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Violento scapaccione alla nuca.",
+      "meaning_en": "Hard slap on the nape.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pappina",
+      "term": "pappìna",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Colpetto alla nuca, per ammonire.",
+      "meaning_en": "Light smack on the nape.",
+      "register": "familiar",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciagatta",
+      "term": "sciagattà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Picchiare violentemente.",
+      "meaning_en": "To beat up.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zomba",
+      "term": "zombà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Picchiare, malmenare.",
+      "meaning_en": "To beat up.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sfarina",
+      "term": "sfarinà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Malmenare; anche annoiare a morte o distruggere.",
+      "meaning_en": "To batter; also to bore to death or smash.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "smusa",
+      "term": "smusà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Rompere il muso.",
+      "meaning_en": "To smash someone's face.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbombola",
+      "term": "sbombolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Rompere, ridurre in frantumi; anche stancare con chiacchiere.",
+      "meaning_en": "To smash; to wear out with talk.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scammella",
+      "term": "scammellà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Togliersi di torno: Scammella, vai!",
+      "meaning_en": "Clear off.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tela",
+      "term": "telà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Svignarsela, scappare.",
+      "meaning_en": "To slip away.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "trana",
+      "term": "tranà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Smammare in fretta (di solito all'imperativo: Tràna!).",
+      "meaning_en": "To clear off quickly.",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "letia",
+      "term": "letià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Litigare.",
+      "meaning_en": "To quarrel.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tottera",
+      "term": "totterà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Brontolare di continuo.",
+      "meaning_en": "To grumble constantly.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lima",
+      "term": "limà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Chiedere insistentemente, mettere l'uggia.",
+      "meaning_en": "To pester.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "conquidere",
+      "term": "conquìdere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Sfinire con lamentele o richieste.",
+      "meaning_en": "To wear someone down.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bela",
+      "term": "belà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Frignare, lamentarsi.",
+      "meaning_en": "To whine.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgroppa",
+      "term": "sgroppà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Faticare molto, lavorare o studiare sodo.",
+      "meaning_en": "To toil.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgovona",
+      "term": "sgovonà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Mangiare senza freni, con gusto.",
+      "meaning_en": "To eat greedily.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "avella",
+      "term": "avellà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Puzzare.",
+      "meaning_en": "To stink.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sorti",
+      "term": "sortì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Uscire.",
+      "meaning_en": "To go out.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbraciolassi",
+      "term": "sbraciolàssi",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Farsi male cadendo.",
+      "meaning_en": "To hurt oneself in a fall.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "smoccola",
+      "term": "smoccolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Rompere il muso o il naso; anche bestemmiare (secondo omografo).",
+      "meaning_en": "To smash the face; also to blaspheme.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Two homographs in the dictionary."
+    },
+    {
+      "id": "briao",
+      "term": "briào",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Ubriaco.",
+      "meaning_en": "Drunk.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scimmia",
+      "term": "scìmmia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Sbornia (anche briàa).",
+      "meaning_en": "Hangover/drunkenness.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scoglionato",
+      "term": "scoglionàto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Annoiato, scocciato.",
+      "meaning_en": "Bored, fed up.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Synonym: sfavàto."
+    },
+    {
+      "id": "sfavato",
+      "term": "sfavàto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Annoiato.",
+      "meaning_en": "Bored.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scazzata",
+      "term": "scazzàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Colpo di fortuna (botta di culo).",
+      "meaning_en": "Stroke of luck.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Livornese scazzà means to guess by luck; elsewhere in Tuscany it means to err."
+    },
+    {
+      "id": "sculato",
+      "term": "sculàto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Sfortunato.",
+      "meaning_en": "Unlucky.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Florentine uses sculo for bad luck; Livornese does not."
+    },
+    {
+      "id": "merda",
+      "term": "mèrda",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Sfortuna, jella (che merda ho avuto).",
+      "meaning_en": "Bad luck.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The dictionary laments sfiga, a Milanese import."
+    },
+    {
+      "id": "gavinoso",
+      "term": "gavinóso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Usato per antifrasi: bello, ben vestito.",
+      "meaning_en": "Used ironically for 'good-looking'.",
+      "register": "ironic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Antiphrasis is called characteristic of Livornese by the dictionary."
+    },
+    {
+      "id": "caata",
+      "term": "caàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Escremento; insulto pesante.",
+      "meaning_en": "Excrement; heavy insult.",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zotta",
+      "term": "zòtta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Cacata (soprattutto quella in strada).",
+      "meaning_en": "Dog-or-human dropping on the street.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "calia",
+      "term": "calìa",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Lagnoso o ipocondriaco insopportabile.",
+      "meaning_en": "Insufferable whiner or hypochondriac.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fioso",
+      "term": "fiòso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Piagnucolone, che teme troppo il dolore.",
+      "meaning_en": "Whiny, afraid of pain.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "impiastro",
+      "term": "impiàstro",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Persona di gusti difficili, mai contenta.",
+      "meaning_en": "Fussy person.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stucco",
+      "term": "stùcco",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Di gusti difficili (esse stucchi).",
+      "meaning_en": "Fussy about food.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mastiabrodo",
+      "term": "mastiabròdo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Chi mangia lento e svogliato.",
+      "meaning_en": "Slow, reluctant eater.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fogna",
+      "term": "fògna",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Chi mangia di tutto e senza misura.",
+      "meaning_en": "Insatiable eater.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lotro",
+      "term": "lòtro",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Ingordo.",
+      "meaning_en": "Glutton.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pucioso",
+      "term": "pucióso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "Tirchio, taccagno (di una singola persona).",
+      "meaning_en": "Stingy.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ghiozzo",
+      "term": "ghiòzzo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Fesso, bischero.",
+      "meaning_en": "Fool.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tonno",
+      "term": "tónno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Fesso (tonno).",
+      "meaning_en": "Fool.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "torzolo",
+      "term": "tórzolo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Buono a nulla, fesso (varianti gavitello, baccalà, brodo, toppone).",
+      "meaning_en": "Good-for-nothing.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bischero",
+      "term": "bìschero",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Il pipi; usato anche, alla fiorentina, per fesso.",
+      "meaning_en": "Male genitals; also fool, Florentine style.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Shared with the Florentine mode."
+    },
+    {
+      "id": "brocco",
+      "term": "bròcco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Fesso (obsoleto).",
+      "meaning_en": "Fool.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "grebano",
+      "term": "grebàno",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Uomo rozzo e ignorante (obsoleto).",
+      "meaning_en": "Coarse, ignorant man.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pottaione",
+      "term": "pottaióne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Snob, che ostenta il proprio status.",
+      "meaning_en": "Snob, show-off.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pottata",
+      "term": "pottàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Acquisto o gesto vistoso, esagerato; talvolta ammirazione (Boia che pottata!).",
+      "meaning_en": "Showy, over-the-top thing or act.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spaccascurregge",
+      "term": "spaccascurrégge",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Spaccone, pallone gonfiato.",
+      "meaning_en": "Braggart.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tanacca",
+      "term": "tanàcca",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Chi si vanta di essere duro e invece è timoroso.",
+      "meaning_en": "Boaster who is actually timid.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "penerone",
+      "term": "penerone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Giovane sfaccendato sempre in giro.",
+      "meaning_en": "Idle youth.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spetezza",
+      "term": "spetézza",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Bambina curiosa e ciarliera, simpatica rompiscatole.",
+      "meaning_en": "Chatty curious girl.",
+      "register": "affectionate",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ruzza",
+      "term": "ruzzà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Giocare, scherzare (Ma ruzzi?).",
+      "meaning_en": "To play, joke.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rufola",
+      "term": "rufolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Rovistare.",
+      "meaning_en": "To rummage.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arronza",
+      "term": "arronzà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Fare in fretta e male; lanciare malamente.",
+      "meaning_en": "To do carelessly; to fling.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammanacca",
+      "term": "ammanaccà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Armeggiare, trafficare con le mani.",
+      "meaning_en": "To tinker.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ammatti",
+      "term": "ammattì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Impazzire; più spesso, perdere tempo su un compito.",
+      "meaning_en": "To go mad; to labour over something.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbarroccia",
+      "term": "sbarroccià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Perdere il controllo, esagerare, sbagliare.",
+      "meaning_en": "To lose control, overdo.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scazza",
+      "term": "scazzà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Andare a caso, indovinare per fortuna.",
+      "meaning_en": "To guess by luck.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sgrana",
+      "term": "sgranà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Mangiare in abbondanza.",
+      "meaning_en": "To eat heartily.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spillacchera",
+      "term": "spillaccherà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Spettegolare.",
+      "meaning_en": "To gossip.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stianta",
+      "term": "stiantà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Schiantare; morire dal ridere.",
+      "meaning_en": "To die laughing.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stiocca",
+      "term": "stioccà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Buttare, tirare, dare (un ciaffone, un bacio).",
+      "meaning_en": "To fling or deliver.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stempia",
+      "term": "stempià",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Cogliere in pieno un bersaglio.",
+      "meaning_en": "To hit squarely.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sentissi-strugge",
+      "term": "sentissi strùgge",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Non vedere l'ora, avere fretta che qualcosa accada.",
+      "meaning_en": "To be dying for something.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "zizzola",
+      "term": "zizzolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Sentire il disagio del freddo (anche arrocchettà).",
+      "meaning_en": "To feel cold.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "aggai",
+      "term": "aggaì",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Soffrire fisicamente fame, sete, freddo o sonno.",
+      "meaning_en": "To suffer hunger, thirst, cold or sleepiness.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sbibbola",
+      "term": "sbibbolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Disagio da freddo.",
+      "meaning_en": "To be chilled.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "arrizza",
+      "term": "arrizzà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Alzare.",
+      "meaning_en": "To raise.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "asserva",
+      "term": "asservà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Mettere da parte con cura.",
+      "meaning_en": "To set aside carefully.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "assistema",
+      "term": "assistemà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Sistemare.",
+      "meaning_en": "To tidy.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "incigna",
+      "term": "incignà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Cominciare a usare o indossare qualcosa.",
+      "meaning_en": "To use or wear for the first time.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rivoga",
+      "term": "rivogà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Appioppare, rifilare.",
+      "meaning_en": "To palm off.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scozza",
+      "term": "scozzà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Gareggiare.",
+      "meaning_en": "To compete.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "spendola",
+      "term": "spendolà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Far penzolare.",
+      "meaning_en": "To dangle.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "stoppina",
+      "term": "stoppinà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Chiudere bene porte e finestre, chiudersi in casa.",
+      "meaning_en": "To seal shut.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "trabarca",
+      "term": "trabarcà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Scavalcare.",
+      "meaning_en": "To climb over.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pesta",
+      "term": "pestà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Andare ad alta velocità.",
+      "meaning_en": "To speed.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "molla",
+      "term": "mollà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Dare con forza (ti mollo 'n ciaffone).",
+      "meaning_en": "To deal (a blow).",
+      "register": "popular",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "diace",
+      "term": "diacé",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Giacere, sdraiarsi.",
+      "meaning_en": "To lie down.",
+      "register": "archaic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "doventa",
+      "term": "doventà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Diventare.",
+      "meaning_en": "To become.",
+      "register": "archaic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario",
+        "src-li-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "impara",
+      "term": "imparà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Insegnare (t'imparo a disegnà).",
+      "meaning_en": "To teach.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "grida",
+      "term": "gridà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Sgridare.",
+      "meaning_en": "To scold.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "battere",
+      "term": "bàttere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "Corteggiare.",
+      "meaning_en": "To court.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sarago",
+      "term": "sàrago",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Forte abbiocco, sonno.",
+      "meaning_en": "Heavy drowsiness.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bozzo",
+      "term": "bòzzo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Pozzanghera.",
+      "meaning_en": "Puddle.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciuccione",
+      "term": "ciucciòne",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Bacio profondo.",
+      "meaning_en": "Deep kiss.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bagonghi",
+      "term": "bagónghi",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Nomignolo per un basso di statura.",
+      "meaning_en": "Teasing nickname for a short person.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cispia",
+      "term": "cìspia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Residuo secco agli angoli degli occhi.",
+      "meaning_en": "Eye crust.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bellio",
+      "term": "bellìo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Ombelico.",
+      "meaning_en": "Belly button.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bautta",
+      "term": "bàutta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "Piccolo scialle.",
+      "meaning_en": "Small shawl.",
+      "register": "archaic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mallevati-di-ulo",
+      "term": "mallèvati di 'ulo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Ma falla finita di spararle grosse (non: vattene).",
+      "meaning_en": "Come off it, stop exaggerating (not 'go away' locally).",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Outside Livorno it is taken literally as 'get lost' (dictionary warning)."
+    },
+    {
+      "id": "ma-fai-na-bulletta",
+      "term": "ma fai 'na bullétta?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Domanda retorica: scherzi? sei così sciocco da farlo?",
+      "meaning_en": "Rhetorical: are you joking?",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-isati",
+      "term": "e ìsati",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Ecco fatto, semplice: problema ridotto (mangiamo spaghetti e isati).",
+      "meaning_en": "And that's that, simple.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-capace",
+      "term": "è capace",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Può darsi, è probabile (soprattutto in senso negativo).",
+      "meaning_en": "It's likely (mostly negative).",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "morisse-mi-ma",
+      "term": "morisse mi' ma'",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Giuramento solenne per assicurare che è vero.",
+      "meaning_en": "Solemn oath: cross my heart.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "miparmiglianni",
+      "term": "miparmigliànni",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Non vedo l'ora (mi pare mille anni).",
+      "meaning_en": "I can't wait.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "s-e-avuta",
+      "term": "s'è avuta",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Siamo fregati.",
+      "meaning_en": "We're done for.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "robba-da-torta",
+      "term": "robba da torta",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Esclamazione di disappunto per cosa squallida (torta come pasto povero).",
+      "meaning_en": "Exclamation of dismay at something wretched.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "m-e-venuto-fatto",
+      "term": "m'è venuto fatto",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Mi è venuto spontaneo, d'istinto.",
+      "meaning_en": "It came instinctively to me.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mi-sente",
+      "term": "mi sente",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Mi fa male (mi sente la testa).",
+      "meaning_en": "It hurts me.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "leva-di-sentimento",
+      "term": "levà di sentimento",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Annoiare, sfinire; o al contrario qualcosa di meraviglioso.",
+      "meaning_en": "To bore out, or the opposite, to be wonderful.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Ambivalent: tone decides."
+    },
+    {
+      "id": "in-du-balletti",
+      "term": "in du' balletti",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "In un attimo.",
+      "meaning_en": "In a jiffy.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mi-ricerca",
+      "term": "mi ricérca",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Dice di una bevanda che resta sullo stomaco.",
+      "meaning_en": "Sits heavily on the stomach.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "e-sei-parigino",
+      "term": "e sei parigino",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Ironia iperbolica: l'opposto di quel che pare.",
+      "meaning_en": "Ironic hyperbole.",
+      "register": "ironic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-livornomagazine-vernacolando"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "annacqualo",
+      "term": "annàcqualo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Richiamo canzonatorio: allunga col vino con l'acqua (ubriaco).",
+      "meaning_en": "Teasing call: water down your wine (you're drunk).",
+      "register": "ironic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "posa-r-fiasco",
+      "term": "pòsa 'r fiasco",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Scherzosa accusa di ubriachezza, o: parli a vanvera.",
+      "meaning_en": "Teasing accusation of drunkenness.",
+      "register": "ironic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "buo-a-buo",
+      "term": "buo a buo",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Per un pelo, appena.",
+      "meaning_en": "By a hair.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario",
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-n-pizziotto",
+      "term": "è 'n pizziòtto",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Si dice di persona contratta, triste, magrissima.",
+      "meaning_en": "Tense, gaunt person.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-n-lavorone",
+      "term": "è 'n lavoróne",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "È un bel guaio da risolvere.",
+      "meaning_en": "It's a real problem.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "ma-te-c-hai-n-ghine-nella-testa",
+      "term": "ma te c'hai 'n ghinè nella testa",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Rotelle fuori posto; di chi ha detto un'idiozia.",
+      "meaning_en": "You've got a screw loose.",
+      "register": "ironic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-saosa",
+      "term": "è saòsa",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Esclamazione di ostentazione: guardatemi.",
+      "meaning_en": "Showing-off cry: look at me.",
+      "register": "colloquial",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-garbulla-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vieni-on-noi",
+      "term": "vieni 'on noi",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Vieni con noi (c intervocalica caduta).",
+      "meaning_en": "Come with us.",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mettiti-ar-tavolino",
+      "term": "mettiti ar tavolino",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Siediti a tavola.",
+      "meaning_en": "Sit down at the table.",
+      "register": "neutral",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-di-osi",
+      "term": "fare di 'osì",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "Fare così (modo giovanile d'altri tempi).",
+      "meaning_en": "To do like this.",
+      "register": "archaic",
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "caarella",
+      "term": "caarèlla",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fifa, paura",
+      "meaning_en": "jitters, fear",
+      "register": "familiar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Oggi m'interrogano 'n matemàtia, c'ho 'na caarèlla mòio.",
+          "translation_it": "Oggi mi interrogano in matematica, ho una paura tremenda.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi example: 'Oggi m'interrogano 'n matemàtia, c'ho 'na caarèlla mòio.' ('mòio' as spelled in the source, an emphatic tag). Light self-mockery."
+    },
+    {
+      "id": "allezzito",
+      "term": "allezzìto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "può significare povero, sfortunato, trasandato, ignorante, inetto, perfino tirchio: dipende dal tono",
+      "meaning_en": "can mean poor, wretched, shabby, clueless, even stingy: depends on tone",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi says it has endless shades and is hard to grasp without knowing Livornese. Say it with a deadpan tone as pity or friendly teasing; do not use it to mock poverty itself."
+    },
+    {
+      "id": "cauterio",
+      "term": "cautèrio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ipocondriaco, chi si lagna dei propri malanni",
+      "meaning_en": "hypochondriac, constant whiner about ailments",
+      "register": "ironic",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "La fai finita di lamentatti? Sei propio un cauterio!",
+          "translation_it": "Smettila di lamentarti, sei proprio un piagnone ipocondriaco!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: 'La fai finita di lamentatti? Sei propio un cauterio!' and 'Bongiorno cauterio, fatti 'na 'apomilla.' Humorous dismissal of a whiner."
+    },
+    {
+      "id": "segata",
+      "term": "segàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cosa di poco conto; ridimensiona un evento",
+      "meaning_en": "a trifle; belittles an event",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "L'esame d'italiano? Vai tranquillo, è 'na segata.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: 'L'esame d'italiano? Vai tranquillo, è 'na segata.' Dismissive downplaying, not an insult to a person."
+    },
+    {
+      "id": "figuretta",
+      "term": "figurétta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "brutta figura",
+      "meaning_en": "embarrassing blunder",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Boia 'e figuretta dé!",
+          "translation_it": "Mamma mia che brutta figura!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi gives the frame itself: 'Boia 'e figuretta dé!' after finding no cash at the till. Good model of boia plus dé used once each."
+    },
+    {
+      "id": "arriva-i-pisani",
+      "term": "Arriva ' pisani",
+      "variants": [
+        "ecco ' pisani"
+      ],
+      "category": "colloquial-expression",
+      "meaning_it": "sta arrivando il sonno (detto a un bambino che sbadiglia)",
+      "meaning_en": "sleep is coming (said to a yawning child)",
+      "register": "familiar",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: variant 'ecco ' pisani', the article i is thought but not pronounced. Affectionate local joke at Pisa's expense, a drowsy-time idiom; no football-chant source was verified."
+    },
+    {
+      "id": "di-olo",
+      "term": "di 'olo",
+      "category": "colloquial-expression",
+      "meaning_it": "ubriaco fradicio (\"di colo\"); usato anche come incredulità",
+      "meaning_en": "dead drunk; also used for disbelief",
+      "register": "popular",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Ma sei di 'olo? L'acqua è stecchita. Mòi!",
+          "translation_it": "Ma sei ubriaco? L'acqua è gelida. Muori!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi dialogue: 'Oh, io fo 'r bagno. - Ma sei di 'olo? L'acqua è stecchita. Mòi!' ('Mòi!' is translated 'Muori!' by Catarsi, a blunt exclamation). Gorgia marked by the apostrophe as in the source."
+    },
+    {
+      "id": "tottero",
+      "term": "tòttero",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "brontolone",
+      "meaning_en": "grumbler",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: brontolone. Affectionate or exasperated."
+    },
+    {
+      "id": "palloccoloso",
+      "term": "palloccolóso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "noioso, ripetitivo",
+      "meaning_en": "boring, repetitive",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: noioso, ripetitivo. A friendly 'what a drag'."
+    },
+    {
+      "id": "ciaccione",
+      "term": "ciaccióne",
+      "variants": [
+        "ciaccino"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ficcanaso, chi non si fa mai gli affari propri",
+      "meaning_en": "busybody",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi; variant 'ciaccino'; verb 'ciaccià' (ficcare il naso)."
+    },
+    {
+      "id": "svagella",
+      "term": "svagellà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vaneggiare, delirare, dare i numeri",
+      "meaning_en": "to rave, to talk nonsense",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: svagellare. Sarcastic reaction to someone's nonsense."
+    },
+    {
+      "id": "partaccia",
+      "term": "partàccia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "rimprovero accanito, scenata livorosa",
+      "meaning_en": "angry scolding, spiteful scene",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi. Useful for a boss or a partner storming off about a trifle."
+    }
+  ]
+}

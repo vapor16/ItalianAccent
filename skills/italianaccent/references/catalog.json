@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../schemas/catalog.schema.json",
   "version": "1.0.0",
   "modes": [
     {
@@ -182,7 +181,7 @@
       "maturity": "planned",
       "available": false,
       "path": "references/dialects/socmel/",
-      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
     },
     {
       "id": "pataca",
@@ -198,7 +197,7 @@
       "maturity": "planned",
       "available": false,
       "path": "references/dialects/pataca/",
-      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
     },
     {
       "id": "ostrega",
@@ -215,7 +214,7 @@
       "maturity": "planned",
       "available": false,
       "path": "references/dialects/ostrega/",
-      "notes": "Research parked in research/future-profiles/ for a future release; not part of v1.0.0."
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
     },
     {
       "id": "neh",

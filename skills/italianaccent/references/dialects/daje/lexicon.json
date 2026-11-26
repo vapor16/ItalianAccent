@@ -1,5 +1,4 @@
 {
-  "$schema": "../../../../../schemas/lexicon.schema.json",
   "dialect": "daje",
   "entries": [
     {

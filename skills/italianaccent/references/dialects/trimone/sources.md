@@ -1,6 +1,6 @@
 # Sources — Trimone (City of Bari (urban Barese). The profile follows the city norm; Murgia, the province and the Salento (a different southern Apulian group, not covered and never mixed in) differ.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -27,4 +27,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-bar-wikt-trimone` | trimone (Neapolitan, chiefly Bari) | Wiktionary (English) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/trimone> |
 | `src-slengo-puglia-slang` | Slengo: Puglia slang entries (trimoneggiare, farsi un trimone, chi te muerto, chitemmuort, che film hai visto, mena, uagnù) | Slengo (user-contributed slang dictionary) | community-dictionary | low | All rights reserved (site terms) (facts-only-citation) | <https://slengo.it/browse/region/puglia> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

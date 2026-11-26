@@ -1,0 +1,809 @@
+{
+  "dialect": "bischero",
+  "entries": [
+    {
+      "id": "gatta-frettolosa",
+      "type": "proverb",
+      "original": "La gatta frettolosa fece i gattini ciechi.",
+      "literal_it": "La gatta frettolosa fece i gattini ciechi.",
+      "meaning_it": "La fretta produce lavori mal riusciti.",
+      "meaning_en": "Haste makes poor work.",
+      "usage_context": "haste, rushed deploys",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Literary Tuscan spelling of the collection; when speaking, apply Florentine surface forms (i', un) only lightly."
+    },
+    {
+      "id": "tante-tramute",
+      "type": "proverb",
+      "original": "Tante tramute, tante cadute.",
+      "literal_it": "Tanti traslochi, tante cadute.",
+      "meaning_it": "Cambiare continuamente porta a inciampi.",
+      "meaning_en": "Constant change brings setbacks.",
+      "usage_context": "rewrites, constant migration",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tempo-sana",
+      "type": "proverb",
+      "original": "Il tempo sana ogni cosa.",
+      "literal_it": "Il tempo sana ogni cosa.",
+      "meaning_it": "Col tempo ogni problema si attenua.",
+      "meaning_en": "Time heals everything.",
+      "usage_context": "frustration, patience",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ogni-frutto",
+      "type": "proverb",
+      "original": "Ogni frutto vuol la sua stagione.",
+      "literal_it": "Ogni frutto vuole la sua stagione.",
+      "meaning_it": "Ogni cosa ha il suo momento.",
+      "meaning_en": "Everything has its season.",
+      "usage_context": "patience, planning",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pera-matura",
+      "type": "proverb",
+      "original": "Quando la pera è matura, casca da sé.",
+      "literal_it": "Quando la pera è matura, cade da sola.",
+      "meaning_it": "Le cose si risolvono quando sono pronte.",
+      "meaning_en": "Things fall into place when ready.",
+      "usage_context": "waiting, patience",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porta-altra",
+      "type": "proverb",
+      "original": "Non si serra mai una porta che non se n'apra un'altra.",
+      "literal_it": "Non si chiude mai una porta senza che se ne apra un'altra.",
+      "meaning_it": "Dopo una chiusura c'è sempre un'altra possibilità.",
+      "meaning_en": "When one door closes another opens.",
+      "usage_context": "failure, consolation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "se-ari-male",
+      "type": "proverb",
+      "original": "Se ari male, peggio mieterai.",
+      "literal_it": "Se arai male, mieterai peggio.",
+      "meaning_it": "Un lavoro fatto male dà risultati peggiori.",
+      "meaning_en": "Plough badly and you reap worse.",
+      "usage_context": "bad design, technical debt",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "poco-e-spesso",
+      "type": "proverb",
+      "original": "Poco e spesso empie il borsello.",
+      "literal_it": "Poco e spesso riempie il borsellino.",
+      "meaning_it": "Piccoli risparmi costanti fanno una somma.",
+      "meaning_en": "Little and often fills the purse.",
+      "usage_context": "saving, small steps",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "molti-pochi",
+      "type": "proverb",
+      "original": "Molti pochi fanno assai.",
+      "literal_it": "Molti pochi fanno molto.",
+      "meaning_it": "Tanti piccoli contributi fanno molto.",
+      "meaning_en": "Many littles make a lot.",
+      "usage_context": "small improvements",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "amico-cento-parenti",
+      "type": "proverb",
+      "original": "Val più un amico che cento parenti.",
+      "literal_it": "Vale più un amico che cento parenti.",
+      "meaning_it": "Un vero amico vale più di molti familiari.",
+      "meaning_en": "A friend is worth more than a hundred relatives.",
+      "usage_context": "friendship, advice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "amico-bisogno",
+      "type": "proverb",
+      "original": "Al bisogno si conosce l'amico.",
+      "literal_it": "Nel bisogno si riconosce l'amico.",
+      "meaning_it": "L'amico vero si vede nelle difficoltà.",
+      "meaning_en": "A friend in need.",
+      "usage_context": "hard times",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "uomo-avvisato",
+      "type": "proverb",
+      "original": "Uomo avvisato, è mezzo salvo.",
+      "literal_it": "Uomo avvisato è mezzo salvato.",
+      "meaning_it": "Chi è avvertito si prepara.",
+      "meaning_en": "Forewarned is forearmed.",
+      "usage_context": "warnings, code review",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pelle-orso",
+      "type": "proverb",
+      "original": "Non si vende la pelle prima che s'ammazzi l'orso.",
+      "literal_it": "Non si vende la pelle prima di uccidere l'orso.",
+      "meaning_it": "Non contare su ciò che non hai ancora.",
+      "meaning_en": "Don't sell the bear's skin before it is killed.",
+      "usage_context": "premature celebration, estimates",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "consiglio-invano",
+      "type": "proverb",
+      "original": "Il consiglio va raro invano.",
+      "literal_it": "Il consiglio raramente è inutile.",
+      "meaning_it": "Un buon consiglio quasi sempre serve.",
+      "meaning_en": "Good advice is rarely wasted.",
+      "usage_context": "giving advice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "meglio-aiuto",
+      "type": "proverb",
+      "original": "Meglio un aiuto che cinquanta consigli.",
+      "literal_it": "Meglio un aiuto che cinquanta consigli.",
+      "meaning_it": "Aiutare vale più che dare consigli.",
+      "meaning_en": "One helping hand beats fifty bits of advice.",
+      "usage_context": "pair programming, advice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ogni-pazzo",
+      "type": "proverb",
+      "original": "Ogni pazzo vuol dar consiglio.",
+      "literal_it": "Ogni matto vuole dare consiglio.",
+      "meaning_it": "Chi sa meno spesso consiglia di più.",
+      "meaning_en": "Every fool wants to give advice.",
+      "usage_context": "unsolicited advice",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "acqua-passata",
+      "type": "proverb",
+      "original": "Acqua passata non macina più.",
+      "literal_it": "Acqua passata non macina più.",
+      "meaning_it": "Il passato non si cambia.",
+      "meaning_en": "Water under the bridge.",
+      "usage_context": "regret, mistakes",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-va-mulino",
+      "type": "proverb",
+      "original": "Chi va al mulino s'infarina.",
+      "literal_it": "Chi va al mulino si infarina.",
+      "meaning_it": "Chi frequenta certi ambienti ne subisce i segni.",
+      "meaning_en": "He who goes to the mill gets floured.",
+      "usage_context": "bad company",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "letto-cani",
+      "type": "proverb",
+      "original": "Chi va a letto co' cani, si leva colle pulci.",
+      "literal_it": "Chi va a letto con i cani si alza con le pulci.",
+      "meaning_it": "Frequentare i cattivi porta guai.",
+      "meaning_en": "Lie down with dogs, get up with fleas.",
+      "usage_context": "bad company, bad dependency",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-si-contenta",
+      "type": "proverb",
+      "original": "Chi si contenta, gode.",
+      "literal_it": "Chi si accontenta gode.",
+      "meaning_it": "Accontentarsi dà serenità.",
+      "meaning_en": "Content is happy.",
+      "usage_context": "consolation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tutto-male",
+      "type": "proverb",
+      "original": "Tutto il male non vien per nuocere.",
+      "literal_it": "Non tutto il male viene per nuocere.",
+      "meaning_it": "Anche le disgrazie possono portare del bene.",
+      "meaning_en": "Not all evil comes to harm.",
+      "usage_context": "bad day, consolation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "non-c-e-male",
+      "type": "proverb",
+      "original": "Non c'è male senza bene.",
+      "literal_it": "Non c'è male senza bene.",
+      "meaning_it": "In ogni disgrazia c'è qualcosa di buono.",
+      "meaning_en": "Every cloud has a silver lining.",
+      "usage_context": "bad day",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chi-troppo-in-alto",
+      "type": "proverb",
+      "original": "Chi troppo in alto sal, cade repente.",
+      "literal_it": "Chi sale troppo in alto cade all'improvviso.",
+      "meaning_it": "L'ambizione eccessiva porta alla caduta.",
+      "meaning_en": "Climb too high and fall fast.",
+      "usage_context": "hubris",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tempo-diaccia",
+      "type": "proverb",
+      "original": "Lavora o abborraccia, ma semina finché non diaccia.",
+      "literal_it": "Lavora anche alla bell'e meglio, ma semina prima del gelo.",
+      "meaning_it": "Meglio fare con impegno nel momento giusto.",
+      "meaning_en": "Do it, even roughly, before the frost.",
+      "usage_context": "deadlines",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fiorentin-mangia",
+      "type": "saying",
+      "original": "Il Fiorentino mangia sì poco e sì pulito, che sempre si conserva l'appetito.",
+      "literal_it": "Il fiorentino mangia così poco e così pulito che conserva sempre l'appetito.",
+      "meaning_it": "Detto scherzoso sulla sobrietà a tavola dei fiorentini.",
+      "meaning_en": "Humorous saying on the Florentine's frugal table.",
+      "usage_context": "teasing about portions",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Self-teasing saying about eating habits, not a claim about people."
+    },
+    {
+      "id": "quando-siena",
+      "type": "saying",
+      "original": "Quando Siena piange, Firenze ride.",
+      "literal_it": "Quando Siena piange, Firenze ride.",
+      "meaning_it": "Rivalità campanilistica tra le due città.",
+      "meaning_en": "City rivalry jibe: when Siena weeps, Florence laughs.",
+      "usage_context": "friendly rivalry",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Rivalry jibe, not a trait claim. Use lightly."
+    },
+    {
+      "id": "signor-maggio",
+      "type": "saying",
+      "original": "Signor di maggio dura poco.",
+      "literal_it": "Un signore di maggio dura poco.",
+      "meaning_it": "Il potere o la fortuna fugace durano poco.",
+      "meaning_en": "A lord of May lasts briefly.",
+      "usage_context": "short-lived success",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "firenze-non-si-duole",
+      "type": "saying",
+      "original": "Firenze non si duole se tutta non si muove.",
+      "literal_it": "Firenze non si lamenta se non si muove tutta.",
+      "meaning_it": "Detto sulla reazione tardiva ma collettiva.",
+      "meaning_en": "Florence complains only when the whole city is stirred.",
+      "usage_context": "late reaction",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "canzar-piombo",
+      "type": "idiom",
+      "original": "Andar col canzar del piombo.",
+      "literal_it": "Andare con il calzare di piombo.",
+      "meaning_it": "Procedere lentamente e con cautela.",
+      "meaning_en": "To proceed slowly and carefully.",
+      "usage_context": "caution, risky steps",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "canzar: older/Tuscan form of calzare."
+    },
+    {
+      "id": "legna-verde",
+      "type": "idiom",
+      "original": "Caricarsi di legna verde.",
+      "literal_it": "Caricarsi di legna verde.",
+      "meaning_it": "Prendersi fastidi inutili e pesanti.",
+      "meaning_en": "To take on useless burdens.",
+      "usage_context": "overcommitting",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gotta-mani",
+      "type": "idiom",
+      "original": "Ha la gotta alle mani.",
+      "literal_it": "Ha la gotta alle mani.",
+      "meaning_it": "È tirchio e paga malvolentieri.",
+      "meaning_en": "He is stingy and pays reluctantly.",
+      "usage_context": "stingy colleague",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pera-cotta",
+      "type": "idiom",
+      "original": "Casca come una pera cotta.",
+      "variants": [
+        "Casca come una pera mezza"
+      ],
+      "literal_it": "Cade come una pera cotta.",
+      "meaning_it": "Si lascia convincere o innamorare facilmente.",
+      "meaning_en": "Falls easily (for a person or a pitch).",
+      "usage_context": "gullibility",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sordo-campana",
+      "type": "idiom",
+      "original": "Sordo come una campana.",
+      "literal_it": "Sordo come una campana.",
+      "meaning_it": "Completamente sordo.",
+      "meaning_en": "Deaf as a post.",
+      "usage_context": "ignoring warnings",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "peloso-orso",
+      "type": "idiom",
+      "original": "Peloso come un orso.",
+      "literal_it": "Peloso come un orso.",
+      "meaning_it": "Molto peloso.",
+      "meaning_en": "Hairy as a bear.",
+      "usage_context": "comic exaggeration",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "peso-piombo",
+      "type": "idiom",
+      "original": "Peso come il piombo.",
+      "literal_it": "Pesante come il piombo.",
+      "meaning_it": "Molto pesante, lento.",
+      "meaning_en": "Heavy as lead.",
+      "usage_context": "slow processes, big image",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "grandine-noci",
+      "type": "idiom",
+      "original": "Grandine grossa come le noci.",
+      "literal_it": "Grandine grossa come le noci.",
+      "meaning_it": "Grandine enorme (iperbole).",
+      "meaning_en": "Hail as big as walnuts (hyperbole).",
+      "usage_context": "bad weather, big bug",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pelato-culo",
+      "type": "idiom",
+      "original": "Pelato come il culo delle scimmie.",
+      "literal_it": "Pelato come il sedere delle scimmie.",
+      "meaning_it": "Completamente calvo o spennato.",
+      "meaning_en": "Bald as a monkey's backside.",
+      "usage_context": "comic insult",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "da-montelupo",
+      "type": "saying",
+      "original": "Da Montelupo si vede Capraia, Iddio fa le persone e poi l'appaia.",
+      "literal_it": "Da Montelupo si vede Capraia; Dio fa le persone e poi le accoppia.",
+      "meaning_it": "Detto popolare: Dio fa le persone e poi le accoppia.",
+      "meaning_en": "Saying: God makes people and then pairs them up.",
+      "usage_context": "couples, odd pairs",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Place names are in Tuscany; use rarely."
+    },
+    {
+      "id": "ultimo-vestito",
+      "type": "saying",
+      "original": "L'ultimo vestito ce lo fanno senza tasche.",
+      "literal_it": "L'ultimo vestito ce lo fanno senza tasche.",
+      "meaning_it": "Non si porta nulla con sé dopo la morte.",
+      "meaning_en": "You can't take it with you.",
+      "usage_context": "greed, perspective",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "roba-gode",
+      "type": "saying",
+      "original": "La roba non è di chi la fa, ma di chi la gode.",
+      "literal_it": "La roba non è di chi la fa ma di chi la gode.",
+      "meaning_it": "Il bene è di chi ne gode, non di chi lo accumula.",
+      "meaning_en": "Wealth belongs to who enjoys it.",
+      "usage_context": "hoarding, perspective",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "prima-domandare",
+      "type": "maxim",
+      "original": "Prima di domandare, pensa alla risposta.",
+      "literal_it": "Prima di domandare pensa alla risposta.",
+      "meaning_it": "Prima di chiedere considera cosa ti sentirai rispondere.",
+      "meaning_en": "Before asking, think of the answer.",
+      "usage_context": "questions, requirements",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-wikiquote-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "capra-dei-pompieri",
+      "type": "idiom",
+      "original": "Tu se' più grullo della capra de' pompieri",
+      "variants": [
+        "più matto della capra de' pompieri",
+        "più furbo della capra de' pompieri (ironico)"
+      ],
+      "literal_it": "Sei più sciocco della capra dei pompieri",
+      "meaning_it": "Sei più scemo o più matto di chiunque (prendere in giro una stupidaggine)",
+      "meaning_en": "You are dafter than the firemen's goat (said of nonsense or foolishness)",
+      "usage_context": "sfottere una sciocchezza o un amico che si fa fregare",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti",
+        "src-fi-crusca-parole",
+        "src-fi-lastraonline-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi and the Crusca VFC slides report it as a living Florentine saying: the goat looked for grass in piazza Vittorio (today della Repubblica). Speakers also use it ironically ('più furbo della capra de' pompieri') for someone dim. La Strada Online has the variant 'suonato come la capra de' pompieri'."
+    },
+    {
+      "id": "fare-le-calze",
+      "type": "idiom",
+      "original": "fare le calze a uno",
+      "variants": [
+        "fo le carze a te"
+      ],
+      "literal_it": "fare le calze a qualcuno",
+      "meaning_it": "essere molto più furbo di qualcuno (vanteria)",
+      "meaning_en": "to run rings around someone (boast)",
+      "usage_context": "vanteria: «io fo le calze a te e a tutta la tu' famiglia»",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VFC speaker in Binazzi: 'io fo le carze a te e a tutta la tu' famiglia, pe modo di dire... le carze vor dire che io son più furbo di te'. Boasting or provocation, not a literal threat. Spelling kept as in the source ('carze' for calze)."
+    },
+    {
+      "id": "avere-il-tonchio",
+      "type": "idiom",
+      "original": "avere i' tonchio",
+      "literal_it": "avere il tonchio",
+      "meaning_it": "avere il cervello bacato, essere svampito",
+      "meaning_en": "to have a worm in the head (to be a bit cracked)",
+      "usage_context": "dare dello svitato, bonariamente",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi: 'c(i) ha i' tonchio' = has a bacato brain, still used; the tonchio is the weevil that eats the grain."
+    },
+    {
+      "id": "trattare-come-un-pellaio",
+      "type": "idiom",
+      "original": "trattare come un pellaio",
+      "literal_it": "trattare come un conciatore di pelli",
+      "meaning_it": "trattare male, in modo inurbano",
+      "meaning_en": "to treat someone like dirt",
+      "usage_context": "lamentarsi di un trattamento scortese",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi quotes a speaker: 'm'ha trattato Dio bono com'un pellaio!', who admits not knowing why 'pellaio'. The quote contains the existing flagged 'Dio bono' (blasphemy-adjacent): treat as vulgarity 5 context only, aimed at a situation."
+    },
+    {
+      "id": "che-c-entra-il-culo-con-le-quarantore",
+      "type": "saying",
+      "original": "I' ché c'entra i' culo con le quarant'ore?",
+      "literal_it": "che c'entra il culo con le quarantore",
+      "meaning_it": "che c'entra? (accusa di accostare cose sconnesse)",
+      "meaning_en": "what on earth has that got to do with it?",
+      "usage_context": "smontare un argomento fuori tema",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-lastraonline-modi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "La Strada Online only (low); the same saying is widely known in general Italian, so the Florentine mark is the 'i' ché' frame. Humorous dismissal of an off-topic argument."
+    }
+  ]
+}

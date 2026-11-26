@@ -1,0 +1,2361 @@
+{
+  "dialect": "pota",
+  "entries": [
+    {
+      "id": "ol",
+      "term": "ol",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo maschile singolare",
+      "meaning_en": "masculine singular definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "examples": [
+        {
+          "text": "ol vi",
+          "translation_it": "il vino",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-enwiki-bergamasque",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural i for both genders; feminine la."
+    },
+    {
+      "id": "la",
+      "term": "la",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo femminile singolare",
+      "meaning_en": "feminine singular definite article",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "i-art",
+      "term": "i",
+      "category": "function-word",
+      "meaning_it": "articolo determinativo plurale, maschile e femminile",
+      "meaning_en": "plural definite article, both genders",
+      "register": "neutral",
+      "part_of_speech": "article",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Unlike Brescian, no separate feminine plural le; the thesis lists i as a Bergamasque trait (i cansù 'le canzoni')."
+    },
+    {
+      "id": "u-art",
+      "term": "ü / öna",
+      "category": "function-word",
+      "meaning_it": "articolo indeterminativo (ü m., öna f.)",
+      "meaning_en": "indefinite article (ü m., öna f.)",
+      "register": "neutral",
+      "variants": [
+        "an",
+        "ana",
+        "'n",
+        "'na"
+      ],
+      "part_of_speech": "article",
+      "examples": [
+        {
+          "text": "öna spéce de büṡa",
+          "translation_it": "una specie di buca",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Lowland an/ana, often shortened to 'n/'na."
+    },
+    {
+      "id": "mia",
+      "term": "mìa",
+      "category": "function-word",
+      "meaning_it": "negazione posposta al verbo ('non')",
+      "meaning_en": "post-verbal negator ('not')",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "só mìa",
+          "translation_it": "non so",
+          "provenance": "attested"
+        },
+        {
+          "text": "adès màie mìa",
+          "translation_it": "ora non mangio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Placed after the finite verb; not preceded by a preverbal negator."
+    },
+    {
+      "id": "me-pron",
+      "term": "mé",
+      "category": "function-word",
+      "meaning_it": "io (pronome tonico, facoltativo)",
+      "meaning_en": "I (stressed pronoun, optional)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1sg takes no subject clitic."
+    },
+    {
+      "id": "te-pron",
+      "term": "té",
+      "category": "function-word",
+      "meaning_it": "tu (pronome tonico; clitico ta/te)",
+      "meaning_en": "you sg. (stressed; clitic ta/te)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "te gh'ét",
+          "translation_it": "hai",
+          "provenance": "attested"
+        },
+        {
+          "text": "ta sét",
+          "translation_it": "sei",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lu-pron",
+      "term": "lü / lé",
+      "category": "function-word",
+      "meaning_it": "lui / lei (pronomi tonici; clitici 'l/al e la)",
+      "meaning_en": "he / she (stressed; clitics 'l/al and la)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "'l laùra",
+          "translation_it": "lui lavora",
+          "provenance": "attested"
+        },
+        {
+          "text": "la laùra",
+          "translation_it": "lei lavora",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "noter",
+      "term": "nóter",
+      "category": "function-word",
+      "meaning_it": "noi (clitico an, a 'n, a 'm, 'm)",
+      "meaning_en": "we (clitic an, a 'n, a 'm, 'm)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "an laùra",
+          "translation_it": "noi lavoriamo",
+          "provenance": "attested"
+        },
+        {
+          "text": "'m=indà-a töc' insèma",
+          "translation_it": "andavamo tutti insieme",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "oter-pron",
+      "term": "óter",
+      "category": "function-word",
+      "meaning_it": "voi (nessun clitico; la desinenza -ì/-f distingue)",
+      "meaning_en": "you pl. (no clitic; the verb ending -ì/-f marks it)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "sì",
+          "translation_it": "siete",
+          "provenance": "attested"
+        },
+        {
+          "text": "gh'ì",
+          "translation_it": "avete",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also óter 'altro' (ótra f.)."
+    },
+    {
+      "id": "lur",
+      "term": "lur",
+      "category": "function-word",
+      "meaning_it": "loro (clitico i)",
+      "meaning_en": "they (clitic i)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "i è",
+          "translation_it": "sono",
+          "provenance": "attested"
+        },
+        {
+          "text": "i g'à",
+          "translation_it": "hanno",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chest",
+      "term": "chèst / 'sto",
+      "category": "function-word",
+      "meaning_it": "questo",
+      "meaning_en": "this",
+      "register": "neutral",
+      "variants": [
+        "chèsto",
+        "chèsta",
+        "'sta",
+        "chèste",
+        "'ste"
+      ],
+      "part_of_speech": "demonstrative",
+      "examples": [
+        {
+          "text": "sti compiuter",
+          "translation_it": "questi computer",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chel",
+      "term": "chèl",
+      "category": "function-word",
+      "meaning_it": "quello (chèla f., chèi m.pl., chèle f.pl.)",
+      "meaning_en": "that (chèla f., chèi m.pl., chèle f.pl.)",
+      "register": "neutral",
+      "part_of_speech": "demonstrative",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "isse",
+      "term": "issé",
+      "category": "function-word",
+      "meaning_it": "così",
+      "meaning_en": "so, like this",
+      "register": "colloquial",
+      "variants": [
+        "'ssé",
+        "scé"
+      ],
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "e 'ssé",
+          "translation_it": "e così via",
+          "provenance": "attested"
+        },
+        {
+          "text": "issé la stória",
+          "translation_it": "così la storia, e fine",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "compagn-de",
+      "term": "compàgn de",
+      "category": "function-word",
+      "meaning_it": "come, uguale a",
+      "meaning_en": "like, as",
+      "register": "neutral",
+      "part_of_speech": "preposition",
+      "examples": [
+        {
+          "text": "lü l'è bèl compàgn de té",
+          "translation_it": "lui è bello come te",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pio",
+      "term": "piö",
+      "category": "function-word",
+      "meaning_it": "più",
+      "meaning_en": "more",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "piö de tàt",
+          "translation_it": "più di tanto",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ghe",
+      "term": "gh'è / a gh'è",
+      "category": "function-word",
+      "meaning_it": "c'è, ci sono (esistenziale, invariabile)",
+      "meaning_en": "there is/are (existential, invariable)",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "a gh'è di pac de ritirà",
+          "translation_it": "ci sono dei pacchi da ritirare",
+          "provenance": "attested"
+        },
+        {
+          "text": "gh'è mìa problémi",
+          "translation_it": "non ci sono problemi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "so-verb",
+      "term": "só / sét / 'l è",
+      "category": "word",
+      "meaning_it": "sono / sei / è (èss, presente)",
+      "meaning_en": "am / are / is (èss, present)",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "mé só",
+          "translation_it": "io sono",
+          "provenance": "attested"
+        },
+        {
+          "text": "ta sét",
+          "translation_it": "tu sei",
+          "provenance": "attested"
+        },
+        {
+          "text": "lü 'l è",
+          "translation_it": "lui è",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "1pl a 'n sè, 2pl sì, 3pl i è."
+    },
+    {
+      "id": "go-verb",
+      "term": "g'ó / te gh'ét / 'l g'à",
+      "category": "word",
+      "meaning_it": "ho / hai / ha (ìga, presente)",
+      "meaning_en": "have (ìga, present)",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "g'ó öna moér e du s-cècc",
+          "translation_it": "ho una moglie e due figli",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Possession and not only auxiliary: ó maiàt 'ho mangiato' (the auxiliary drops ga)."
+    },
+    {
+      "id": "fa-verb",
+      "term": "fà",
+      "category": "word",
+      "meaning_it": "fare (fó, ta fét, al fà, an fà, fìf, i fà)",
+      "meaning_en": "to do/make (fó, ta fét, al fà, an fà, fìf, i fà)",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "fà negót",
+          "translation_it": "non fa niente",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nda",
+      "term": "ndà / indà",
+      "category": "word",
+      "meaning_it": "andare",
+      "meaning_en": "to go",
+      "register": "neutral",
+      "variants": [
+        "'ndà"
+      ],
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "indà 'n giro",
+          "translation_it": "andare in giro",
+          "provenance": "attested"
+        },
+        {
+          "text": "'m=indà-a töc' insèma",
+          "translation_it": "andavamo tutti insieme",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi",
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Imperfect 3sg/3pl and 1pl in -à-a: indà-a. 1pl present an va."
+    },
+    {
+      "id": "maia",
+      "term": "mai-à / maià",
+      "category": "word",
+      "meaning_it": "mangiare",
+      "meaning_en": "to eat",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "ó maiàt",
+          "translation_it": "ho mangiato",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Regular I conjugation example: mé mài-e, 'l mài-a, an mài-a, i mài-a."
+    },
+    {
+      "id": "dre-a",
+      "term": "só dré a + infinito",
+      "category": "colloquial-expression",
+      "meaning_it": "sto + gerundio (progressivo)",
+      "meaning_en": "I am in the middle of -ing (progressive)",
+      "register": "colloquial",
+      "part_of_speech": "construction",
+      "examples": [
+        {
+          "text": "só dré a pensà",
+          "translation_it": "sto pensando",
+          "provenance": "attested"
+        },
+        {
+          "text": "só dré a cüntà",
+          "translation_it": "sto raccontando",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Progressive with dré a + infinitive; conjugate só/ta sét/'l è."
+    },
+    {
+      "id": "pode",
+      "term": "pöde / pöl / ölet",
+      "category": "word",
+      "meaning_it": "posso / può / vuoi (pödì, ölì)",
+      "meaning_en": "I can / he can / you want",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "pöde mìa diga 'ssé",
+          "translation_it": "non posso dirgli così",
+          "provenance": "attested"
+        },
+        {
+          "text": "cóṡa ölet",
+          "translation_it": "che cosa vuoi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "ölet is verb + enclitic subject clitic -et."
+    },
+    {
+      "id": "capi",
+      "term": "capì",
+      "category": "word",
+      "meaning_it": "capire",
+      "meaning_en": "to understand",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "ét capìt",
+          "translation_it": "hai capito",
+          "provenance": "attested"
+        },
+        {
+          "text": "capéset",
+          "translation_it": "capisci",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "scolta",
+      "term": "scultà / scólta",
+      "category": "word",
+      "meaning_it": "ascoltare / ascolta!",
+      "meaning_en": "to listen / listen!",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "scultèm mé",
+          "translation_it": "ascoltami",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "regorda",
+      "term": "regordà",
+      "category": "word",
+      "meaning_it": "ricordare",
+      "meaning_en": "to remember",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "sa regordèt mìa",
+          "translation_it": "non ti ricordi",
+          "provenance": "attested"
+        },
+        {
+          "text": "me regórde",
+          "translation_it": "mi ricordo",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reflexive: regordàs."
+    },
+    {
+      "id": "troa",
+      "term": "troà",
+      "category": "word",
+      "meaning_it": "trovare",
+      "meaning_en": "to find",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "amò de troà",
+          "translation_it": "ancora da trovare",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "burla",
+      "term": "burlà",
+      "category": "word",
+      "meaning_it": "cadere, ruzzolare",
+      "meaning_en": "to fall, tumble",
+      "register": "colloquial",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "'l éra burlàt dét nd'öna spéce de büṡa",
+          "translation_it": "era caduto in una specie di buca",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciapa",
+      "term": "ciapà",
+      "category": "word",
+      "meaning_it": "prendere, afferrare",
+      "meaning_en": "to take, catch",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "ciapà söbet",
+          "translation_it": "prendere subito",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also ciapài a pesade 'n del cül 'prenderli a calci nel culo' (thesis)."
+    },
+    {
+      "id": "paga",
+      "term": "pagà",
+      "category": "word",
+      "meaning_it": "pagare",
+      "meaning_en": "to pay",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario",
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cunta",
+      "term": "cüntà / cöntà",
+      "category": "word",
+      "meaning_it": "raccontare",
+      "meaning_en": "to tell, recount",
+      "register": "neutral",
+      "part_of_speech": "verb",
+      "examples": [
+        {
+          "text": "i ta cöntà-a sö",
+          "translation_it": "ti raccontavano",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "sö reinforces: cüntà sö."
+    },
+    {
+      "id": "negot",
+      "term": "negót",
+      "category": "word",
+      "meaning_it": "niente",
+      "meaning_en": "nothing",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "fà negót",
+          "translation_it": "fa niente",
+          "provenance": "attested"
+        },
+        {
+          "text": "de negót",
+          "translation_it": "di niente",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "nesu",
+      "term": "nesü",
+      "category": "word",
+      "meaning_it": "nessuno",
+      "meaning_en": "nobody",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tut",
+      "term": "töt",
+      "category": "word",
+      "meaning_it": "tutto (töc' m.pl.)",
+      "meaning_en": "all, everything (töc' m.pl.)",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "töc' i dé",
+          "translation_it": "tutti i giorni",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "so",
+      "term": "sö / ṡó / fò",
+      "category": "word",
+      "meaning_it": "su / giù / fuori",
+      "meaning_en": "up / down / out",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "e sö e ṡó",
+          "translation_it": "e su e giù",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ergot",
+      "term": "ergót",
+      "category": "word",
+      "meaning_it": "qualcosa",
+      "meaning_en": "something",
+      "register": "neutral",
+      "part_of_speech": "pronoun",
+      "examples": [
+        {
+          "text": "ergót del gèner",
+          "translation_it": "qualcosa del genere",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "laur",
+      "term": "laùr",
+      "category": "word",
+      "meaning_it": "cosa, faccenda; lavoro",
+      "meaning_en": "thing, matter; work",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "laùr del gèner",
+          "translation_it": "cosa del genere",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ca",
+      "term": "cà",
+      "category": "word",
+      "meaning_it": "casa",
+      "meaning_en": "house, home",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "ma a cà ma anche söl laorà",
+          "translation_it": "ma a casa ma anche sul lavoro",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi",
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi also uses Cà for 'cane' in a proverb (Cà che baja); the context decides."
+    },
+    {
+      "id": "sira",
+      "term": "sira",
+      "category": "word",
+      "meaning_it": "sera",
+      "meaning_en": "evening",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "la rabia de la sira",
+          "translation_it": "la collera della sera",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi",
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "olta",
+      "term": "ölta",
+      "category": "word",
+      "meaning_it": "volta",
+      "meaning_en": "time, occasion",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "öna ölta",
+          "translation_it": "una volta",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "agn",
+      "term": "agn",
+      "category": "word",
+      "meaning_it": "anni (plurale di an)",
+      "meaning_en": "years (plural of an)",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "quace agn gh'ét",
+          "translation_it": "quanti anni hai",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural of an by final n > gn."
+    },
+    {
+      "id": "scet",
+      "term": "s-cèt / s-cèta",
+      "category": "word",
+      "meaning_it": "bambino / bambina; ragazzo",
+      "meaning_en": "child, boy / girl",
+      "register": "neutral",
+      "variants": [
+        "s-cècc",
+        "is-cèc'"
+      ],
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "g'ó öna moér e du s-cècc",
+          "translation_it": "ho una moglie e due figli",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Plural s-cècc/s-cèc'. Tiraboschi writes sćèć."
+    },
+    {
+      "id": "tuss",
+      "term": "tùss / tùsa",
+      "category": "word",
+      "meaning_it": "ragazzo / ragazza",
+      "meaning_en": "boy / girl",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Presented in itwiki as a word of Longobard origin in Bergamasque."
+    },
+    {
+      "id": "moer",
+      "term": "moér",
+      "category": "word",
+      "meaning_it": "moglie",
+      "meaning_en": "wife",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "g'ó öna moér",
+          "translation_it": "ho una moglie",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pader",
+      "term": "pader / padrégn",
+      "category": "word",
+      "meaning_it": "padre / patrigno",
+      "meaning_en": "father / stepfather",
+      "register": "neutral",
+      "variants": [
+        "pàder"
+      ],
+      "part_of_speech": "noun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi",
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "madrégna 'matrigna' also in Tiraboschi."
+    },
+    {
+      "id": "fiol",
+      "term": "fiöl / fiöi",
+      "category": "word",
+      "meaning_it": "figlio / figli",
+      "meaning_en": "son / sons, children",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "Ü pader manté dés fiöi",
+          "translation_it": "un padre mantiene dieci figli",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vi",
+      "term": "vi",
+      "category": "word",
+      "meaning_it": "vino",
+      "meaning_en": "wine",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "ol vi",
+          "translation_it": "il vino",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pa",
+      "term": "pà",
+      "category": "word",
+      "meaning_it": "pane",
+      "meaning_en": "bread",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "ol nòst pà",
+          "translation_it": "il nostro pane",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario",
+        "src-bg-enwiki-bergamasque"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pagn",
+      "term": "pagn",
+      "category": "word",
+      "meaning_it": "panni, vestiti, biancheria",
+      "meaning_en": "clothes, linen",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pais",
+      "term": "paìs",
+      "category": "word",
+      "meaning_it": "paese",
+      "meaning_en": "village, country",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "ol piö bèl dol paìs",
+          "translation_it": "il più bello del paese",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario",
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "padela",
+      "term": "padèla",
+      "category": "word",
+      "meaning_it": "padella",
+      "meaning_en": "frying pan",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gat",
+      "term": "gat / rat",
+      "category": "word",
+      "meaning_it": "gatto / topo",
+      "meaning_en": "cat / mouse, rat",
+      "register": "neutral",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "Vià 'l gat, bala 'l rat",
+          "translation_it": "via il gatto, balla il topo",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "trinca",
+      "term": "trincà",
+      "category": "word",
+      "meaning_it": "bere",
+      "meaning_en": "to drink",
+      "register": "colloquial",
+      "part_of_speech": "verb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Cited in itwiki as a word of Longobard origin in Bergamasque."
+    },
+    {
+      "id": "gregna",
+      "term": "gregnà",
+      "category": "word",
+      "meaning_it": "ridere",
+      "meaning_en": "to laugh",
+      "register": "colloquial",
+      "part_of_speech": "verb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Cited in itwiki as a word of Longobard origin."
+    },
+    {
+      "id": "bambo",
+      "term": "bambo",
+      "category": "word",
+      "meaning_it": "sciocco, babbeo",
+      "meaning_en": "fool, silly",
+      "register": "familiar",
+      "part_of_speech": "noun/adj",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "ada tè óh bambo",
+          "translation_it": "guarda tu, oh sciocco",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Used as a phatic address; also só mìa bambo 'non sono sciocco'."
+    },
+    {
+      "id": "bale",
+      "term": "bale",
+      "category": "word",
+      "meaning_it": "palle; cose, roba (spregiativo)",
+      "meaning_en": "balls; stuff (disparaging)",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "chèle bale lé",
+          "translation_it": "quelle cose lì",
+          "provenance": "attested"
+        },
+        {
+          "text": "ghe 'n è mìa di bale",
+          "translation_it": "non ce ne sono di palle",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Used as a general extender in the corpus."
+    },
+    {
+      "id": "stupidada",
+      "term": "stüpidada",
+      "category": "word",
+      "meaning_it": "stupidaggine",
+      "meaning_en": "silly thing, nonsense",
+      "register": "colloquial",
+      "part_of_speech": "noun",
+      "examples": [
+        {
+          "text": "per öna stüpidada",
+          "translation_it": "per una sciocchezza",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ostiade",
+      "term": "ostiade",
+      "category": "word",
+      "meaning_it": "sciocchezze, robaccia (spregiativo)",
+      "meaning_en": "nonsense, rubbish (disparaging)",
+      "register": "vulgar",
+      "part_of_speech": "noun",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "sti compiuter e sti ostiade lé",
+          "translation_it": "questi computer e queste sciocchezze lì",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "adesso",
+      "term": "adès",
+      "category": "word",
+      "meaning_it": "adesso",
+      "meaning_en": "now",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "adès màie mìa",
+          "translation_it": "ora non mangio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "domani",
+      "term": "'ndomà",
+      "category": "word",
+      "meaning_it": "domani",
+      "meaning_en": "tomorrow",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "'ndomà laùre mìa",
+          "translation_it": "domani non lavoro",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto",
+        "src-bg-lmowiki-bergamasch"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "alura",
+      "term": "alura",
+      "category": "word",
+      "meaning_it": "allora",
+      "meaning_en": "then, so",
+      "register": "neutral",
+      "variants": [
+        "agliura"
+      ],
+      "part_of_speech": "adverb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sempre",
+      "term": "sèmper",
+      "category": "word",
+      "meaning_it": "sempre",
+      "meaning_en": "always",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "The thesis transcribes an aspirated pronunciation [hɛmpɛr] in some speakers."
+    },
+    {
+      "id": "amo",
+      "term": "amò",
+      "category": "word",
+      "meaning_it": "ancora",
+      "meaning_en": "still, yet; again",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "l'éra amò de troà",
+          "translation_it": "non era ancora stato trovato",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi",
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "magare",
+      "term": "magare",
+      "category": "word",
+      "meaning_it": "magari, per esempio",
+      "meaning_en": "maybe, for instance",
+      "register": "colloquial",
+      "part_of_speech": "adverb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ier",
+      "term": "iér",
+      "category": "word",
+      "meaning_it": "ieri",
+      "meaning_en": "yesterday",
+      "register": "neutral",
+      "part_of_speech": "adverb",
+      "examples": [
+        {
+          "text": "sì' stacc fürtünacc iér",
+          "translation_it": "siete stati fortunati ieri",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "hura",
+      "term": "hura (sura)",
+      "category": "word",
+      "meaning_it": "sopra (pronuncia aspirata di sura)",
+      "meaning_en": "above (aspirated form of sura)",
+      "register": "neutral",
+      "variants": [
+        "sura",
+        "zura"
+      ],
+      "part_of_speech": "adverb",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Aspiration of s to h is a lowland/Valcalepio/Sebino feature; zura in Val di Scalve."
+    },
+    {
+      "id": "hich",
+      "term": "hich (sich)",
+      "category": "word",
+      "meaning_it": "cinque (pronuncia aspirata di sich)",
+      "meaning_en": "five (aspirated form of sich)",
+      "register": "neutral",
+      "variants": [
+        "sich",
+        "zich"
+      ],
+      "part_of_speech": "numeral",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pota",
+      "term": "pòta",
+      "category": "interjection",
+      "meaning_it": "interiezione tuttofare: sorpresa, rassegnazione, ovvietà, riempitivo",
+      "meaning_en": "all-purpose interjection: surprise, resignation, obviousness, filler",
+      "register": "vulgar",
+      "variants": [
+        "potà",
+        "'tà",
+        "'òta",
+        "Pòta",
+        "Poòta"
+      ],
+      "part_of_speech": "interjection",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "e lü pòta 'l parla 'l bergamàsch de la sò ṡòna cèh",
+          "translation_it": "e lui, pota, parla il bergamasco della sua zona, cioè",
+          "provenance": "attested"
+        },
+        {
+          "text": "'l éra burlàt dét nd'öna spéce de büṡa (,) potà 'l éra sira",
+          "translation_it": "era caduto in una specie di buca, pota, era sera",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota",
+        "src-bg-carrara-tesi",
+        "src-bg-itwiki-dialetto"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Originally a vulgar word for the female genitals (Tiraboschi 'potta'); today a desemanticized discourse marker, the most frequent in the corpus (14 of 16 speakers). See profile.md section 8."
+    },
+    {
+      "id": "pota-per-forsa",
+      "term": "Pòta, per forsa!",
+      "category": "interjection",
+      "meaning_it": "ma certo!, ovvio! (risposta sarcastica a domanda retorica)",
+      "meaning_en": "well, of course! (sarcastic reply to a rhetorical question)",
+      "register": "colloquial",
+      "part_of_speech": "phrase",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Pòta, per forsa!",
+          "translation_it": "Eh, per forza!",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Dialect phrase as written in the Wikizionario scene; the scene itself is in Italian."
+    },
+    {
+      "id": "neh",
+      "term": "nèh",
+      "category": "interjection",
+      "meaning_it": "vero?, eh? (tag di conferma e di mantenimento del turno)",
+      "meaning_en": "right?, eh? (confirmation tag and turn-holding particle)",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "spèta nèh",
+          "translation_it": "aspetta, eh",
+          "provenance": "attested"
+        },
+        {
+          "text": "màchina nèh mìa a pè",
+          "translation_it": "in macchina, eh, non a piedi",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "eco",
+      "term": "èco / ècola",
+      "category": "interjection",
+      "meaning_it": "ecco; chiusura di argomento, riempitivo",
+      "meaning_en": "there; topic closing, filler",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "èco a propóṡet",
+          "translation_it": "ecco, a proposito",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ostrega",
+      "term": "òstrega",
+      "category": "interjection",
+      "meaning_it": "accidenti!",
+      "meaning_en": "gosh!, wow",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "mah savrès mìa òstrega savrès mìa",
+          "translation_it": "mah, non saprei, accidenti non saprei",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ostia",
+      "term": "òstia / òsti",
+      "category": "interjection",
+      "meaning_it": "esclamazione di sorpresa o fastidio (da 'ostia')",
+      "meaning_en": "exclamation of surprise or annoyance (from 'host')",
+      "register": "vulgar",
+      "part_of_speech": "interjection",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "'tà té è t- è tròp tance i agn òsti",
+          "translation_it": "eh, sono troppi gli anni, accidenti",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Mild blasphemy-derived; òsti is the clipped form."
+    },
+    {
+      "id": "madona",
+      "term": "Madóna",
+      "category": "interjection",
+      "meaning_it": "esclamazione di stupore, paura, sorpresa",
+      "meaning_en": "exclamation of amazement, fear, surprise",
+      "register": "colloquial",
+      "variants": [
+        "madóna mé",
+        "modón"
+      ],
+      "part_of_speech": "interjection",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "e madóna che pura alura",
+          "translation_it": "e madonna che paura allora",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "odio",
+      "term": "odìo / óh Gesù",
+      "category": "interjection",
+      "meaning_it": "oddio! (esclamazione religiosa leggera)",
+      "meaning_en": "oh God! (mild religious exclamation)",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "odìo la mé s-cèta mìa tàt",
+          "translation_it": "oddio, mia figlia non tanto",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porco-diaol",
+      "term": "pòrco diàol",
+      "category": "interjection",
+      "meaning_it": "porco diavolo! (imprecazione)",
+      "meaning_en": "damn! (lit. pig devil)",
+      "register": "vulgar",
+      "part_of_speech": "interjection",
+      "vulgarity": 3,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Listed among Bergamasque interjections (Zanetti 2001, as reported in the thesis)."
+    },
+    {
+      "id": "oh-pepa",
+      "term": "öh la Pèpa",
+      "category": "interjection",
+      "meaning_it": "esclamazione di stupore",
+      "meaning_en": "exclamation of amazement",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reported from Zanetti 2001 in the thesis."
+    },
+    {
+      "id": "ocio",
+      "term": "ocio!",
+      "category": "interjection",
+      "meaning_it": "attenzione!",
+      "meaning_en": "watch out!",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Reported from Zanetti 2001 in the thesis."
+    },
+    {
+      "id": "dom",
+      "term": "dóm",
+      "category": "interjection",
+      "meaning_it": "dai, forza (rafforza e chiude la frase)",
+      "meaning_en": "come on (strengthens/closes the sentence)",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "'l è öna rutìn normàl de töc' i dé dóm",
+          "translation_it": "è una routine normale di tutti i giorni, dai",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ma-va",
+      "term": "ma và",
+      "category": "interjection",
+      "meaning_it": "ma va'! (incredulità)",
+      "meaning_en": "no way! (disbelief)",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "oterche",
+      "term": "oterchè",
+      "category": "interjection",
+      "meaning_it": "altroché, certo",
+      "meaning_en": "you bet, of course",
+      "register": "colloquial",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "'l è bèl 'l è bèl oterchè",
+          "translation_it": "è bello, è bello, altroché",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ada-te",
+      "term": "ada té",
+      "category": "interjection",
+      "meaning_it": "guarda un po'! (richiamo di attenzione)",
+      "meaning_en": "just look! (attention-getter)",
+      "register": "familiar",
+      "part_of_speech": "interjection",
+      "examples": [
+        {
+          "text": "ada tè óh bambo",
+          "translation_it": "guarda tu, oh sciocco",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "se",
+      "term": "sé",
+      "category": "interjection",
+      "meaning_it": "sì (conferma)",
+      "meaning_en": "yes (confirmation)",
+      "register": "neutral",
+      "part_of_speech": "interjection",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "eh",
+      "term": "èh / éh / öh / óh",
+      "category": "interjection",
+      "meaning_it": "particelle fàtiche e riempitive",
+      "meaning_en": "phatic and filler particles",
+      "register": "neutral",
+      "part_of_speech": "interjection",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Zanetti 2001 lists òh!, èh!, éh!, öh!, üh!, óooh!."
+    },
+    {
+      "id": "pota-figa",
+      "term": "figa",
+      "category": "interjection",
+      "meaning_it": "interiezione di rafforzo ('accidenti')",
+      "meaning_en": "intensifying interjection ('damn')",
+      "register": "vulgar",
+      "part_of_speech": "interjection",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "ché i me sèra sö figa chèla ölta lé",
+          "translation_it": "che mi hanno chiuso, accidenti, quella volta",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "gh-et-present",
+      "term": "gh'ét preṡènt",
+      "category": "colloquial-expression",
+      "meaning_it": "hai presente? (conoscenza condivisa)",
+      "meaning_en": "you know?, remember? (shared knowledge)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "gh'ét preṡènt la città incantata",
+          "translation_it": "hai presente la città incantata",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "lasa-pert",
+      "term": "lasa pèrt / lagóm pèrt",
+      "category": "colloquial-expression",
+      "meaning_it": "lascia perdere / lasciamo perdere",
+      "meaning_en": "forget it / let's drop it",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "lasa pèrt",
+          "translation_it": "lascia perdere",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "so-mia",
+      "term": "só mìa / savrès mìa",
+      "category": "colloquial-expression",
+      "meaning_it": "non so / non saprei",
+      "meaning_en": "I don't know / I wouldn't know",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "só mìa cóṡa dì",
+          "translation_it": "non so cosa dire",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fa-negot",
+      "term": "(però) fà negót",
+      "category": "colloquial-expression",
+      "meaning_it": "fa niente, non importa",
+      "meaning_en": "never mind, doesn't matter",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "fradèi però fà negót",
+          "translation_it": "fratelli, però non importa",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-so-e-zo",
+      "term": "e sö e ṡó",
+      "category": "colloquial-expression",
+      "meaning_it": "e così via (general extender)",
+      "meaning_en": "and so on",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "e chèsto e chèl óter e sö e ṡó",
+          "translation_it": "e questo e quell'altro e così via",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "l-e-ira",
+      "term": "'l è ira",
+      "category": "colloquial-expression",
+      "meaning_it": "è vero",
+      "meaning_en": "it's true",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "sé 'l è ira",
+          "translation_it": "sì, è vero",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ga-mancheres",
+      "term": "ga mancherès a' chèla",
+      "category": "colloquial-expression",
+      "meaning_it": "ci mancherebbe anche questa",
+      "meaning_en": "that's the last straw",
+      "register": "ironic",
+      "examples": [
+        {
+          "text": "ga mancherès a' chèla",
+          "translation_it": "ci mancherebbe anche quella",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "me-somea",
+      "term": "me somèa",
+      "category": "colloquial-expression",
+      "meaning_it": "mi sembra",
+      "meaning_en": "it seems to me",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "me somèa pèta nèh",
+          "translation_it": "mi sembra, aspetta eh",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "per-me",
+      "term": "per mé / segónd mé",
+      "category": "colloquial-expression",
+      "meaning_it": "secondo me",
+      "meaning_en": "in my opinion",
+      "register": "colloquial",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "isse-storia",
+      "term": "issé la stória",
+      "category": "colloquial-expression",
+      "meaning_it": "e così via, ecco tutto",
+      "meaning_en": "and that's that",
+      "register": "colloquial",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-buna-noc",
+      "term": "e buna nòc'",
+      "category": "colloquial-expression",
+      "meaning_it": "e buonanotte (e basta)",
+      "meaning_en": "and that's that",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "e buna nòc' 'l è mìa chè:",
+          "translation_it": "e buonanotte, non è qui",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ghe-n-e-mia-bale",
+      "term": "ghe 'n è mìa di bale",
+      "category": "colloquial-expression",
+      "meaning_it": "non c'è storia, non ci sono balle",
+      "meaning_en": "no kidding (lit. there are no balls)",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "ghe 'n è mìa di bale",
+          "translation_it": "non ci sono balle",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Glossed 'modulazione fiducia nell'enunciato' in the thesis (speaker commits to the statement)."
+    },
+    {
+      "id": "sa-regordet-mia",
+      "term": "sa regordèt mìa",
+      "category": "colloquial-expression",
+      "meaning_it": "non ti ricordi?",
+      "meaning_en": "don't you remember?",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "sa regórdèt mìa 'l mé ṡio té",
+          "translation_it": "non ti ricordi il mio zio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mia-tat",
+      "term": "mìa tàt",
+      "category": "colloquial-expression",
+      "meaning_it": "non molto, non tanto",
+      "meaning_en": "not much",
+      "register": "colloquial",
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "o-fali",
+      "term": "ö falì / ö falinì",
+      "category": "colloquial-expression",
+      "meaning_it": "un pochino",
+      "meaning_en": "a little bit",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "ö falì sé",
+          "translation_it": "un pochino, sì",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fo-per-di",
+      "term": "fó per dì",
+      "category": "colloquial-expression",
+      "meaning_it": "per dire, ad esempio",
+      "meaning_en": "for example, so to speak",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "adès fó per dì",
+          "translation_it": "adesso, per dire",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pota-egni-a-troam",
+      "term": "Pòta, egnì a troàm!",
+      "category": "colloquial-expression",
+      "meaning_it": "Dai, venite a trovarci!",
+      "meaning_en": "Come on, come and visit us!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Pota, egnì a troàm!",
+          "translation_it": "Forza, venite a trovarci!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-guerini-2025"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Guerini (2025) records it on a pharmacy notice in dialect: 'Pota, egnì a troàm!' (forza, venite a trovarci). A friendly, non-vulgar use of pòta as an upbeat marker."
+    },
+    {
+      "id": "o-facia-n-del-lacc",
+      "term": "l'ó facia 'n del lacc!",
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "l'ho fatta nel latte: esclamazione di chi ha fatto un grave errore e teme un danno",
+      "meaning_en": "I've made a real blunder (lit. I did it in the milk)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'lacc' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)). A self-ironic wail after a mistake."
+    },
+    {
+      "id": "de-u-rinforzo",
+      "term": "de ü",
+      "category": "colloquial-expression",
+      "meaning_it": "rinforzo dopo parole ingiuriose (es. ün àsen de ü = asinaccio)",
+      "meaning_en": "intensifier after insults (e.g. ün àsen de ü = a big ass)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "ün àsen de ü",
+          "translation_it": "un asinaccio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'de' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)): 'per rinforzo dopo parole ingiuriose: de ü'. Use after one insult, not stacked."
+    },
+    {
+      "id": "bacalo",
+      "term": "bacaló",
+      "variants": [
+        "biló",
+        "baciòch",
+        "tapù"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "babbeo, sciocco, buono a nulla",
+      "meaning_en": "simpleton, dimwit",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bacaló, biló' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)). Friendly jibe; relatives baciòch (stolto) and tapù (ignorante, stupido)."
+    }
+  ]
+}

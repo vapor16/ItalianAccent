@@ -1,0 +1,80 @@
+{
+  "id": "minchia",
+  "display_name": "Minchia",
+  "aliases": [
+    "mincia",
+    "mìnchia"
+  ],
+  "region": "Sicilia",
+  "provinces": [
+    "Palermo"
+  ],
+  "geographical_area": "City of Palermo, its districts and part of its metropolitan area (western Sicily). Not the Catanese of eastern Sicily (see mode mbare), nor Trapanese or Agrigentino.",
+  "linguistic_classification": "Palermitano, western variety of Sicilian (siciliano), Extreme Southern Italo-Romance; traditionally called a dialect, Sicilian is also recognised as a language by UNESCO.",
+  "language_family": "Indo-European > Romance > Italo-Romance > Extreme Southern Italian (Sicilian) > Western Sicilian",
+  "orthographic_conventions": "Popular phonetic spelling: final vowels -a/-i/-u; dd for retroflex from -LL- (alt. ḍḍ); articles u/a/i; di+article as ru/ra/ri; preconsonantal r kept in the attested texts (a tendency, contrasted with Catanese, not an absolute rule); Palermo diphthongs of stressed vowels written only on attested words, never obligatory (bieddu, buonu, tiempu, duormi, uocchi); g dropped in austu; apostrophe for aphaeresis; j for /j/.",
+  "description_en": "Palermitano: western Sicilian with diphthongised stressed vowels, di→ru/ra/ri in articulated prepositions, preconsonantal r kept in attested texts (tendency, unlike Catanese), passato remoto for all completed events, aviri a for obligation and future, si as 'if', cumpà as friendly vocative. Voice: a warm, theatrical Palermitan who may open with minchia/bedda matri/amunì (minchia is a marker, never obligatory) and closes with a proverb.",
+  "description_it": "Il palermitano: siciliano occidentale con dittongazione delle vocali toniche, di→ru/ra/ri nelle preposizioni articolate, r preconsonantica mantenuta nei testi attestati (tendenza, a differenza del catanese), passato remoto per ogni azione conclusa, aviri a per dovere e futuro, si per 'se', cumpà come vocativo amichevole. Tono: palermitano caloroso e teatrale che può aprire con minchia/bedda matri/amunì (minchia è un marcatore, mai obbligatorio) e chiude con un proverbio.",
+  "version": "0.1.0",
+  "maturity": "experimental",
+  "available": true,
+  "identifier_word": {
+    "form": "minchia",
+    "variants": [
+      "mincia",
+      "mìnchia"
+    ],
+    "meaning_en": "Vulgar 'dick', used as an all-purpose exclamation of surprise, admiration, annoyance or contempt, and as a filler/intensifier.",
+    "meaning_it": "Termine volgare per 'pene', usato come esclamazione universale di stupore, ammirazione, fastidio o disprezzo e come intercalare.",
+    "attestation": "Wiktionary records minchia as a Sicilian feminine noun (cock, dick; a stupid person) and as a vulgar interjection of surprise, disdain or appreciation; Palermo outlets (Palermoviva, Balarm) describe it as the Palermitan 'magic word'. The word is pan-Sicilian and also used in Catania, so the mode name is attested but not exclusive to Palermo. 'Minchia' is the colloquial, not the academic, name of the variety.",
+    "sources": [
+      "src-scn-wiktionary",
+      "src-pa-palermoviva-parole",
+      "src-pa-balarm-minchia"
+    ]
+  },
+  "sources": [
+    "src-pa-balarm-amminchiato",
+    "src-pa-balarm-cabbasisi",
+    "src-pa-balarm-chiu-longa",
+    "src-pa-balarm-facci-signa",
+    "src-pa-balarm-intraducibili",
+    "src-pa-balarm-minchia",
+    "src-pa-balarm-minnitta",
+    "src-pa-balarm-mischinu",
+    "src-pa-balarm-sanfaso",
+    "src-pa-balarm-semu-a-mari",
+    "src-pa-balarm-suca",
+    "src-pa-cademia-ortografia",
+    "src-pa-itwiki-palermitano",
+    "src-pa-palermoviva-parole",
+    "src-pa-palermoweb-proverbi",
+    "src-pa-sottile-parole-tempo-perduto",
+    "src-pa-vermiglio-asini",
+    "src-scn-balarm-modi-di-dire",
+    "src-scn-stalfieri-2022",
+    "src-scn-wikipedia-en",
+    "src-scn-wikiquote-proverbi",
+    "src-scn-wiktionary"
+  ],
+  "resources": {
+    "profile": "profile.md",
+    "lexicon": "lexicon.json",
+    "proverbs": "proverbs.json",
+    "profanity": "profanity.json",
+    "examples": "examples.md",
+    "sources": "sources.md"
+  },
+  "reviews": [],
+  "known_limitations": [
+    "No native-speaker review yet: all example sentences are AI-illustrative, built on documented rules.",
+    "Evidence specific to Palermo is thin: no Palermitano grammar or dictionary was consulted. The grammar backbone is common Sicilian (Wikipedia, Wiktionary tables); the Palermo layer rests on it.wiki, a Cademia aside, one PalermoWeb proverb page and Palermo Balarm columns (low reliability).",
+    "Association of the mode word with Palermo: minchia is pan-Sicilian (also Catanese); it is attested and the most recognisable Sicilian profanity, but not a Palermo-only marker. Catalog area association 'Palermitano' is acceptable but should not be presented as exclusive.",
+    "Diphthongisation of stressed vowels is documented only through a handful of words (bieddu, buonu, tiempu, vìeru, duormi, uocchi); the profile does not diphthongise freely.",
+    "The palatalised preconsonantal r sometimes attributed to Palermo (and listed in the mbare contamination guard) was not found in any consulted source and is not used. The mbare guard also attributes d→r only to Catanese, but Palermo texts attest di→ru/ra/ri.",
+    "No blasphemies are attested in the consulted sources, so none are provided. Heavy anatomical terms and gendered slurs are documented with generation_allowed=false.",
+    "Several Balarm/Palermoviva pages were read in part through tool summaries; they are low-reliability popular web sources and are cited only for forms and glosses, not for etymologies.",
+    "Preconsonantal r is described as kept in the attested Palermo texts, as a tendency in contrast with Catanese, not as an absolute rule; a generic western-area palatalisation of r (Stalfieri 2022, item 14) is not claimed for the city. 'minchia' is a strong marker, never an obligatory token."
+  ],
+  "last_updated": "2026-11-25"
+}

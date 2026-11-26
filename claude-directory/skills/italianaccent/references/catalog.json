@@ -1,0 +1,903 @@
+{
+  "version": "1.0.0",
+  "modes": [
+    {
+      "id": "mbare",
+      "display_name": "Mbare",
+      "aliases": [
+        "mbari",
+        "mbà"
+      ],
+      "variety": "Catanese",
+      "region": "Sicilia",
+      "classification": "Sicilian (Siciliano), eastern/Catanese variety",
+      "identifier_meaning_en": "Sicilian vocative 'mate, buddy' (from 'cumpari/'mbari, godfather/companion)",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/mbare/"
+    },
+    {
+      "id": "trimone",
+      "display_name": "Trimone",
+      "aliases": [
+        "trmone",
+        "tremone",
+        "trimò"
+      ],
+      "variety": "Barese",
+      "region": "Puglia",
+      "classification": "Apulian (Neapolitan-type upper-southern group), Barese variety",
+      "identifier_meaning_en": "Barese insult: 'idiot, dumbass'",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/trimone/"
+    },
+    {
+      "id": "wallera",
+      "display_name": "Wallera",
+      "aliases": [
+        "uallera",
+        "guallera",
+        "wallerà"
+      ],
+      "variety": "Napoletano",
+      "region": "Campania",
+      "classification": "Neapolitan (upper-southern Italo-Romance), city of Naples",
+      "identifier_meaning_en": "Neapolitan 'hernia / scrotum'; used in 'scassare 'a uallera' = to bust one's balls (commercial spelling of uallera)",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/wallera/"
+    },
+    {
+      "id": "daje",
+      "display_name": "Daje",
+      "aliases": [
+        "daie",
+        "dajje",
+        "dai"
+      ],
+      "variety": "Romanesco",
+      "region": "Lazio",
+      "classification": "Central Italian, Romanesco (Rome)",
+      "identifier_meaning_en": "Roman 'come on! let's go!'",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/daje/"
+    },
+    {
+      "id": "mena",
+      "display_name": "Mena",
+      "aliases": [
+        "mena mena",
+        "menà"
+      ],
+      "variety": "Leccese — Salentino centrale",
+      "region": "Puglia",
+      "classification": "Salentino (extreme-southern Italo-Romance), Lecce area",
+      "identifier_meaning_en": "Salentine 'come on / go on!' (from menare)",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/mena/"
+    },
+    {
+      "id": "minchia",
+      "display_name": "Minchia",
+      "aliases": [
+        "mincia",
+        "mìnchia"
+      ],
+      "variety": "Palermitano",
+      "region": "Sicilia",
+      "classification": "Sicilian (Siciliano), western/Palermo variety",
+      "identifier_meaning_en": "Sicilian vulgar 'dick', used as all-purpose exclamation",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/minchia/"
+    },
+    {
+      "id": "belin",
+      "display_name": "Belin",
+      "aliases": [
+        "belìn"
+      ],
+      "variety": "Genovese",
+      "region": "Liguria",
+      "classification": "Ligurian (Gallo-Italic), Genoese",
+      "identifier_meaning_en": "Genoese vulgar 'dick', all-purpose exclamation",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/belin/"
+    },
+    {
+      "id": "bischero",
+      "display_name": "Bischero",
+      "aliases": [
+        "bischera",
+        "bischerata"
+      ],
+      "variety": "Fiorentino",
+      "region": "Toscana",
+      "classification": "Tuscan, Florentine vernacular",
+      "identifier_meaning_en": "Florentine 'fool, sucker'",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/bischero/"
+    },
+    {
+      "id": "boiade",
+      "display_name": "Boia dé",
+      "aliases": [
+        "boia de",
+        "boiade'"
+      ],
+      "variety": "Livornese",
+      "region": "Toscana",
+      "classification": "Tuscan, Livornese vernacular",
+      "identifier_meaning_en": "Livornese exclamation 'damn!, wow!' (boia = executioner, used as an intensifier, + the interjection dé)",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/boiade/"
+    },
+    {
+      "id": "pirla",
+      "display_name": "Pirla",
+      "aliases": [],
+      "variety": "Milanese",
+      "region": "Lombardia",
+      "classification": "Western Lombard (Gallo-Italic), Milanese",
+      "identifier_meaning_en": "Milanese 'idiot, jerk'",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/pirla/"
+    },
+    {
+      "id": "pota",
+      "display_name": "Potà",
+      "aliases": [
+        "pòta",
+        "pota"
+      ],
+      "variety": "Bergamasco",
+      "region": "Lombardia",
+      "classification": "Eastern Lombard (Gallo-Italic), Bergamasque",
+      "identifier_meaning_en": "Bergamasque all-purpose interjection (originally vulgar 'female genitals')",
+      "maturity": "experimental",
+      "available": true,
+      "path": "references/dialects/pota/"
+    },
+    {
+      "id": "socmel",
+      "display_name": "Socmel",
+      "aliases": [
+        "sòcmel",
+        "socmèl",
+        "sócc'mel",
+        "soccmel"
+      ],
+      "variety": "Bolognese",
+      "region": "Emilia-Romagna",
+      "classification": "Emilian (Gallo-Italic), Bolognese",
+      "identifier_meaning_en": "Bolognese vulgar exclamation of amazement ('suck it')",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/socmel/",
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
+    },
+    {
+      "id": "pataca",
+      "display_name": "Pataca",
+      "aliases": [
+        "patacca",
+        "pataca'"
+      ],
+      "variety": "Romagnolo",
+      "region": "Emilia-Romagna",
+      "classification": "Romagnol (Gallo-Italic), Rimini/Romagna",
+      "identifier_meaning_en": "Romagnol 'fool, braggart' (originally vulgar)",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/pataca/",
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
+    },
+    {
+      "id": "ostrega",
+      "display_name": "Ostrega",
+      "aliases": [
+        "òstrega",
+        "ostregheta",
+        "ostrighèta"
+      ],
+      "variety": "Veneziano",
+      "region": "Veneto",
+      "classification": "Venetian, Venice city variety",
+      "identifier_meaning_en": "Venetian euphemistic exclamation 'wow, gosh' (lit. 'oyster')",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/ostrega/",
+      "notes": "Research parked in https://github.com/vapor16/ItalianAccent/tree/main/research/future-profiles for a future release; not part of v1.0.0."
+    },
+    {
+      "id": "neh",
+      "display_name": "Neh",
+      "aliases": [
+        "ne",
+        "nè",
+        "neh?"
+      ],
+      "variety": "Torinese",
+      "region": "Piemonte",
+      "classification": "Piedmontese (Gallo-Italic), Turin koiné",
+      "identifier_meaning_en": "Piedmontese tag particle 'right?, isn't it?'",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/neh/"
+    },
+    {
+      "id": "mandi",
+      "display_name": "Mandi",
+      "aliases": [
+        "mandi mandi"
+      ],
+      "variety": "Friulano",
+      "region": "Friuli-Venezia Giulia",
+      "classification": "Friulian (Rhaeto-Romance), central koiné",
+      "identifier_meaning_en": "Friulian greeting 'bye / hello'",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/mandi/"
+    },
+    {
+      "id": "mona",
+      "display_name": "Mona",
+      "aliases": [
+        "mòna",
+        "monada"
+      ],
+      "variety": "Triestino",
+      "region": "Friuli-Venezia Giulia",
+      "classification": "Venetian (Triestine variety)",
+      "identifier_meaning_en": "Venetian/Triestine 'fool' (vulgar 'female genitals')",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/mona/"
+    },
+    {
+      "id": "ajo",
+      "display_name": "Ajò",
+      "aliases": [
+        "ajó",
+        "aiò",
+        "ajoh"
+      ],
+      "variety": "Sardo",
+      "region": "Sardegna",
+      "classification": "Sardinian (Sardu); variety localized during research",
+      "identifier_meaning_en": "Sardinian 'come on! let's go!'",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/ajo/"
+    },
+    {
+      "id": "frechete",
+      "display_name": "Frechete",
+      "aliases": [
+        "frechete!",
+        "fréchete"
+      ],
+      "variety": "Abruzzese",
+      "region": "Abruzzo",
+      "classification": "Upper-southern Italo-Romance, Abruzzese; local variety to localize",
+      "identifier_meaning_en": "Abruzzese exclamation of astonishment",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/frechete/"
+    },
+    {
+      "id": "ntamato",
+      "display_name": "'Ntamato",
+      "aliases": [
+        "ntamatu",
+        "'ntamatu",
+        "ntamata"
+      ],
+      "variety": "Calabrese",
+      "region": "Calabria",
+      "classification": "Calabrian; local variety to localize",
+      "identifier_meaning_en": "Calabrian 'dumbstruck, dazed, dull-witted'",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/ntamato/"
+    },
+    {
+      "id": "freghi",
+      "display_name": "Freghi",
+      "aliases": [
+        "fregghi",
+        "freghete"
+      ],
+      "variety": "Perugino",
+      "region": "Umbria",
+      "classification": "Central Italian, Perugian",
+      "identifier_meaning_en": "Perugian exclamation of amazement",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/freghi/"
+    },
+    {
+      "id": "cio",
+      "display_name": "Ció",
+      "aliases": [
+        "ciò",
+        "cio'",
+        "cioh"
+      ],
+      "variety": "Trentino",
+      "region": "Trentino-Alto Adige",
+      "classification": "Trentino (Venetian-Lombard transitional dialects)",
+      "identifier_meaning_en": "Trentino/Venetian vocative interjection 'hey!'",
+      "maturity": "planned",
+      "available": false,
+      "path": "references/dialects/cio/"
+    },
+    {
+      "id": "messinese",
+      "display_name": "Messinese",
+      "aliases": [],
+      "variety": "Messinese",
+      "region": "Sicilia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "trapanese",
+      "display_name": "Trapanese",
+      "aliases": [],
+      "variety": "Trapanese",
+      "region": "Sicilia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "siracusano",
+      "display_name": "Siracusano",
+      "aliases": [],
+      "variety": "Siracusano",
+      "region": "Sicilia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ragusano",
+      "display_name": "Ragusano",
+      "aliases": [],
+      "variety": "Ragusano",
+      "region": "Sicilia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "agrigentino",
+      "display_name": "Agrigentino",
+      "aliases": [],
+      "variety": "Agrigentino",
+      "region": "Sicilia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "foggiano",
+      "display_name": "Foggiano",
+      "aliases": [],
+      "variety": "Foggiano",
+      "region": "Puglia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "tarantino",
+      "display_name": "Tarantino",
+      "aliases": [],
+      "variety": "Tarantino",
+      "region": "Puglia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "brindisino",
+      "display_name": "Brindisino",
+      "aliases": [],
+      "variety": "Brindisino",
+      "region": "Puglia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "salernitano",
+      "display_name": "Salernitano",
+      "aliases": [],
+      "variety": "Salernitano",
+      "region": "Campania",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "avellinese",
+      "display_name": "Avellinese (Irpino)",
+      "aliases": [],
+      "variety": "Avellinese (Irpino)",
+      "region": "Campania",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "beneventano",
+      "display_name": "Beneventano",
+      "aliases": [],
+      "variety": "Beneventano",
+      "region": "Campania",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "casertano",
+      "display_name": "Casertano",
+      "aliases": [],
+      "variety": "Casertano",
+      "region": "Campania",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ciociaro",
+      "display_name": "Ciociaro",
+      "aliases": [],
+      "variety": "Ciociaro",
+      "region": "Lazio",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "cosentino",
+      "display_name": "Cosentino",
+      "aliases": [],
+      "variety": "Cosentino",
+      "region": "Calabria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "catanzarese",
+      "display_name": "Catanzarese",
+      "aliases": [],
+      "variety": "Catanzarese",
+      "region": "Calabria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "reggino",
+      "display_name": "Reggino",
+      "aliases": [],
+      "variety": "Reggino",
+      "region": "Calabria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "crotonese",
+      "display_name": "Crotonese",
+      "aliases": [],
+      "variety": "Crotonese",
+      "region": "Calabria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "vibonese",
+      "display_name": "Vibonese",
+      "aliases": [],
+      "variety": "Vibonese",
+      "region": "Calabria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "potentino",
+      "display_name": "Potentino",
+      "aliases": [],
+      "variety": "Potentino",
+      "region": "Basilicata",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "materano",
+      "display_name": "Materano",
+      "aliases": [],
+      "variety": "Materano",
+      "region": "Basilicata",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "campobassano",
+      "display_name": "Campobassano",
+      "aliases": [],
+      "variety": "Campobassano",
+      "region": "Molise",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "isernino",
+      "display_name": "Isernino",
+      "aliases": [],
+      "variety": "Isernino",
+      "region": "Molise",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "aquilano",
+      "display_name": "Aquilano",
+      "aliases": [],
+      "variety": "Aquilano",
+      "region": "Abruzzo",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "pescarese",
+      "display_name": "Pescarese",
+      "aliases": [],
+      "variety": "Pescarese",
+      "region": "Abruzzo",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "chietino",
+      "display_name": "Chietino",
+      "aliases": [],
+      "variety": "Chietino",
+      "region": "Abruzzo",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "teramano",
+      "display_name": "Teramano",
+      "aliases": [],
+      "variety": "Teramano",
+      "region": "Abruzzo",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "pisano",
+      "display_name": "Pisano",
+      "aliases": [],
+      "variety": "Pisano",
+      "region": "Toscana",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "senese",
+      "display_name": "Senese",
+      "aliases": [],
+      "variety": "Senese",
+      "region": "Toscana",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "aretino",
+      "display_name": "Aretino",
+      "aliases": [],
+      "variety": "Aretino",
+      "region": "Toscana",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "lucchese",
+      "display_name": "Lucchese",
+      "aliases": [],
+      "variety": "Lucchese",
+      "region": "Toscana",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "anconetano",
+      "display_name": "Anconetano",
+      "aliases": [],
+      "variety": "Anconetano",
+      "region": "Marche",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ascolano",
+      "display_name": "Ascolano",
+      "aliases": [],
+      "variety": "Ascolano",
+      "region": "Marche",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "maceratese",
+      "display_name": "Maceratese",
+      "aliases": [],
+      "variety": "Maceratese",
+      "region": "Marche",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "pesarese",
+      "display_name": "Pesarese",
+      "aliases": [],
+      "variety": "Pesarese",
+      "region": "Marche",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ternano",
+      "display_name": "Ternano",
+      "aliases": [],
+      "variety": "Ternano",
+      "region": "Umbria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "modenese",
+      "display_name": "Modenese",
+      "aliases": [],
+      "variety": "Modenese",
+      "region": "Emilia-Romagna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "parmigiano",
+      "display_name": "Parmigiano",
+      "aliases": [],
+      "variety": "Parmigiano",
+      "region": "Emilia-Romagna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ferrarese",
+      "display_name": "Ferrarese",
+      "aliases": [],
+      "variety": "Ferrarese",
+      "region": "Emilia-Romagna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "piacentino",
+      "display_name": "Piacentino",
+      "aliases": [],
+      "variety": "Piacentino",
+      "region": "Emilia-Romagna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "spezzino",
+      "display_name": "Spezzino",
+      "aliases": [],
+      "variety": "Spezzino",
+      "region": "Liguria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ligure-ponentino",
+      "display_name": "Ligure occidentale (ponentino)",
+      "aliases": [],
+      "variety": "Ligure occidentale (ponentino)",
+      "region": "Liguria",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "bresciano",
+      "display_name": "Bresciano",
+      "aliases": [],
+      "variety": "Bresciano",
+      "region": "Lombardia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "mantovano",
+      "display_name": "Mantovano",
+      "aliases": [],
+      "variety": "Mantovano",
+      "region": "Lombardia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "comasco",
+      "display_name": "Comasco",
+      "aliases": [],
+      "variety": "Comasco",
+      "region": "Lombardia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "varesino",
+      "display_name": "Varesino",
+      "aliases": [],
+      "variety": "Varesino",
+      "region": "Lombardia",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "veronese",
+      "display_name": "Veronese",
+      "aliases": [],
+      "variety": "Veronese",
+      "region": "Veneto",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "padovano",
+      "display_name": "Padovano",
+      "aliases": [],
+      "variety": "Padovano",
+      "region": "Veneto",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "vicentino",
+      "display_name": "Vicentino",
+      "aliases": [],
+      "variety": "Vicentino",
+      "region": "Veneto",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "trevigiano",
+      "display_name": "Trevigiano",
+      "aliases": [],
+      "variety": "Trevigiano",
+      "region": "Veneto",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "bellunese",
+      "display_name": "Bellunese",
+      "aliases": [],
+      "variety": "Bellunese",
+      "region": "Veneto",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "ladino",
+      "display_name": "Ladino dolomitico",
+      "aliases": [],
+      "variety": "Ladino dolomitico",
+      "region": "Trentino-Alto Adige",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "francoprovenzale",
+      "display_name": "Francoprovenzale valdostano (patoué)",
+      "aliases": [],
+      "variety": "Francoprovenzale valdostano (patoué)",
+      "region": "Valle d'Aosta",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "campidanese",
+      "display_name": "Campidanese",
+      "aliases": [],
+      "variety": "Campidanese",
+      "region": "Sardegna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "logudorese",
+      "display_name": "Logudorese",
+      "aliases": [],
+      "variety": "Logudorese",
+      "region": "Sardegna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "sassarese",
+      "display_name": "Sassarese",
+      "aliases": [],
+      "variety": "Sassarese",
+      "region": "Sardegna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    },
+    {
+      "id": "gallurese",
+      "display_name": "Gallurese",
+      "aliases": [],
+      "variety": "Gallurese",
+      "region": "Sardegna",
+      "maturity": "planned",
+      "available": false,
+      "notes": "Planned variety. Identifier word not yet researched; the id is the descriptive variety name, not a commercial mode name."
+    }
+  ]
+}

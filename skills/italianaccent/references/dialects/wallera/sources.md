@@ -1,6 +1,6 @@
 # Sources — Wallera (City of Naples (Napoli). The profile follows the urban Neapolitan norm used in literature, theatre and song; the surrounding metropolitan area and other Campanian varieties (Irpinian, Cilentan, Beneventan, Casertan, island varieties with 'u) differ and are not covered.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -23,4 +23,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-threads-figlio-e-bukki` | Threads post by @puokemed on Neapolitans opening comments with 'Figlio 'e Bukkì' (17 Dec 2023) | Threads | popular-web | low | All rights reserved (facts-only-citation) | <https://www.threads.com/@puokemed/post/C0-fqPnorNh> |
 | `src-wikt-nap-bucchino` | Wiktionary: bucchino (Neapolitan) | Wiktionary (en) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/bucchino> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

@@ -1,0 +1,815 @@
+{
+  "dialect": "pota",
+  "entries": [
+    {
+      "id": "ai-scec-as-ghe-n-da",
+      "type": "proverb",
+      "original": "Ai sćèć as’ ghe n’ dà de spès",
+      "literal_it": "Ai ragazzi se ne dà di frequente.",
+      "meaning_it": "Ai bambini si dà spesso (da mangiare, o da fare).",
+      "meaning_en": "Children get fed (or told off) often.",
+      "usage_context": "children, appetite",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "i-scec-poe",
+      "type": "saying",
+      "original": "I sćèć i è compàgn di póe; i mangia töć i momènć",
+      "literal_it": "I ragazzi sono come i polli; mangiano ad ogni momento.",
+      "meaning_it": "I bambini mangiano di continuo.",
+      "meaning_en": "Children are like chickens: they eat all the time.",
+      "usage_context": "hungry kids",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-gh-a-di-scec",
+      "type": "proverb",
+      "original": "Chi gh’à di sćèć, gh’à di fastöde",
+      "literal_it": "Chi ha de' figli, ha de' fastidi.",
+      "meaning_it": "Avere figli porta preoccupazioni.",
+      "meaning_en": "Who has children has troubles.",
+      "usage_context": "parenting, worries",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "ol-sangu-no-l-e-aqua",
+      "type": "proverb",
+      "original": "Ol sangu’ no l’è aqua",
+      "literal_it": "Il sangue non è acqua.",
+      "meaning_it": "I legami di famiglia contano.",
+      "meaning_en": "Blood is not water.",
+      "usage_context": "family loyalty",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "tal-pader-tal-fiol",
+      "type": "proverb",
+      "original": "Tal pader, tal fiòl",
+      "literal_it": "Quale il padre, tale il figlio.",
+      "meaning_it": "I figli somigliano ai padri.",
+      "meaning_en": "Like father, like son.",
+      "usage_context": "inherited habits, bad code style",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "al-ga-ol-di-fati",
+      "type": "proverb",
+      "original": "Al ga öl di fati e miga di ciàcole",
+      "literal_it": "Fatti ci vogliono e non chiacchere.",
+      "meaning_it": "Servono fatti, non parole.",
+      "meaning_en": "What's needed is deeds, not chatter.",
+      "usage_context": "meetings, empty promises",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "ciacole-ciacole",
+      "type": "saying",
+      "original": "I ciàcole i è semper ciàcole",
+      "literal_it": "Le chiacchere non sono altro che chiacchere.",
+      "meaning_it": "Le chiacchiere restano chiacchiere.",
+      "meaning_en": "Talk is just talk.",
+      "usage_context": "empty talk",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "ca-che-baja",
+      "type": "proverb",
+      "original": "Cà che baja, no pìa miga",
+      "literal_it": "Can che abbaja, non morde.",
+      "meaning_it": "Chi fa più rumore spesso fa meno danni.",
+      "meaning_en": "A barking dog doesn't bite.",
+      "usage_context": "loud threats",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-no-ol-ered",
+      "type": "proverb",
+      "original": "Chi no öl ered al sant, erede al miràcol",
+      "literal_it": "Chi non vuol credere al santo, creda al miracolo.",
+      "meaning_it": "Se non ascolti i consigli, ti convincerà l'evidenza.",
+      "meaning_en": "Who won't believe the saint, will believe the miracle.",
+      "usage_context": "ignored warnings, failed deploys",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "dal-di-al-fa",
+      "type": "proverb",
+      "original": "Dal dì al fa al gh’è ü gran trà",
+      "literal_it": "Dal detto al fatto c'è un gran tratto.",
+      "meaning_it": "Tra il dire e il fare c'è di mezzo il mare.",
+      "meaning_en": "From saying to doing there is a long way.",
+      "usage_context": "promises vs. delivery",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "l-e-belfa-a-criticare",
+      "type": "proverb",
+      "original": "L’è belfà a criticà, bisogna proà a fa",
+      "literal_it": "È facile criticare, bisogna provarsi a fare.",
+      "meaning_it": "Criticare è facile, farlo è un'altra cosa.",
+      "meaning_en": "Criticizing is easy; try doing it.",
+      "usage_context": "code review, armchair critics",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "ona-parola-tira-l-otra",
+      "type": "proverb",
+      "original": "Öna parola tira l’ótra",
+      "literal_it": "Una parola tira l'altra.",
+      "meaning_it": "Una parola tira l'altra (una discussione degenera).",
+      "meaning_en": "One word pulls the next.",
+      "usage_context": "arguments, chatter",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "a-ciapa-sobet",
+      "type": "proverb",
+      "original": "A ciapà, ciapà söbet",
+      "literal_it": "A pigliare non essere lento.",
+      "meaning_it": "Quando c'è da prendere, non esitare.",
+      "meaning_en": "When there is something to take, be quick.",
+      "usage_context": "bargains",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-oltem-paga",
+      "type": "proverb",
+      "original": "Chi öltem paga, ben paga",
+      "literal_it": "Indugia il pagamento più che puoi, e non pagherai due volte.",
+      "meaning_it": "Chi paga per ultimo paga bene.",
+      "meaning_en": "Last to pay, pays well.",
+      "usage_context": "debts, deadlines",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-pio-spend",
+      "type": "proverb",
+      "original": "Chi piò spend, meno spend",
+      "literal_it": "Chi più spende, meno spende.",
+      "meaning_it": "La qualità costa ma alla lunga si risparmia.",
+      "meaning_en": "Who spends more, spends less.",
+      "usage_context": "buying cheap tools",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "bu-e-bu-marcat",
+      "type": "proverb",
+      "original": "Bu e bu marcàt i sta miga ’nsèma",
+      "literal_it": "Buono e buon mercato non stanno insieme.",
+      "meaning_it": "Buono e a buon prezzo raramente vanno insieme.",
+      "meaning_en": "Good and cheap don't go together.",
+      "usage_context": "cheap vs. quality",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "coi-solc-in-ma",
+      "type": "proverb",
+      "original": "Coi solć in ma as’ fa semper pió bu afare",
+      "literal_it": "Coi denari in mano si fanno sempre migliori affari.",
+      "meaning_it": "Chi ha liquidità tratta meglio.",
+      "meaning_en": "With cash in hand one always strikes better deals.",
+      "usage_context": "budget, negotiation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-sirca-troa",
+      "type": "proverb",
+      "original": "Chi sirca, tróa",
+      "literal_it": "Chi cerca, trova.",
+      "meaning_it": "Chi cerca trova.",
+      "meaning_en": "Who seeks, finds.",
+      "usage_context": "debugging, search",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "quando-s-a-fac",
+      "type": "proverb",
+      "original": "Quando s’à fać töt quel che s’ pöl, quel che Dio öl",
+      "literal_it": "Quand'uno ha fatto tutto quello che può, sia fatta la volontà di Dio.",
+      "meaning_it": "Fatto tutto il possibile, il resto non dipende da noi.",
+      "meaning_en": "Once you've done all you can, the rest is out of your hands.",
+      "usage_context": "after best effort, resignation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "via-l-gat-bala-l-rat",
+      "type": "proverb",
+      "original": "Vià ’l gat, bala ’l rat",
+      "literal_it": "Quando il gatto non è in paese, i topi ballano.",
+      "meaning_it": "Senza il capo, i sottoposti fanno festa.",
+      "meaning_en": "When the cat's away, the mice play.",
+      "usage_context": "absent boss",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "a-pians-semper-a-tep",
+      "type": "proverb",
+      "original": "A pians s’è semper a tép",
+      "literal_it": "Per piangere c'è sempre tempo.",
+      "meaning_it": "Piangere si fa sempre in tempo.",
+      "meaning_en": "There's always time to cry.",
+      "usage_context": "consolation, cheering up",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "l-alegrea-ogne-mal",
+      "type": "proverb",
+      "original": "L’alegréa ogne mal la cassa véa",
+      "literal_it": "L'allegria ogni male caccia via.",
+      "meaning_it": "L'allegria scaccia ogni male.",
+      "meaning_en": "Cheerfulness chases every ill away.",
+      "usage_context": "bad day, cheering up",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "la-roba-l-e-miga",
+      "type": "proverb",
+      "original": "La roba l’è miga de chi la fa, ma de chi la gód",
+      "literal_it": "La roba non è di chi la fa, ma di chi la gode.",
+      "meaning_it": "I beni sono di chi li gode, non di chi li produce.",
+      "meaning_en": "Goods belong not to who makes them but to who enjoys them.",
+      "usage_context": "benefits, who takes credit",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "l-e-inotel-pensaga",
+      "type": "proverb",
+      "original": "L’è inötel pensàga, quel che nó s’ pöl aì lassa che ’l vaga",
+      "literal_it": "È inutile pensarci, quel che non si può avere lascia che vada.",
+      "meaning_it": "Inutile rimuginare su ciò che non si può avere.",
+      "meaning_en": "No use dwelling on what you can't have; let it go.",
+      "usage_context": "regret, wrong choice",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "la-rabia-la-fa-fa",
+      "type": "proverb",
+      "original": "La rabia la fa fa di spropóseć",
+      "literal_it": "La collera fa fare degli spropositi.",
+      "meaning_it": "Arrabbiarsi fa fare sciocchezze.",
+      "meaning_en": "Anger makes you do silly things.",
+      "usage_context": "anger, rushed decisions",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "la-rabia-de-la-sira",
+      "type": "proverb",
+      "original": "La rabia de la sira sàlvela per la matina",
+      "literal_it": "La collera della sera va serbata alla mattina.",
+      "meaning_it": "Dormici sopra prima di sfogarti.",
+      "meaning_en": "Keep tonight's anger for the morning.",
+      "usage_context": "conflict with a colleague",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "la-fortuna-bisogna-fasla",
+      "type": "proverb",
+      "original": "La fortüna bisogna fasla",
+      "literal_it": "La fortuna bisogna farsela.",
+      "meaning_it": "La fortuna va costruita.",
+      "meaning_en": "You have to make your own luck.",
+      "usage_context": "effort, mindset",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "fortuna-balucos",
+      "type": "proverb",
+      "original": "Seguitur fortüna balücos",
+      "literal_it": "La fortuna corre dietro ai minchioni.",
+      "meaning_it": "La fortuna spesso va agli sciocchi.",
+      "meaning_en": "Fortune runs after fools.",
+      "usage_context": "undeserved luck",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling. The first word is a Latin-looking verb form as printed; the Italian rendering uses minchioni."
+    },
+    {
+      "id": "a-es-desfortunac",
+      "type": "proverb",
+      "original": "A es desfortünàć al piòf söl cül ac a es sentàc",
+      "literal_it": "Allo sfortunato piove sul culo anche quando è seduto.",
+      "meaning_it": "Per lo sfortunato tutto va male.",
+      "meaning_en": "For the unlucky it rains on their backside even when sitting.",
+      "usage_context": "bad luck, failed deploy",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "a-la-fortuna-finestra",
+      "type": "proverb",
+      "original": "A la fortüna bisogna lassàga semper vèrt öna finestra",
+      "literal_it": "Alla fortuna bisogna lasciare sempre aperta una finestra.",
+      "meaning_it": "Lascia sempre una possibilità alla fortuna.",
+      "meaning_en": "Always leave a window open for luck.",
+      "usage_context": "options, backups",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "a-sto-mond-val-miga",
+      "type": "proverb",
+      "original": "A sto mond al val miga a esga, ma ’l val a saìga stà",
+      "literal_it": "Non giova l'essere al mondo, ma vale a saperci stare.",
+      "meaning_it": "Non basta esserci, bisogna saperci stare.",
+      "meaning_en": "It is not being in the world that counts, but knowing how to be in it.",
+      "usage_context": "attitude, work life",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-no-stopa-u-busi",
+      "type": "proverb",
+      "original": "Chi no stópa ü büsì? mìa po’ che ’l stopi ü büsù",
+      "literal_it": "Chi non tura un bucolino, bisogna poi che turi un bucone.",
+      "meaning_it": "Un piccolo guasto non riparato diventa un grosso guaio.",
+      "meaning_en": "Who doesn't plug a small hole must later plug a big one.",
+      "usage_context": "small bug now, big outage later",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "a-cus-sansa-grop",
+      "type": "proverb",
+      "original": "A cus sansa grop a s’cus per ol per negót",
+      "literal_it": "Chi cuce senza nodo, cuce invano.",
+      "meaning_it": "Un lavoro lasciato a metà è fatica sprecata.",
+      "meaning_en": "Sewing without a knot is sewing for nothing.",
+      "usage_context": "unfinished work, missing tests",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "chi-ben-ciaa",
+      "type": "proverb",
+      "original": "Chi ben ciaa, ben desciaa",
+      "literal_it": "Chi ben serra, ben trova.",
+      "meaning_it": "Chi ordina bene, ritrova bene.",
+      "meaning_en": "Who locks away well, finds well.",
+      "usage_context": "tidy repos, backups",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "toc-i-de-nne-passa-u",
+      "type": "proverb",
+      "original": "Töc i dé ’nne passa ü",
+      "literal_it": "Ogni dì ne passa uno.",
+      "meaning_it": "Ogni giorno ne passa una (la vita è varia).",
+      "meaning_en": "Every day one of them goes by.",
+      "usage_context": "a bad day, resignation",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-tiraboschi-proverbi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Tiraboschi's 19th-century orthography (ć = Italian c of 'selce'); not the modern RID spelling."
+    },
+    {
+      "id": "pota-frat-1",
+      "type": "proverb",
+      "original": "Pòta a 'l dis ol frat quand che 'l se scòta, se 'l frat a 'l se scota mia pòta 'l la dis mia!",
+      "literal_it": "Pota dice il frate quando si scotta; se il frate non si scotta, pota non lo dice!",
+      "meaning_it": "Si dice pòta quando si resta scottati: l'esclamazione nasce dall'esperienza.",
+      "meaning_en": "The friar says pota when he burns himself; if he doesn't burn himself he doesn't say it.",
+      "usage_context": "getting burned, a mishap",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted from the Lombard section of Wikizionario (Eastern Lombard; spelling as there, unverified against a print source)."
+    },
+    {
+      "id": "pota-frat-2",
+      "type": "proverb",
+      "original": "Pòta e 'l dis el frat quand che 'l se scòta, e quand che 'l s'è scotat: pòta 'l dis, 'ormai l'è fat!",
+      "literal_it": "Pota dice il frate quando si scotta, e quando si è scottato: pota dice, ormai è fatto!",
+      "meaning_it": "Pòta si dice sia quando ci si scotta sia dopo: ormai è fatto.",
+      "meaning_en": "The friar says pota as he burns, and again once burned: it is done.",
+      "usage_context": "fait accompli, resignation",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted from the Lombard section of Wikizionario (Eastern Lombard; spelling as there, unverified against a print source)."
+    },
+    {
+      "id": "pota-frat-3",
+      "type": "proverb",
+      "original": "Pòta i dis i fracc quand che i se scòta, ma se i se spisiga i dis figa!",
+      "literal_it": "Pota dicono i frati quando si scottano, ma se si pizzicano dicono figa!",
+      "meaning_it": "Per ogni dolore si ha l'esclamazione adatta: pòta per la scottatura, figa per il pizzicotto.",
+      "meaning_en": "Friars say pota when they burn themselves but figa when pinched.",
+      "usage_context": "humour about exclamations",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted from the Lombard section of Wikizionario (Eastern Lombard; spelling as there, unverified against a print source)."
+    },
+    {
+      "id": "pota-pel",
+      "type": "idiom",
+      "original": "'L tira de pü 'n pel de pòta che cent ca(v)ai che i tròta",
+      "literal_it": "Tira di più un pelo di pota che cento cavalli che trottano.",
+      "meaning_it": "Il richiamo del sesso è più forte di mille cavalli.",
+      "meaning_en": "One hair of pota pulls harder than a hundred trotting horses.",
+      "usage_context": "joke on desire",
+      "register": "very-vulgar",
+      "vulgarity": 4,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-itwikt-pota"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Quoted from the Lombard section of Wikizionario (Eastern Lombard; spelling as there, unverified against a print source). The word cav(v)ai is written with optional v in the source."
+    },
+    {
+      "id": "ciapa-a-pesade-del-cul",
+      "type": "idiom",
+      "original": "ciapài a pesade 'n del cül",
+      "literal_it": "prenderli a calci nel culo",
+      "meaning_it": "prenderli a calci nel sedere (meritano una lezione)",
+      "meaning_en": "to kick them up the backside",
+      "usage_context": "annoyance at people looking down on dialect",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    },
+    {
+      "id": "ghe-n-e-mia-di-bale",
+      "type": "idiom",
+      "original": "ghe 'n è mìa di bale",
+      "literal_it": "non ce ne sono di palle",
+      "meaning_it": "non ci sono storie, è proprio così",
+      "meaning_en": "no kidding, that's how it is",
+      "usage_context": "emphasis, certainty",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    },
+    {
+      "id": "ga-mancheres-a-chela",
+      "type": "idiom",
+      "original": "ga mancherès a' chèla",
+      "literal_it": "ci mancherebbe anche quella",
+      "meaning_it": "ci mancherebbe anche questa",
+      "meaning_en": "that would be the last straw",
+      "usage_context": "reaction to an extra problem",
+      "register": "ironic",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    },
+    {
+      "id": "isse-la-storia",
+      "type": "idiom",
+      "original": "issé la stória",
+      "literal_it": "così la storia",
+      "meaning_it": "e così via, e basta",
+      "meaning_en": "and that's the story, end of it",
+      "usage_context": "closing a topic",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    },
+    {
+      "id": "lasa-pert",
+      "type": "idiom",
+      "original": "lasa pèrt",
+      "literal_it": "lascia perdere",
+      "meaning_it": "lascia perdere",
+      "meaning_en": "let it go, forget it",
+      "usage_context": "closing a topic",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    },
+    {
+      "id": "e-buna-noc",
+      "type": "idiom",
+      "original": "e buna nòc'",
+      "literal_it": "e buonanotte",
+      "meaning_it": "e buonanotte (e così sia, finita lì)",
+      "meaning_en": "and that's that",
+      "usage_context": "closing a topic",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-carrara-tesi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in the spoken corpus of the Pavia thesis (RID/Sanga orthography)."
+    }
+  ]
+}

@@ -1,0 +1,1931 @@
+{
+  "dialect": "bischero",
+  "entries": [
+    {
+      "id": "i-articolo",
+      "term": "i'",
+      "variants": [
+        "i",
+        "'i"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo maschile singolare (il), con raddoppio della consonante seguente",
+      "meaning_en": "masculine singular definite article (the), geminating the next consonant",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "I' ccane e i' ggatto",
+          "translation_it": "Il cane e il gatto",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-fiorentino",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Written i' ; in the film transcript i' triangolo, i' telefonino, i' gatto. Gemination is not written."
+    },
+    {
+      "id": "e-articolo-plurale",
+      "term": "e'",
+      "variants": [
+        "i",
+        "e"
+      ],
+      "category": "function-word",
+      "part_of_speech": "article",
+      "meaning_it": "articolo determinativo plurale (i, le) nella forma popolare",
+      "meaning_en": "plural definite article in popular speech",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "E' cani e le gatte",
+          "translation_it": "I cani e le gatte",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "documented-rule",
+      "verification_status": "source-checked",
+      "notes": "itwiki-toscani gives 'e bar' beside 'i bar'. Use sparingly."
+    },
+    {
+      "id": "e-clitico",
+      "term": "e'",
+      "variants": [
+        "e",
+        "i"
+      ],
+      "category": "function-word",
+      "part_of_speech": "clitic pronoun",
+      "meaning_it": "pronome soggetto clitico di 3a persona (egli/essi), spesso ripetuto davanti al verbo",
+      "meaning_en": "3rd person subject clitic placed before the verb",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "E' portò via anche lui!",
+          "translation_it": "Portò via anche lui!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested in transcribed speech: e' ce n'avrebbe avuti parecchi; e' portò via anche lui. Not obligatory every time: marks the register."
+    },
+    {
+      "id": "la-clitico",
+      "term": "la",
+      "category": "function-word",
+      "part_of_speech": "clitic pronoun",
+      "meaning_it": "clitico soggetto femminile prima del verbo (la Maria la dice)",
+      "meaning_en": "feminine subject clitic before the verb",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "La Maria la dice sempre così.",
+          "translation_it": "Maria dice sempre così.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "documented-rule",
+      "verification_status": "source-checked",
+      "notes": "Binazzi attests l'è i' triangolo (l'è = la/e + è). The 'la' doubling pattern is documented in the literature on Florentine subject clitics (not read in full here)."
+    },
+    {
+      "id": "un-negazione",
+      "term": "un",
+      "variants": [
+        "'un"
+      ],
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "negazione (non), davanti a verbo o clitico",
+      "meaning_en": "negation (non), before verb or clitic",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Un c'è problema.",
+          "translation_it": "Non c'è problema.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested: un volea morire; un gli facea paura; a te un ti rimane altro; la 'un mi garba (itwiki-toscani)."
+    },
+    {
+      "id": "mi-possessivo",
+      "term": "mi' / tu' / su'",
+      "variants": [
+        "mi'",
+        "tu'",
+        "su'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "possessive",
+      "meaning_it": "possessivi atoni con nomi di parentela e simili: mio, tuo, suo",
+      "meaning_en": "short possessives mio/tuo/suo",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "I' mi' babbo",
+          "translation_it": "Mio padre",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "noi-si",
+      "term": "noi si + 3sg",
+      "variants": [
+        "si va",
+        "s'è"
+      ],
+      "category": "function-word",
+      "part_of_speech": "verb construction",
+      "meaning_it": "1a persona plurale impersonale: noi si va = andiamo",
+      "meaning_en": "impersonal first person plural: si + 3sg verb, often with noi",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Noi si va a mangià.",
+          "translation_it": "Andiamo a mangiare.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani",
+        "src-fi-enwiki-tuscan",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Compound tenses with essere: s'è mangiato. Binazzi lists it among the unmarked traits of Florentine."
+    },
+    {
+      "id": "te-tu",
+      "term": "te tu",
+      "variants": [
+        "tu",
+        "te"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "pronome tonico + clitico di 2a persona: te tu devi fare",
+      "meaning_en": "tonic + clitic 2nd person subject: te tu...",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Te tu devi fare i' backup.",
+          "translation_it": "Tu devi fare il backup.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani",
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "documented-rule",
+      "verification_status": "source-checked",
+      "notes": "itwiki-toscani: 'te tu devi fare', 'tu fa' pena'. enwiki: te in emphatic subject position."
+    },
+    {
+      "id": "icche",
+      "term": "icché",
+      "variants": [
+        "icche",
+        "icchè",
+        "che"
+      ],
+      "category": "function-word",
+      "part_of_speech": "pronoun",
+      "meaning_it": "che cosa (interrogativo e relativo), bandiera del fiorentino",
+      "meaning_en": "what; Florentine interrogative/relative 'che cosa'",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ma icché tu fai?",
+          "translation_it": "Ma che fai?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested: 'e icché sono, una specie protetta?'; 'lo sai icché voleva fare'; itwiki: 'ma icche tu fai?'"
+    },
+    {
+      "id": "codesto",
+      "term": "codesto",
+      "variants": [
+        "codesta",
+        "codesti",
+        "codeste"
+      ],
+      "category": "function-word",
+      "part_of_speech": "demonstrative",
+      "meaning_it": "dimostrativo di seconda persona: ciò che è vicino a chi ascolta",
+      "meaning_en": "demonstrative for things near the listener",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "Codesto che c'hai in mano, che è?",
+          "translation_it": "Quello che hai in mano, cos'è?",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cha",
+      "term": "c'ha",
+      "variants": [
+        "c'ho",
+        "c'hai",
+        "c'abbiamo"
+      ],
+      "category": "function-word",
+      "part_of_speech": "verb",
+      "meaning_it": "ci ha / ha (con ci attualizzante)",
+      "meaning_en": "has (with the ci of possession)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "C'ha messo tre nomi strani",
+          "translation_it": "Ha messo tre nomi strani",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sicche",
+      "term": "sicché",
+      "category": "function-word",
+      "part_of_speech": "conjunction",
+      "meaning_it": "dunque, quindi (connettivo di racconto)",
+      "meaning_en": "so, therefore (narrative connector)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Sicché c'ha messo tre nomi.",
+          "translation_it": "Quindi ha messo tre nomi.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "punto",
+      "term": "punto",
+      "category": "function-word",
+      "part_of_speech": "adverb",
+      "meaning_it": "affatto, per niente, in frase negativa",
+      "meaning_en": "at all, not at all (in negative clauses)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Un mi garba punto.",
+          "translation_it": "Non mi piace per niente.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ni",
+      "term": "ni'",
+      "variants": [
+        "n'i'"
+      ],
+      "category": "function-word",
+      "part_of_speech": "prepositional article",
+      "meaning_it": "nel (preposizione articolata in + i')",
+      "meaning_en": "contraction of 'in + i'' (in the)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ni' bar",
+          "translation_it": "Nel bar",
+          "provenance": "documented-rule"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "itwiki-toscani writes n'i' bar; a i' ristorante."
+    },
+    {
+      "id": "fo",
+      "term": "fo",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "(io) faccio",
+      "meaning_en": "I do / make",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Io fo la spesa.",
+          "translation_it": "Faccio la spesa.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-thelocal-13",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "vo",
+      "term": "vo",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "(io) vado",
+      "meaning_en": "I go",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Io vo a i' lavoro.",
+          "translation_it": "Vado al lavoro.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "enno",
+      "term": "ènno",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sono (3a plurale), in forme come s'ènno presi",
+      "meaning_en": "are (3rd plural)",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "E' ènno arrivati.",
+          "translation_it": "Sono arrivati.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "itwiki-toscani cites 's'ènno presi'."
+    },
+    {
+      "id": "volea",
+      "term": "volea / facea",
+      "variants": [
+        "avea",
+        "dicea"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "imperfetto in -ea: voleva, faceva",
+      "meaning_en": "imperfect in -ea (voleva, faceva)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Un volea morire.",
+          "translation_it": "Non voleva morire.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Attested: volea, facea. Other -ea forms are by analogy (documented-rule, keep few)."
+    },
+    {
+      "id": "apocope-inf",
+      "term": "andà, mangià, vedé",
+      "variants": [
+        "finì",
+        "pèrde'",
+        "vedéllo"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "infinito troncato: andare, mangiare, vedere",
+      "meaning_en": "apocopated infinitives",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Si va a mangià.",
+          "translation_it": "Andiamo a mangiare.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani",
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "foco",
+      "term": "foco, bono, novo, domo",
+      "variants": [
+        "bono",
+        "novo"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "forme popolari senza dittongo: fuoco, buono, nuovo, duomo",
+      "meaning_en": "undiphthongized popular forms: fuoco, buono, nuovo, duomo",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Bono bono",
+          "translation_it": "Buono buono",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "babbo",
+      "term": "babbo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "padre, papà",
+      "meaning_en": "dad",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "I' mi' babbo",
+          "translation_it": "Mio padre",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "garbare",
+      "term": "garbare",
+      "variants": [
+        "garba",
+        "garbano"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "piacere, andare a genio (si costruisce come piacere)",
+      "meaning_en": "to like (constructed like piacere)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Mi garba Firenze.",
+          "translation_it": "Mi piace Firenze.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-thelocal-13",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "accomodare",
+      "term": "accomodare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "riparare, aggiustare",
+      "meaning_en": "to repair",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Mi tocca accomodare i' computer.",
+          "translation_it": "Devo riparare il computer.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "billo",
+      "term": "billo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "tacchino",
+      "meaning_en": "turkey",
+      "register": "popular",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cacio",
+      "term": "cacio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "formaggio, specie pecorino",
+      "meaning_en": "cheese, especially pecorino",
+      "register": "neutral",
+      "examples": [
+        {
+          "text": "I' cacio con le pere",
+          "translation_it": "Il formaggio con le pere",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cencio",
+      "term": "cencio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "straccio; persona malridotta",
+      "meaning_en": "rag; also someone in poor shape",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-lanazione-parole"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chetarsi",
+      "term": "chetarsi",
+      "variants": [
+        "chetati"
+      ],
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "tacere, stare zitto",
+      "meaning_en": "to be quiet",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ti vuoi chetare un attimo?",
+          "translation_it": "Vuoi stare zitto un attimo?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "diaccio",
+      "term": "diaccio",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "gelato, freddissimo",
+      "meaning_en": "icy, freezing",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Fa un freddo diaccio.",
+          "translation_it": "Fa un freddo gelido.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "furia",
+      "term": "furia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fretta (in toscano)",
+      "meaning_en": "hurry",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Un c'è furia.",
+          "translation_it": "Non c'è fretta.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "golpe",
+      "term": "golpe",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "volpe",
+      "meaning_en": "fox",
+      "register": "popular",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Also gorpe in enwiki; quote rarely."
+    },
+    {
+      "id": "popone",
+      "term": "popone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "melone",
+      "meaning_en": "cantaloupe/melon",
+      "register": "popular",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rigovernare",
+      "term": "rigovernare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "lavare i piatti",
+      "meaning_en": "to wash up",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sortire",
+      "term": "sortire",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "uscire",
+      "meaning_en": "to go out",
+      "register": "popular",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sudicio",
+      "term": "sudicio",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "sporco; immondizia",
+      "meaning_en": "dirty; rubbish",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "tocco",
+      "term": "tocco",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "l'una del pomeriggio, ora di pranzo",
+      "meaning_en": "one o'clock, lunchtime",
+      "register": "archaic",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "topini",
+      "term": "topini",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "gnocchi di patate",
+      "meaning_en": "potato gnocchi",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ganzo",
+      "term": "ganzo",
+      "variants": [
+        "ganza"
+      ],
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "bello, in gamba; come nome amante",
+      "meaning_en": "cool; as noun a lover",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Che giacca ganza!",
+          "translation_it": "Che bella giacca!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "grullo",
+      "term": "grullo",
+      "variants": [
+        "grulla",
+        "grulli"
+      ],
+      "category": "word",
+      "part_of_speech": "noun/adjective",
+      "meaning_it": "sciocco, un po' ottuso",
+      "meaning_en": "silly, a bit dim",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Non fare i' grullo.",
+          "translation_it": "Non fare lo sciocco.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-grullo",
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "boncitto",
+      "term": "boncitto",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona buona, tranquilla e affidabile",
+      "meaning_en": "a calm, dependable good sort",
+      "register": "affectionate",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "piaccicone",
+      "term": "piaccicone",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "chi lavora lento e senza cura",
+      "meaning_en": "slow, careless worker",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Non fare i' piaccicone, finisci i' compito!",
+          "translation_it": "Non lavorare svogliato, finisci il compito!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ruzzare",
+      "term": "ruzzare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "scherzare e giocare con foga, azzuffarsi per gioco",
+      "meaning_en": "to romp, play-fight",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "desinare",
+      "term": "desinare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "pranzare; il pranzo",
+      "meaning_en": "to have lunch; lunch",
+      "register": "archaic",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "berciare",
+      "term": "berciare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "gridare forte; cantare male",
+      "meaning_en": "to yell; to sing badly",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Smetti di berciare!",
+          "translation_it": "Smettila di gridare!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbozzare",
+      "term": "abbozzare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "smettere, lasciar perdere",
+      "meaning_en": "to stop, drop it",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Abbozza, va'!",
+          "translation_it": "Smettila!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ciabattone",
+      "term": "ciabattone",
+      "variants": [
+        "ciabattona"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "persona sciatta o incapace",
+      "meaning_en": "slob, incompetent person",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Sei un ciabattone.",
+          "translation_it": "Sei un trasandato.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cannella",
+      "term": "cannella",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "rubinetto; cannella della botte",
+      "meaning_en": "tap/faucet; barrel spigot",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-lanazione-parole"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "cascare",
+      "term": "cascare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "cadere",
+      "meaning_en": "to fall",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-lanazione-parole"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "smarimettere",
+      "term": "smarimettere",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "iniziare a usare una cosa chiusa (pane, vino, marmellata)",
+      "meaning_en": "to start using sealed food or drink",
+      "register": "colloquial",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-lanazione-parole"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "sciocco-sale",
+      "term": "sciocco",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "scarso di sale (cibo)",
+      "meaning_en": "under-salted (food)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Questo pane è sciocco.",
+          "translation_it": "Questo pane è senza sale.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-lanazione-parole"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Toscana-wide; in standard Italian 'stupido'."
+    },
+    {
+      "id": "essi",
+      "term": "essi",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "imperativo di essere: sii",
+      "meaning_en": "be! (imperative of essere)",
+      "register": "popular",
+      "examples": [
+        {
+          "text": "Essi bono!",
+          "translation_it": "Sii buono!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bischero",
+      "term": "bischero",
+      "variants": [
+        "bischera"
+      ],
+      "category": "address-term",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco, ingenuo; scherzosamente amico fesso; (volgare) pene; pirolo dello strumento",
+      "meaning_en": "fool, sucker; vulgar: penis; tuning peg",
+      "register": "popular",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Non fare i' bischero!",
+          "translation_it": "Non fare lo sciocco!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-treccani-bischero",
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Identifier word. Etymology uncertain (Treccani). Usually friendly, can be hostile by tone. The spelling is attested as bischero/bischera."
+    },
+    {
+      "id": "bischerata",
+      "term": "bischerata",
+      "variants": [
+        "bischerate"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocchezza, azione stupida",
+      "meaning_en": "a silly act, blunder",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Che bischerata!",
+          "translation_it": "Che sciocchezza!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bischeraccio",
+      "term": "bischeraccio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "peggiorativo di bischero: grande sciocco",
+      "meaning_en": "derogatory: big fool",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-treccani-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Treccani also lists bischerello, bischeretto, bischeruccio."
+    },
+    {
+      "id": "pirolo",
+      "term": "pirolo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "pirolo di strumento a corda; chiamato anche bischero",
+      "meaning_en": "tuning peg of a string instrument (also bischero)",
+      "register": "neutral",
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-treccani-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "citrullo",
+      "term": "citrullo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco",
+      "meaning_en": "simpleton",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Che citrullo!",
+          "translation_it": "Che sciocco!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-treccani-bischero"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Seen only via a search-result summary mentioning Treccani; of Neapolitan origin (cetriolo) but used in Tuscany. Use rarely."
+    },
+    {
+      "id": "strullo",
+      "term": "strullo",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco (vicino a grullo)",
+      "meaning_en": "silly, dim (close to grullo)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Mentioned in a search summary only. Do not overuse."
+    },
+    {
+      "id": "oh",
+      "term": "óh!",
+      "variants": [
+        "oh"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "non c'è scelta, e basta",
+      "meaning_en": "well, that's it, no alternative!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Óh!",
+          "translation_it": "E dai, non c'è alternativa!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "maremma-maiala",
+      "term": "Maremma maiala!",
+      "variants": [
+        "Maremma maiala"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "esclamazione toscana di rabbia o stupore (eufemismo di Madonna maiala)",
+      "meaning_en": "Tuscan oath of anger or surprise (minced Madonna maiala)",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Maremma maiala, s'è piantato tutto!",
+          "translation_it": "Accidenti, si è bloccato tutto!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-wikiquote-modi",
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "dio-bono",
+      "term": "Dio bono!",
+      "variants": [
+        "Dio bonino"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "imprecazione toscana attenuata (bono = buono)",
+      "meaning_en": "softened Tuscan blasphemous oath",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Dio bono, che giornata!",
+          "translation_it": "Che giornata, accidenti!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-profanity",
+        "src-fi-itwiki-bestemmia"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Minced form; the base blasphemy is not documented here."
+    },
+    {
+      "id": "accidenti",
+      "term": "accidenti",
+      "variants": [
+        "accidenti a te"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "esclamazione di fastidio o stupore",
+      "meaning_en": "damn!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Accidenti a i' bug!",
+          "translation_it": "Accidenti al bug!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "General Italian, not specifically Florentine."
+    },
+    {
+      "id": "porca-miseria",
+      "term": "porca miseria!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "imprecazione blanda",
+      "meaning_en": "damn it, bloody hell",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Porca miseria, un parte!",
+          "translation_it": "Accidenti, non parte!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General Italian; the source summary mentioned it only through search."
+    },
+    {
+      "id": "che-bischerata",
+      "term": "che bischerata!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "che sciocchezza!",
+      "meaning_en": "what a silly thing!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Che bischerata, ho cancellato i' branch!",
+          "translation_it": "Che sciocchezza, ho cancellato il branch!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bravo-bischero",
+      "term": "bravo bischero!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "detto a un amico che ha fatto un errore evidente",
+      "meaning_en": "said to a friend who made an obvious blunder",
+      "register": "affectionate",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Bravo bischero, hai spento i' server!",
+          "translation_it": "Bravo scemo, hai spento il server!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "bono-bono",
+      "term": "bono bono",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "tranquillo tranquillo, con calma",
+      "meaning_en": "calm, easy-going",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Rimani lì bono bono.",
+          "translation_it": "Rimani lì tranquillo.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "si-va",
+      "term": "Si va?",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "andiamo?",
+      "meaning_en": "shall we go?",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Si va?",
+          "translation_it": "Andiamo?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "abbozza",
+      "term": "abbozza!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "smettila!",
+      "meaning_en": "stop it!",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Abbozza col chiasso!",
+          "translation_it": "Smettila col rumore!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "chetati",
+      "term": "chetati!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "zitto!",
+      "meaning_en": "shut up (mild)!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13",
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "porca-madonna",
+      "term": "porca Madonna!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "imprecazione blasfema forte",
+      "meaning_en": "strong blasphemous oath",
+      "register": "very-vulgar",
+      "vulgarity": 5,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Flagged blasphemy; see profanity.json. Generate only at vulgarity 5."
+    },
+    {
+      "id": "perbacco",
+      "term": "perbacco!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "accidenti, caspita",
+      "meaning_en": "by Jove, gosh",
+      "register": "archaic",
+      "examples": [
+        {
+          "text": "Perbacco, che roba!",
+          "translation_it": "Caspita, che roba!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General older Italian; use rarely. Not in a source read."
+    },
+    {
+      "id": "non-fare-bischero",
+      "term": "non fare il bischero",
+      "category": "colloquial-expression",
+      "meaning_it": "fai sul serio, non scherzare",
+      "meaning_en": "be serious, don't clown around",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Non fare i' bischero e rispondi.",
+          "translation_it": "Non fare lo scemo e rispondi.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "ha-il-bischero",
+      "term": "ha il bischero",
+      "category": "colloquial-expression",
+      "meaning_it": "è in vena di scherzare",
+      "meaning_en": "he is in a joking mood",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Oggi i' collega ha i' bischero.",
+          "translation_it": "Oggi il collega ha voglia di scherzare.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwikt-bischero"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "fare-il-grullo",
+      "term": "fare il grullo",
+      "category": "colloquial-expression",
+      "meaning_it": "fare lo sciocco",
+      "meaning_en": "play the fool",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Non fare i' grullo, guarda dove vai!",
+          "translation_it": "Non fare lo sciocco, guarda dove vai!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-thelocal-13"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "icche-tu-fai",
+      "term": "ma icché tu fai?",
+      "category": "colloquial-expression",
+      "meaning_it": "ma che fai? ma che stai facendo?",
+      "meaning_en": "what on earth are you doing?",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Ma icché tu fai?",
+          "translation_it": "Ma che fai?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-icche-sono",
+      "term": "e icché sono, ...?",
+      "category": "colloquial-expression",
+      "meaning_it": "domanda retorica: e che cosa sono, ...?",
+      "meaning_en": "rhetorical question: and what are they, ...?",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "E icché sono, una specie protetta?",
+          "translation_it": "E cosa sono, una specie protetta?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "mi-garba",
+      "term": "mi garba",
+      "category": "colloquial-expression",
+      "meaning_it": "mi piace",
+      "meaning_en": "I like it",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "La 'un mi garba questa braciola.",
+          "translation_it": "Non mi piace questa braciola.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-thelocal-13",
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "pigliare-culo",
+      "term": "pigliare per i' culo",
+      "category": "colloquial-expression",
+      "meaning_it": "prendere in giro",
+      "meaning_en": "to make fun of",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "Ci pigliava per i' culo anche i' bidello.",
+          "translation_it": "Ci prendeva in giro anche il bidello.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "andare-culo",
+      "term": "andare 'n culo",
+      "category": "colloquial-expression",
+      "meaning_it": "andare a rotoli, finire male",
+      "meaning_en": "to go to hell, be ruined",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "examples": [
+        {
+          "text": "L'è sempre andato 'n culo a tutti.",
+          "translation_it": "È sempre andato male a tutti.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "noi-si-va-mangia",
+      "term": "si va a mangià",
+      "category": "colloquial-expression",
+      "meaning_it": "andiamo a mangiare",
+      "meaning_en": "let's go eat",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Si va a mangià?",
+          "translation_it": "Andiamo a mangiare?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "e-pensare-che",
+      "term": "e pensare che",
+      "category": "colloquial-expression",
+      "meaning_it": "e dire che (introduce contrasto amaro)",
+      "meaning_en": "and to think that",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "E pensare che e' ce n'avrebbe avuti parecchi.",
+          "translation_it": "E pensare che ne avrebbe avuti parecchi.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "un-c-e-furia",
+      "term": "un c'è furia",
+      "category": "colloquial-expression",
+      "meaning_it": "non c'è fretta",
+      "meaning_en": "no hurry",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Un c'è furia, i' bug 'un scappa.",
+          "translation_it": "Non c'è fretta.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan",
+        "src-fi-binazzi-pieraccioni"
+      ],
+      "provenance": "documented-rule",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "rompere-palle",
+      "term": "rompere le palle",
+      "category": "colloquial-expression",
+      "meaning_it": "dare fastidio",
+      "meaning_en": "to be a pain",
+      "register": "vulgar",
+      "vulgarity": 4,
+      "examples": [
+        {
+          "text": "I' collega mi rompe le palle.",
+          "translation_it": "Il collega mi dà fastidio.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-profanity"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General Italian, not Florentine specific. Source covers general Italian profanity only."
+    },
+    {
+      "id": "tocca",
+      "term": "mi tocca + inf.",
+      "category": "colloquial-expression",
+      "meaning_it": "devo (per forza)",
+      "meaning_en": "I have to (necessity)",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Mi tocca rifare tutto.",
+          "translation_it": "Devo rifare tutto.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-itwiki-toscani"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "General regional Italian; low risk, unsourced."
+    },
+    {
+      "id": "bravo-fo",
+      "term": "fo e vo",
+      "category": "colloquial-expression",
+      "meaning_it": "faccio e vado (forme verbali sempre usate)",
+      "meaning_en": "first person fo/vo",
+      "register": "colloquial",
+      "examples": [
+        {
+          "text": "Io vo e fo i' backup.",
+          "translation_it": "Io vado e faccio il backup.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-enwiki-tuscan"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked"
+    },
+    {
+      "id": "babbalocco",
+      "term": "babbalocco",
+      "variants": [
+        "babbalèo"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco, poveretto",
+      "meaning_en": "simpleton, poor soul",
+      "register": "familiar",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "l'è un babbalocco",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-detti",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi's informants say it is still used ('l'è un babbalocco', a poor soul); kano66 lists the near synonym 'babbalèo' (sciocco, 'va' 'ia babbalèo'). Affectionate teasing among peers."
+    },
+    {
+      "id": "ma-icche-tu-sei-te",
+      "term": "Ma icché tu sei te?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "e tu chi ti credi di essere?",
+      "meaning_en": "who do you think you are?",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Ma va' (v)ia, ma icché tu sei te?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From the VFC interview quoted by Binazzi ('Ma va' (v)ia, ma icché tu sei te?'), used to cut down someone who is posing; the speaker follows with the boast 'io fo le calze a te'. Complements the existing 'ma icché tu fai?'."
+    },
+    {
+      "id": "venvia",
+      "term": "venvia",
+      "variants": [
+        "oh venvia",
+        "unnè-vvéro"
+      ],
+      "category": "interjection",
+      "meaning_it": "ma va', non è vero (incredulità)",
+      "meaning_en": "no way (disbelief)",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Florentine disbelief marker ('Oh venvia!'), listed by the glossaries; kano66 also gives 'unnè-vvéro'. Cheerful or sarcastic, depends on tone."
+    },
+    {
+      "id": "oh-bellino",
+      "term": "Oh bellino!",
+      "variants": [
+        "badalui"
+      ],
+      "category": "interjection",
+      "meaning_it": "ironico: ci stai stancando",
+      "meaning_en": "ironic: you are wearing me out",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Ironic 'bellino' with a drawn-out vowel ('Oh bellinooo...') for someone who is tiring; kano66 also lists 'badalui/badalei' (ironic 'look at him/her')."
+    }
+  ]
+}

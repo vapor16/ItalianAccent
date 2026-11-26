@@ -1,0 +1,1999 @@
+{
+ "dialect": "minchia",
+ "entries": [
+  {
+   "id": "minchia",
+   "term": "minchia!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Esclamazione di sorpresa, ammirazione, fastidio o disprezzo secondo l'intonazione; da 'pene'.",
+   "meaning_en": "All-purpose exclamation (surprise, admiration, annoyance, contempt); literally 'dick'.",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "examples": [
+    {
+     "text": "Minchia, quantu fa cauddu!",
+     "translation_it": "Cavolo, quanto fa caldo!",
+     "translation_en": "Damn, it's hot!",
+     "provenance": "ai-illustrative"
+    },
+    {
+     "text": "Minchia, u build passau!",
+     "translation_it": "Cazzo, la build è passata!",
+     "translation_en": "Damn, the build passed!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoviva-parole",
+    "src-pa-balarm-minchia"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoviva (low): surprise, admiration, annoyance. Wiktionary: vulgar intj of surprise, disdain or appreciation. Keep out of formal contexts."
+  },
+  {
+   "id": "bedda-matri",
+   "term": "bedda matri!",
+   "variants": [
+    "beddamatri",
+    "bedda matri mia"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Esclamazione di meraviglia o preoccupazione davanti a qualcosa di incredibile, buffo o disastroso.",
+   "meaning_en": "'Holy Mother!': astonishment, amusement or dismay.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Bedda matri, u server è tuttu rossu!",
+     "translation_it": "Madonna, il server è tutto rosso!",
+     "translation_en": "Good grief, the server is all red!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Not a blasphemy in the sources, but an invocation of the Virgin; avoid in religious jokes."
+  },
+  {
+   "id": "mizzica",
+   "term": "mizzica!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Esclamazione di stupore o meraviglia, versione più educata di minchia.",
+   "meaning_en": "Mild exclamation of wonder (softer cousin of minchia).",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "examples": [
+    {
+     "text": "Mizzica, chi cosa ranni!",
+     "translation_it": "Accidenti, che cosa grossa!",
+     "translation_en": "Wow, what a big thing!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm: stupore, meraviglia; the euphemism link to minchia is the author's remark, not a documented etymology."
+  },
+  {
+   "id": "amuni",
+   "term": "amunì",
+   "variants": [
+    "amuninni",
+    "'muninni"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Andiamo! Dai! Usato anche per invitare a smettere ('ma dai').",
+   "meaning_en": "Let's go! / come on! / cut it out!",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Amunì, ca è tardu!",
+     "translation_it": "Dai, che è tardi!",
+     "translation_en": "Come on, it's late!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary attests amuninni 'let's go; come on'. Palermoviva gives the short form amunì for Palermo."
+  },
+  {
+   "id": "accura",
+   "term": "accura!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Attenzione! Stai attento!",
+   "meaning_en": "Watch out! Careful!",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Accura cu stu cumannu!",
+     "translation_it": "Attento con questo comando!",
+     "translation_en": "Careful with this command!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "futtitinni",
+   "term": "futtitinni",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Non preoccuparti, lascia perdere, fregatene.",
+   "meaning_en": "Forget it / don't sweat it / who cares.",
+   "register": "vulgar",
+   "vulgarity": 2,
+   "examples": [
+    {
+     "text": "Futtitinni, u fazzu dumani.",
+     "translation_it": "Lascia perdere, lo faccio domani.",
+     "translation_en": "Forget it, I'll do it tomorrow.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoviva presents it as a Palermitan 'mantra'; the verb is vulgar (futtiri) but the tone is relaxed."
+  },
+  {
+   "id": "mischinu",
+   "term": "mischinu",
+   "variants": [
+    "mischina",
+    "mischino"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Poveretto; anche intercalare di compatimento o ironia. Femminile: mischina.",
+   "meaning_en": "Poor thing; also a filler of pity or irony.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Mischinu, nun ci riesci cchiù.",
+     "translation_it": "Poveretto, non ce la fa più.",
+     "translation_en": "Poor guy, he can't manage anymore.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-mischinu"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary (adj/noun) 'wretched, pitiful'. Balarm also reports a second sense, 'sly person', and the verb mischiniari; not used here."
+  },
+  {
+   "id": "tale",
+   "term": "talè!",
+   "variants": [
+    "talìa"
+   ],
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Guarda! Per attirare l'attenzione.",
+   "meaning_en": "Look!",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Talè comu s'annaca!",
+     "translation_it": "Guarda come si dondola!",
+     "translation_en": "Look how she sways!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm quotes 'Talè come s'annaca' (mixed Italian/Sicilian)."
+  },
+  {
+   "id": "suca",
+   "term": "suca!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Esclamazione volgare dai molti sensi: scherno, rivalsa, vittoria, rifiuto; a Palermo anche scritta sui muri.",
+   "meaning_en": "Vulgar all-purpose retort ('suck it'): mockery, triumph, refusal.",
+   "register": "vulgar",
+   "vulgarity": 4,
+   "examples": [
+    {
+     "text": "Suca! U deploy è passatu.",
+     "translation_it": "Tiè! Il deploy è passato.",
+     "translation_en": "Ha! The deploy went through.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-suca"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Imperative of sucari. Wiktionary tags it vulgar slang. Between friends it is banter; never aim it at the user."
+  },
+  {
+   "id": "tu-canziati",
+   "term": "tu canziati!",
+   "category": "interjection",
+   "part_of_speech": "interjection",
+   "meaning_it": "Spostati! Levati di mezzo!",
+   "meaning_en": "Move away!",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Tu canziati, ca passa u cammiuni!",
+     "translation_it": "Spostati che passa il camion!",
+     "translation_en": "Move, the truck is coming through!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoviva: 'tu canziati!' = move away urgently. Form given as printed."
+  },
+  {
+   "id": "cumpa",
+   "term": "cumpà",
+   "variants": [
+    "compà",
+    "cumpari"
+   ],
+   "category": "address-term",
+   "part_of_speech": "noun",
+   "meaning_it": "Amico, conoscente: vocativo confidenziale tipico della Sicilia occidentale.",
+   "meaning_en": "Friendly vocative 'buddy, mate', widespread in western Sicily.",
+   "register": "familiar",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Cumpà, ci vidìmu dumani.",
+     "translation_it": "Amico, ci vediamo domani.",
+     "translation_en": "Mate, see you tomorrow.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole",
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary: cumpà = alt form of cumpari (friend, buddy). Palermoviva: 'widespread especially in Western Sicily'. Catanese 'mbari is a different vocative (see profile §14)."
+  },
+  {
+   "id": "chi-nicchi-e-nacchi",
+   "term": "chi nicchi e nacchi",
+   "variants": [
+    "che nicchi e nacchi"
+   ],
+   "category": "colloquial-expression",
+   "meaning_it": "E che c'entra? Che discorsi sono? Si dice di chi dice cose fuori luogo o senza nesso.",
+   "meaning_en": "'What's that got to do with anything?' / what nonsense are you saying.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Chi nicchi e nacchi mi cunti?",
+     "translation_it": "Che discorsi mi fai?",
+     "translation_en": "What nonsense are you telling me?",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso",
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "muriu-u-cani",
+   "term": "muriu u cani",
+   "category": "colloquial-expression",
+   "meaning_it": "È andata malissimo, è finita nel peggiore dei modi.",
+   "meaning_en": "It went as badly as it could.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Cu stu deploy muriu u cani.",
+     "translation_it": "Con questo deploy è finita malissimo.",
+     "translation_en": "With this deploy everything went to hell.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "finiu-a-cachi",
+   "term": "finìu a cachi",
+   "category": "colloquial-expression",
+   "meaning_it": "È finita male (equivalente di 'muriu u cani').",
+   "meaning_en": "It ended badly.",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sanfaso",
+   "term": "sanfasò",
+   "category": "colloquial-expression",
+   "part_of_speech": "adverb",
+   "meaning_it": "Senza pretese, alla buona, in modo informale.",
+   "meaning_en": "Casually, without fuss, informal.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Facemu 'na cosa sanfasò.",
+     "translation_it": "Facciamo una cosa alla buona.",
+     "translation_en": "Let's keep it casual.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ma-chi-minchia-cunti",
+   "term": "ma chi minchia cunti?",
+   "category": "colloquial-expression",
+   "meaning_it": "Ma che dici? Ma che stai raccontando?",
+   "meaning_en": "What the hell are you talking about?",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "examples": [
+    {
+     "text": "Ma chi minchia cunti?",
+     "translation_it": "Ma che cavolo dici?",
+     "translation_en": "What the hell are you saying?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-mischinu"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Attested as a quoted example in the Balarm column (spelling as printed)."
+  },
+  {
+   "id": "mi-arricampu",
+   "term": "mi arricampu",
+   "category": "colloquial-expression",
+   "meaning_it": "Torno a casa, mi ritiro (dopo la misura è colma).",
+   "meaning_en": "I'm heading home / I'm out.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Basta, mi arricampu.",
+     "translation_it": "Basta, torno a casa.",
+     "translation_en": "That's it, I'm going home.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoviva uses it in a gloss on camurria; form from that page."
+  },
+  {
+   "id": "assa-u-tasta",
+   "term": "assa u tasta!",
+   "variants": [
+    "assa u tasta"
+   ],
+   "category": "colloquial-expression",
+   "meaning_it": "Assaggialo! Provalo (detto dai venditori dei mercati).",
+   "meaning_en": "'Taste it!' (market call).",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tastari",
+   "term": "tastari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "Assaggiare; a Palermo anche 'provare, mettere alla prova' con tono rituale.",
+   "meaning_en": "To taste, to try (a little ritual in Palermo markets).",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ni-fazzu-minnitta",
+   "term": "ni fazzu minnitta",
+   "category": "colloquial-expression",
+   "meaning_it": "Lo distruggo, ne faccio polpette (minaccia di rabbia, spesso scherzosa).",
+   "meaning_en": "'I'll make mincemeat of it/you.'",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "examples": [
+    {
+     "text": "Ni fazzu minnitta i tìa!",
+     "translation_it": "Ti riduco in polvere!",
+     "translation_en": "I'll pulverise you!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Quoted in a Balarm column as an outburst; spelling as printed. Keep to objects or banter."
+  },
+  {
+   "id": "mischinu-si-struppio",
+   "term": "mischinu, si struppiò",
+   "category": "colloquial-expression",
+   "meaning_it": "Poverino, si è fatto male.",
+   "meaning_en": "Poor thing, he got hurt.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Mischina, si struppiò.",
+     "translation_it": "Poverina, si è fatta male.",
+     "translation_en": "Poor girl, she got hurt.",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Struppiarsi = to get scraped or slightly hurt (as glossed by the source; Italian/Sicilian mixed)."
+  },
+  {
+   "id": "lassari-ire",
+   "term": "lassari ire",
+   "category": "colloquial-expression",
+   "meaning_it": "Lasciar andare, mollare (qualcosa, qualcuno).",
+   "meaning_en": "To let go, to give up on.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Seen only as 'ti lassasti ire' in a Balarm column; meaning inferred from context."
+  },
+  {
+   "id": "annacati",
+   "term": "annacati!",
+   "category": "colloquial-expression",
+   "meaning_it": "Sbrigati! Muoviti!",
+   "meaning_en": "Hurry up!",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "examples": [
+    {
+     "text": "Annacati, ca è tardu!",
+     "translation_it": "Sbrigati che è tardi!",
+     "translation_en": "Hurry up, it's late!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Imperative of annacarisi; Balarm gives the sense 'sbrigati'."
+  },
+  {
+   "id": "arrimina",
+   "term": "arrimina!",
+   "category": "colloquial-expression",
+   "meaning_it": "Muoviti, non perdere tempo (imperativo di arriminarisi); in cucina 'mescola'.",
+   "meaning_en": "Get a move on! (also 'stir' in the kitchen).",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm: arriminarsi = mescolare; riferito a una persona, esortazione a sbrigarsi."
+  },
+  {
+   "id": "jiri-ri-cassaru-e-cassaru",
+   "term": "jiri ri cassaru e cassaru",
+   "category": "colloquial-expression",
+   "meaning_it": "Andare dritto per la propria strada, senza giri di parole.",
+   "meaning_en": "To go straight along one's way, no detours.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Cassaro = the straight main street of old Palermo (today Corso Vittorio Emanuele), per the source."
+  },
+  {
+   "id": "nun-mi-cuntari-li-tri-jorna-du-fistinu",
+   "term": "nun mi cuntari li tri jorna du fistinu",
+   "category": "colloquial-expression",
+   "meaning_it": "Non raccontarmi frottole né cose che so già.",
+   "meaning_en": "Don't tell me tall tales (or what I already know).",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Refers to the three days of the Festino of Santa Rosalia (source)."
+  },
+  {
+   "id": "abbanniari",
+   "term": "abbanniari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "Gridare per vendere la merce, come nei mercati storici di Palermo.",
+   "meaning_en": "To hawk goods loudly (market cry).",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pattiari",
+   "term": "pattiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "Contrattare sul prezzo.",
+   "meaning_en": "To bargain over the price.",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "taliari",
+   "term": "taliari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "Guardare, osservare.",
+   "meaning_en": "To look at.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "accattari",
+   "term": "accattari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "Comprare.",
+   "meaning_en": "To buy.",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoviva-parole"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "travagghiari",
+   "term": "travagghiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "lavorare",
+   "meaning_en": "to work",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "travagghiu",
+   "term": "travagghiu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "lavoro, fatica; compito",
+   "meaning_en": "work, job, toil",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sbagghiari",
+   "term": "sbagghiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sbagliare",
+   "meaning_en": "to make a mistake",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sbagghiu",
+   "term": "sbagghiu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "errore",
+   "meaning_en": "mistake, error",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "ammucciari",
+   "term": "ammucciari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "nascondere; nascondersi",
+   "meaning_en": "to hide (something)",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "acchianari",
+   "term": "acchianari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "salire, andare su",
+   "meaning_en": "to go up, to climb",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm: acchianata = the pilgrimage climb for Santa Rosalia."
+  },
+  {
+   "id": "astutari",
+   "term": "astutari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "spegnere",
+   "meaning_en": "to put out, to switch off",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-chiu-longa"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm uses the pair addumari/astutari (turn on/off) as a false friend with Italian astuto."
+  },
+  {
+   "id": "addumari",
+   "term": "addumari",
+   "variants": [
+    "aḍḍumari"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "accendere",
+   "meaning_en": "to switch on, to light",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-chiu-longa"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "babbiari",
+   "term": "babbiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "scherzare, prendere in giro",
+   "meaning_en": "to joke, to fool around",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sciarra",
+   "term": "sciarra",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "litigio, rissa",
+   "meaning_en": "quarrel, brawl",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "picciriddu",
+   "term": "picciriddu",
+   "variants": [
+    "picciriḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "bambino",
+   "meaning_en": "child, kid",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary lists picciriddu as a variant spelling of picciriḍḍu; Balarm (Palermo) writes the plural picciriddi."
+  },
+  {
+   "id": "carusu",
+   "term": "carusu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "ragazzo",
+   "meaning_en": "boy, lad",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary tags it also archaic/'young worker'. Use sparingly: Palermo is also reported to use picciotto, which was not checked."
+  },
+  {
+   "id": "sceccu",
+   "term": "sceccu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "asino; persona ignorante o paziente",
+   "meaning_en": "donkey; ignorant or long-suffering person",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-vermiglio-asini"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "babbu",
+   "term": "babbu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "sciocco, stupido",
+   "meaning_en": "silly, stupid",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cori",
+   "term": "cori",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cuore",
+   "meaning_en": "heart",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "patri",
+   "term": "patri",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "padre",
+   "meaning_en": "father",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "matri",
+   "term": "matri",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "madre",
+   "meaning_en": "mother",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "frati",
+   "term": "frati",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "fratello",
+   "meaning_en": "brother",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "figghiu",
+   "term": "figghiu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "figlio",
+   "meaning_en": "son, child",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mugghieri",
+   "term": "mugghieri",
+   "variants": [
+    "muggheri"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "moglie",
+   "meaning_en": "wife",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "maritu",
+   "term": "maritu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "marito",
+   "meaning_en": "husband",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "casa",
+   "term": "casa",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "casa",
+   "meaning_en": "house",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "strata",
+   "term": "strata",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "strada",
+   "meaning_en": "road, street",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "mari",
+   "term": "mari",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "mare",
+   "meaning_en": "sea",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "suli",
+   "term": "suli",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "sole",
+   "meaning_en": "sun",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "acqua",
+   "term": "acqua",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "acqua; pioggia",
+   "meaning_en": "water, rain",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vinu",
+   "term": "vinu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "vino",
+   "meaning_en": "wine",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pani",
+   "term": "pani",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pane",
+   "meaning_en": "bread",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "carni",
+   "term": "carni",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "carne",
+   "meaning_en": "meat",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "pisci",
+   "term": "pisci",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pesce",
+   "meaning_en": "fish",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cucchiara",
+   "term": "cucchiara",
+   "variants": [
+    "cucchiaru"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cucchiaio",
+   "meaning_en": "spoon",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoweb writes masculine cucchiaru in the proverb 'u cucchiaru ca l'arrimina'."
+  },
+  {
+   "id": "pignata",
+   "term": "pignata",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "pentola",
+   "meaning_en": "cooking pot",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "seggia",
+   "term": "seggia",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "sedia",
+   "meaning_en": "chair",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "finestra",
+   "term": "finestra",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "finestra",
+   "meaning_en": "window",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "porta",
+   "term": "porta",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "porta",
+   "meaning_en": "door, gate",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "omu",
+   "term": "omu",
+   "variants": [
+    "òmini (pl.)"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "uomo",
+   "meaning_en": "man; human being",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-itwiki-palermitano",
+    "src-scn-wikipedia-en"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nicu",
+   "term": "nicu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "piccolo; giovane",
+   "meaning_en": "small, little",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "granni",
+   "term": "granni",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "grande; adulto",
+   "meaning_en": "big; grown-up",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm (Palermo) uses 'noi granni' for adults as opposed to picciriddi."
+  },
+  {
+   "id": "vecchiu",
+   "term": "vecchiu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "vecchio",
+   "meaning_en": "old",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "lagnusu",
+   "term": "lagnusu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "pigro",
+   "meaning_en": "lazy; whiny",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "tintu",
+   "term": "tintu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "cattivo, malvagio; di scarsa qualità",
+   "meaning_en": "bad, wicked",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato",
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vastasu",
+   "term": "vastasu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "volgare, cafone",
+   "meaning_en": "vulgar, boorish",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fitusu",
+   "term": "fitusu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "sporco, schifoso",
+   "meaning_en": "filthy; nasty",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "scantusu",
+   "term": "scantusu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "pauroso",
+   "meaning_en": "cowardly",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "amminchiatu",
+   "term": "amminchiatu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "fissato, fuori di testa (fissato con qualcosa che non avverrà)",
+   "meaning_en": "obsessed, fixated, dazed",
+   "register": "vulgar",
+   "vulgarity": 3,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Derived from minchia; see profanity.json."
+  },
+  {
+   "id": "camurria",
+   "term": "camurria",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "seccatura, fastidio insistente",
+   "meaning_en": "annoyance, bother",
+   "register": "colloquial",
+   "vulgarity": 1,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-palermoviva-parole",
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Wiktionary also lists a medical sense; the everyday sense is 'nuisance'."
+  },
+  {
+   "id": "ammatula",
+   "term": "ammatula",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "inutilmente, invano",
+   "meaning_en": "in vain, for nothing",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "arriminarisi",
+   "term": "arriminarisi",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "sbrigarsi; mescolare (in cucina)",
+   "meaning_en": "to get moving; to stir",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "annacarisi",
+   "term": "annacarisi",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "dondolarsi, ancheggiare; temporeggiare; sbrigarsi (imperativo)",
+   "meaning_en": "to sway; to dawdle; hurry up (imperative)",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "azzizzari",
+   "term": "azzizzari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "abbellire, preparare a festa; sistemare alla meglio",
+   "meaning_en": "to dress up, to spruce up; to fix up",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-intraducibili"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "sminnari",
+   "term": "sminnari",
+   "variants": [
+    "sminnò"
+   ],
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "rovinare (qualcosa che andava bene) con un intervento",
+   "meaning_en": "to spoil something that was fine",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Balarm (Palermo): sminnari/sminnittiari = ruin; the folk etymology about weaning is flagged by the author as unverified."
+  },
+  {
+   "id": "minnitta",
+   "term": "minnitta",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "vendetta; distruzione ('fari minnitta' = ridurre in poltiglia)",
+   "meaning_en": "revenge; ruin",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "malaminnitta",
+   "term": "malaminnitta",
+   "variants": [
+    "malaminchiata"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "persona sgradevole che approfitta dei privilegi a danno altrui",
+   "meaning_en": "a nasty, scheming person",
+   "register": "colloquial",
+   "vulgarity": 2,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta",
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "fetenzia",
+   "term": "fetenzia",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "porcheria, roba di scarto",
+   "meaning_en": "junk, rubbish",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-sanfaso"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "vucciria",
+   "term": "vucciria",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "chiasso, confusione",
+   "meaning_en": "racket, hubbub",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermo's Vucciria market gives the word; the source uses 'picca vucciria' for 'little noise'."
+  },
+  {
+   "id": "tampasiari",
+   "term": "tampasiari",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "chiacchierare/bighellonare (senso desunto dal contesto)",
+   "meaning_en": "to chat idly, hang about",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-mischinu"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Seen once in a Balarm column ('stavo tampasiando con un mio amico'); sense inferred."
+  },
+  {
+   "id": "cristiani",
+   "term": "cristiani",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "persone, gente (senza connotato religioso)",
+   "meaning_en": "people",
+   "register": "colloquial",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Plural used in 'inquietare i cristiani' (to bother people)."
+  },
+  {
+   "id": "dumani",
+   "term": "dumani",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "domani",
+   "meaning_en": "tomorrow",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-scn-wikipedia-en"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "aieri",
+   "term": "aieri",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "ieri",
+   "meaning_en": "yesterday",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "oi",
+   "term": "oi",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "oggi",
+   "meaning_en": "today",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quannu",
+   "term": "quannu",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "quando",
+   "meaning_en": "when",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "unni",
+   "term": "unni",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "dove",
+   "meaning_en": "where",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "picca",
+   "term": "picca",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "poco",
+   "meaning_en": "little, few",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary",
+    "src-pa-balarm-minnitta"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "assai",
+   "term": "assai",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "molto",
+   "meaning_en": "a lot, very",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nenti",
+   "term": "nenti",
+   "category": "word",
+   "part_of_speech": "pron",
+   "meaning_it": "niente",
+   "meaning_en": "nothing",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nuddu",
+   "term": "nuddu",
+   "variants": [
+    "nuḍḍu"
+   ],
+   "category": "word",
+   "part_of_speech": "pron",
+   "meaning_it": "nessuno",
+   "meaning_en": "nobody",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "macari",
+   "term": "macari",
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "anche; perfino",
+   "meaning_en": "also, even",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "zoccu",
+   "term": "zoccu",
+   "category": "word",
+   "part_of_speech": "pron",
+   "meaning_it": "ciò che, quello che",
+   "meaning_en": "what, whatever",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "nzemmula",
+   "term": "nzèmmula",
+   "variants": [
+    "'nzemmula"
+   ],
+   "category": "word",
+   "part_of_speech": "adv",
+   "meaning_it": "insieme",
+   "meaning_en": "together",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "durmiri",
+   "term": "durmiri",
+   "category": "word",
+   "part_of_speech": "verb",
+   "meaning_it": "dormire",
+   "meaning_en": "to sleep",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Palermoweb: 'u cani chi duormi' (diphthongised stressed vowel)."
+  },
+  {
+   "id": "cavaddu",
+   "term": "cavaddu",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cavallo",
+   "meaning_en": "horse",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "patruni",
+   "term": "patruni",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "padrone",
+   "meaning_en": "owner, boss",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "addina",
+   "term": "addina",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "gallina",
+   "meaning_en": "hen",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "quartara",
+   "term": "quartara",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "brocca di terracotta",
+   "meaning_en": "clay jug",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked"
+  },
+  {
+   "id": "cuinnutu",
+   "term": "cuinnutu",
+   "category": "word",
+   "part_of_speech": "adj",
+   "meaning_it": "cornuto (insulto); fregato",
+   "meaning_en": "cuckold; (insult)",
+   "register": "very-vulgar",
+   "vulgarity": 4,
+   "geographical_area": "Sicilian (general)",
+   "sources": [
+    "src-pa-balarm-mischinu",
+    "src-pa-balarm-amminchiato"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "See profanity.json."
+  },
+  {
+   "id": "buccellato",
+   "term": "buccellato",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "dolce secco palermitano delle feste (cùcciddatu)",
+   "meaning_en": "Palermo festive ring pastry",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-pa-palermoweb-proverbi"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Only a headline on PalermoWeb was seen; included as local-culture vocabulary, low confidence."
+  },
+  {
+   "id": "arancina",
+   "term": "arancina",
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "arancino (a Palermo femminile)",
+   "meaning_en": "rice ball (feminine form)",
+   "register": "neutral",
+   "vulgarity": 0,
+   "geographical_area": "Palermo",
+   "sources": [
+    "src-scn-wiktionary"
+   ],
+   "provenance": "unverified",
+   "verification_status": "unverified",
+   "notes": "Wiktionary lists both arancinu and arancina; the usual claim that Palermo says arancina (f.) and Catania arancinu (m.) was not source-checked here."
+  },
+  {
+   "id": "trunzu",
+   "term": "trunzu",
+   "variants": [
+    "paroli a trunzu",
+    "trunzu trunzu"
+   ],
+   "category": "word",
+   "part_of_speech": "noun",
+   "meaning_it": "cavolo (rapa); per estensione testa dura, discorso senza capo né coda",
+   "meaning_en": "cabbage/kohlrabi; figuratively thickhead, rambling talk",
+   "register": "popular",
+   "vulgarity": 2,
+   "geographical_area": "Sicily (pan-Sicilian; not specific to Palermo)",
+   "sources": [
+    "src-pa-sottile-parole-tempo-perduto"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Sottile: 'paroli a trunzu', 'trunzu trunzu' = said a bit foolishly or ungracefully; 'essere lassati a trunzu' = left in the lurch. See profanity 'testa i trunzu'."
+  }
+ ]
+}

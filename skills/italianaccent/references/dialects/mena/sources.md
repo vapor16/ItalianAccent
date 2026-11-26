@@ -1,6 +1,6 @@
 # Sources — Mena (Spoken variety of the city of Lecce and its surroundings (the 'perileccese' towns, e.g. Cavallino, Carmiano, Novoli, Caprarica di Lecce) in central Salento; public name "Leccese — Salentino centrale". Northern Salentino (Brindisi/Taranto side) and southern Salentino (Otranto-Leuca) varieties differ and are not covered; items collected in other towns (e.g. Scorrano) are labelled with their own locality.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -15,4 +15,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-sal-wikipedia-it-salentino-meridionale` | Dialetto salentino meridionale | Wikipedia in italiano | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikipedia.org/wiki/Dialetto_salentino_meridionale> |
 | `src-sal-wikiquote-proverbi-salentini` | Proverbi salentini | Wikiquote in italiano | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_salentini> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

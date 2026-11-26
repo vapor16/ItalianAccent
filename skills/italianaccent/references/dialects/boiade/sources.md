@@ -1,6 +1,6 @@
 # Sources — Boia dé (City of Livorno and its urban vernacular (pisano-livornese), as recorded in Catarsi's Dizionario Livornese. Piombino and the rest of the coast, rural Pisan and Maremma varieties and the Jewish-Livornese argot bagitto are not covered.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -14,4 +14,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-li-livornomagazine-vernacolando` | Livorno Magazine - Vernacolando | Livorno Magazine (editorial) / Livorno Magazine | popular-web | low | Copyright Livorno Magazine; no open license stated (facts-only-citation) | <https://www.livornomagazine.it/Livornesita/Vernacolando.htm> |
 | `src-li-treccani-toscani` | Dialetti toscani (Enciclopedia dell'Italiano) | Treccani (Enciclopedia dell'Italiano) / Istituto della Enciclopedia Italiana | encyclopedia | high | Treccani, all rights reserved (facts-only-citation) | <https://www.treccani.it/enciclopedia/dialetti-toscani_(Enciclopedia-dell'Italiano)/> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json

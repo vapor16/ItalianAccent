@@ -1,6 +1,6 @@
 # Sources — Mbare (City of Catania and most of its province (urban Catanese). The profile follows the city norm; the Etna sub-varieties (CT I-IV in the Vocabolario siciliano) and the adjoining Siracusa area are not described separately. Palermitano and western Sicilian, Messinese and the metaphonetic varieties of central and south-eastern Sicily are excluded.)
 
-Generated from `research/sources.json` by `scripts/validate.py --integrate`. Meanings and annotations in this profile are original; sources are cited, not copied.
+Generated from the project source registry (https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json). Meanings and annotations in this profile are original; sources are cited, not copied.
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
@@ -25,4 +25,4 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-scn-wikiquote-proverbi` | Proverbi siciliani (Wikiquote in italiano) | Wikimedia Foundation | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_siciliani> |
 | `src-scn-wiktionary` | Wiktionary, Sicilian entries (via kaikki.org machine-readable extraction) | Wiktionary contributors; kaikki.org (T. Ylonen) | community-dictionary | medium | CC BY-SA 4.0 / GFDL (open-license-attribution) | <https://kaikki.org/dictionary/Sicilian/> |
 
-Access date of all sources: see `research/sources.json` (`access_date`).
+Access dates and full metadata: https://github.com/vapor16/ItalianAccent/blob/main/research/sources.json
