@@ -159,6 +159,23 @@
       ],
       "author": "Wikipedia contributors",
       "publisher": "Wikimedia Foundation"
+    },
+    {
+      "id": "src-bg-guerini-2025",
+      "title": "Impieghi simbolici (e non solo) del dialetto bergamasco nel paesaggio linguistico locale",
+      "author": "Federica Guerini",
+      "url": "https://aisberg.unibg.it/retrieve/d371cea5-c620-46e8-9eb5-34a6f6fb5456/GueriniSilta%20n.%203.2025.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardy)",
+      "source_type": "academic",
+      "license": "Open access repository (SILTA 2025)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Study of Bergamasque in shop signs, notices and banners; a pharmacy sign in dialect reads 'An sè dré a laùrà. An sè trasferès 50 meter piö n'ac. Pota, egnì a troàm!' (pota as an invitation, 'forza, venite a trovarci').",
+      "used_by": [
+        "pota"
+      ],
+      "publisher": "Studi Italiani di Linguistica Teorica e Applicata"
     }
   ]
 }

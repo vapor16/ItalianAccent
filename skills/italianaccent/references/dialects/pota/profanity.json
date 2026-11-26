@@ -746,6 +746,406 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Only attested as the target word of a Tiraboschi proverb; the example is the proverb itself."
+    },
+    {
+      "id": "romp-i-bale",
+      "original": "rómp i bale",
+      "variants": [
+        "fà 'ndà zó i bale"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "rompere le palle",
+      "figurative_meaning": "infastidire, seccare",
+      "meaning_it": "Rompere le palle.",
+      "meaning_en": "To be a pain in the neck.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "irritation",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfogo su un bug o un collega pressante",
+        "sfottere un amico che insiste"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "con persone che non si conoscono"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bala' of the Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867). Variant in the same entry: 'fà ‘ndà zó i bale' (annoiare, recare fastidio). Distinct from Milanese: the Bergamasque frame is 'rómp i bale', not Milanese 'pirla/ball' items."
+    },
+    {
+      "id": "ighen-pie-i-bale",
+      "original": "ìghen pié i bale",
+      "category": "vulgar-idiom",
+      "literal_meaning": "averne piene le palle",
+      "figurative_meaning": "essere sazio e annoiato, stufo",
+      "meaning_it": "Averne piene le palle.",
+      "meaning_en": "To be fed up.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "boredom",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "dopo il decimo tentativo fallito",
+        "stufo di una riunione"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bala' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)): 'essere sazio e annoiato'. A Bergamasque twin of the documented 'ghe 'n è mìa di bale' register."
+    },
+    {
+      "id": "gira-i-bale",
+      "original": "girà i bale",
+      "category": "vulgar-idiom",
+      "literal_meaning": "girare le palle",
+      "figurative_meaning": "essere di umore tristo, di cattivo umore",
+      "meaning_it": "Avere le palle che girano.",
+      "meaning_en": "To be in a foul mood.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "bad mood",
+          "irritation",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "descrivere il proprio umore dopo una giornata storta"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bala' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)) glosses 'essere di umore tristo'; in current Italian 'girare le palle' is the same image for irritation, so read it as cranky."
+    },
+    {
+      "id": "i-bale-negazione",
+      "original": "i bale!",
+      "category": "dismissal",
+      "literal_meaning": "le palle!",
+      "figurative_meaning": "modo basso per negare o confutare ciò che dice qualcuno",
+      "meaning_it": "Balle! / Ma figurati! / Col cavolo.",
+      "meaning_en": "Rubbish! / No way!",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "disbelief",
+          "sarcasm",
+          "humorous dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "rifiutare una scusa palese",
+        "scherzare con gli amici"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bala' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)), labelled 'modo basso' (low register) for denying or refuting. Sits well with the sarcastic 'pòta, per forsa!'."
+    },
+    {
+      "id": "sciur-di-me-bale",
+      "original": "sciòr di mé bale",
+      "variants": [
+        "dotùr di mé bale"
+      ],
+      "category": "insult",
+      "literal_meaning": "signore delle mie palle",
+      "figurative_meaning": "chi vuole apparire un signore senza esserlo",
+      "meaning_it": "Il signorino da strapazzo.",
+      "meaning_en": "A would-be gentleman (of my balls).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "derision",
+          "friendly mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere chi si dà arie",
+        "roast di un collega pieno di sé"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "superiori"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bala' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)); the same entry has 'dotùr di mé bale' (dottore di nessun merito). The frame '[title] di mé bale' is a reusable sarcastic pattern. Aim it at the pose, not a group."
+    },
+    {
+      "id": "che-te-egne-la-cagheta",
+      "original": "che l' te ègne la caghèta!",
+      "category": "imprecation",
+      "literal_meaning": "che ti venga la diarrea",
+      "figurative_meaning": "che ti venga un accidenti!",
+      "meaning_it": "Che ti venga un accidenti!",
+      "meaning_en": "May you get the runs! (a mock curse)",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "irritation",
+          "joking curse"
+        ]
+      },
+      "appropriate_contexts": [
+        "maledire a denti stretti uno scocciatore",
+        "scherzo tra amici"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone malate o anziane"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'cagadù' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)) glosses 'che ti venga un accidenti!'. Traditional curse, humorous when used among friends."
+    },
+    {
+      "id": "sacrato",
+      "original": "sacrato!",
+      "category": "exclamation",
+      "figurative_meaning": "esclamazione di stizza, di dispetto",
+      "meaning_it": "Maledizione! (stizza).",
+      "meaning_en": "Damn it! (spite or annoyance)",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "annoyance",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "stizza davanti a un errore banale"
+      ],
+      "inappropriate_contexts": [
+        "contesti religiosi"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'sacrare' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)) gives 'sacrato!' as an exclamation of spite; the verb itself covers swearing and blaspheming, so treat it as a mild minced oath (not flagged as blasphemy in the source)."
+    },
+    {
+      "id": "per-baco",
+      "original": "per baco",
+      "variants": [
+        "per dìa baco"
+      ],
+      "category": "exclamation",
+      "figurative_meaning": "esclamazione eufemistica (al posto di nomi sacri)",
+      "meaning_it": "Perbacco!",
+      "meaning_en": "By Jove! (minced oath)",
+      "intensity": 1,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": false,
+        "emotional": [
+          "surprise",
+          "mild annoyance"
+        ]
+      },
+      "appropriate_contexts": [
+        "stupore o fastidio senza volgarità"
+      ],
+      "inappropriate_contexts": [],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'Baco' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)): 'per baco, per dìa baco' = esclamazioni eufemistiche."
+    },
+    {
+      "id": "che-aca-de-u",
+      "original": "che aca de ü!",
+      "category": "exclamation",
+      "literal_meaning": "che vacca di uno",
+      "figurative_meaning": "ironico: che originale, che furbo!",
+      "meaning_it": "Che furbo / che originale! (ironico)",
+      "meaning_en": "What a smartass! (ironic)",
+      "intensity": 2,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "irony",
+          "friendly mockery"
+        ]
+      },
+      "appropriate_contexts": [
+        "rispondere a una trovata scema",
+        "sfottere un collega che si crede astuto"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'aca' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)); the dictionary says 'aca' is added in the 'linguaggio da trivio' to strengthen nouns ('öna ... aca'). Reads as sarcasm."
+    },
+    {
+      "id": "fiol-d-on-aca",
+      "original": "fiöl d'ön'aca",
+      "category": "insult",
+      "literal_meaning": "figlio di una vacca",
+      "figurative_meaning": "motto ingiurioso (il dizionario traduce: figlio d'un cane)",
+      "meaning_it": "Figlio di un cane (insulto).",
+      "meaning_en": "Son of a dog/cow (insult).",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "ingiuria fumettistica a un oggetto o a un bug"
+      ],
+      "inappropriate_contexts": [
+        "persone reali",
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'aca' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)) calls it 'motto ingiurioso' and glosses it 'figlio d'un cane' although 'aca' is a cow: keep both senses. Hostile only; aim at bugs and objects."
+    },
+    {
+      "id": "cagu-pauroso",
+      "original": "cagù",
+      "variants": [
+        "cagòt"
+      ],
+      "category": "insult",
+      "literal_meaning": "chi si caca addosso",
+      "figurative_meaning": "pauroso, fifone",
+      "meaning_it": "Fifone, cacasotto.",
+      "meaning_en": "Scaredy-cat (one who messes himself).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere chi si tira indietro"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone in difficoltà reale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'cagù, cagòt' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)): uomo pauroso che si caca e si piscia sotto dalla paura; the same dictionary has 'cagàs adòss de pura' (to be scared stiff) and 'cagadöbe' (timid, fretful)."
     }
   ]
 }

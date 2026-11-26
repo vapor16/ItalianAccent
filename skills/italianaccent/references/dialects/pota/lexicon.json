@@ -2271,6 +2271,91 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "pota-egni-a-troam",
+      "term": "Pòta, egnì a troàm!",
+      "category": "colloquial-expression",
+      "meaning_it": "Dai, venite a trovarci!",
+      "meaning_en": "Come on, come and visit us!",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Pota, egnì a troàm!",
+          "translation_it": "Forza, venite a trovarci!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-guerini-2025"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Guerini (2025) records it on a pharmacy notice in dialect: 'Pota, egnì a troàm!' (forza, venite a trovarci). A friendly, non-vulgar use of pòta as an upbeat marker."
+    },
+    {
+      "id": "o-facia-n-del-lacc",
+      "term": "l'ó facia 'n del lacc!",
+      "category": "interjection",
+      "part_of_speech": "phrase",
+      "meaning_it": "l'ho fatta nel latte: esclamazione di chi ha fatto un grave errore e teme un danno",
+      "meaning_en": "I've made a real blunder (lit. I did it in the milk)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'lacc' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)). A self-ironic wail after a mistake."
+    },
+    {
+      "id": "de-u-rinforzo",
+      "term": "de ü",
+      "category": "colloquial-expression",
+      "meaning_it": "rinforzo dopo parole ingiuriose (es. ün àsen de ü = asinaccio)",
+      "meaning_en": "intensifier after insults (e.g. ün àsen de ü = a big ass)",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "ün àsen de ü",
+          "translation_it": "un asinaccio",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'de' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)): 'per rinforzo dopo parole ingiuriose: de ü'. Use after one insult, not stacked."
+    },
+    {
+      "id": "bacalo",
+      "term": "bacaló",
+      "variants": [
+        "biló",
+        "baciòch",
+        "tapù"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "babbeo, sciocco, buono a nulla",
+      "meaning_en": "simpleton, dimwit",
+      "register": "colloquial",
+      "vulgarity": 2,
+      "geographical_area": "Bergamo (Eastern Lombard)",
+      "sources": [
+        "src-bg-ducato-vocabolario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Entry 'bacaló, biló' (Vocabolario Bergamasco-Italiano (Ducato di Piazza Pontida, from Tiraboschi 1867)). Friendly jibe; relatives baciòch (stolto) and tapù (ignorante, stupido)."
     }
   ]
 }

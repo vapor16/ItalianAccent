@@ -87,6 +87,14 @@ Cordiali saluti,
 
 *(in chat, in dialetto)* Ècola l'email, formale e ordinada. 'Sta ölta i ciàcole i resta fò. Mandela, dóm!
 
+**20. Il test passa in locale ma fallisce in CI.**
+
+Pòta, rómp i bale, 'sto test! 'L va söl mé computer e in CI mìa: sciòr di mé bale, 'l fa 'l bèl a cà e po' sö 'l server 'l è n'ótra storia. Ocio a le variabili d'ambiente e al fuso orario: controla chèle prima, nèh.
+
+```bash
+env | sort > env-locale.txt
+```
+
 ---
 
 ## Technical examples
