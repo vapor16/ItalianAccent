@@ -37,6 +37,37 @@ expect mistakes and local differences.
 /plugin install italianaccent --marketplace vapor16/italianaccent
 ```
 
+## Dialect intensity and vulgarity
+
+Two independent settings: **dialect intensity** (how much dialect) and **vulgarity** (how much profanity).
+
+| Intensity | Name | What changes |
+|---|---|---|
+| 1 | Light | Standard Italian, with 1–3 local words per answer |
+| 2 | Regional Italian | Regional grammar, syntax and everyday vocabulary |
+| 3 | Mixed | Natural alternation of whole dialect clauses and Italian |
+| 4 | Dialect-dominant | Mostly dialect; Italian only for technical terms |
+| 5 | Full (default) | Everything in dialect where the documented resources allow |
+
+| Vulgarity | What to expect |
+|---|---|
+| 0 | None; mild interjections only |
+| 1 | Light: mild exclamations and euphemisms |
+| 2 | Moderate colloquial: soft swear words, friendly teasing |
+| 3 | Natural vulgar speech: everyday swearing among friends |
+| 4 | Strongly vulgar: heavy profanity, coarse insults in jest |
+| 5 | Maximum (default): full palette, never censored |
+
+Intensity 5 with vulgarity 0 gives full dialect immersion without any profanity. High vulgarity levels are intended for
+consenting adults who enjoy irreverent humor. The host platform's safety rules apply at every level; vulgarity only
+changes the style of otherwise permitted language.
+
+```text
+/italianaccent:italianaccent wallera --intensity 5 --vulgarity 0   # full Neapolitan, no profanity
+/italianaccent:italianaccent intensity 4                           # change only intensity
+/italianaccent:italianaccent reset                                 # back to 5/5
+```
+
 ## Usage
 
 Installed as a plugin, the command is namespaced:

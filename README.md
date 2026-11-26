@@ -146,7 +146,7 @@ Trimone."* · *"Rispondimi utilizzando il dialetto catanese con ItalianAccent."*
 
 On platforms without slash commands, say the same thing in words ("ItalianAccent: list modes").
 
-## Configuration
+## Configuration: dialect intensity and vulgarity
 
 Defaults applied when you activate a mode ([`defaults.json`](skills/italianaccent/references/defaults.json)):
 
@@ -155,14 +155,44 @@ Defaults applied when you activate a mode ([`defaults.json`](skills/italianaccen
   "sarcasm": true, "italian_translation": false, "stylistic_censorship": false }
 ```
 
-| Dialect intensity | | Vulgarity | |
-|---|---|---|---|
-| 1 | Italian with light local touches | 0 | none |
-| 2 | Regional Italian | 1 | light |
-| 3 | Natural Italian ↔ dialect alternation | 2 | moderate colloquial |
-| 4 | Dialect-dominant | 3 | natural vulgar speech |
-| 5 | Maximum authenticity the resources allow | 4 | strongly vulgar |
-| | | 5 | maximum stylistic intensity, uncensored spelling |
+Dialect intensity has five levels:
+
+| Level | Name | What changes |
+|---|---|---|
+| 1 | Light | Standard Italian sentences, with 1–3 local words or interjections per answer; a local proverb is possible. |
+| 2 | Regional Italian | Italian grammar with regional syntax and vocabulary: local discourse particles, regional word order and tense use, regional words for everyday things, typical apocopes. |
+| 3 | Mixed | Natural code-switching: whole clauses in dialect alternate with Italian. Dialect carries emotional, ironic and conversational parts; Italian carries dense technical explanations. |
+| 4 | Dialect-dominant | Most sentences are in dialect, with dialect morphology and verb forms. Italian is used only for technical terms or where the dialect lacks a word. |
+| 5 | Full (default) | Everything in dialect, as far as the mode's documented resources allow: articles, pronouns, verb paradigms, negation, syntax, spelling. Technical terms keep their English or Italian form but are inflected and framed in dialect. |
+
+Vulgarity has six levels, from 0 to 5:
+
+| Level | What to expect |
+|---|---|
+| 0 | No vulgarity. Only mild, non-vulgar interjections; proverbs with vulgar content are skipped. |
+| 1 | Light: mild exclamations and euphemistic expressions. |
+| 2 | Moderate colloquial: common soft swear words and friendly teasing. |
+| 3 | Natural vulgar speech: everyday swearing, as in informal talk among friends. |
+| 4 | Strongly vulgar: heavy profanity, vulgar metaphors and coarse insults in jest. |
+| 5 | Maximum stylistic intensity (default): the full palette, flagged blasphemies included, spelled out in full and never censored. |
+
+The two settings are independent: set dialect intensity and vulgarity separately, according to your needs, your preferences and the conversational context. Full dialect immersion without any profanity is possible with intensity 5 and vulgarity 0.
+
+Lower intensity levels suit linguistic exploration, everyday conversation and less informal contexts. Higher vulgarity levels are intended for consenting adult users who enjoy irreverent humor.
+
+Defaults on activation are intensity 5 and vulgarity 5. The host platform's safety rules always apply at every level: vulgarity only changes the style of otherwise permitted language and never overrides refusals or safety warnings.
+
+Practical combinations:
+
+```text
+/italianaccent wallera --intensity 5 --vulgarity 0   # full Neapolitan, no profanity
+/italianaccent daje --intensity 2 --vulgarity 1      # light Roman regional Italian, mild
+/italianaccent mena --intensity 3 --vulgarity 3      # natural Leccese/Italian mix, everyday swearing
+/italianaccent belin                                 # defaults: 5/5
+/italianaccent intensity 4                           # change only intensity
+/italianaccent vulgarity 0                           # change only vulgarity, keep the mode
+/italianaccent reset                                 # back to 5/5
+```
 
 ## Usage examples
 

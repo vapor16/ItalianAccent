@@ -135,19 +135,53 @@ dialetto catanese con ItalianAccent."*
 | `reset` | Ripristina i valori predefiniti, mantiene la modalità |
 | `off` | Disattiva ItalianAccent |
 
-## Configurazione
+## Configurazione: intensità dialettale e volgarità
 
-Valori applicati all'attivazione ([`defaults.json`](skills/italianaccent/references/defaults.json)): intensità 5,
-volgarità 5, proverbi, modi di dire, umorismo e sarcasmo attivi, traduzione disattivata, nessuna censura stilistica.
+Valori applicati all'attivazione ([`defaults.json`](skills/italianaccent/references/defaults.json)):
 
-| Intensità | | Volgarità | |
-|---|---|---|---|
-| 1 | Italiano con tocchi locali | 0 | nessuna |
-| 2 | Italiano regionale | 1 | leggera |
-| 3 | Alternanza naturale italiano ↔ dialetto | 2 | colloquiale moderata |
-| 4 | Dialetto prevalente | 3 | volgare naturale |
-| 5 | Massima autenticità consentita dalle risorse | 4 | fortemente volgare |
-| | | 5 | massima intensità stilistica, nessuna censura grafica |
+```json
+{ "dialect_intensity": 5, "vulgarity": 5, "proverbs": true, "idioms": true, "humor": true,
+  "sarcasm": true, "italian_translation": false, "stylistic_censorship": false }
+```
+
+L'intensità dialettale ha cinque livelli:
+
+| Livello | Nome | Cosa cambia |
+|---|---|---|
+| 1 | Leggera | Frasi in italiano standard, con 1–3 parole o interiezioni locali per risposta; è possibile un proverbio locale. |
+| 2 | Italiano regionale | Grammatica italiana con sintassi e lessico regionali: particelle discorsive locali, ordine delle parole e uso dei tempi regionali, parole regionali per le cose di tutti i giorni, troncamenti tipici della zona. |
+| 3 | Mista | Alternanza naturale (code-switching): intere frasi in dialetto si alternano all'italiano. Il dialetto accompagna le parti emotive, ironiche e colloquiali; l'italiano le spiegazioni tecniche dense. |
+| 4 | Dialetto prevalente | La maggior parte delle frasi è in dialetto, con morfologia e forme verbali dialettali. L'italiano è usato solo per i termini tecnici o dove il dialetto non ha una parola. |
+| 5 | Piena (predefinita) | Tutto in dialetto, nei limiti delle risorse documentate della modalità: articoli, pronomi, paradigmi verbali, negazione, sintassi, grafia. I termini tecnici mantengono la forma inglese o italiana, ma sono flessi e inquadrati in dialetto. |
+
+La volgarità ha sei livelli, da 0 a 5:
+
+| Livello | Cosa aspettarsi |
+|---|---|
+| 0 | Nessuna volgarità. Solo interiezioni leggere e non volgari; i proverbi con contenuto volgare sono saltati. |
+| 1 | Leggera: esclamazioni blande ed espressioni eufemistiche. |
+| 2 | Colloquiale moderata: parolacce comuni e leggere, prese in giro amichevoli. |
+| 3 | Volgarità naturale: parolacce di tutti i giorni, come nel parlare informale tra amici. |
+| 4 | Fortemente volgare: linguaggio pesante, metafore volgari e insulti pungenti per scherzo. |
+| 5 | Massima intensità stilistica (predefinita): tutta la gamma, bestemmie segnalate incluse, scritte per esteso e mai censurate. |
+
+Le due impostazioni sono indipendenti: intensità dialettale e volgarità si regolano separatamente, in base alle proprie esigenze, alle preferenze e al contesto della conversazione. Un'immersione totale nel dialetto senza alcuna parolaccia è possibile con intensità 5 e volgarità 0.
+
+I livelli di intensità più bassi si adattano all'esplorazione linguistica, alla conversazione quotidiana e ai contesti meno informali. I livelli di volgarità più alti sono pensati per utenti adulti e consenzienti che apprezzano l'umorismo irriverente.
+
+I valori predefiniti all'attivazione sono intensità 5 e volgarità 5. Le regole di sicurezza della piattaforma ospitante si applicano sempre, a ogni livello: la volgarità cambia solo lo stile di un linguaggio comunque consentito e non supera mai rifiuti o avvertenze di sicurezza.
+
+Combinazioni pratiche:
+
+```text
+/italianaccent wallera --intensity 5 --vulgarity 0   # napoletano pieno, nessuna parolaccia
+/italianaccent daje --intensity 2 --vulgarity 1      # italiano regionale romanesco leggero, blando
+/italianaccent mena --intensity 3 --vulgarity 3      # mix naturale leccese/italiano, parolacce quotidiane
+/italianaccent belin                                 # predefiniti: 5/5
+/italianaccent intensity 4                           # cambia solo l'intensità
+/italianaccent vulgarity 0                           # cambia solo la volgarità, mantiene la modalità
+/italianaccent reset                                 # torna a 5/5
+```
 
 ## Test e valutazioni
 
