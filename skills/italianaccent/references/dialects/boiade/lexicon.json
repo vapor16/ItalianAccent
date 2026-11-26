@@ -3205,6 +3205,248 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Marked obsolete in the dictionary."
+    },
+    {
+      "id": "caarella",
+      "term": "caarèlla",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "fifa, paura",
+      "meaning_en": "jitters, fear",
+      "register": "familiar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "Oggi m'interrogano 'n matemàtia, c'ho 'na caarèlla mòio.",
+          "translation_it": "Oggi mi interrogano in matematica, ho una paura tremenda.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi example: 'Oggi m'interrogano 'n matemàtia, c'ho 'na caarèlla mòio.' ('mòio' as spelled in the source, an emphatic tag). Light self-mockery."
+    },
+    {
+      "id": "allezzito",
+      "term": "allezzìto",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "può significare povero, sfortunato, trasandato, ignorante, inetto, perfino tirchio: dipende dal tono",
+      "meaning_en": "can mean poor, wretched, shabby, clueless, even stingy: depends on tone",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi says it has endless shades and is hard to grasp without knowing Livornese. Say it with a deadpan tone as pity or friendly teasing; do not use it to mock poverty itself."
+    },
+    {
+      "id": "cauterio",
+      "term": "cautèrio",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ipocondriaco, chi si lagna dei propri malanni",
+      "meaning_en": "hypochondriac, constant whiner about ailments",
+      "register": "ironic",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "La fai finita di lamentatti? Sei propio un cauterio!",
+          "translation_it": "Smettila di lamentarti, sei proprio un piagnone ipocondriaco!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: 'La fai finita di lamentatti? Sei propio un cauterio!' and 'Bongiorno cauterio, fatti 'na 'apomilla.' Humorous dismissal of a whiner."
+    },
+    {
+      "id": "segata",
+      "term": "segàta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "cosa di poco conto; ridimensiona un evento",
+      "meaning_en": "a trifle; belittles an event",
+      "register": "vulgar",
+      "vulgarity": 2,
+      "examples": [
+        {
+          "text": "L'esame d'italiano? Vai tranquillo, è 'na segata.",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: 'L'esame d'italiano? Vai tranquillo, è 'na segata.' Dismissive downplaying, not an insult to a person."
+    },
+    {
+      "id": "figuretta",
+      "term": "figurétta",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "brutta figura",
+      "meaning_en": "embarrassing blunder",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Boia 'e figuretta dé!",
+          "translation_it": "Mamma mia che brutta figura!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi gives the frame itself: 'Boia 'e figuretta dé!' after finding no cash at the till. Good model of boia plus dé used once each."
+    },
+    {
+      "id": "arriva-i-pisani",
+      "term": "Arriva ' pisani",
+      "variants": [
+        "ecco ' pisani"
+      ],
+      "category": "colloquial-expression",
+      "meaning_it": "sta arrivando il sonno (detto a un bambino che sbadiglia)",
+      "meaning_en": "sleep is coming (said to a yawning child)",
+      "register": "familiar",
+      "vulgarity": 0,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: variant 'ecco ' pisani', the article i is thought but not pronounced. Affectionate local joke at Pisa's expense, a drowsy-time idiom; no football-chant source was verified."
+    },
+    {
+      "id": "di-olo",
+      "term": "di 'olo",
+      "category": "colloquial-expression",
+      "meaning_it": "ubriaco fradicio (\"di colo\"); usato anche come incredulità",
+      "meaning_en": "dead drunk; also used for disbelief",
+      "register": "popular",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Ma sei di 'olo? L'acqua è stecchita. Mòi!",
+          "translation_it": "Ma sei ubriaco? L'acqua è gelida. Muori!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi dialogue: 'Oh, io fo 'r bagno. - Ma sei di 'olo? L'acqua è stecchita. Mòi!' ('Mòi!' is translated 'Muori!' by Catarsi, a blunt exclamation). Gorgia marked by the apostrophe as in the source."
+    },
+    {
+      "id": "tottero",
+      "term": "tòttero",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "brontolone",
+      "meaning_en": "grumbler",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: brontolone. Affectionate or exasperated."
+    },
+    {
+      "id": "palloccoloso",
+      "term": "palloccolóso",
+      "category": "word",
+      "part_of_speech": "adjective",
+      "meaning_it": "noioso, ripetitivo",
+      "meaning_en": "boring, repetitive",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: noioso, ripetitivo. A friendly 'what a drag'."
+    },
+    {
+      "id": "ciaccione",
+      "term": "ciaccióne",
+      "variants": [
+        "ciaccino"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "ficcanaso, chi non si fa mai gli affari propri",
+      "meaning_en": "busybody",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi; variant 'ciaccino'; verb 'ciaccià' (ficcare il naso)."
+    },
+    {
+      "id": "svagella",
+      "term": "svagellà",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "vaneggiare, delirare, dare i numeri",
+      "meaning_en": "to rave, to talk nonsense",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: svagellare. Sarcastic reaction to someone's nonsense."
+    },
+    {
+      "id": "partaccia",
+      "term": "partàccia",
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "rimprovero accanito, scenata livorosa",
+      "meaning_en": "angry scolding, spiteful scene",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi. Useful for a boss or a partner storming off about a trifle."
     }
   ]
 }

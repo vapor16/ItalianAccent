@@ -922,6 +922,28 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "esse-ner-bottino",
+      "type": "idiom",
+      "original": "èsse ner bottino",
+      "variants": [
+        "Vai, siamo ner bottino",
+        "se' propio 'n bottino"
+      ],
+      "literal_it": "essere nella fogna",
+      "meaning_it": "essere nei guai, in una situazione senza via d'uscita",
+      "meaning_en": "to be in the soup, in a hopeless spot",
+      "usage_context": "frustrazione per una situazione senza uscita",
+      "register": "popular",
+      "vulgarity": 2,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: bottino = sewer; 'Vai, siamo ner bottino' = we're in trouble. Friendly mockery of a glutton: 'se' propio 'n bottino' (a bottomless pit)."
     }
   ]
 }

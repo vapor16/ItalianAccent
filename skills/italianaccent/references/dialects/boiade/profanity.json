@@ -1207,6 +1207,87 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Distinct from the dismissal; here positive."
+    },
+    {
+      "id": "baccala-buono-a-nulla",
+      "original": "baccalà",
+      "variants": [
+        "bròdo",
+        "toppóne",
+        "gavitèllo"
+      ],
+      "category": "insult",
+      "literal_meaning": "merluzzo salato",
+      "figurative_meaning": "buono a nulla, persona inconcludente",
+      "meaning_it": "Buono a nulla.",
+      "meaning_en": "Good-for-nothing, dead weight.",
+      "intensity": 2,
+      "register": "popular",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "friendly mockery",
+          "contempt",
+          "humorous dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere un amico inconcludente",
+        "commentare un collega che non combina nulla"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi lists baccalà with the variants gavitèllo, tórsolo, bròdo and toppóne, all 'buono a nulla'. Light, banter-level; stays distinct from Fiorentino by the Livornese frame (dé, boia, 'ome)."
+    },
+    {
+      "id": "caarello-pavido",
+      "original": "caarèllo",
+      "variants": [
+        "caarèlla"
+      ],
+      "category": "insult",
+      "literal_meaning": "chi se la fa addosso",
+      "figurative_meaning": "pavido, pusillanime",
+      "meaning_it": "Fifone, codardo.",
+      "meaning_en": "Scaredy-cat (one who messes himself over nothing).",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "mockery",
+          "contempt",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere chi si tira indietro",
+        "amici che hanno paura per niente"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "persone in difficoltà reale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Livorno (city)",
+      "sources": [
+        "src-li-catarsi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Catarsi: 'Caarèllo' (cacarello) = pavido, one who messes himself for a trifle. The feminine 'caarèlla' is fear itself (see lexicon): 'c'ho 'na caarèlla mòio'. Humorous, not a slur."
     }
   ]
 }

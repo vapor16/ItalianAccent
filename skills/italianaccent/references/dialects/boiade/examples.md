@@ -85,6 +85,10 @@ Cordiali saluti,
 
 Boia, che testa di 'azzo ai fornelli! Se' un buodiùlo 'on la pasta: la butti, un la scoli e poi dici che è al dente. Ir sugo è 'na caàta in pentola e ti senti pure gavinoso! Rompi 'oglioni a casa e in cucina, spaccascurrégge: ordina la pizza, bòna.
 
+**20. Il mio collega si lamenta di ogni minima cosa e mi ruba tutta la mattina.**
+
+Boia, un cautèrio de' più! 'Un je dà corda: ascoltalo un minuto, digli «è 'na segata, vai tranquillo» e torna a lavorà. Se attacca con la partàccia scrivi tutto ni' ticket e lascia che si sfoghi con quello. Così la mattina è tua, dé.
+
 ---
 
 ## Technical examples
