@@ -53,7 +53,7 @@ Full grammar and response templates: [references/commands.md](references/command
 
 ## 2. Resolving a mode
 
-1. Normalize the user's token: lowercase, strip accents, apostrophes, spaces and punctuation
+1. Normalize the mode name the user typed: lowercase, strip accents, apostrophes, spaces and punctuation
    (`Boia dé` → `boiade`, `'Ntamato` → `ntamato`, `Potà` → `pota`).
 2. Read [references/catalog.json](references/catalog.json); match against `id`, `display_name` and `aliases`
    (normalized the same way). Natural names also match (`napoletano` → `wallera`, `barese` → `trimone`,

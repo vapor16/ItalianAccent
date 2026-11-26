@@ -5,6 +5,9 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Added
+- `PRIVACY.md`; directory listing metadata in `plugin.json` (displayName, icon, privacy/support/documentation URLs, keywords); `claude-directory/` package for the Claude Public Directory.
+
 ## [1.0.0] - 2026-11-25
 
 First public release.

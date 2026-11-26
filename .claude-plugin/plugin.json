@@ -1,7 +1,8 @@
 {
   "name": "italianaccent",
+  "displayName": "ItalianAccent",
   "version": "1.0.0",
-  "description": "Authentic Italian dialects, uncensored stylistic profanity, traditional proverbs and local humor for your AI assistant. Explicit activation only.",
+  "description": "Speak authentic Italian dialects with local grammar, slang, proverbs, humor, sarcasm and configurable profanity. Eleven local varieties, explicit activation only.",
   "author": {
     "name": "ItalianAccent contributors"
   },
@@ -12,7 +13,17 @@
     "agent-skills",
     "italian",
     "italian-dialects",
+    "dialects",
+    "regional-languages",
     "linguistics",
+    "humor",
+    "slang",
+    "proverbs",
+    "sarcasm",
     "ai-personality"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/vapor16/ItalianAccent/blob/main/PRIVACY.md",
+  "supportUrl": "https://github.com/vapor16/ItalianAccent/issues",
+  "documentationUrl": "https://github.com/vapor16/ItalianAccent/blob/main/README.md"
 }
