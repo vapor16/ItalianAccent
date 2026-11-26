@@ -38,10 +38,12 @@
   },
   "sources": [
     "src-lij-autelli-gephras",
+    "src-lij-autelli-konecny",
     "src-lij-babbel-genoese",
     "src-lij-enwiki-genoese",
     "src-lij-enwiki-ligurian",
     "src-lij-guidagenova-belin",
+    "src-lij-instantlyitaly",
     "src-lij-italysegreta-parlare",
     "src-lij-itwiki-belin",
     "src-lij-itwiki-dialetto",
@@ -49,6 +51,7 @@
     "src-lij-ljwiki-belin",
     "src-lij-ljwiki-zena",
     "src-lij-mentelocale-modi",
+    "src-lij-usenet-belin",
     "src-lij-wikiquote-proverbi",
     "src-lij-wikt-lij-categories",
     "src-lij-zeneize-grafia"

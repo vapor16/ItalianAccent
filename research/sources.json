@@ -459,6 +459,23 @@
       "relevant_sections": "Blasphemous profanity"
     },
     {
+      "id": "src-bg-guerini-2025",
+      "title": "Impieghi simbolici (e non solo) del dialetto bergamasco nel paesaggio linguistico locale",
+      "author": "Federica Guerini",
+      "url": "https://aisberg.unibg.it/retrieve/d371cea5-c620-46e8-9eb5-34a6f6fb5456/GueriniSilta%20n.%203.2025.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Bergamasque (Bergamo, Lombardy)",
+      "source_type": "academic",
+      "license": "Open access repository (SILTA 2025)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Study of Bergamasque in shop signs, notices and banners; a pharmacy sign in dialect reads 'An sè dré a laùrà. An sè trasferès 50 meter piö n'ac. Pota, egnì a troàm!' (pota as an invitation, 'forza, venite a trovarci').",
+      "used_by": [
+        "pota"
+      ],
+      "publisher": "Studi Italiani di Linguistica Teorica e Applicata"
+    },
+    {
       "id": "src-bg-itwiki-dialetto",
       "title": "Dialetto bergamasco (Wikipedia italiana)",
       "url": "https://it.wikipedia.org/wiki/Dialetto_bergamasco",
@@ -729,6 +746,23 @@
       "publisher": "Wikimedia Foundation"
     },
     {
+      "id": "src-fi-binazzi-detti",
+      "title": "Detti, non parole! Quando il parlante riconosce la lingua",
+      "author": "Neri Binazzi",
+      "url": "https://flore.unifi.it/retrieve/e398c381-4171-179a-e053-3705fe0a4cff/Binazzi_italiano_digitale_2021_detti.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "academic",
+      "license": "Open access (Italiano digitale, 2021)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read in full. Peer-reviewed article built on interviews of the Vocabolario del fiorentino contemporaneo (VFC): speakers' own comments on sayings still in use (capra dei pompieri, fare le calze, avere il tonchio, babbalocco, trattare come un pellaio, ma icché tu sei te?).",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Italiano digitale"
+    },
+    {
       "id": "src-fi-binazzi-pieraccioni",
       "title": "Note linguistiche sul cinema di Leonardo Pieraccioni (in Scritti per Nicoletta Maraschio, Accademia della Crusca, 2018)",
       "url": "https://flore.unifi.it/retrieve/e398c37e-0d18-179a-e053-3705fe0a4cff/Binazzi_miscellanea_Maraschio.pdf",
@@ -744,6 +778,22 @@
         "bischero"
       ],
       "publisher": "Accademia della Crusca / Univ. Firenze (FLORE)"
+    },
+    {
+      "id": "src-fi-crusca-parole",
+      "title": "Parole di Firenze dal Vocabolario del fiorentino contemporaneo (presentazione)",
+      "url": "https://accademiadellacrusca.it/sites/www.accademiadellacrusca.it/files/page/2012/12/19/presentazione_parole_di_firenze.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "institutional",
+      "license": "Accademia della Crusca, not stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Slides of the VFC project with interview excerpts; used only to corroborate the capra dei pompieri comparison (text layout is partly garbled in extraction).",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Accademia della Crusca"
     },
     {
       "id": "src-fi-enwiki-profanity",
@@ -778,6 +828,22 @@
         "bischero"
       ],
       "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-florencecity-vocab",
+      "title": "Il significato delle parole fiorentine dalla A alla I (FlorenceCity)",
+      "url": "https://florencecity.it/il-significato-delle-parole-fiorentine-dalla-a-alla-i",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read in full. Local vocabulary page (letters A-I) with slang, insults and exclamations and sample sentences. Author unnamed; items only here are unverified. Slurs listed there (homophobic, ethnic) were deliberately not used.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "FlorenceCity"
     },
     {
       "id": "src-fi-itwiki-bestemmia",
@@ -882,6 +948,22 @@
       "publisher": "Wikimedia"
     },
     {
+      "id": "src-fi-kano66-vocab",
+      "title": "Vocabolario fiorentino (Parole pensate)",
+      "url": "https://kano66.wordpress.com/vocabolario-fiorentino/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "popular-web",
+      "license": "Blog, rights with author",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read in full. Personal blog glossary, close in content to FlorenceCity (not treated as independent). Slurs listed there were not used.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "WordPress blog"
+    },
+    {
       "id": "src-fi-lanazione-parole",
       "title": "Parole toscane (La Nazione, Firenze)",
       "url": "https://www.lanazione.it/firenze/cronaca/parole-toscane-b9ff605c",
@@ -897,6 +979,22 @@
         "bischero"
       ],
       "publisher": "La Nazione"
+    },
+    {
+      "id": "src-fi-lastraonline-modi",
+      "title": "Proverbi e modi di dire fiorentini (LastraOnline)",
+      "url": "https://www.lastraonline.it/p/proverbi-modi-di-dire-fiorentini.php",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence area)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Local-interest page with modi di dire, exclamations and a list of vulgar sayings. Only the first half of the page was read.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "LastraOnline"
     },
     {
       "id": "src-fi-thelocal-13",
@@ -1195,6 +1293,23 @@
       "publisher": "Linguistik online"
     },
     {
+      "id": "src-lij-autelli-konecny",
+      "title": "La fraseografia genovese e le più recenti innovazioni in GEPHRAS e GEPHRAS2",
+      "author": "Erica Autelli, Christine Konecny",
+      "url": "https://bop.unibe.ch/linguistik-online/article/download/10782/13931/49179",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "academic",
+      "license": "Open access (Linguistik online)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read in full. Records vulgar phrasemes found in social media, songs (only the phraseme is used here, no lyrics), dubbing and a dictionary (Agostino 2013): Gh'ho pinn-e e balle, Me ne batto o belin, pòrca bagascia, figgi de na bagascia frusta, te brûxa o cû, Belìn che take away!!.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Linguistik online"
+    },
+    {
       "id": "src-lij-babbel-genoese",
       "title": "The Most Famous Genoese Words And Phrases",
       "url": "https://www.babbel.com/en/magazine/genoese-words-and-phrases",
@@ -1257,6 +1372,22 @@
         "belin"
       ],
       "publisher": "Guida di Genova"
+    },
+    {
+      "id": "src-lij-instantlyitaly",
+      "title": "10 Words That You Can Only Hear in Liguria",
+      "url": "https://instantlyitaly.com/words-you-can-hear-only-in-liguria/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese / Ligurian",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Short learner article; gives rumenta (rubbish, figuratively a bad person). Single popular source.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Instantly Italy"
     },
     {
       "id": "src-lij-italysegreta-parlare",
@@ -1369,6 +1500,22 @@
         "belin"
       ],
       "publisher": "Mentelocale"
+    },
+    {
+      "id": "src-lij-usenet-belin",
+      "title": "(OT LUNGO) Espressione dialettale: BELIN! (thread, it.sport.calcio.genoa)",
+      "url": "https://groups.google.com/g/it.sport.calcio.genoa/c/WK_6tY-qeFs",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Genoese (Genoa, Liguria)",
+      "source_type": "popular-web",
+      "license": "Usenet posts, rights with authors",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Forum thread by fans with a long list of belin idioms. Unsigned, uncorrected spelling, isolated social source: every item taken only from here is unverified. Obscene size jokes and a misogynistic item were not used.",
+      "used_by": [
+        "belin"
+      ],
+      "publisher": "Google Groups"
     },
     {
       "id": "src-lij-wikiquote-proverbi",
@@ -1640,6 +1787,22 @@
       "publisher": "MilanoFree.it"
     },
     {
+      "id": "src-mil-milanofree-derby",
+      "title": "Derby di Milano: bauscia e casciavit (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/eventi/derby-di-milano-bauscia-e-casciavit.html",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read. Derby folklore: bauscia (used by Milan fans for Inter fans, 'chi si dà arie') and casciavit (screwdriver, the reply of Inter fans); labels date from before the 1970s and are cultural, a simplified social image.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree"
+    },
+    {
       "id": "src-mil-milanofree-detti",
       "title": "Detti milanesi: espressioni, proverbi e modi di dire di Milano (MilanoFree)",
       "url": "https://www.milanofree.it/milano/tradizioni/detti-milanesi-espressioni-proverbi-e-modi-di-dire-di-milano.html",
@@ -1655,6 +1818,22 @@
         "pirla"
       ],
       "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-milanofree-ganassa",
+      "title": "Ganassa: significato, origine e differenze con bauscia e sborone (MilanoFree)",
+      "url": "https://www.milanofree.it/milano/tradizioni/ganassa-significato-origine-e-differenze-con-bauscia-e-sborone.html",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read. Ganàssa = show-off, often said with a friendly teasing tone (literally jaw or cheek); bauscia = boasts mostly with words; sborone = stronger, negative. Example 'te set propri on ganàssa'.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "MilanoFree"
     },
     {
       "id": "src-mil-milanofree-gergo",
@@ -1791,6 +1970,38 @@
         "pirla"
       ],
       "publisher": "MilanoFree.it"
+    },
+    {
+      "id": "src-mil-treccani-bauscia",
+      "title": "baùscia (Vocabolario Treccani)",
+      "url": "https://www.treccani.it/vocabolario/bauscia/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese / Lombard, general Italian",
+      "source_type": "historical-dictionary",
+      "license": "Treccani, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Lombard word, invariable: a person who boasts or puts on airs (fanfarone, spaccone); etymology from bauscia 'bava' (spit of rage) and the verb bauscià 'to drool'.",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Treccani"
+    },
+    {
+      "id": "src-mil-treccani-pirla",
+      "title": "pirla (Vocabolario Treccani)",
+      "url": "https://www.treccani.it/vocabolario/pirla/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Milanese / Lombard, general Italian",
+      "source_type": "historical-dictionary",
+      "license": "Treccani, all rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read. Regional pirla = pirlo; vulgar slang for the male genitals; colloquial 'foolish or incompetent person, also an insult', with 'essere un p.', 'fare la figura del p.', 'comportarsi da pirla'; diminutive pirlétto (playful, usually a child).",
+      "used_by": [
+        "pirla"
+      ],
+      "publisher": "Treccani"
     },
     {
       "id": "src-mil-wikiquote-lombardi",
