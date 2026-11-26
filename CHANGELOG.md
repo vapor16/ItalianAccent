@@ -21,7 +21,7 @@ First public release.
 - Claude Code plugin and marketplace manifests; installable ZIP for Claude.ai.
 - Validator (`scripts/validate.py`), pytest suites (structural, linguistic, security, behavioral-format),
   installed-skill AI-assisted evaluation runner and results.
-- Documentation (EN/IT), contribution guide, issue/PR templates, CI workflows (in `ci/workflows/`, pending activation).
+- Documentation (EN/IT), contribution guide, issue/PR templates, GitHub Actions workflows (validate on push/PR, release-check on tags; read-only permissions).
 
 ### Changed
 - Linguistic corrections from an external audit (`research/ITALIANACCENT_RESEARCH.md`): phonetic rules made

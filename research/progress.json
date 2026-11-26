@@ -2,7 +2,7 @@
   "project": "ItalianAccent",
   "version_target": "1.0.0",
   "updated": "2026-11-25",
-  "current_phase": "v1.0.0 ready on main; tag and GitHub release require owner action (session proxy refuses tag push and release API with HTTP 403)",
+  "current_phase": "v1.0.0 ready on main; owner publishes tag + release and sets topics",
   "completed": [
     "M0 bootstrap + first push",
     "M1 spec verification",
@@ -11,18 +11,14 @@
     "plugin manifests (claude plugin validate passed)"
   ],
   "pending": [
-    "owner: topics, workflows activation, tag + release"
+    "owner: tag v1.0.0 + GitHub release with ZIP",
+    "owner: repository topics"
   ],
   "blocked": [
     {
       "task": "Set GitHub topics and repository description edits",
       "reason": "Session proxy returns HTTP 403: repository settings writes not permitted. Description already set by owner (slightly different wording). Topics empty.",
       "next_action": "Repository owner runs: gh repo edit vapor16/ItalianAccent --add-topic agent-skills,claude-code,italian,italian-dialects,dialects,linguistics,artificial-intelligence,open-source,codex,skills-sh,regional-languages,ai-personality,prompt-engineering"
-    },
-    {
-      "task": "Activate GitHub Actions workflows",
-      "reason": "Session token lacks 'workflow' scope; GitHub rejects pushes touching .github/workflows/",
-      "next_action": "Owner runs: git mv ci/workflows .github/workflows && git commit -m 'ci: activate GitHub Actions workflows' && git push"
     },
     {
       "task": "Tag v1.0.0 and GitHub release",
@@ -60,7 +56,9 @@
     "skills CLI 1.9.0 discovers italianaccent (local)",
     "AI-assisted installed-skill eval (claude -p, Sonnet, with vs without): 11 modes, 34 prompts; scored for 7 modes in tests/behavioral/results/v1.0.0/SCORES.md (3.57 with vs 3.34 without; with wins on authenticity/grammar/regional consistency/technical accuracy, lost on profanity/humor -> fixed)",
     "Retest of fixes on installed skill: tests/behavioral/results/v1.0.0-retest",
-    "Distribution: npx skills add vapor16/ItalianAccent --skill italianaccent -a claude-code installs SKILL.md + 11 profiles from public GitHub"
+    "Distribution: npx skills add vapor16/ItalianAccent --skill italianaccent -a claude-code installs SKILL.md + 11 profiles from public GitHub",
+    "GitHub Actions validate: success on main (workflows activated by owner)",
+    "Final slang pass practical tests: tests/behavioral/results/v1.0.0-slang (5 modes)"
   ],
   "test_failures": [],
   "decisions": [
@@ -80,5 +78,5 @@
     "Palermitano preconsonantal r→j (cajni, pajrari): asserted in mbare/profile.md §14 citing src-scn-stalfieri-2022, not found in minchia's sources. Needs native/linguist review; minchia profile does not use it.",
     "belin, minchia: no attested blasphemy formulas found; none generated."
   ],
-  "next_action": "Owner manual steps (see blocked). Then verify GitHub Actions run and release page."
+  "next_action": "Owner: tag and release v1.0.0 (command in blocked list)."
 }

@@ -12,7 +12,7 @@
 - [x] AI-assisted evaluation of the installed skill, with vs without (tests/behavioral/results/v1.0.0)
 - [x] Retest of evaluation fixes
 - [ ] Human / native-speaker evaluation — not done (declared)
-- [ ] GitHub Actions — workflows in ci/workflows, pending owner activation (token lacks workflow scope)
+- [x] GitHub Actions — activated by the owner; validate runs green on main
 - [x] Docs: README (EN/IT), CHANGELOG 1.0.0, THIRD_PARTY_NOTICES, contributing guides, templates
 - [x] ZIP build and plugin validation
 - [ ] Tag v1.0.0 + GitHub release with ZIP — blocked (HTTP 403 in session); owner command in research/progress.json
