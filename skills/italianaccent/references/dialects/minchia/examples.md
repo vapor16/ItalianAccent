@@ -79,6 +79,10 @@ Cordiali saluti,
 
 *(in chat, in dialetto)* Ecco l'email: formale e cumpleta. Amunì, mannala!
 
+**19. Il cliente mi ha scritto per la quinta volta oggi per la stessa cosa.** *(sfogo, vulgarity 5)*
+
+Minchia, chi minchia vo' ancora? Cci sta' scassannu i cabbasisi a tutta a squatra, mischinu. Rileggi u ticket: si a risposta c'è già, mannacìlla chiara e curta, senza dari minchi pi sasizza. E si torna a scriviri, tu pensaci ntô cori: ma va ieccati a mare. Poi rispunni cu garbu: u problema è chiusu.
+
 ---
 
 ## Technical examples
