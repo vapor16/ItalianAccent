@@ -237,6 +237,87 @@
         "bischero"
       ],
       "publisher": "Wikipedia"
+    },
+    {
+      "id": "src-fi-binazzi-detti",
+      "title": "Detti, non parole! Quando il parlante riconosce la lingua",
+      "author": "Neri Binazzi",
+      "url": "https://flore.unifi.it/retrieve/e398c381-4171-179a-e053-3705fe0a4cff/Binazzi_italiano_digitale_2021_detti.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "academic",
+      "license": "Open access (Italiano digitale, 2021)",
+      "redistribution": "facts-only-citation",
+      "reliability": "high",
+      "reliability_notes": "Read in full. Peer-reviewed article built on interviews of the Vocabolario del fiorentino contemporaneo (VFC): speakers' own comments on sayings still in use (capra dei pompieri, fare le calze, avere il tonchio, babbalocco, trattare come un pellaio, ma icché tu sei te?).",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Italiano digitale"
+    },
+    {
+      "id": "src-fi-crusca-parole",
+      "title": "Parole di Firenze dal Vocabolario del fiorentino contemporaneo (presentazione)",
+      "url": "https://accademiadellacrusca.it/sites/www.accademiadellacrusca.it/files/page/2012/12/19/presentazione_parole_di_firenze.pdf",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "institutional",
+      "license": "Accademia della Crusca, not stated",
+      "redistribution": "facts-only-citation",
+      "reliability": "medium",
+      "reliability_notes": "Slides of the VFC project with interview excerpts; used only to corroborate the capra dei pompieri comparison (text layout is partly garbled in extraction).",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "Accademia della Crusca"
+    },
+    {
+      "id": "src-fi-florencecity-vocab",
+      "title": "Il significato delle parole fiorentine dalla A alla I (FlorenceCity)",
+      "url": "https://florencecity.it/il-significato-delle-parole-fiorentine-dalla-a-alla-i",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read in full. Local vocabulary page (letters A-I) with slang, insults and exclamations and sample sentences. Author unnamed; items only here are unverified. Slurs listed there (homophobic, ethnic) were deliberately not used.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "FlorenceCity"
+    },
+    {
+      "id": "src-fi-kano66-vocab",
+      "title": "Vocabolario fiorentino (Parole pensate)",
+      "url": "https://kano66.wordpress.com/vocabolario-fiorentino/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence, Tuscany)",
+      "source_type": "popular-web",
+      "license": "Blog, rights with author",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Read in full. Personal blog glossary, close in content to FlorenceCity (not treated as independent). Slurs listed there were not used.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "WordPress blog"
+    },
+    {
+      "id": "src-fi-lastraonline-modi",
+      "title": "Proverbi e modi di dire fiorentini (LastraOnline)",
+      "url": "https://www.lastraonline.it/p/proverbi-modi-di-dire-fiorentini.php",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Florentine (Florence area)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Local-interest page with modi di dire, exclamations and a list of vulgar sayings. Only the first half of the page was read.",
+      "used_by": [
+        "bischero"
+      ],
+      "publisher": "LastraOnline"
     }
   ]
 }

@@ -1836,6 +1836,97 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "babbalocco",
+      "term": "babbalocco",
+      "variants": [
+        "babbalèo"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sciocco, poveretto",
+      "meaning_en": "simpleton, poor soul",
+      "register": "familiar",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "l'è un babbalocco",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-detti",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi's informants say it is still used ('l'è un babbalocco', a poor soul); kano66 lists the near synonym 'babbalèo' (sciocco, 'va' 'ia babbalèo'). Affectionate teasing among peers."
+    },
+    {
+      "id": "ma-icche-tu-sei-te",
+      "term": "Ma icché tu sei te?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "e tu chi ti credi di essere?",
+      "meaning_en": "who do you think you are?",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Ma va' (v)ia, ma icché tu sei te?",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "From the VFC interview quoted by Binazzi ('Ma va' (v)ia, ma icché tu sei te?'), used to cut down someone who is posing; the speaker follows with the boast 'io fo le calze a te'. Complements the existing 'ma icché tu fai?'."
+    },
+    {
+      "id": "venvia",
+      "term": "venvia",
+      "variants": [
+        "oh venvia",
+        "unnè-vvéro"
+      ],
+      "category": "interjection",
+      "meaning_it": "ma va', non è vero (incredulità)",
+      "meaning_en": "no way (disbelief)",
+      "register": "familiar",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Florentine disbelief marker ('Oh venvia!'), listed by the glossaries; kano66 also gives 'unnè-vvéro'. Cheerful or sarcastic, depends on tone."
+    },
+    {
+      "id": "oh-bellino",
+      "term": "Oh bellino!",
+      "variants": [
+        "badalui"
+      ],
+      "category": "interjection",
+      "meaning_it": "ironico: ci stai stancando",
+      "meaning_en": "ironic: you are wearing me out",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Florence (Florentine)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Ironic 'bellino' with a drawn-out vowel ('Oh bellinooo...') for someone who is tiring; kano66 also lists 'badalui/badalei' (ironic 'look at him/her')."
     }
   ]
 }

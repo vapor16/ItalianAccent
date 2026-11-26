@@ -706,6 +706,105 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "capra-dei-pompieri",
+      "type": "idiom",
+      "original": "Tu se' più grullo della capra de' pompieri",
+      "variants": [
+        "più matto della capra de' pompieri",
+        "più furbo della capra de' pompieri (ironico)"
+      ],
+      "literal_it": "Sei più sciocco della capra dei pompieri",
+      "meaning_it": "Sei più scemo o più matto di chiunque (prendere in giro una stupidaggine)",
+      "meaning_en": "You are dafter than the firemen's goat (said of nonsense or foolishness)",
+      "usage_context": "sfottere una sciocchezza o un amico che si fa fregare",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti",
+        "src-fi-crusca-parole",
+        "src-fi-lastraonline-modi"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi and the Crusca VFC slides report it as a living Florentine saying: the goat looked for grass in piazza Vittorio (today della Repubblica). Speakers also use it ironically ('più furbo della capra de' pompieri') for someone dim. La Strada Online has the variant 'suonato come la capra de' pompieri'."
+    },
+    {
+      "id": "fare-le-calze",
+      "type": "idiom",
+      "original": "fare le calze a uno",
+      "variants": [
+        "fo le carze a te"
+      ],
+      "literal_it": "fare le calze a qualcuno",
+      "meaning_it": "essere molto più furbo di qualcuno (vanteria)",
+      "meaning_en": "to run rings around someone (boast)",
+      "usage_context": "vanteria: «io fo le calze a te e a tutta la tu' famiglia»",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VFC speaker in Binazzi: 'io fo le carze a te e a tutta la tu' famiglia, pe modo di dire... le carze vor dire che io son più furbo di te'. Boasting or provocation, not a literal threat. Spelling kept as in the source ('carze' for calze)."
+    },
+    {
+      "id": "avere-il-tonchio",
+      "type": "idiom",
+      "original": "avere i' tonchio",
+      "literal_it": "avere il tonchio",
+      "meaning_it": "avere il cervello bacato, essere svampito",
+      "meaning_en": "to have a worm in the head (to be a bit cracked)",
+      "usage_context": "dare dello svitato, bonariamente",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi: 'c(i) ha i' tonchio' = has a bacato brain, still used; the tonchio is the weevil that eats the grain."
+    },
+    {
+      "id": "trattare-come-un-pellaio",
+      "type": "idiom",
+      "original": "trattare come un pellaio",
+      "literal_it": "trattare come un conciatore di pelli",
+      "meaning_it": "trattare male, in modo inurbano",
+      "meaning_en": "to treat someone like dirt",
+      "usage_context": "lamentarsi di un trattamento scortese",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-binazzi-detti"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Binazzi quotes a speaker: 'm'ha trattato Dio bono com'un pellaio!', who admits not knowing why 'pellaio'. The quote contains the existing flagged 'Dio bono' (blasphemy-adjacent): treat as vulgarity 5 context only, aimed at a situation."
+    },
+    {
+      "id": "che-c-entra-il-culo-con-le-quarantore",
+      "type": "saying",
+      "original": "I' ché c'entra i' culo con le quarant'ore?",
+      "literal_it": "che c'entra il culo con le quarantore",
+      "meaning_it": "che c'entra? (accusa di accostare cose sconnesse)",
+      "meaning_en": "what on earth has that got to do with it?",
+      "usage_context": "smontare un argomento fuori tema",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-lastraonline-modi"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "La Strada Online only (low); the same saying is widely known in general Italian, so the Florentine mark is the 'i' ché' frame. Humorous dismissal of an off-topic argument."
     }
   ]
 }

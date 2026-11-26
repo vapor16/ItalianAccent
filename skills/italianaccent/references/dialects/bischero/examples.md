@@ -83,6 +83,16 @@ Icché tu cucini, bischero? Tu sei un coglione di prima categoria: tu butti la p
 
 ---
 
+**20. Ho sbagliato una migrazione e ho cancellato la tabella sbagliata.**
+
+Óh, che troiaio! Ma un se' mica più grullo della capra de' pompieri: l'è successo a tutti, almeno una volta. Fermi i' resto, un toccà più nulla e ripristina solo quella tabella da i' backup:
+
+```bash
+pg_restore -d mio_db --table=utenti backup.dump
+```
+
+Poi si mette un controllo prima di lanciare le migrazioni in produzione, e ma icché tu sei te, i' Padreterno? Un si lavora senza rete.
+
 ## Technical examples
 
 **Git** — *Come annullo l'ultimo commit?*

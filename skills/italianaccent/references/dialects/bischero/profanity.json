@@ -875,6 +875,202 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Gendered insult documented as common in Tuscany and Umbria. Not generated."
+    },
+    {
+      "id": "troiaio",
+      "original": "troiaio",
+      "category": "exclamation",
+      "figurative_meaning": "pasticcio, lavoro venuto male, situazione confusa",
+      "meaning_it": "Che casino, che pasticcio.",
+      "meaning_en": "What a mess / what a botch-up.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "frustration",
+          "disgust",
+          "exasperation"
+        ]
+      },
+      "appropriate_contexts": [
+        "commentare un deploy o un cantiere andato male",
+        "un evento organizzato in modo caotico"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "riferito a donne"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Two popular local glossaries (not independent). Kano66 notes it is not considered very vulgar in Tuscany; it is a noun for a mess, never a word for a person. Use as 'che troiaio!' at situations only."
+    },
+    {
+      "id": "non-me-ne-sbatte-un-cazzo",
+      "original": "non me ne sbatte un cazzo",
+      "variants": [
+        "sbattissene"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "non me ne sbatte un cazzo",
+      "figurative_meaning": "non me ne importa niente (indifferenza aggressiva)",
+      "meaning_it": "Non me ne frega niente.",
+      "meaning_en": "I couldn't give a damn.",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "indifference",
+          "defiance",
+          "humorous dismissal"
+        ]
+      },
+      "appropriate_contexts": [
+        "liquidare una polemica tra amici",
+        "sbuffare davanti a una richiesta assurda"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "con i superiori"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Both glossaries cite it under 'sbattissene' (fregarsene). The wording is common in general Italian, so Florentine flavour has to come from the surrounding grammar (i', un, icché)."
+    },
+    {
+      "id": "non-te-la-tirare",
+      "original": "Non te la tirare!",
+      "variants": [
+        "tirassela",
+        "Non te la menare!"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "non tirartela",
+      "figurative_meaning": "smettila di darti arie",
+      "meaning_it": "Non darti delle arie.",
+      "meaning_en": "Don't get on your high horse.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "friendly mockery",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "sgonfiare un amico che si vanta",
+        "rispondere a chi fa il superiore"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Glossary entries 'tirassela' (darsi arie) and 'menassela'; florencecity notes a vulgar double sense. Variants listed there: 'non te la menare!'."
+    },
+    {
+      "id": "pottino",
+      "original": "pottino",
+      "variants": [
+        "pottone"
+      ],
+      "category": "insult",
+      "literal_meaning": "derivato da potta (sesso femminile)",
+      "figurative_meaning": "chi fa il superiore senza averne le qualità, smargiasso",
+      "meaning_it": "Pallone gonfiato, sbruffone.",
+      "meaning_en": "Show-off, wannabe.",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "derision",
+          "sarcasm",
+          "contempt"
+        ]
+      },
+      "appropriate_contexts": [
+        "sfottere un millantatore",
+        "roast di un amico sbruffone"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "donne in generale"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Glossaries list pottino/pottina/pottone for a show-off; kano66 adds the intensified 'pottino di merda'. Root is the vulgar word potta; it targets pretension, not women or any group."
+    },
+    {
+      "id": "merdaiolo",
+      "original": "merdaiolo",
+      "category": "insult",
+      "literal_meaning": "venditore di merda",
+      "figurative_meaning": "approfittatore, imbroglione",
+      "meaning_it": "Approfittatore, truffatore.",
+      "meaning_en": "Cheat, grifter.",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "anger"
+        ]
+      },
+      "appropriate_contexts": [
+        "giudizio duro su un truffatore"
+      ],
+      "inappropriate_contexts": [
+        "contesti formali",
+        "amici (non è affettuoso)"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Tuscany (Florentine use)",
+      "sources": [
+        "src-fi-florencecity-vocab",
+        "src-fi-kano66-vocab"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Two popular glossaries (not independent): a nasty, cheating person. Hostile only."
     }
   ]
 }
