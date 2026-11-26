@@ -1464,6 +1464,184 @@
       "provenance": "unverified",
       "verification_status": "unverified",
       "notes": "Common Roman curse; this profile found no primary source read in full. Zanazzo has the related 'Chi ammazza, mòre ammazzato'."
+    },
+    {
+      "id": "da-ar-cazzo",
+      "original": "dà ar cazzo",
+      "category": "vulgar-idiom",
+      "literal_meaning": "dare al cazzo",
+      "figurative_meaning": "be intensely annoying or unlikable to someone",
+      "meaning_it": "risultare antipatico, stare sul cazzo a qualcuno",
+      "meaning_en": "to rub someone up the wrong way, to get on someone's nerves",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "contempt",
+          "dislike"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "venting at a bug or a bad day",
+        "complaining about an annoying colleague or tool"
+      ],
+      "inappropriate_contexts": [
+        "formal emails",
+        "customer support",
+        "vulgarity 0-2",
+        "said to the person who is the target"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Quer bug me dà ar cazzo.",
+          "translation_it": "Quel bug mi sta sul cazzo.",
+          "translation_en": "That bug really gets on my nerves.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dà (intransitive loc.): \"dà ar cazzo, risultare antipatico a qlcu.\" Use with a clitic for the person annoyed (me dà ar cazzo) and aim it at bugs, tools and absent third parties."
+    },
+    {
+      "id": "te-posso-da-der-tu",
+      "original": "te posso dà der tu?",
+      "category": "threat-joking",
+      "figurative_meaning": "mock-polite warning shot before telling someone off",
+      "meaning_it": "posso darti del tu? (domanda ironica che precede un'invettiva: \"Ma va' a quel paese!\")",
+      "meaning_en": "may I address you informally? (ironic question that announces an insult)",
+      "intensity": 3,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "provocation",
+          "sarcasm",
+          "irritation"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "venting at a bug or a bad day",
+        "mock-formal opener before a roast"
+      ],
+      "inappropriate_contexts": [
+        "formal emails",
+        "with elders"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Te posso dà der tu? Ma va' a quel paese!",
+          "provenance": "attested"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dà: ironic question that precedes an invective; the source example continues \"Ma va' a quel paese!\". Works as mock politeness before the real insult; the insult itself can be a level 3-4 phrase from this profile."
+    },
+    {
+      "id": "da-via-er-culo",
+      "original": "dà via er culo",
+      "category": "vulgar-idiom",
+      "literal_meaning": "dare via il culo",
+      "figurative_meaning": "abase yourself to get ahead",
+      "meaning_it": "umiliarsi, prostrarsi per ottenere uno scopo o un beneficio",
+      "meaning_en": "to grovel, to demean oneself to get something",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "contempt",
+          "sarcasm",
+          "disapproval"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "venting at a bug or a bad day",
+        "mocking office sycophancy"
+      ],
+      "inappropriate_contexts": [
+        "formal emails",
+        "customer support",
+        "vulgarity 0-2"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Pe' 'sta promozione sarebbe capace de dà via er culo.",
+          "translation_it": "Per questa promozione sarebbe capace di umiliarsi.",
+          "translation_en": "He'd grovel for this promotion.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dà: \"dà via er culo, umiliarsi per ottenere uno scopo o un beneficio\". Stronger and more sarcastic than leccaculo; describes the act, not the person."
+    },
+    {
+      "id": "esse-un-dito-ar-culo",
+      "original": "esse un dito ar culo",
+      "category": "insult",
+      "literal_meaning": "essere un dito nel culo",
+      "figurative_meaning": "nagging, clingy pest",
+      "meaning_it": "essere fastidioso e petulante (detto di chi rompe)",
+      "meaning_en": "to be a pest, annoyingly pushy",
+      "intensity": 3,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "friendly mockery",
+          "irritation",
+          "amusement"
+        ]
+      },
+      "appropriate_contexts": [
+        "banter between friends",
+        "venting at a bug or a bad day",
+        "ribbing a nagging friend"
+      ],
+      "inappropriate_contexts": [
+        "formal emails",
+        "customer support",
+        "vulgarity 0-2",
+        "aimed at a boss or elder"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "geographical_area": "Rome (Romanesco), youth slang (giov. in VRC)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dito, marked giov. (youth usage): \"esse un dito ar culo, detto di chi si comporta in modo fastidioso e petulante\". Friendly-mockery register among peers; do not aim at the user."
     }
   ]
 }

@@ -4097,6 +4097,235 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "daje-gobbo",
+      "term": "daje, gobbo!",
+      "variants": [
+        "e daje, gobbo!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "esclamazione di nervosismo davanti al ripetersi di un'azione fastidiosa",
+      "meaning_en": "ugh, not again! (nervous exclamation when an annoying action repeats)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Oggi ho beccato n'antra murta – (E) daje! Ma vòi stà attento?",
+          "provenance": "attested"
+        },
+        {
+          "text": "E daje, gobbo! 'Sto test è rosso n'antra vorta.",
+          "translation_it": "Uffa! Questo test è di nuovo rosso.",
+          "translation_en": "Ugh! This test is red again.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, dàje1: \"daje, gobbo!\" is listed with \"(E) daje!\" as impatience at an irritating repeat. Pairs with aridaje and daje e aridaje (daje e daje, a forza di insistere, provoca fastidio)."
+    },
+    {
+      "id": "a-chi-lo-dici",
+      "term": "a chi lo dici!",
+      "variants": [
+        "a chi lo diçi!"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "lo dici proprio a me, che sono d'accordo con te (tutti lo sappiamo)",
+      "meaning_en": "you're telling me! (I agree 100%)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "Io quella riunione nun la reggo proprio. – A chi lo dici!",
+          "translation_it": "Io non sopporto quella riunione. – Lo dici a me!",
+          "translation_en": "I can't stand that meeting. – Tell me about it!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dì: example \"Io quella nun la reggo proprio – A chi lo diçi!\". The same entry lists che me diçi! (disbelief) and nun te dico! (delight or ironic disappointment)."
+    },
+    {
+      "id": "che-me-dici",
+      "term": "che me dici!",
+      "variants": [
+        "che me diçi!",
+        "ma dimme te!",
+        "nun te dico!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "ma dai!, davvero! (incredulità, meraviglia di fronte a una notizia inattesa)",
+      "meaning_en": "no way!, you don't say! (disbelief or wonder at unexpected news)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "Er server è tornato su da solo. – Che me dici!",
+          "translation_it": "Il server è tornato su da solo. – Ma dai!",
+          "translation_en": "The server came back by itself. – No way!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dì: \"che me diçi!, escl. di incredulità, di meraviglia, di stupore\". Related in the same entry: si te dico io! (wonder), ma dimme te! (surprise or empathy), nun te dico! (great satisfaction or, ironically, disappointment)."
+    },
+    {
+      "id": "me-dici-un-prospero",
+      "term": "me dici 'n prospero!",
+      "variants": [
+        "me diçi un prospero!"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "dici bene, magari! (sottolinea la difficoltà di ciò che si chiede o si afferma)",
+      "meaning_en": "easier said than done! (underlines how hard the wish or request is)",
+      "register": "ironic",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "Dovemo finì pe' domani. – Me dici 'n prospero!",
+          "translation_it": "Dobbiamo finire per domani. – Magari!",
+          "translation_en": "We have to finish by tomorrow. – Dream on!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dì: \"me diçi un prospero!\", sottolineando la difficoltà di ciò che viene affermato o richiesto (example: wishing for a year of holidays in the Caribbean). Dry sarcasm for unrealistic requests, deadlines included."
+    },
+    {
+      "id": "che-te-dole",
+      "term": "che te dole?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "che ti duole?, domanda ironica a chi si lamenta continuamente senza motivo",
+      "meaning_en": "what hurts?, ironic question to a perpetual whiner",
+      "register": "ironic",
+      "vulgarity": 1,
+      "examples": [
+        {
+          "text": "Che te dole? Er deploy ha funzionato.",
+          "translation_it": "Che ti duole? Il deploy ha funzionato.",
+          "translation_en": "What hurts? The deploy worked.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dolé(re): \"che te dole?, domanda iron. rivolta a chi si lamenta in continuazione senza motivo\". Sarcasm that stays friendly between peers."
+    },
+    {
+      "id": "che-te-fa-male-er-ditino",
+      "term": "che te fa male er ditino?",
+      "variants": [
+        "metteje er ditino in bocca"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ti fa male il ditino?, che non fai mai una telefonata (rimprovero sarcastico)",
+      "meaning_en": "does your little finger hurt, that you never call? (sarcastic reproach)",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry ditino: sarcastic reproach to someone who never calls (sarcastic use of ditino for 'finger'). Same entry: 'metteje er ditino in bocca' = sarcastic phrase to unmask someone playing the innocent child."
+    },
+    {
+      "id": "che-te-ce-diverti",
+      "term": "che te ce diverti?",
+      "variants": [
+        "che te çe diverti?",
+        "me ce diverto troppo a fatte arrabbià"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "ma ti diverti a dare fastidio?, domanda ironica a chi ti disturba di proposito",
+      "meaning_en": "are you enjoying this?, ironic jab at someone deliberately annoying",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry divertìccese: 'che te çe diverti?, detto iron. a chi dà fastidio agli altri'; reply form: me ce diverto troppo a fatte arrabbià. Gives a ready-made comic exchange between friends."
+    },
+    {
+      "id": "e-che-t-ho-detto-cotica",
+      "term": "e che t'ho detto cotica?",
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "e che ti ho detto?, a commento di una reazione eccessivamente piccata o polemica",
+      "meaning_en": "what did I even say?, comment on an over-the-top touchy reaction",
+      "register": "ironic",
+      "vulgarity": 1,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dì: 'e che t'ho detto cotica?'; the entry also records a loc. for an extremely touchy person (permaloso) built on dì cotica. Use for deflating sulky overreaction; the touchy-person idiom itself is not quoted because the printed form is ambiguous."
+    },
+    {
+      "id": "hai-voja-a-di",
+      "term": "hai voja a dì",
+      "variants": [
+        "hai voja a discore"
+      ],
+      "category": "colloquial-expression",
+      "part_of_speech": "phrase",
+      "meaning_it": "per quanto tu dica (non ti accoglie il suo convincimento): hai voja a dì, io co' quello nun ce parlo",
+      "meaning_en": "say what you like (it won't change my mind)",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "examples": [
+        {
+          "text": "Hai voja a dì, er cliente nun cambia idea.",
+          "translation_it": "Puoi dire quello che vuoi, il cliente non cambia idea.",
+          "translation_en": "Say what you like, the client won't change his mind.",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entries dì and discóre(re): 'hai voja a dì' / 'hai voja a discore' introduce the stance that no amount of persuasion will work; related to avoja! (loads, you bet)."
     }
   ]
 }

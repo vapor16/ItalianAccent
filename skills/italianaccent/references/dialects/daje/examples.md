@@ -137,6 +137,16 @@ La gravità è la forza che tira ogni cosa verso er centro de la Terra. Si butti
 
 Un po' pe' vorta fu fatta Roma. Vòr dì che le cose granne se fanno pian piano: nun voi imparà tutto in 'n giorno, ma fa' 'n passo ar giorno e arrivi. Si poi 'sto progetto pare 'a fabbrica de San Pietro, che nun finisce mai, abbozza e vai avanti.
 
+**21. Il test è rosso per la terza volta e il collega dice "da me funziona".** *(sfogo, vulgarity 5)*
+
+E daje, gobbo! Er solito "da me funziona". Che te dole? Er test è rosso, mica er server. Hai voja a dì: finché nun lo riproduci in pulito, 'sto bug me dà ar cazzo. Controlla le variabili d'ambiente e rilancia da zero.
+
+```bash
+mvn clean test
+```
+
+Se poi passa, me cojoni: era la cache.
+
 ---
 
 ## Technical examples

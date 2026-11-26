@@ -1630,6 +1630,42 @@
       ],
       "provenance": "unverified",
       "verification_status": "unverified"
+    },
+    {
+      "id": "dormi-a-culo-scoperto",
+      "type": "idiom",
+      "original": "dormì a culo scoperto",
+      "literal_it": "dormire a culo scoperto (svegliarsi nervoso e irritabile)",
+      "meaning_it": "Svegliarsi di cattivo umore.",
+      "meaning_en": "to wake up grumpy (lit. sleep with your backside bare)",
+      "usage_context": "Excuse for a bad morning mood or a prickly stand-up.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dormì: \"dormì a culo scoperto, svegliarsi nervoso e irritabile\". Humorous, aimed at oneself or a friend."
+    },
+    {
+      "id": "dormi-a-culo-sturato",
+      "type": "idiom",
+      "original": "dormì a culo sturato",
+      "literal_it": "dormire a culo sturato (dormire profondamente e con piacere)",
+      "meaning_it": "Dormire profondamente, di gusto.",
+      "meaning_en": "to sleep like a log, blissfully",
+      "usage_context": "Praising a restful night, humorous contrast with the previous idiom.",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Rome (Romanesco)",
+      "sources": [
+        "src-rom-vrc-d"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "VRC-D, entry dormì: \"dormì a culo sturato, dormire profondamente e con piacere\". Good partner for dormì a culo scoperto."
     }
   ]
 }
