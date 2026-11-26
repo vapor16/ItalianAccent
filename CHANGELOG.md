@@ -27,6 +27,10 @@ First public release.
 - Linguistic corrections from an external audit (`research/ITALIANACCENT_RESEARCH.md`): phonetic rules made
   lexically constrained, contemporary speech by default, corrected Apulian metaphony statement, Turre expressions
   added to Mena with Scorrano/Torrepaduli provenance, personality guidance against repetition and caricature.
+- Final colloquial pass: contemporary slang, vulgar idioms and banter for all eleven modes (e.g. the Neapolitan
+  *bucchino* family in Wallera; *minchia* constructions in Minchia; VRC-D Romanesco banter in Daje; Garrisi
+  *cazzu* compounds in Mena; *bale* family in Potà; *bauscia/casciavit* in Pirla), each with pragmatic uses and
+  sources; community-sourced items are marked `unverified`.
 
 ### Known limitations
 - All profiles are `experimental`: no native-speaker review yet.
