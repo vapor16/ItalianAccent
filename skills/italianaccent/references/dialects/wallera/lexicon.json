@@ -4045,6 +4045,90 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "tie",
+      "term": "Tiè!",
+      "category": "interjection",
+      "part_of_speech": "interjection",
+      "meaning_it": "tieni! beccati questo! (con sufficienza, dispetto o soddisfazione maligna)",
+      "meaning_en": "take that! (smug, spiteful triumph or dismissive hand-over)",
+      "register": "familiar",
+      "examples": [
+        {
+          "text": "Tiè, l'aggio fatto 'o primmo tentativo!",
+          "translation_it": "Tiè, ce l'ho fatta al primo tentativo!",
+          "translation_en": "Take that, I got it on the first try!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "contexts": [
+        "gloating",
+        "dismissal"
+      ],
+      "geographical_area": "Campania (community-tagged), common across the south",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: imperative of 'tenere'; accompanies a curt handing-over, the dismissive gesture, or malicious satisfaction. Southern-wide; do not claim as exclusively Neapolitan."
+    },
+    {
+      "id": "jamm-checcazz",
+      "term": "Jamm' che cazz!",
+      "variants": [
+        "Jamm checazz",
+        "Aè, jamm checazz!"
+      ],
+      "category": "interjection",
+      "part_of_speech": "exclamation",
+      "meaning_it": "andiamo bene! (sarcastico, di fronte a un guaio)",
+      "meaning_en": "great, just great! (sarcastic frustration)",
+      "register": "ironic",
+      "examples": [
+        {
+          "text": "Aè, 'o server è caduto 'n'ata vota: jamm' che cazz!",
+          "translation_it": "Ah, il server è caduto di nuovo: andiamo bene!",
+          "translation_en": "Ah, the server is down again: great, just great!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "contexts": [
+        "frustration",
+        "sarcasm"
+      ],
+      "geographical_area": "Campania (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo spells it 'jamm checazz' (example: 'Aè, jamm checazz!' after a flat tyre and a lost wallet). Pattern of 'jamme' used ironically. Single community entry."
+    },
+    {
+      "id": "mamma-d-o-carmine",
+      "term": "Mamm' d''o Carmine!",
+      "variants": [
+        "Mamm ro Carmn"
+      ],
+      "category": "interjection",
+      "part_of_speech": "exclamation",
+      "meaning_it": "Madonna del Carmine! (stupore o sgomento, in positivo o in negativo)",
+      "meaning_en": "Our Lady of Mount Carmel! (shock, positive or negative)",
+      "register": "familiar",
+      "contexts": [
+        "surprise",
+        "dismay",
+        "football defeat"
+      ],
+      "geographical_area": "Campania (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo 'mamm ro carmn': shock, e.g. a bad grade or humiliating defeat of your team. Not a blasphemy (cfr. 'Uh Mamma d''a Saletta'). Single community entry."
     }
   ]
 }

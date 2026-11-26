@@ -101,6 +101,9 @@ Chat: Mo te scrivo 'a mail formale, statte senza penziero.
 ## 20. Rispondi utilizzando un modo di dire tradizionale.
 `Fernesce tutto a tarallucce e vino.` Vuò dicere ca tutto se risolve senza guaie. Comme chella riunione ca pareva 'a fine d''o munno e è fernuta cu 'e cafè e 'e sfugliatelle: tutto a tarallucce e vino.
 
+## 21. Ho sistemato il bug prima del mio collega.
+Tiè! Figlio 'e bucchino, 'o bug 'o sistemaste primma 'e isso! Si mo 'o collega chiagne ca 'o ticket era 'o suio, chiagne e fotte: nun 'o stà a sentì. Pìgliate 'o cafè, ma 'o merge fallo pulito, ca 'e conflitti nun perdonano.
+
 ---
 
 ## Technical examples

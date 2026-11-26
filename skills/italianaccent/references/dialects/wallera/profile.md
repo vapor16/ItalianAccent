@@ -135,6 +135,8 @@ Technical terms stay in English/Italian inside Neapolitan syntax: `'o container`
 - `Chiste so' nummere!` — "this is unbelievable" (play the numbers in the lotto). [src-nap-wikiquote-modididire]
 - `E bravo 'o fesso!` — sarcastic applause. `Statte buono` — bye/take care. `Crisce santo!` — bless you. [src-nap-wikiquote-modididire]
 - Fillers: `mo`, `e mo?`, `vabbuò` (ok, fine), `dico i'`, `sient'a mme`, `'o vvi'?` (see?).
+- `Tiè!` — "take that!", smug triumph or curt brush-off (southern-wide, not only Naples). [src-slengo-campania-slang, unverified]
+- `Jamm' che cazz!` — sarcastic "great, just great" at a mishap; `Mamm' d''o Carmine!` — shock, good or bad (a heavy football defeat). [src-slengo-campania-slang, unverified]
 
 ## 9. Profanity palette by vulgarity level
 
@@ -145,6 +147,14 @@ Friendly vs hostile matters more than the word: the same `strunzo` is a laugh be
 - **3** — vulgar but common: `me staje abbuffanno 'a uallera`, `m'hê fatto 'a uallera a pezzaiola`, `'e merda`, `strunzià`, `cacasotto`, `cuglione`, `mannaggia l'anema toja`.
 - **4** — strong: `strunzo`, `cazzo` (and `a faccia d''o cazzo!`, `coppole 'e cazzo`, `scassacazzo`), `va' fa' 'nculo`, `'o frate d''o cazzo`, `scarda 'e cesso`, `puortame a soreta`.
 - **5** — very strong / taboo: `sfaccimma` (*che sfaccimma vaje truvanno?*), `ommo 'e sfaccimma`, `figlio 'e zoccola`, `pucchiacca`, curses on the dead (`mannaggia 'e muorte tuoje`, `chi t'è muorto`) — the gravest Neapolitan insult; **no blasphemies are generated**: the only blasphemy entry in `profanity.json` (*mannaggia 'a Maronna*) is unverified and has `generation_allowed: false`.
+- **Bucchino family (Campania-tagged, vulgarity 4-5; community sources only).** `bucchino` literally means fellatio, but the idioms are figurative: `Va' a fa' quatt bucchin!` = crude "get lost" (5); `Famm' nu bucchin!` = boast / "bow down, I won" (4, banter after beating a friend); `Ce fatt 'nu bucchin!` = "you're wearing me out" (4); `Figlio 'e bucchino!` = admiring "sly devil", also a chat opener (4); `Bucchin' 'e mammeta!` = maternal insult, hostile only (5). Not documented for Bari: never transplant it into `trimone`. The fan formula *Ciata fa' solo nu bucchin'* is attested only as a flag title and a social caption; its first word is undecoded, so it is not generated.
+- **Combinations & situations (which construction for which situation).** Pick one per answer.
+  - Brushing someone off: `Salutame 'a soreta!` (sarcastic, 4) < `Va' a fa' quatt bucchin!` (5) < curses on the dead (taboo).
+  - Boasting after a win or a fixed bug: `Tiè!` or `Famm' nu bucchin!`; admiring a friend's cunning: `Figlio 'e bucchino!`.
+  - Annoyed at a pest: `scassambrella` (2) -> `Ce fatt 'nu bucchin!` (4) -> `me staje abbuffanno 'a uallera`; blaming a culprit in a rant: `Mocc' a mammeta!`.
+  - Hypocritical whining (referees, colleagues): `Chiagne e fotte.`; a useless person or tool: `Nun si' bbuono né pe' bevere né pe' sciacquà.`
+  - Sarcastic shrug at a mishap: `Jamm' che cazz!` / `Mamm' d''o Carmine!`.
+  - Pairings such as `Tiè! ... Figlio 'e bucchino!` are AI-illustrative; all items above are community-sourced and unverified.
 - Never generate slurs (`ricchione` etc., `generation_allowed: false`). Friendly vulgarity targets the situation (the bug, the day), hostile vulgarity is only for clearly requested venting about a third party and never for the user.
 [src-nap-wikiquote-modididire, src-nap-andreoli-1887, src-nap-itwiki-misc, src-nap-wiktionary]
 
@@ -179,6 +189,7 @@ Friendly vs hostile matters more than the word: the same `strunzo` is a laugh be
 - **Rhetorical questions:** *Ma che m'ammacche?* (what fairy tale are you telling me?), *Tu ch'accucchie?* (what are you piecing together?). [src-nap-wikiquote-modididire]
 - **Smorfia/lotto references:** *Chiste so' nummere!* — an absurd event is worth playing in the lotto. [src-nap-wikiquote-modididire]
 - **Theatrical fatalism** (*Lassa correre 'o munno comme va*) and **understatement** of disasters (*È na varca scassata* — it's a wrecked boat).
+- **Pragmatic uses** (friendly mockery, boasting, provocation, sarcasm, humorous dismissal): `Famm' nu bucchin!`, `Figlio 'e bucchino!`, `Salutame 'a soreta!`, `Chiagne e fotte.`, `Jamm' che cazz!`; see the situations note in section 9. [src-slengo-bucchino-family, src-slengo-campania-slang, unverified]
 - Humor is about situations and language, never about people from Naples (no "pizza, mandolino, camorra" stereotypes).
 
 ## 12. Intensity guide

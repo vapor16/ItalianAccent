@@ -4,6 +4,7 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 
 | ID | Title | Author / Publisher | Type | Reliability | License / redistribution | URL |
 |---|---|---|---|---|---|---|
+| `src-glosbe-nap-bocchino` | Glosbe: bocchino in Neapolitan | Glosbe (community dictionary) | community-dictionary | low | Mixed (aggregated; see site) (facts-only-citation) | <https://it.glosbe.com/it/nap/bocchino> |
 | `src-nap-andreoli-1887` | Vocabolario napoletano-italiano | Raffaele Andreoli / Paravia, Torino; hosted on Internet Archive (PHAIDRA scan) | historical-dictionary | high | Public domain (public-domain) | <https://archive.org/details/Vocabolario-napoletano-italiano-PHAIDRA_o_84154> |
 | `src-nap-dambra-1873` | Vocabolario napolitano-toscano domestico di arti e mestieri | Raffaele D'Ambra / Napoli (a spese dell'autore); digitized by Google, hosted on Internet Archive | historical-dictionary | high | Public domain (public-domain) | <https://archive.org/details/vocabolarionapo00ambrgoog> |
 | `src-nap-enwiki-language` | Neapolitan language | Wikipedia contributors / Wikipedia (en) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wikipedia.org/wiki/Neapolitan_language> |
@@ -17,5 +18,9 @@ Generated from `research/sources.json` by `scripts/validate.py --integrate`. Mea
 | `src-nap-wikiquote-modididire` | Modi di dire napoletani | Wikiquote contributors / Wikiquote (it) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Modi_di_dire_napoletani> |
 | `src-nap-wikiquote-proverbi` | Proverbi napoletani | Wikiquote contributors / Wikiquote (it) | openly-licensed | medium | CC BY-SA 4.0 (open-license-attribution) | <https://it.wikiquote.org/wiki/Proverbi_napoletani> |
 | `src-nap-wiktionary` | Wiktionary Neapolitan and Italian entries (machine-readable extract by kaikki.org) | Wiktionary contributors; extraction by Tatu Ylonen (wiktextract) / kaikki.org / Wiktionary (en) | openly-licensed | medium | CC BY-SA 4.0 / GFDL (Wiktionary) (open-license-attribution) | <https://kaikki.org/dictionary/Neapolitan/> |
+| `src-slengo-bucchino-family` | Slengo: bucchino and related entries (bucchino, bucchin e mammt, bucchinaro, figlie e bucchin, ce fatt 'nu bucchin, kella bucchin e mammt) | Slengo (user-contributed slang dictionary) | community-dictionary | low | All rights reserved (site terms) (facts-only-citation) | <https://slengo.it/define/bucchino> |
+| `src-slengo-campania-slang` | Slengo: Campania slang entries (Tie, jamm checazz, mamm ro carmn, salutame a' soreta, mocc a mamm't, scassambrella, chiagni e fotti, né pe' bevere né pe' sciacqua', pesce pigliato ca' botta) | Slengo (user-contributed slang dictionary) | community-dictionary | low | All rights reserved (site terms) (facts-only-citation) | <https://slengo.it/browse/region/campania> |
+| `src-threads-figlio-e-bukki` | Threads post by @puokemed on Neapolitans opening comments with 'Figlio 'e Bukkì' (17 Dec 2023) | Threads | popular-web | low | All rights reserved (facts-only-citation) | <https://www.threads.com/@puokemed/post/C0-fqPnorNh> |
+| `src-wikt-nap-bucchino` | Wiktionary: bucchino (Neapolitan) | Wiktionary (en) | encyclopedia | medium | CC BY-SA 4.0 (open-license-attribution) | <https://en.wiktionary.org/wiki/bucchino> |
 
 Access date of all sources: see `research/sources.json` (`access_date`).

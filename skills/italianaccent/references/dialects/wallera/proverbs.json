@@ -1171,6 +1171,67 @@
       "provenance": "unverified",
       "verification_status": "unverified",
       "notes": "Listed in profile.md section 11; not re-found in this pass."
+    },
+    {
+      "id": "chiagne-e-fotte",
+      "type": "ironic-saying",
+      "original": "Chiagne e fotte.",
+      "variants": [
+        "Chiagn e fott",
+        "Chiagni e fotti"
+      ],
+      "literal_it": "Piangi e fotti.",
+      "meaning_it": "Chi si lamenta in pubblico mentre in realtà gli va bene: vittimismo ipocrita.",
+      "meaning_en": "Whiner who is really doing fine; opportunistic victimhood.",
+      "usage_context": "sarcastic jab at hypocritical complaining, e.g. football fans moaning about referees",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Napoli / Campania (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo marks it as a proverbial Neapolitan expression, with a football-referee example. Humorous provocation, hostile or banter depending on the target. Single community source."
+    },
+    {
+      "id": "ne-pe-bevere-ne-pe-sciacquare",
+      "type": "idiom",
+      "original": "Nun si' bbuono né pe' bevere né pe' sciacquà.",
+      "literal_it": "Non sei buono né per bere né per sciacquare.",
+      "meaning_it": "Persona o cosa del tutto inutile (come l'acqua sporca).",
+      "meaning_en": "Utterly useless (like dirty water, no good to drink or to rinse).",
+      "usage_context": "humorous dismissal of a useless person or tool",
+      "register": "popular",
+      "vulgarity": 0,
+      "geographical_area": "Napoli (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: said in Naples of a useless person, from dirty water good neither for drinking nor for washing clothes. Single community source."
+    },
+    {
+      "id": "pesce-pigliato-ca-botta",
+      "type": "idiom",
+      "original": "Si' nu pesce pigliato ca' botta.",
+      "variants": [
+        "Pesce pigliato ca' botta"
+      ],
+      "literal_it": "Sei un pesce preso con la botta.",
+      "meaning_it": "Persona senza carattere, che si fa mettere i piedi in testa.",
+      "meaning_en": "Spineless person who lets everyone push them around.",
+      "usage_context": "friendly mockery of someone who always caves",
+      "register": "popular",
+      "vulgarity": 1,
+      "geographical_area": "Napoli (community-tagged)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: from the (illegal) practice of stunning fish with explosives, leaving them limp. Single community source."
     }
   ]
 }

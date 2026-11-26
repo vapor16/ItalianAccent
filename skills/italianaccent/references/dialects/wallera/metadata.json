@@ -39,6 +39,7 @@
     ]
   },
   "sources": [
+    "src-glosbe-nap-bocchino",
     "src-nap-andreoli-1887",
     "src-nap-dambra-1873",
     "src-nap-enwiki-language",
@@ -51,7 +52,11 @@
     "src-nap-volpe-1869",
     "src-nap-wikiquote-modididire",
     "src-nap-wikiquote-proverbi",
-    "src-nap-wiktionary"
+    "src-nap-wiktionary",
+    "src-slengo-bucchino-family",
+    "src-slengo-campania-slang",
+    "src-threads-figlio-e-bukki",
+    "src-wikt-nap-bucchino"
   ],
   "resources": {
     "profile": "profile.md",

@@ -1243,6 +1243,389 @@
       "provenance": "attested",
       "verification_status": "source-checked",
       "notes": "Documented for completeness; generation not allowed (slur against a protected group)."
+    },
+    {
+      "id": "va-a-fa-quatt-bucchin",
+      "original": "Va' a fa' quatt bucchin!",
+      "variants": [
+        "Va' a fa' 'e bucchin",
+        "Va' a fa' 'e bucchin, strunz!"
+      ],
+      "category": "dismissal",
+      "literal_meaning": "vai a fare quattro bocchini (pompini)",
+      "figurative_meaning": "mandare al diavolo, in modo volgarissimo",
+      "meaning_it": "vai a quel paese (formula volgarissima di congedo)",
+      "meaning_en": "get lost (very crude send-off)",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "dismissal",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "telling off a person who is wasting your time",
+        "explosive banter among very close friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Va' a fa' quatt bucchin, ca 'o commit l'aggio fatto io primma 'e te!",
+          "translation_en": "Get lost, I committed before you did!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Not an invitation: the figurative sense is a rude dismissal. Slengo also lists the Italianised 'andare a fare i bucchini' (calque, not dialect) and 'va' a fa' é bucchin, strunz!' (Slengo example after a traffic accident). Single community source; keep to one use per answer."
+    },
+    {
+      "id": "famme-nu-bucchin",
+      "original": "Famm' nu bucchin!",
+      "variants": [
+        "Famm nu bucchin",
+        "Mi devi solo fare un bucchino (Italianised, Slengo)"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "fammi un bocchino",
+      "figurative_meaning": "affermazione di superiorità: ora devi riconoscermelo",
+      "meaning_it": "guarda e inchinati: ho vinto/ho fatto meglio di te (vanteria provocatoria)",
+      "meaning_en": "bow down: I beat you (boastful provocation)",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "boasting",
+          "provocation",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "after winning a game against friends (e.g. a PES match)",
+        "gloating over a finished task in banter"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Aggio chiuso 'o ticket primma 'e tutte: famm' nu bucchin!",
+          "translation_en": "I closed the ticket before anyone: bow down!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family",
+        "src-glosbe-nap-bocchino",
+        "src-wikt-nap-bucchino"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Literal sense is a request for fellatio, but Slengo documents the figurative use as a claim of superiority ('you should bow your head'). Glosbe lists the form 'famm nu bucchin' (aggregator, not independent proof). A related stadium formula 'Ciata fa' solo nu bucchin'' appears on a fan flag and in a social caption, but its first word could not be decoded, so it is NOT generated."
+    },
+    {
+      "id": "ce-fatt-nu-bucchin",
+      "original": "Ce fatt 'nu bucchin!",
+      "category": "vulgar-idiom",
+      "figurative_meaning": "hai rotto, mi hai stancato",
+      "meaning_it": "mi hai rotto (le scatole), mi hai stancato",
+      "meaning_en": "you're wearing me out, you're a pain",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "frustration",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "telling a friend who keeps pestering you",
+        "venting at someone repeating the same request"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Oh, ce fatt 'nu bucchin, 'o ticket l'aggio già chiuso!",
+          "translation_en": "Come on, you're killing me, I already closed the ticket!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo glosses it as 'hai rotto il cazzo, hai stancato' (cfr. abbuffare 'a uallera). The literal reading is deliberately not asserted: only the figurative annoyance sense is documented. Single community entry."
+    },
+    {
+      "id": "figlio-e-bucchino",
+      "original": "Figlio 'e bucchino!",
+      "variants": [
+        "Figlie e bucchin",
+        "Si' nu figlio 'e bucchin",
+        "bucchinaro"
+      ],
+      "category": "vulgar-idiom",
+      "literal_meaning": "figlio di un pompino",
+      "figurative_meaning": "persona scaltra, che si destreggia in ogni situazione",
+      "meaning_it": "figlio di un bocchino: furbo, scaltro (ammirazione), anche intercalare",
+      "meaning_en": "sly devil, clever bastard (admiring); also filler address",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "admiration",
+          "teasing",
+          "surprise",
+          "sarcasm"
+        ]
+      },
+      "appropriate_contexts": [
+        "admiring a friend's cunning or lucky move",
+        "opening a voice message or reply among close friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Figlio 'e bucchino, hê truvato 'o bug int'a cinche minute!",
+          "translation_en": "You sly devil, you found the bug in five minutes!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family",
+        "src-threads-figlio-e-bukki"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Figurative: cunning / resourceful person (Slengo 'figlie e bucchin', 'bucchinaro' positive sense; a second sense of 'bucchinaro' as useless/stronzo also exists, so tone depends on voice and context). A Threads post observes Neapolitans using 'Figlio 'e Bukkì' as an opener. Literal 'child of fellatio' is not the meaning. Not documented for Bari."
+    },
+    {
+      "id": "bucchin-e-mammeta",
+      "original": "Bucchin' 'e mammeta!",
+      "variants": [
+        "Bucchin e mammt",
+        "Chella bucchin' 'e mammeta"
+      ],
+      "category": "insult",
+      "literal_meaning": "bocchino di tua madre",
+      "figurative_meaning": "offesa alla madre",
+      "meaning_it": "offesa alla madre dell'interlocutore (forma di insulto materno)",
+      "meaning_en": "insult aimed at the other person's mother",
+      "intensity": 5,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "hostile venting at an absent third party in a rant"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers",
+        "never at the user"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Statte zitto, bucchin' 'e mammeta!",
+          "translation_en": "Shut up, you and your mother!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-bucchino-family"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: offence to the interlocutor's mother ('bucchin e mammt', also 'kella bucchin e mammt' / 'e nonnt'). Same family as 'figlio 'e zoccola'. Single community source; hostile use only."
+    },
+    {
+      "id": "salutame-a-soreta",
+      "original": "Salutame 'a soreta!",
+      "category": "dismissal",
+      "literal_meaning": "salutami tua sorella",
+      "figurative_meaning": "mandare a quel paese con sarcasmo",
+      "meaning_it": "salutami tua sorella: congedo sarcastico e offensivo",
+      "meaning_en": "tell it to your sister: sarcastic brush-off",
+      "intensity": 4,
+      "register": "vulgar",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "sarcasm",
+          "dismissal",
+          "provocation"
+        ]
+      },
+      "appropriate_contexts": [
+        "rejecting an unreasonable request with a sneer",
+        "mock-offended banter with friends"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Vuò 'o deploy 'e sabato? Salutame 'a soreta!",
+          "translation_en": "You want a Saturday deploy? Tell it to your sister!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo: 'salutami tua sorella', a way to send someone packing. Palette already lists 'puortame a soreta' (level 4), same pattern. Single community source."
+    },
+    {
+      "id": "mocc-a-mammeta",
+      "original": "Mocc' a mammeta!",
+      "variants": [
+        "Mocc a mamm't",
+        "Mocc' a pat'ta",
+        "Mocc' a sor'ta"
+      ],
+      "category": "imprecation",
+      "literal_meaning": "in bocca a tua madre",
+      "figurative_meaning": "imprecazione di biasimo",
+      "meaning_it": "in bocca a tua madre: imprecazione che incolpa l'altro",
+      "meaning_en": "curse blaming the other for a mistake",
+      "intensity": 4,
+      "register": "very-vulgar",
+      "usage": {
+        "friendly": false,
+        "hostile": true,
+        "emotional": [
+          "anger",
+          "frustration"
+        ]
+      },
+      "appropriate_contexts": [
+        "blaming someone for a mistake in a rant",
+        "venting after a ruined task"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level",
+        "with elders or strangers"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "M'hê fatto sbagliá 'o merge, mocc' a mammeta!",
+          "translation_en": "You made me botch the merge, damn you!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Slengo gives the family: mocc a mamm't, pat't, frat't, sor't. The same pattern is documented in the Barese profile as 'Mòcch'a te!' (separate profile, different form). Single community source."
+    },
+    {
+      "id": "scassambrella",
+      "original": "scassambrella",
+      "variants": [
+        "scassa 'mbrella"
+      ],
+      "category": "insult",
+      "figurative_meaning": "persona che rompe con insistenza",
+      "meaning_it": "rompiscatole insistente",
+      "meaning_en": "pest who keeps nagging",
+      "intensity": 2,
+      "register": "colloquial",
+      "usage": {
+        "friendly": true,
+        "hostile": true,
+        "emotional": [
+          "irritation",
+          "teasing"
+        ]
+      },
+      "appropriate_contexts": [
+        "friend who keeps pestering",
+        "banter at the office"
+      ],
+      "inappropriate_contexts": [
+        "formal writing",
+        "vulgarity setting below the entry's level"
+      ],
+      "blasphemy": false,
+      "generation_allowed": true,
+      "examples": [
+        {
+          "text": "Si' nu scassambrella, m'hê già chiesto 'a stessa cosa tre vote!",
+          "translation_en": "You're a pest, you've asked me the same thing three times!",
+          "provenance": "ai-illustrative"
+        }
+      ],
+      "geographical_area": "Napoli / Campania (community-tagged; not confirmed for Bari)",
+      "sources": [
+        "src-slengo-campania-slang"
+      ],
+      "provenance": "unverified",
+      "verification_status": "unverified",
+      "notes": "Softer cousin of the documented 'scassacazzo'. Slengo: person who bothers insistently or on purpose. Single community source."
     }
   ]
 }

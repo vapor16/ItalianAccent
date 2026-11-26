@@ -967,6 +967,57 @@
       "publisher": "Wikimedia"
     },
     {
+      "id": "src-forzanapolishop-ciata-flag",
+      "title": "Forza Napoli Shop: product 'BANDIERA CIATA FA' SOLO NU BUCCHIN''",
+      "publisher": "Forza Napoli Shop (merchandise)",
+      "url": "https://forzanapolishop.it/collections/bandiere-2",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Naples (football fan merchandise)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Only the product title is readable (flag 'Ciata fa' solo nu bucchin'', EUR 9.99); no description. The first word 'ciata' could not be decoded, so the phrase is not integrated.",
+      "relevant_sections": "product title",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-glosbe-nap-bocchino",
+      "title": "Glosbe: bocchino in Neapolitan",
+      "publisher": "Glosbe (community dictionary)",
+      "url": "https://it.glosbe.com/it/nap/bocchino",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Neapolitan",
+      "source_type": "community-dictionary",
+      "license": "Mixed (aggregated; see site)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Lists Neapolitan 'bucchino' (en.wiktionary) and the phrase pair 'fammi un bocchino' / 'famm nu bucchin'. Aggregator of unclear independence from Slengo.",
+      "relevant_sections": "bocchino entry",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-ig-ragnar-gk-ciata",
+      "title": "Instagram post by ragnar.gk, caption 'Ciata eà sul nu BUCCHIN!' (23 May 2025)",
+      "publisher": "Instagram",
+      "url": "https://www.instagram.com/p/DKA4MKMClMb/",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Naples (football fan post)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Fetched page exposes only the caption (tagged #napoli #football) and mocking comments; no definition. Isolated social post, not proof; used only to show the 'Ciata ... sul/solo nu bucchin' formula circulates among Napoli fans.",
+      "relevant_sections": "caption",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
       "id": "src-li-catarsi-dizionario",
       "title": "Dizionario Livornese (A-Z of the Livorno vernacular)",
       "author": "Marco Catarsi",
@@ -2737,6 +2788,108 @@
         "mbare"
       ],
       "publisher": "Wiktionary contributors; kaikki.org (T. Ylonen)"
+    },
+    {
+      "id": "src-slengo-bucchino-family",
+      "title": "Slengo: bucchino and related entries (bucchino, bucchin e mammt, bucchinaro, figlie e bucchin, ce fatt 'nu bucchin, kella bucchin e mammt)",
+      "publisher": "Slengo (user-contributed slang dictionary)",
+      "url": "https://slengo.it/define/bucchino",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Campania (tagged Reg. Campania; one 'bkkin' entry tagged Puglia, not used)",
+      "source_type": "community-dictionary",
+      "license": "All rights reserved (site terms)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Anonymous user entries; region percentages are unexplained. Read directly: /define/bucchino, /define/bucchinaro, /define/figlie-e-bucchin, /define/bucchin-e-mammt, /define/kella-bucchin-e-mammt, /define/ce-fatt-%E2%80%98nu-bucchin. Gives literal sense (fellatio) plus figurative uses: crude dismissal ('va' a fa' quatt bucchin', 'andare a fare i bucchini'), boast/provocation ('famm nu bucchin'), annoyance ('ce fatt 'nu bucchin' = hai rotto), cunning-admiration ('figlie e bucchin', 'bucchinaro'), maternal insult. Facts and short forms only.",
+      "relevant_sections": "entries named in the title",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-slengo-campania-slang",
+      "title": "Slengo: Campania slang entries (Tie, jamm checazz, mamm ro carmn, salutame a' soreta, mocc a mamm't, scassambrella, chiagni e fotti, né pe' bevere né pe' sciacqua', pesce pigliato ca' botta)",
+      "publisher": "Slengo (user-contributed slang dictionary)",
+      "url": "https://slengo.it/browse/region/campania",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Campania / Naples (user-tagged)",
+      "source_type": "community-dictionary",
+      "license": "All rights reserved (site terms)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Anonymous user entries tagged Reg. Campania, read via the region index https://slengo.it/browse/region/campania and each /define/<slug> page. Single-contributor entries are treated as unverified; spelling is texting-style and was normalised only minimally to the profile convention.",
+      "relevant_sections": "/define/tiè, jamm-checazz, mamm-ro-carmn, salutame-a'-soreta, mocc-a-mamm't, scassambrella, chiagni-e-fotti, né-pe'-bevere-né-pe'-sciacqua', pesce-pigliato-ca'-botta",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-slengo-puglia-slang",
+      "title": "Slengo: Puglia slang entries (trimoneggiare, farsi un trimone, chi te muerto, chitemmuort, che film hai visto, mena, uagnù)",
+      "publisher": "Slengo (user-contributed slang dictionary)",
+      "url": "https://slengo.it/browse/region/puglia",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Puglia (user-tagged, not specifically Bari)",
+      "source_type": "community-dictionary",
+      "license": "All rights reserved (site terms)",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Anonymous user entries tagged Reg. Puglia, read via the region index https://slengo.it/browse/region/puglia and each /define/<slug> page. Region tag is 'Puglia', never 'Bari': used only where the form matches existing Barese items. Spelling is texting-style (vowel-less); normalisation to the profile's final-e convention is flagged per entry.",
+      "relevant_sections": "/define/trimoneggiare, farsi-un-trimone, chi-te-muerto, chitemmuort, che-film-hai-visto, mena, uagnù, and /define/bkkin (not used)",
+      "used_by": [
+        "trimone"
+      ]
+    },
+    {
+      "id": "src-threads-figlio-e-bukki",
+      "title": "Threads post by @puokemed on Neapolitans opening comments with 'Figlio 'e Bukkì' (17 Dec 2023)",
+      "publisher": "Threads",
+      "url": "https://www.threads.com/@puokemed/post/C0-fqPnorNh",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Naples (social observation)",
+      "source_type": "popular-web",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Social post (replies not readable): observes that many Neapolitans open comments, especially voice messages, with 'Figlio 'e Bukkì'. Used only as evidence of intercalare use; not proof of meaning.",
+      "relevant_sections": "post text",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-volgarmente-bucchino",
+      "title": "Volgarmente: bucchino",
+      "publisher": "Volgarmente (user dictionary of vulgar terms)",
+      "url": "https://www.volgarmente.com/termini/bucchino",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Napoli (tagged)",
+      "source_type": "community-dictionary",
+      "license": "All rights reserved",
+      "redistribution": "facts-only-citation",
+      "reliability": "low",
+      "reliability_notes": "Anonymous entry tagged Napoli: synonym of oral sex, sometimes also used as insult; no examples.",
+      "relevant_sections": "entry bucchino",
+      "used_by": [
+        "wallera"
+      ]
+    },
+    {
+      "id": "src-wikt-nap-bucchino",
+      "title": "Wiktionary: bucchino (Neapolitan)",
+      "publisher": "Wiktionary (en)",
+      "url": "https://en.wiktionary.org/wiki/bucchino",
+      "access_date": "2026-11-26",
+      "linguistic_area": "Neapolitan",
+      "source_type": "encyclopedia",
+      "license": "CC BY-SA 4.0",
+      "redistribution": "open-license-attribution",
+      "reliability": "medium",
+      "reliability_notes": "Neapolitan noun, plural bucchine, two senses: a mouthful (e.g. of smoke) and, vulgar, fellatio. Gives no region and no etymology.",
+      "relevant_sections": "Neapolitan section",
+      "used_by": [
+        "wallera"
+      ]
     }
   ]
 }
