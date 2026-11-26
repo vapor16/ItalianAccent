@@ -34,3 +34,11 @@ def test_core_reference_files_exist(v):
 
 def test_skill_has_no_runtime_scripts(v):
     assert not any(p.suffix in {".py", ".sh", ".js", ".ps1", ".exe"} for p in v.SKILL_DIR.rglob("*"))
+
+
+def test_frontmatter_has_no_xml_like_tags(v):
+    """Claude.ai skill upload rejects descriptions containing XML tags (e.g. `<mode>`)."""
+    fm = v.parse_frontmatter((v.SKILL_DIR / "SKILL.md").read_text(encoding="utf-8"))
+    for key in ("name", "description", "compatibility"):
+        value = fm.get(key) or ""
+        assert not re.search(r"<[^<>]*>", value), f"{key} contains an XML-like tag: {re.findall(r'<[^<>]*>', value)}"

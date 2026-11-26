@@ -110,6 +110,8 @@ def validate_skill(rep: Report) -> dict:
     desc = fm.get("description")
     if not isinstance(desc, str) or not (1 <= len(desc) <= 1024):
         rep.err("SKILL.md: description must be 1..1024 characters")
+    if isinstance(desc, str) and re.search(r"<[^<>]*>", desc):
+        rep.err("SKILL.md: description must not contain XML-like tags (rejected by Claude skill upload)")
     if len(text.splitlines()) > 500:
         rep.warn("SKILL.md longer than 500 lines; move detail into references/")
     # every referenced local file must exist

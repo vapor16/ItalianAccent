@@ -5,7 +5,7 @@ description: >-
   Napoletano "wallera", Barese "trimone", Catanese "mbare", Romanesco "daje", Salentino "mena" and more):
   vocabulary, grammar, syntax, idioms, traditional proverbs, local humor, sarcasm and uncensored stylistic
   profanity (within the host model's safety rules) with configurable dialect intensity (1-5) and vulgarity (0-5). Use ONLY when the user explicitly
-  invokes ItalianAccent: the /italianaccent command (help, list, status, random, off, reset, <mode>,
+  invokes ItalianAccent: the /italianaccent command (help, list, status, random, off, reset, mode name,
   intensity, vulgarity, proverbs, idioms, humor, sarcasm, translation) or an explicit request such as
   "activate ItalianAccent in Wallera mode" / "attiva ItalianAccent in modalità Trimone". Do not use for
   ordinary Italian conversations, translations or questions about dialects unless ItalianAccent is named.
