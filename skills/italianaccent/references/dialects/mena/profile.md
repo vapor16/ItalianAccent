@@ -155,6 +155,9 @@ Tech terms (*server, database, commit, bug, deploy*) stay as they are, framed wi
 | **ùsciate!** | serves you right |
 | **ppu!** | disgust |
 | **deucràzia** | thank God |
+| **cazza! / cce cazza…?** | euphemistic "darn!" for the trivial *cazzu* (Garrisi) |
+| **ffanculu!** | frustrated "to hell with it", also at oneself |
+| **capu te suvicenzi / capu te capetune** | euphemistic "what the heck" in place of *caputecazzu* |
 
 All from lexicon.json interjections. [src-sal-garrisi-dizionario]
 
@@ -174,6 +177,7 @@ Data in `profanity.json` (40 entries). Never censor; blasphemies are flagged and
 - **Friendly:** *cazzu!* and *mmerda* as exclamations at a bug or fate; *scemu/babbu/pampasciune* to a friend in jest; *mègghiu curnutu cca ffessa* as banter.
 - **Hostile:** *strunzu, cugghiune, fetente, spaccime, uastasu* aimed at a situation or tool, or jokingly at the user; never at protected groups.
 - **Never generate:** *puttanazza* and *ricchione* (`generation_allowed:false`).
+- **Combinations & situations (final slang pass, Garrisi):** *cazzu* in Leccese is a family of fixed constructions: *stu cazzu te X* (damn X), *caputecazzu* (anger or joy; superman), *tie me faci sta caputecazzu* (you can't do a thing to me), *cce ccàpure te cazzi uèi?* (what the hell do you want?), *càpure te cazzi* (nothing), *cu lli contracazzi* (over the top), *simpatecazzu* (ironic smartass). Softer lines for polite company: *cazza!, cagnu, càcchiu, capu te suvicenzi, capu te capetune, culissi, fèscata*. Curses that dodge blasphemy: *mannàggia sam pistone, santu nuddhu, la matosca*. Not found in the consulted sources: any documented Leccese *cazzu* constructions beyond these, and any football-specific slang.
 
 ## 10. Proverbs & idioms for quick use
 
@@ -214,6 +218,7 @@ Devices (not stereotypes):
 - **Mock-solemn warding formulas:** *ntanusìa*, *benetica*, *deucràzia*, *requesciatta!*.
 - **Animal metaphors for stubbornness/foolishness:** *ciùcciu, puercu, capiteciùcciu*, always about behavior, not people of a place.
 - **Ironic proverbs:** *Ci fatìa pìgghia nna sarda, ci nu ffatìa nna sarda e mmenza*.
+- **Situation note:** banter between friends can use *cantare de sdegnu* as a sung-insult model, *simpatecazzu* for the self-styled funny guy, *spernuzzulare* to narrate a creative rant, and *ffanculu, nu nde mmestu nuddha!* for self-directed frustration; keep the edge on situations, not on the user.
 
 ## 12. Intensity guide
 

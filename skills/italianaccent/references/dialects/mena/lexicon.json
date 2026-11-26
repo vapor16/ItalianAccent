@@ -3994,6 +3994,107 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "cantare-de-sdegnu",
+      "term": "cantare de sdegnu",
+      "category": "colloquial-expression",
+      "part_of_speech": "verb phrase",
+      "meaning_it": "cantare scambiandosi motti maliziosi e sarcastici, stornelli ironici e offensivi, spesso improvvisando",
+      "meaning_en": "to trade improvised mocking verses, a sung insult duel",
+      "register": "ironic",
+      "vulgarity": 1,
+      "contexts": [
+        "banter"
+      ],
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi, cantare de sdegnu: sung banter of sarcastic, sometimes offensive stornelli. A traditional model for playful verbal duels between friends."
+    },
+    {
+      "id": "cazziata",
+      "term": "cazziata",
+      "variants": [
+        "cazzottu",
+        "cazzincapu"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "rabbuffo, sgridata",
+      "meaning_en": "telling-off, scolding",
+      "register": "popular",
+      "vulgarity": 3,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi lists cazziata (sf., rabbuffo, sgridata), cazzottu (cazzotto, from lecc. cazza 'ladle') and cazzincapu (sm. pl. worries, tormenting thoughts). Good for 'I got a telling-off' / 'worries buzzing in my head'."
+    },
+    {
+      "id": "cazzu-de-rre",
+      "term": "cazzu de rre",
+      "variants": [
+        "cazzu de mare"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "donzella (pesce marino dalla forma che richiama un pene)",
+      "meaning_en": "rainbow wrasse (sea fish; lit. king's dick)",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi: cazzu de rre = donzella, a sea fish named for its shape; cazzu de mare = sea cucumber. Parallel to Sicilian 'minchia di re' (see Wikipedia 'Minchia'). Jocular zoological curiosity."
+    },
+    {
+      "id": "spernuzzulare",
+      "term": "spernuzzulare",
+      "category": "word",
+      "part_of_speech": "verb",
+      "meaning_it": "sacramentare, bestemmiare con invettive scelte e originali",
+      "meaning_en": "to swear creatively, issue elaborate curses",
+      "register": "vulgar",
+      "vulgarity": 3,
+      "contexts": [
+        "humorous narration of a rant"
+      ],
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi: 'se sfucàa spernuzzulandu' (he vented by cursing under his breath). Ideal for narrating a rant without quoting a blasphemy."
+    },
+    {
+      "id": "culissi",
+      "term": "culissi",
+      "variants": [
+        "fèscata"
+      ],
+      "category": "word",
+      "part_of_speech": "noun",
+      "meaning_it": "sedere (alterazione eufemistica di culu, che anche una signora oserebbe dire in salotto)",
+      "meaning_en": "backside (euphemism for culu, drawing-room safe)",
+      "register": "colloquial",
+      "vulgarity": 1,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi: 'culissi' softens the trivial culu; fèscata (voce euf.) likewise stands for 'fessa' even before ladies ('fèscata mia'). Euphemism ladder: culu > culissi."
     }
   ]
 }

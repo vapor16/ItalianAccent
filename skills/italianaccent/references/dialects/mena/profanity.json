@@ -1517,6 +1517,364 @@
    "provenance": "attested",
    "verification_status": "source-checked",
    "notes": "Homophobic slur, recorded by Garrisi (also with the older sense \"impotent\"). Documented only; NEVER generated."
+  },
+  {
+   "id": "tie-me-faci-sta-caputecazzu",
+   "original": "tie me faci sta caputecazzu",
+   "category": "dismissal",
+   "figurative_meaning": "caputecazzu as a measure of nothing: you do nothing to me",
+   "meaning_it": "tu non mi fai proprio niente (sfida, minimizzazione di una minaccia o di una vanteria)",
+   "meaning_en": "you can't do a damn thing to me (defiant dismissal of a threat or boast)",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "sfida",
+     "sarcasmo",
+     "sbruffoneria"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "sbruffonata scherzosa"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Tie me faci sta caputecazzu, cu stu bug!",
+     "translation_it": "Tu non mi fai niente, con questo bug!",
+     "translation_en": "You can't do a thing to me, you bug!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi, caputecazzu: 'tie me faci sta caputecazzu = tu non mi fai proprio niente'. Same entry: 'se crite ca ete nna caputecazzu' (thinks he is a superman)."
+  },
+  {
+   "id": "cce-ccapure-te-cazzi-uei",
+   "original": "cce ccàpure te cazzi uèi?",
+   "variants": [
+    "ma cce ccapu te capetune uliti?",
+    "mma cce ccagnu uèi?",
+    "mma cce càcchiu sta ffaciti?"
+   ],
+   "category": "exclamation",
+   "meaning_it": "ma che accidenti vuoi? (domanda esasperata)",
+   "meaning_en": "what the hell do you want? (exasperated question)",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "irritazione",
+     "esasperazione",
+     "sarcasmo"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Cce ccàpure te cazzi uèi?",
+     "translation_it": "Ma che accidenti vuoi?",
+     "translation_en": "What the hell do you want?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi, caputecazzu: 'cce ccàpure te cazzi uèi?'. Euphemistic versions in the dictionary: 'ma cce ccapu te capetune uliti?' and 'mma cce ccagnu uèi?'."
+  },
+  {
+   "id": "contracazzi",
+   "original": "cu lli contracazzi",
+   "variants": [
+    "li contracazzi"
+   ],
+   "category": "vulgar-idiom",
+   "figurative_meaning": "cazzu intensified with contra-: damage, over the top",
+   "meaning_it": "esageratamente, oltre misura; i contracazzi = le gravi conseguenze, i danni",
+   "meaning_en": "excessively, to the max; contracazzi = nasty consequences",
+   "intensity": 4,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "sarcasmo",
+     "esasperazione",
+     "ammirazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "commentare un guaio che ha avuto conseguenze"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Nu ttenìa curpa, ma li contracazzi fôra listessu soi",
+     "translation_it": "Non aveva colpa, ma le tristi conseguenze furono ugualmente sue",
+     "translation_en": "It was not his fault, but he paid all the damage",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi, contracazzi: a reinforcement of 'cazzu'. Example: 'nni le sunàu cu lli contracazzi' (he beat them excessively). 'Nu ttenìa curpa, ma li contracazzi fôra listessu soi' (not his fault, but the consequences were his)."
+  },
+  {
+   "id": "cazza-eufemismo",
+   "original": "cazza!",
+   "variants": [
+    "cce cazza m'à' cumbenatu?",
+    "cazza comu pùngenu!"
+   ],
+   "category": "exclamation",
+   "meaning_it": "accidenti!, acciderba! (eufemismo di cazzu): cazza te faòre!, cce cazza m'à' cumbenatu?",
+   "meaning_en": "darn!, heck! (euphemism for cazzu)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "stizza",
+     "sorpresa",
+     "frustrazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "anche davanti a signore o bambini"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "cce cazza m'à' cumbenatu?",
+     "translation_it": "che acciderba mi hai combinato?",
+     "translation_en": "what the heck have you done to me?",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: cazza2 interj., euphemism substituted for the trivial 'cazzu': 'ma famme nnu cazza te faòre!', 'cce cazza m'à' cumbenatu?', 'cazza comu pùngenu!'. Related euphemisms already in the profile: cagnu, càcchiu. Use when a softer register is needed."
+  },
+  {
+   "id": "capu-te-suvicenzi",
+   "original": "capu te suvicenzi",
+   "variants": [
+    "cce ccapu te suvicenzi te sta ppassa pe lla capu?"
+   ],
+   "category": "exclamation",
+   "meaning_it": "ma che accidenti ti passa per la testa? (euphemism at 'capu te cazzu'); a mmie me face nna capu te suvicenzi = non mi fa niente",
+   "meaning_en": "what the heck are you thinking? (euphemism for capu te cazzu)",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "esasperazione",
+     "sarcasmo",
+     "sfida"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi, suvicenzi (capu te -): 'intercalare di sdegno, usato al posto dello squaiato e triviale (ma usatissimo) capu te cazzu'. Examples 'cce ccapu te suvicenzi te sta ppassa pe lla capu?' and 'a mmie me face nna capu te suvicenzi'."
+  },
+  {
+   "id": "simpatecazzu",
+   "original": "simpatecazzu",
+   "category": "insult",
+   "meaning_it": "simpaticone (ironico): chi si crede simpatico o fa il simpatico a sproposito",
+   "meaning_en": "smartass, joker (ironic 'funny guy')",
+   "intensity": 3,
+   "register": "vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "sarcasmo",
+     "sfottò",
+     "irritazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "prendere in giro un amico che fa lo spiritoso"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi, simpatecazzu: agg. 'simpaticone, in senso ironico'. A cazzu-compound used for friendly mockery; at level 3 it stays banter among peers."
+  },
+  {
+   "id": "ffanculu",
+   "original": "ffanculu!",
+   "category": "dismissal",
+   "meaning_it": "alla malora!, vai al diavolo! (frequentissimo; anche rivolto a se stessi: ffanculu, nu nde mmestu nuddha!)",
+   "meaning_en": "screw it!, to hell with it! (very frequent, also at oneself)",
+   "intensity": 4,
+   "register": "very-vulgar",
+   "usage": {
+    "friendly": true,
+    "hostile": true,
+    "emotional": [
+     "frustrazione",
+     "rabbia",
+     "sfogo"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "sfogo davanti a un bug"
+   ],
+   "inappropriate_contexts": [
+    "contesti formali",
+    "email di lavoro",
+    "con sconosciuti"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Ffanculu, nu nde mmestu nuddha!",
+     "translation_it": "Alla malora, non ne indovino una!",
+     "translation_en": "Screw it, I can't get anything right!",
+     "provenance": "attested"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: 'ffanculu inter. triviale assai frequentemente usata. Vai al diavolo!...: ffanculu, nu nde mmestu nuδδa!' (to hell with it, I'm getting nothing right). The phrase doubles as self-directed frustration."
+  },
+  {
+   "id": "mannaggia-sam-pistone",
+   "original": "mannàggia sam pistone / santu nuddhu",
+   "variants": [
+    "mannàggia santu nuddhu",
+    "mannàggia la matosca",
+    "saièmmara"
+   ],
+   "category": "imprecation",
+   "meaning_it": "imprecazione di facciata che schiva la bestemmia: sam pistone, santu nuddhu e la matosca sono santi/figure inventati",
+   "meaning_en": "face-saving oath: sam pistone, santu nuddhu, la matosca are non-existent saints used instead of the real name",
+   "intensity": 2,
+   "register": "colloquial",
+   "usage": {
+    "friendly": true,
+    "hostile": false,
+    "emotional": [
+     "stizza",
+     "umorismo",
+     "frustrazione"
+    ]
+   },
+   "appropriate_contexts": [
+    "tra amici",
+    "sfogo personale",
+    "sfogo senza offendere nessuno"
+   ],
+   "inappropriate_contexts": [
+    "con persone molto devote se in dubbio"
+   ],
+   "blasphemy": false,
+   "generation_allowed": true,
+   "examples": [
+    {
+     "text": "Mannàggia sam pistone, nu bbae lu build!",
+     "translation_it": "Maledizione, il build non va!",
+     "translation_en": "Darn it, the build won't go!",
+     "provenance": "ai-illustrative"
+    }
+   ],
+   "geographical_area": "Lecce (Salentino centrale)",
+   "sources": [
+    "src-sal-garrisi-dizionario"
+   ],
+   "provenance": "attested",
+   "verification_status": "source-checked",
+   "notes": "Garrisi: 'sam pistone' is an inexistent saint used after 'mannàggia'; 'santu nuδδu/santu nienti' is 'mannaggia santo nessuno'; 'mannàggia la matosca' and 'saièmmara' also dodge blasphemy. Preferred over the real-saint forms flagged in this profile when a humorous, safe curse is wanted."
   }
  ]
 }

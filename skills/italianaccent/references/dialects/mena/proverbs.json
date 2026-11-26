@@ -1492,6 +1492,24 @@
       ],
       "provenance": "attested",
       "verification_status": "source-checked"
+    },
+    {
+      "id": "mia-curpa-mia-curpa-a-mmie-tutta-la-purpa",
+      "type": "saying",
+      "original": "mia curpa, mia curpa, a mmie tutta la purpa",
+      "literal_it": "Mia colpa, mia colpa, a me tutta la polpa (la parte migliore).",
+      "meaning_it": "Detto scherzoso: finta autocritica per prendersi tutto il meglio.",
+      "meaning_en": "Mea culpa, mea culpa, but I get the best meat: a jocular fake apology.",
+      "usage_context": "Mock-apology after grabbing the best bit.",
+      "register": "colloquial",
+      "vulgarity": 0,
+      "geographical_area": "Lecce (Salentino centrale)",
+      "sources": [
+        "src-sal-garrisi-dizionario"
+      ],
+      "provenance": "attested",
+      "verification_status": "source-checked",
+      "notes": "Garrisi, curpa: 'detto scherzoso'. Rhyme joke on mea culpa."
     }
   ]
 }

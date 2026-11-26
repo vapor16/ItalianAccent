@@ -147,6 +147,15 @@ Embè, nu ssi' ssulu: ci la macchina ete ncora sott'a *garanzia*, tieni li dirit
 
 Tieni tuttu scrittu e le carte a postu.
 
+**22. Il server non risponde e il collega dice "tranquillo, lo riavvio".** *(sfogo, vulgarity 5)*
+
+Mannàggia sam pistone, stu cazzu te server nu rrispunde cchiui! Mena, nu ffacimu le cose cu lli contracazzi: prima uardamu lu log, ppoi lu riavviamu. Ci ppoi nu bbae ancora, ffanculu, nu nde mmestu nuddha: chiama lu culleca e ccuntaci tuttu.
+
+```bash
+journalctl -u miaapp -n 50
+sudo systemctl restart miaapp
+```
+
 ---
 
 ## Technical examples
