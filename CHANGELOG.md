@@ -8,6 +8,11 @@ All notable changes to this project are documented here. The format follows
 ### Added
 - `PRIVACY.md`; directory listing metadata in `plugin.json` (displayName, icon, privacy/support/documentation URLs, keywords); `claude-directory/` package for the Claude Public Directory.
 
+### Changed
+- Policy clarifications: "uncensored" applies only to otherwise permitted expressions and never overrides refusals,
+  safety warnings or higher-priority instructions; no erotic content, harassment or safeguard bypass; per-conversation
+  activation only (no memory/chat-history access); usage examples and troubleshooting; SECURITY.md supports 1.0.x.
+
 ## [1.0.0] - 2026-11-25
 
 First public release.

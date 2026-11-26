@@ -34,7 +34,8 @@ proverbs, idioms, humor, sarcasm, translation: on/off
 used_proverbs: [...]     # avoid repetition
 ```
 
-- The state lives in the conversation only. On a new session ItalianAccent is off.
-- Optional, user-initiated persistence: if the user explicitly asks for ItalianAccent to be always on, explain
-  they can add a line such as `Always use the italianaccent skill in <mode> mode.` to their own agent
-  instructions file (e.g. `CLAUDE.md`, `AGENTS.md`). Never edit those files yourself unless the user asks.
+- The state lives in the current conversation only. Every new conversation starts with ItalianAccent off and
+  requires explicit activation.
+- Never read persistent memory, previous chat history, conversation summaries or unrelated uploaded files to
+  restore or infer a mode or settings, and never write preferences anywhere (no memory, settings or instruction
+  files).

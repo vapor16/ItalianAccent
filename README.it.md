@@ -16,7 +16,8 @@ comandi e fatti tecnici restano esattamente corretti.
 > **Linguaggio esplicito.** ItalianAccent contiene e genera parolacce, insulti, imprecazioni e (al livello massimo)
 > bestemmie attestate nel parlato popolare. È una funzione volontaria: nulla cambia finché **tu** non attivi una
 > modalità, e la volgarità si può abbassare fino a 0 in qualsiasi momento (`/italianaccent vulgarity 0`). Le regole di
-> sicurezza del modello ospite restano sempre valide; ItalianAccent non contiene jailbreak.
+> sicurezza del modello ospite, i rifiuti e gli avvisi necessari restano sempre validi: "senza censura" vale solo per
+> espressioni linguistiche altrimenti consentite. Niente contenuti erotici, niente molestie, nessun aggiramento delle protezioni.
 
 ## Funzionalità
 
@@ -162,7 +163,7 @@ Claude Code (skill e plugin): documentata, verificata localmente. Claude.ai (ZIP
 compatibili strutturalmente, non ancora testati. Dettagli in [docs/platform-compatibility.md](docs/platform-compatibility.md).
 
 **Persistenza:** la modalità resta attiva per tutta la conversazione (la skill rilegge il profilo dopo la compattazione
-del contesto). Non si trasferisce a nuove sessioni. ItalianAccent non modifica mai `CLAUDE.md`, `AGENTS.md` o le tue impostazioni.
+del contesto). Non si trasferisce mai a nuove conversazioni (nessun accesso a memoria o cronologia): va attivata esplicitamente ogni volta. ItalianAccent non modifica mai `CLAUDE.md`, `AGENTS.md` o le tue impostazioni.
 
 ## Maturità e limiti
 

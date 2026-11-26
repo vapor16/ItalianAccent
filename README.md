@@ -16,7 +16,9 @@ commands and technical facts stay exactly correct.
 > **Explicit language.** ItalianAccent contains and generates vulgar language, insults, imprecations and (at the
 > maximum level) blasphemies that are attested in popular speech. This is a deliberate, opt-in feature: nothing
 > changes until **you** activate a mode, and the vulgarity level can be lowered to 0 at any time
-> (`/italianaccent vulgarity 0`). The host model's safety rules always apply; ItalianAccent contains no jailbreaks.
+> (`/italianaccent vulgarity 0`). "Uncensored" applies only to otherwise permitted linguistic expressions: the host
+> model's safety rules, refusals and warnings always apply. No erotic content, no harassment, no attempt to bypass
+> safeguards.
 
 ## Features
 
@@ -170,6 +172,26 @@ Same prompt, different modes — see [examples/](examples/) and each profile's `
 <!-- EXAMPLES:START -->
 <!-- EXAMPLES:END -->
 
+## Examples and troubleshooting
+
+Three working examples (no account, sample data or external service is needed: everything works directly from
+the installed skill):
+
+1. `/italianaccent wallera` → `Spiegami Docker come se fossimo al bar.` — Neapolitan explanation of Docker, technically
+   correct, with local banter.
+2. `/italianaccent mena --vulgarity 0` → `Dammi un consiglio con un proverbio.` — Leccese advice with a traditional
+   proverb and no profanity.
+3. `/italianaccent daje --intensity 2` → `Ho passato cinque ore a cercare un punto e virgola.` — light Roman regional
+   Italian, sympathy and practical debugging tips; then `/italianaccent off` returns to normal.
+
+| Problem | Fix |
+|---|---|
+| `/italianaccent` is not recognised | Check the skill is installed (`npx skills list`); as a Claude Code plugin use `/italianaccent:italianaccent`; on platforms without slash commands say "Activate ItalianAccent in Wallera mode". |
+| Replies are in standard Italian | Re-run `/italianaccent <mode>`; raise `intensity 5`. Mode state lasts only for the current conversation. |
+| Too much / too little profanity | `/italianaccent vulgarity 0-5`. |
+| "Mode not found" / "planned" | Use `/italianaccent list`; only the eleven listed modes are available. |
+| Mode lost after a long chat | Re-activate; the skill re-reads its profile after context compaction but never restores settings from memory or past chats. |
+
 ## Tests and evaluations
 
 - Deterministic checks (`python scripts/validate.py && python -m pytest`): structure, schemas, catalog, sources,
@@ -193,7 +215,7 @@ Same prompt, different modes — see [examples/](examples/) and each profile's `
 Details and persistence notes: [docs/platform-compatibility.md](docs/platform-compatibility.md).
 
 **Persistence:** a mode stays active for the whole conversation (the skill re-reads its profile after context
-compaction). It does not carry over to new sessions; re-activate it. ItalianAccent never edits your `CLAUDE.md`,
+compaction). It never carries over to new conversations (no memory or chat-history access); activate it explicitly each time. ItalianAccent never edits your `CLAUDE.md`,
 `AGENTS.md` or settings.
 
 ## Linguistic methodology & profile maturity

@@ -7,7 +7,8 @@ no telemetry and needs no credentials. Development scripts (`scripts/validate.py
 
 | Version | Supported |
 |---|---|
-| 0.1.x | ✅ |
+| 1.0.x | ✅ |
+| < 1.0 | ❌ |
 
 ## Reporting
 
@@ -16,5 +17,6 @@ Please report vulnerabilities privately via
 include: prompt-injection content in profile files, instructions that try to bypass a host's safety systems,
 embedded secrets or personal data, malicious content in contributions.
 
-ItalianAccent must never contain jailbreaks or instructions to disable model safety. "Uncensored" refers only to
-the spelling and style of profanity the host model allows.
+ItalianAccent must never contain instructions to bypass or disable model safety. "Uncensored" refers only to the
+spelling and style of otherwise permitted profanity; it never overrides refusals, safety warnings or
+higher-priority instructions, and the skill never produces erotic content or harassment.
