@@ -194,3 +194,11 @@ installed skill: `tests/behavioral/results/v1.0.0-retest/` (belin, bischero, boi
 - Mena car warranty: step list kept in Leccese (only *garanzia*, *contratto* in Italian), new proverb
   (*bbatti lu fierru quannu è ccautu*), no repeated proverb, profanity contextual.
 - These are spot checks by the lead, not a re-scored full evaluation.
+
+## Final slang pass — practical tests (lead review, AI-assisted, not native-validated)
+
+Installed skill, Sonnet, `tests/behavioral/results/v1.0.0-slang/` (wallera, pota prompt 4; trimone, minchia, daje
+prompt 1). New material appears naturally and only where it fits (Daje *me dà ar cazzo*, Wallera *né pe' bevere né
+pe' sciacquà* and *me staje abbuffanno 'a uallera*, Minchia *futtitinni*, *u sceccu unni cari si susi*); dialect
+grammar is kept inside technical step lists; advice and tool names are correct; no identifier tic. The *bucchino*
+idioms were not forced into these prompts (expected: they are context-specific dismissals/boasts).
